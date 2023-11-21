@@ -1,0 +1,317 @@
+---
+title: Colombia
+---
+
+
+-   Date range:
+
+-   Elections included:
+
+-   Not included:
+
+## Álvaro Uribe
+
+Colombia has traditionally been conceived as an unfertile country for
+the emergence of populist forces (Dugas, 2003; Giraldo, 2018). Although
+Jorge Eliécer Gaitán and Gustavo Rojas Pinilla are considered examples
+of populism there is much debate on whether Álvaro Uribe Vélez, the most
+influential politician of the XXI Century in Colombia, can be classified
+as a populist or not. Uribe did not emphasize the opposition with the
+financial elites, was not particularly charismatic and rejected
+explicitly populism (Dugas, 2002: 1126). Uribe also defended orthodox
+and neoliberal policies because one of his main "three pillars",
+"investment trust" was to make Colombia a secure and attractive place
+for foreign investment (Uribe, 2002). Moreover, Uribe was particularly
+known for his hard stance on security issues. The first of his three
+pillars was the "democratic security" which involved hardline policies
+regarding left-wing guerrillas such as the FARC.
+
+However, none of these are sufficient reasons not to classify Uribe as a
+populist. Uribe had been a member of the Liberal Party but ran as an
+independent in the 2002 election under a platform called "Colombia
+First". He strongly criticized the political system at the time, saying
+in his 100 points manifesto (2002: point 4) that "I dream with a state
+that serves the people and not corruption and politicking"
+("politiquería"). This last term is a derogatory way to refer to
+politics and it is very present in Uribe's campaign, so much that one of
+his promises was to announce a "Referendum against Corruption and
+Politicking" as his very first action in government (Uribe, 2002: point
+9). In that same manifesto, he also criticized pluralism by stating that
+"pluralism had been transformed into dispersion and anarchy due to the
+salaries, the clientelism and the pension privileges" (Uribe, 2002:
+point 22). Furthermore, he made constant references to the fatherland
+and aimed to achieve national unity in the fight against the guerrillas.
+Uribe clearly delimitated an "us" vs "them" based on support to his
+security policies. He divided society between "the patriots that support
+the policy of Democratic Security and the Communists in disguise that
+wish to sell the fatherland to the FARC" (Fierro, 2012: 130). He
+conceded no legitimacy to the guerrillas and attacked those who did as
+traitors. The only legitimate policy was to defeat the armed groups in
+order to achieve a country "without guerrillas, without
+paramilitaries... without drugs" (Uribe 2002: points 26 and 31). Some of
+the policies involved "praising the profession of soldier and policemen"
+(Uribe 2002: point 28) as well as paying regular citizens that had
+undertaken anti-terrorist actions (Uribe 2002: point 39).
+
+His manifesto clearly states the protection of minority rights and
+immigration is not a relevant element in his platform. As a former
+governor of one of Colombia's regions and mayor to one of its most
+important cities, Uribe was included in previous political settlements
+but was a peripheral figure in them. Although he created the new party
+and undertook a very personalistic style, the decay of the previous
+political system was evident and anti-corruption was a common platform
+among several parties in the 2002 election (Duges, 2003: 1126). Uribe
+declared a state-of-siege shortly after becoming president which was
+condemned by human rights organizations (El País, 2002), has attacked
+the press (Fierro, 2014: 139) and has been repeatedly accused of
+collaboration with far-right paramilitary groups (El País, 2006).
+
+However, the state-of-siege measure is quite common in Colombian history
+and he accepted the Constitutional Court's decisions when they did not
+rule in his favor (Dugas, 2003: 1133). Therefore, I have classified him
+as 1 in Immigration and Ethnic Others and as 2 in Personality Dependent,
+Insider Populism and Violation of LD norms.
+
+It is certainly difficult to classify Uribe into one category but there
+are enough elements in a world comparison, to include him in the
+database at this stage of the project.
+
+Álvaro Uribe ended his presidency with one of the highest approval rates
+in Colombian history and his personality has profoundly marked politics
+after him. When he failed to pass a law that could allow him to run for
+a third time, Juan Manuel Santos was regarded as his successor. Santos
+had been Uribe's Defense Minister and, although he ran a campaign that
+was also tough on the FARC, his profile was that of a rich technocrat
+that ran on a platform of continuity with Uribe's politics. He argued
+that he was the opposite to populism and shortly after his victory he
+changed his discourse regarding the guerrillas. He initiated the "peace
+dialogues" with the FARC and that made Uribe distance from him. The most
+important expression of this conflict was the 2016 referendum on the
+Peace Agreement.
+
+Santos' main rival in 2014 and its successor in the presidency in 2018
+have both been successors of Uribe under the umbrella of the Democratic
+Centre, the party that Uribe founded in 2013 to confront Santos. The CD
+is a party regarded my many as right-wing although they explicitly
+situate themselves in the center. Uribe's ideas have remained fairly
+constant throughout the past 20 years and the CD shares his programmatic
+points view, merely adding two more to Uribe's three pillars (CD
+website). I have coded this party in the same manner as the rest of
+Uribe's government in all legislative elections.
+
+However, the inclusion of the two presidential candidates of the
+Uribismo as populist is less clear. They both owe their popularity to
+being related to Uribe, they did not try to distance themselves from him
+and their discourses are less anti-elitists, more plural and more
+moderate than that of the leader of the CD. These politicians agree with
+Uribe on the substantive elements of his discourse but employ to a much
+lesser degree his populist strategies. Francisco Panizza (in private
+conversation) argued against including them in any populism dataset and
+Jorge Giraldo uses the label populist just to refer to the figure of
+Álvaro Uribe (Giraldo, 2019). I, too, agree that neither Óscar Zuluaga
+nor Iván Duque should be included. However, in case the team decides to
+include them, I have tried to find similarities in their discourse that
+may justify their inclusion.
+
+In the 2014 presidential election, Óscar Iván Zuluaga's motto was "on
+the side of the Colombians". In a TV ad, Uribe reads a text in which
+defends Zuluaga's candidacy in order "to vote against the
+Castro-Chavismo that some wish to bring to Colombia and that the
+government allows" (Zuluaga, 2014a). The election was dominated by the
+topic of the "peace process" in which Zuluaga (2018b) claimed he would
+stop the dialogues if he were to become president of Colombia. Zuluaga
+had been Minister of Finance with Uribe and did not make any claim
+against immigrants or ethnic minorities.
+
+Iván Duque is difficult to classify as well. Constant references to the
+fatherland and Colombia and a clear opposition to the peace agreements
+situate him as a follower of Uribe´s politics. In his inaugural address
+he stated clearly his vision of popular unity when stating: "Let's not
+let anything distract us from the path of union. No more divisions of
+left and right: we are Colombia; no more false divisions between
+neoliberals and socialists: we are Colombia; no more divisions between
+tendencies: we are Colombia" (Duque, 2018). Moreover, Duque tried to
+establish a direct connection with the people by stating over and over
+in one of his political adds "I am like you, proud of my country and
+willing to do anything for it" (Duque, 2018b). Duque was an unknown
+politician in 2018 which only had 4 years of experience as a senator.
+Previous to that he worked at international organizations in technical
+positions. His success depends mainly from being Álvaro Uribe´s chosen
+candidate. On immigration, Duque proposed the creation of a
+"humanitarian fund" for migrants from Venezuela that have fled the
+country (Tomaselli, 2018). Although Duque is included in the database
+for its belonging to the CD, its ties with Uribe and some aspects of his
+discourse, it should be noted that he displays a more moderated and
+plural understanding of politics than other members of his party
+(Tomaselli, 2018).
+
+## M-19
+
+The party "Alternative Democracy M-19", came out of a peace process
+between the government of Colombia and several left-wing guerrillas such
+as M-19. As part of these peace accords, a new constitution was drafted
+in 1991 and the guerrillas were included in the political process. The
+main ideology of the party was Marxist (Boudon, 2001: 75) but the party
+aimed at reaching a larger section of the electorate by presenting
+themselves as "the new political alternative" and "more than a party"
+(Villamizar, 1995: 571). The central issue for the party, however, was
+not communism, but democracy (Boudon, 2001: 76). Carlos Pizarro, leader
+of the M-19 until his assassination, employed populist tropes when he
+argued that "what we need to do is create something that attracts the
+nonconformists within the traditional parties, the nonconformists within
+the private enterprise, the nonconformists within the guerrilla ranks,
+the nonconformists within society in general... and which it is capable
+of offering proposals to the nation" (quoted in Beccassino, 1989: 110).
+The M-19 also heavily criticized Liberal President Gaviria's neoliberal
+reforms and the hardline it took with the existing active guerrilla
+groups (Boudon, 2001: 81).
+
+Their platform was based on 8 points: "(1) peace and an end to violence,
+(2) rejection of corruption and clientelism, (3) constitutional
+development toward a "social state of law", (4) an economic policy based
+on production and an expanding socioeconomic base, (5) a specific
+employment program, (6) a pact to protect the environment, (7) priority
+for social programs, and (8) Latin American regional integration" (El
+Nuevo Siglo, 1993). Moreover, the party emphasized the need to end
+military impunity (Boudon, 2001: 89). They do not mention immigration or
+ethnic others as threats and the party did not take any action against
+the prevailing LD norms. Navarro Wolf, the presidential candidate, did
+briefly participate in Pastrana's government as Health Minister but this
+was seen more as a political concession in the context of the peace
+process. Navarro Wolf belonged to the inner circle of decision making.
+Therefore, I have coded FL for ideology, 3 for Political Class,
+Financial Elite, Military and Foreign Interests and 1 for every other
+category.
+
+## Gustavo Petro
+
+The 2018 elections saw the emergence of a left-wing populist candidate,
+Gustavo Petro. Petro was part of the M-19 guerrilla and later of the
+party of the same name. When the party disbanded, he became part of the
+left-wing party "Polo Democrático" achieving the ranks of MP, Senator
+and presidential candidate in 2010. Petro later founded his own party,
+"Movimiento Progesista" and became mayor of Bogotá. He then run for
+president of Colombia in 2018 under the platform "Humane Colombia"
+("Colombia Humana"). Since he never took part in any national government
+or belonged to any of the most popular parties, I have labelled 1 for
+Insider Populism. Gustavo Petro created the new party and the
+presidential coalition and ran on a populist platform based on his
+personal figure. None of these may have existed without the candidate
+himself although probably a left-wing variety of populism would have
+emerged in its place. Therefore, I have coded 2 for Personality
+Dependent.
+
+In a TV advertisement, Petro clearly outlined his populist discourse:
+"The first time that a presidential candidate that does not represent
+the "politiquería", not the power of the elites, nor the corrupts who
+have sacked the country and are now surrounding Duque, may win the
+elections" and "it is the first time that a government may be formed
+that really works for the people" (Petro, 2018a).
+
+Corruption is the main topic of his discourse and he relates all of
+Colombia's problems to it. For example, he states that "the problem with
+the healthcare system is not that we need more money, but corruption"
+(Petro, 2018b). He also dilutes its ideological position when he defends
+that "I was leftist and I do not regret it but my proposal is not
+socialist, that did not work, we propose the development of a democratic
+capitalism based on granting access to a rural middle class to
+productive lands" (Petro, 2018b). However, Petro is very critic with the
+huge inequalities of the country and aims to distribute wealth
+extensively. I believe the best way to code Petro is with Left for
+Ideology, 3 for Political Class and 2 for Financial Elite.
+
+Petro's opinion on the army was dominated by a comment he made in the
+campaign in which he said that "those youngsters that cannot study in
+university may end ... in the drug cartels or trying to find a job in
+the police or the army" (Petro, 2018c). Petro (2018d) rejected the
+notion that he hated the military and defended himself by saying that he
+gave shelter to the army while mayor of Bogotá. I have decided to follow
+Petro's own self-description and label him as 1 in military.
+
+I have found no significant action in violation of LD norms. In the
+campaign, Petro criticized that the Colombian foreign policy was
+subordinated to that of the US due to the money this country provides to
+Colombia to fight drug cartels (Petro, 2018e). He also argued for
+Colombia to occupy a more prominent and less subordinate role in
+international politics. During the crisis in Venezuela, Petro called for
+rallies against any military intervention in Venezuela by the US (Petro,
+2019). Although Petro is clearly critic of foreign power interests,
+these are not constructed as the main threat to the country. I have
+labelled 2 in Foreign Interests.
+
+**References**
+
+Beccassino, A. (1989) "M-19: El heavy metal latino americano", Bogotá:
+Fondo Editorial Santodomingo.
+
+Boudon, L. (2001) "Colombia's M-19 Democratic Alliance: A Case Study in
+New-Party Self-Destruction", Latin American Perspectives, Vol. 116, 28,
+pp. 73-92.
+
+Centro Democrático (website) 'Quiénes somos':
+https://www.centrodemocratico.com/?page_id=868
+
+Dugas, J. (2003) "The emergence of Neopopulism in Colombia? The case of
+Álvaro Uribe", Third World Quarterly 24(6):1117-1136.
+
+Duque (2018) . https://www.youtube.com/watch?v=bGlVeETH9M8
+
+Duque, I. (2018) Inaugural Speech, 7 August:
+https://muse-jhu-edu.gate3.library.lse.ac.uk/article/705728
+
+El Nuevo Siglo (1993) "Article on M-19", 8 March.
+
+El País (2002) "Uribe decreta el estado de excepción en Colombia para
+frenar a las FARC", 12 August:
+https://elpais.com/diario/2002/08/13/internacional/1029189602_850215.html
+
+El País (2006) "Todo por la autoridad", 26 May:
+https://elpais.com/diario/2006/05/28/internacional/1148767216_850215.html
+
+Fierro, M. (2014) "Álvaro uribe vélez populismo y neopopulismo",
+Análisis Político, Vol. 27(81), pp. 127-147.
+
+Giraldo, J. (2018) "Populistas a la colombiana", Debate.
+
+Giraldo, J. (2019) "El uribismo: un populismo peligroso" 18 March:
+https://www.razonpublica.com/index.php/politica-y-gobierno-temas-27/11843-el-uribismo-un-populismo-peligroso.html
+
+Petro, G. (2018a) "TV advertisement":
+https://www.youtube.com/watch?v=7vd2TzvHCJM
+
+Petro, G. (2018b) "Mi propuesta no es socialista, es al contrario, es el
+desarollo del capitalism" 29 May:
+http://www.wradio.com.co/noticias/actualidad/mi-propuesta-no-es-socialista-es-al-contrario-es-el-desarrollo-del-capitalismo-petro/20180529/nota/3755512.aspx#
+
+Petro, G. (2018c) "Jóvenes terminan de soldados", 19 April:
+https://www.pulzo.com/elecciones-2018/respuesta-policias-militares-gustavo-petro-PP472698
+
+Petro, G. (2018d) "Twitter", 21 April:
+https://twitter.com/petrogustavo/status/987822827272359938?lang=es
+
+Petro, G. (2018e) "Petro dice que la política internacional de Colombia
+es un apéndice de los EEUU" 1 May:
+https://www.eldiario.es/politica/Gustavo-Petro-internacional-Colombia-EEUU_0_766773753.html
+
+Petro, G. (2019) "Petro invita a marchar contra una \"intervención
+militarista\" de EE. UU. en Venezuela", 30 January:
+https://www.elespectador.com/noticias/politica/petro-invita-marchar-contra-una-intervencion-militarista-de-ee-uu-en-venezuela-articulo-836896
+
+Tomaselli, W. (2018) Ivan Duque is Colombia\'s Youngest President-Elect
+Ever. Now He Has to Fix the Divided Country, Time.com:
+http://web.a.ebscohost.com/ehost/detail/detail?vid=0&sid=53c67f1e-ec02-462b-a3fc-3931a72a4cf5%40sessionmgr4006&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#AN=130819446&db=bth
+
+Uribe, Á. (2002) "Manifiesto Democrático -- 100 puntos de Álvaro Uribe
+Vélez":
+https://www.mineducacion.gov.co/1621/articles-85269_archivo_pdf.pdf
+
+Villamizar, D. (1995) "Aquel 19 será", Santa Fe de Bogotá: Planeta
+Colombiana Editorial.
+
+Zuluaga, O (2014b) "Óscar Zuluaga anuncia suspención de los diálogos con
+las FARC si gana la Presidencia en Colombia" 26 May:
+https://www.youtube.com/watch?v=dGyMGIspHMA
+
+Zuluaga, O. (2014a) "Zuluaga es Centro Democrático", 10 March:
+https://www.youtube.com/watch?v=NsJirgvH6hg
+

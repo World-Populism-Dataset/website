@@ -1,0 +1,459 @@
+---
+title: Latvia
+---
+
+
+Latvia is generally considered a country where populist rhetoric
+(particularly in the form of anti-corruption politics) is everywhere,
+including in the main parties, making it a very difficult case. Several
+authors have suggested that the master cleavages of Latvian politics
+have been ethno-linguistic (Latvian speakers and Russian speakers) and,
+within the ethnic Latvian side of that cleavage, corruption
+(anti-corruption vs "oligargic" parties) (Auers, 2013:86). Most populist
+parties have been short-lived entrants within the anti-corruption side
+of the Latvian bloc, although the far-right National Alliance has
+recently emerged on Latvian ethno-centric lines.
+
+Latvia's politics has also been generally been very volatile, with a
+succession of new parties winning big in post-communist elections. There
+are quite a few difficult calls below, and some parties that arguably
+could be featured that are currently not.
+
+## People\'s Movement for Latvia (Seigerists' Party)
+
+People\'s Movement for Latvia (*Tautas Kustība Latvijai*, TKL) was
+founded in 1994 to contest in the 1995 election. As its semi-formal
+nickname **--** Seigerists' Party **--** suggests, it was the vehicle of
+its founder, controversial German-Latvian businessman and former LNNK MP
+Joaachim Siegerists, "a demagogic populist with a talent for
+self-advertisement" (Davies & Ozolins, 1996:126). Siegerists, born in
+Germany, only discovered his Latvian heritage in 1992, at which point he
+decided to become engaged in the Latvian political scene without even
+speaking the Latvian language fluently (Nissinen, 1999:137). Despite
+this, TKL exceeded expectations to win 15% in 1995, before crashing to
+1.73 in 1998.
+
+Like the contemporaneous DPS, the TKL captured the generally frustrated
+mood of the Latvian electorate with a discourse harshly critical of the
+political establishment (Pabriks & Štokenberga, 2006:59). Nissinen
+(1999:139) claims that his rhetoric accused any political rival of being
+a "communist", and tended not to discriminate among members of the
+political establishment (he suggested that 80% of Latvian politicians
+were "bandits"). The country's woes had not improved, he claimed,
+because the old communist elite (the "devil") were still in power
+(Nissinen, 1999:139) (OTH_POLCLASS = 3).
+
+While the party was certainly nationalist, the role of ethnocentrism in
+Siegerists party is difficult to pin down. He had a chequered history of
+association with far right organisations in Germany, where he was
+accused of race hatred offences (Davies & Ozolins, 1996:126). He was
+also on record making a number of anti-Gypsy statements, and Učeň
+(2007:52) categorises the party xenophobic (although without
+explanation). Nonetheless, Nissinen convincingly argues that there was
+not a lot of this in his 1995 platform, even if the media accused of
+being far-right (1999:139-40). I've labelled him 2 on OTH_ETHNIC. There
+is no evidence for anything registering on the OTH_IMMIGRANT variable.
+With a generally pro-market neoliberal platform (Nissinen, 1999:136), it
+did not antagonise the business/wealthy "other" (OTH_FINANCIAL = 1).
+Likewise, according to Nissinen Siegerists was harchly critical of
+Russia in his 1993 election, but shifted sharply to support greater ties
+with Russia by 1995 (OTH_FOREIGN = 1)
+
+The party has been called "non-ideological" (Balcere, 2013:95), but was
+clearly right-wing on both economic policy and nationalist rhetoric
+(Müller-Rommel and Nørgaard, 2001:31) (LRPOSITION = R). The party is
+generally seen to be a vehicle for Siegerists' personality -- to the
+extent that it is often called "Seigerists' Party" (Davies & Ozolins,
+1996:126; see also Pettai and Kreuzer, 1999:156; Nissinen, 1999:136)
+(CHARISMA = 3). Nissinen (1999:136) goes as far as calling it a
+"personality cult" due to the synonymy between leader and party. Aside
+from his flamboyant and controversial personality, his very conventional
+campaign methods (handing out bananas to would-be voters) received
+considerable press attention. Učeň (2007:52) categorises as
+"authoritarian" without explanation, and other than the fact that
+Seigerists had a generally domineering personality, I can't see any
+reason to label the party greater than 1 for LIBDEMNORMS. Niether
+Siegerists nor his party served in government (INSIDER = 1)
+
+## Democratic Party Saimnieks 
+
+Democratic Party Saimnieks ("Master", DPS) were a merger of the smaller
+"Saimnieks" local party from Riga and the Democratic Centre party, who
+united to contest the 1995 elections (Ikstens, 2003:5). It had ties to
+both business elites and liberal communists from the old regime
+(Nissinen, 1999:146). The party achieved a breakout 15% in those
+elections and went on to govern in a coalition before collapsing in the
+subsequent 1998 elections.
+
+The party is almost universally described as populist in the literature
+(see Učeň, 2007:59; Balcere, 2013:95). It campaigned in 1995 on a
+vaguely anti-corruption, and anti-establishment platform in its breakout
+1995 election (Auers, 2013:102), appealing to those who had lost out in
+the market transitions (Auers & Kasekamp, 2013:239) and victims of a
+recent major banking collapse (Pettai and Kreuzer, 1999:156). There is
+not a lot available detailing the nature of the party's actual populist
+rhetoric and allegations in 1995, and Nissinen (1999), whose text is
+most detailed, seems to think that the party's populism was
+significantly lighter than the likes of the Seigerists'. Hence I've
+coded it 2 for OTH_POLCLASS.
+
+The party has been variously called centre-right (Auers, 2013:88; Nakai,
+2014:68), centrist (Stanley, 2017:149; Balcere, 2013:95), and centre
+left (Nissinen, 1999:146; Gailbreath, 2006:387; Dreifelds, 1996:89). I
+have placed its LR_POSITION coding at C, but this could be contested.
+According to Auers & Kasekamp, (2013:239) corrupt businessmen were a
+target of the party's populism, although Nissinen (1999:147) claims that
+the party had significant links with the business class (particularly
+Russian businesses) (see also Nakai, 2014:68). I have left the
+OTH_FINANCIAL coding at 2. I've seen no evidence to register the party
+on the OTH_ETHNIC, OTH_FOREIGN or OTH_IMMIGRANTS variables.
+
+The party is not discussed in generally leader-centric terms (CHARISMA =
+1), or in any way that threatened the democratic order (LIBDEMNORMS =
+1). As the party was in a governing coalition from 1995, it is labelled
+2 on INSIDER in the subsequent 1998 election.
+
+## New Era 
+
+New Era (*Jaunais Laiks*, JL) was formed in 2001 by the former Central
+Bank Governor Einārs Repše to compete in the 2002 election. Its
+anti-corruption rhetoric proved highly successful, with the party
+winning those elections Einārs Repše becoming Prime Minister for a short
+period before falling out with coalition partners. The party continued
+surprisingly well in the next elections without him. It is often seen in
+similar terms as the contemporaneous Res Publica party in neighbouring
+Estonia.
+
+Repše, a popular public figure at the time, claimed to be shocked by the
+rates of corruption and mismanagement in the political system (Auers,
+2002:106; Auers, 2018:352), and accused the country's incumbent elites
+of betraying the national interests (Učeň, 2007:59; see also Stanley,
+2017:150; Balcere, 2016). As its name suggests, it sold the electorate
+an idea of "new politics" in which the slate would be wiped clean and a
+new generation brought in (Sikk, 2009:7) (OTH_POLCLASS = 3). According
+to Učeň (2007:59-60), the party maintained this anti-political
+establishment stance even after forming government.
+
+The party is usually considered centre-right (Učeň, 2007:59; Nakai,
+2014:66) and neo-liberal (Sikk, 2006:133), or occasionally centrist
+(Auers & Kasekamp, 2013:239). I've labelled it CR on LRPOSITION. In
+accordance with its opposition to corruption, the party styled itself as
+hostile to "oligarchs" (Auers, 2013:104; Nakai, 2014: 70) -- a term
+which in Latvia refers to wealthy politicians rather than just wealthy
+citizens (see Auers, 2013:103). Due to this precise meaning it could be
+argued that the party should be labelled 1 on OTH_FINANCIAL -- I have
+left it at 2 for now. The literature makes no reference to any stances
+against OTH_ETHNIC, OTH_IMMIGRANTS, OTH_FOREIGN or OTH_MILITARY.
+
+The party was generally considered to be based around Repše's
+personality (Pabriks & Štokenberga, 2006:58; Sikk, 2006:153), and was
+able to mobilise successfully without spending very much money (Sikk,
+2006:141). As such it has been called a "one-man party" (Sikk, 2004:5)
+(CHARISMA = 3). However, Repše resigned from its leadership in 2004, and
+I have therefore dropped this to 1 for 2006. The party did not appear to
+violate any LIBDEMNORMS. Given that New Era was founded by the former
+head of the central bank, it would be wrong to label it a 1 on INSIDER
+even though he was not formally in government, so I've placed the party
+at 2 for its initial election, and 3 afterward (after Respse was Prime
+Minister).
+
+## TB-LNNK/National Alliance 
+
+This entity is a complicated grouping of three separate parties. "For
+Fatherland and Freedom" (*Tēvzemei un Brīvībai*/TB) and the Latvian
+National Independence Movement (*Latvijas Nacionāls Neatkarības
+kustība/*LNNK) were separate nationalist parties in the early 1990s that
+merged in 1997. This party was right wing, and generally ethnocentric in
+favour of the ethnically Latvian majority, but from the available
+evidence does not seem to be a populist party (see Galbreath, 2006; and
+Braghiroli & Petsinis, 2019; Auers & Kasekamp, 2013:239). This could be
+reviewed however. In 2010, TB-LNNK allied with the far-right youth
+movement cum political party All for Latvia! (Visu Latvijai!/VL) to form
+a single list in the elections that year, and a formal party, the
+National Alliance (NA), in 2011. The VL group had long criticised
+TB-LNNK for selling out nationalist interests (Auers, 2010:3). According
+to Auers and Kasekamp, the All for Latvia! Grouping effectively took
+over the party after the merger. The National Alliance is usually
+considered Latvia's first and so far only true populist radical right
+party, and is often associated with the Estonian People's Conservative
+Party (EKRE).
+
+According to Auers (2018: 351), "The VL! Wing of the NA added anti-elite
+populism to the existing nativism and authoritarianism of TB-LNNK, with
+VL!s more youthful deputies regularly tweeting and using social media to
+complain about the older parties' lack of respect for parliament". The
+VL! had achieved this image via a unlimber of well-attended rallies in
+the 2006 election (when they nonetheless failed to pass the 5%
+threshold) that offered an "aggressive critique of the political elite"
+(Auers & Kasekamp, 2013:239). While this suggests a 3 on OTH_POLCLASS,
+Braghiroli & Petsinis, (2019) suggest that this rhetoric has been
+checked since entering government after the 2011 elections, and hence I
+have labelled it 3 for 2010 and 2011 and 2 since then. Further research
+should clarify this.
+
+While a general ethno-centric stance had been common among ethnic
+Latvian parties in the immediate post-communist period, the increasing
+acceptance of multiculturalism allowed the NA to claim that the national
+elite had abandoned the ethnic majority (Braghiroli & Petsinis, 2019:4).
+In the NA (and other parties) the most common target of this is the
+Russian-speaking minority (Jakobson, 2012:47). Among numerous
+controversial manifestations of this, it supported an annual march of
+Waffen SS veterans, the limitation of the Russian language in the
+private sphere (job advertisements for example) (Auers, 2010:5), and
+commenced its 2011 manifesto with the line that "Latvians must feel at
+home in their ethnic homeland" (Auers and Kasekamp, 2013:242; see also
+Bennich-Björkman & Johansson, 2012). There are also credible accusations
+of anti-Semitism in the party (Auers and Kasekamp, 2013:243) (OTH_ETHNIC
+= 3). NA is staunchly opposed to refugees (Braghiroli & Petsinis, 2019)
+(OTH_IMMIGRANT = 3), but this appears to only have become an issue after
+the 2015 migrant crisis in Europe (see Auers & Kasekam, 2013:241), when
+Latvia agreed to accept its quota. I have labelled the party 1 on this
+variable before the crisis. The party is hostile to the influence of
+both Russia and to a lesser extent the EU (Braghiroli & Petsinis,
+2019:6). The party espouses a well-articulated "intermarium" theory that
+attempts to maintain eastern European culture from threats emanating
+from both east and west (OTH_FOREIGN = 3). I've seen no evidence that
+the party is opposed to OTH_FINANCIAL (= 1).
+
+The party is unambiguously radical right (Auers & Kasekamp, 2013:239)
+(LRPOSITION = FR), and has violated a number of important democratic
+norms, particularly by parading in military uniforms and celebrating the
+memory of controversial pre-war dictator Karlis Ilmanis (Auers &
+Kasekamp, 2013:243) (LIBDEMNORMS = 3). While backed by a strong and
+somewhat independent party organisation (the old TB-LNNK), the NA is
+strongly identified with its young and charismatic leader Raivis
+Dzintars (Auers & Kasekamp, 2013:240) (CHARISMA = 2). Given that the
+TB-LNNK was in government in the 1990s, and the NA itself was in
+coalition government after the 2011 elections, I've labelled it 2 on
+INSIDER.
+
+## Zatlers Reform Party
+
+The (September) 2011 election occurred so soon after the (December) 2010
+because incumbent president Valdis Zatlers triggered a clause in the
+constitution to recall parliament. He did this because he alleged that a
+trio of oligarchs had taken control of the government: "At the moment we
+
+can observe not just theft from state resources but a gradual
+privatization of Latvian democracy" (cited in Auers, 2013:85). Zatlers
+went on to form his own party to participate in the election, the
+"Reform Party" (*Reformu partija*, RP), a.k.a "Zatler's Reform Party"
+(ZRP).
+
+As the name and context suggests, the central issue of the party was the
+endemic corruption of the political class (OTH_POLCLASS = 3). It is a
+somewhat difficult case because the party alleged that specific parties,
+not all politicians, were corrupt, so there could be an argument that it
+shouldn't feature in the dataset. However, available evidence suggests
+that the 2011 election called by Zatler "almost exclusively focused
+around corruption and the illicit influence of the oligarchs" (Auers,
+2013:105), and that the party did talk about corruption in "systemic"
+terms (Jakobson 2012:45). On this basis the party is often considered
+populist (Auers, 2018:352; Auers & Kasekamp, 2013:245; Jakobson
+2012:122). For its anti-oligarch stance, I've given it 3 on
+OTH_FINANCIAL. There is some evidence that the party opposed Russian
+influence in Latvia (Jakobson, 2012:49), but not to the extent to
+register on OTH_FOREIGN.
+
+The party appears to be centre right (LR_POSITION = CR) but this should
+be confirmed. The party was based on the personality of Zatler himself
+(Jakobson et al 2012:) (CHARISMA = 3), and seems not to have threatened
+democratic norms (LIBDEMNORMS = 1). Zatler was President of Latvia, but
+given that this position is not the head of government in Latvia, I've
+coded that party 2 on INSIDER.
+
+## For Latvia from the Heart 
+
+For Latvia from the Heart (*No sirds Latvijai/*NSL) was founded by
+former auditor general Ingunda Sudraba, famed for tackling the
+"oligarch's" whose influence in politics her party opposed. Not a lot is
+written about the party other than the fact that it is generally
+considered right wing (Braghiroli & Petsinis, 2019:16; Kneuer, 2019:37)
+(LRPOSITION = CR), that it campaigned on an anti-corruption message
+(Eihmanis, 2019:258; Cianetti, 2014:3), and that her campaign took a hit
+from a video of her having lunch with a Russian "oligarchs" in question.
+Nonetheless, NSL picked up 6.8% in the 2014 election, before cratering
+to less than 1% in 2018. For her anti-oligarch stance I've labelled her
+2 on OTH_FINANCIAL.
+
+Sudraba is considered by [NAME]{.mark} a "charismatic longtime critic of
+Latvia's bureaucratic apparatus and political leadership" (Bukovskis &
+Sprūds) (OTH_POLCLASS = 3). There appears to be nothing to the party
+other than its leader (CHARISMA = 3), and there is no evidence for
+anything registering on any other variable. I do not consider her
+position as auditor general as being an INSIDER (= 1).
+
+## Who owns the state? (KPV-LV) 
+
+Who owns the State? (*Kam Pieder Valsts?* KPV-LV is another
+anti-establishment party, founded by independent MP Artuss Kaimiņš, a
+former actor who became well known for filming parliamentary proceedings
+and posting them online to show problems in the political system
+(Balcere, 2016: Auers, 2018:352). The party's message is that the
+political establishment -- politicians and civil servants -- is corrupt
+and that existing parties waste taxpayers\' money (Kaža, 2018; Auers,
+2018:352) (OTH_POLCLASS = 3). Recent scandals in the political and
+banking sectors (Higgins 2018) helped the party surge to second place in
+the 2018 elections only two years after its foundation, performing
+particularly well among diasporic communities (Arroque, 2018). It formed
+coalition government after those elections.
+
+The party is moderately anti-EU (Higgins 2018) (OTH_FOREIGN = 2), but,
+from what I can tell, does not hold many traditionally far-right
+positions against OTH_ETHNIC and OTH_IMMIGRANTS. Available evidence
+suggests that it is conservative (LRPOSITION = CR) although it seems
+somewhat similar to the Five Star Movement in Italy in its deliberately
+non-ideological identity (Petsinis, 2019), focusing only on hostility to
+the political class. It is also heavily reliant on Kaimiņš\'
+confrontational personality (Arroque 2018; Kaza 2016; Bukovskis &
+Sprūds, 2019) (CHARISMA = 3). Given his threats to "personally fire"
+journalists who upset him (Higgins, 2018), KPV-LV constitutes a mild
+threat to liberal democratic norms (LIBDEMNORMS = 2). It has not been
+any kind of INSIDER.
+
+**References**
+
+David J. Galbreath, "From nationalism to nation-building: Latvian
+politics and minority policy," *Nationalities Papers*, Vol.34, No.4
+(2006) pp.383-406.
+
+Daunis Auers & Andres Kasekamp, "Explaining the Electoral Failure of
+Extreme-Right Parties in Estonia and Latvia," *Journal of Contemporary
+European Studies*, Vol.17, No.2, (2009), pp.241-254.
+
+Daunis Auers and Andres Kasekamp, "Comparing Radical-Right Populism in
+Estonia and
+
+Latvia\" in Ruth Wodak, Majid KhosraviNik and Brigitte Mral (eds.)
+*Right-Wing Populism in Europe: Politics and Discourse*. Ed. (London:
+Bloomsbury Academic, 2013) pp.235--248.
+
+Daunis Auers, "Europe and the 2010 Parliamentary Election in Latvia"
+European Parties Elections and Referendums Network (EPERN) Election
+Briefing No.60, 2010.
+
+Daunis Auers, "Populism and Political Party Institutionalisation in the
+Three Baltic States of Estonia, Latvia and Lithuania" *Fudan Journal of
+the Humanities and Social Sciences* Vol.11 (2018) pp.341--355.
+
+Peter Učeň, Parties, "Populism, and Anti-Establishment Politics in East
+Central Europe" *SAIS Review of International Affairs*, Vol.27, No.1
+(2007) pp.49-62.
+
+Marja Nissinen, *Latvia's Transition to a Market Economy: Political
+Determinants of Economic Reform Policy* (MacMillan, Basingstoke, UK:
+1999).
+
+Jānis Ikstens, "Party Organizations in Latvia", research paper, The
+National Council for Eurasian and East European Research (NCEEER),
+Washington, DC, June 2003.
+
+Ferdinand Müller-Rommel and Ole Nørgaard, "Latvia", in Jean Blondel and
+Ferdinand Müller-Rommel (eds.) *Cabinets in Eastern Europe* (Palgrave,
+Basingstoke, UK: 2001) pp.29-39
+
+Ryo Nakai, "The Influence of Party Competition on Minority Politics: A
+Comparison of Latvia and Estonia" *Journal on Ethnopolitics and Minority
+Issues in Europe,* Vol.13, No.1, (2014) pp.57-85.
+
+Ben Stanley, "Populism in Central and Eastern Europe" in *The Oxford
+Handbook of Populism* (Oxford, Oxford University Press: 2017)
+pp.140-158.
+
+Vello Pettai and Marcus Kreuzer, "Party Politics in the Baltic States:
+Social Bases and Institutional Context" in *East European Politics and
+Societies*, Vol.13, No.1 (1999) pp.148-189.
+
+Philip John Davies and Andrejs Valdis Ozolins. "The Latvian
+parliamentary election of 1995" *Electoral Studies* Vol.15 No.1 (1996):
+124-128.
+
+Artis Pabriks and Aiga Štokenberga, "Political Parties and the Party
+System in Latvia" in Susanne Jugerstam-Mulders (ed.) Post-*Communist EU
+Members States: Parties and Party* Systems (Ashgate, Aldershot, UK.:
+2006) pp.51-68.
+
+Juris Dreifelds, "Latvia", in Walter R. Iwaskiw (ed.), *Estonia, Latvia
+and Lithuania: Country Studies*, Federal Research Division, Library of
+Congress (Library of Congress, Washington DC.: 1996) pp.83-165.
+
+Allan Sikk, "Highways to Power: New Party Success in Three Young
+Democracies" Dissertation, Department of Political Science, University
+of Tartu, 2006.
+
+Allan Sikk, "Successful new parties in the Baltic states: similar or
+different?" Paper prepared for the conference, "The Baltic States: New
+Europe or Old?" University of Glasgow, 22-23 January 2004.
+
+Allen Sikk, "Parties and populism" Working paper 2009-02, Centre for
+European Politics, Security and Integration (CEPSI), University College
+London, 2009.
+
+Stefano Braghiroli and Vassilis Petsinis: Between party-systems and
+identity-politics: the populist and radical right in Estonia and Latvia,
+*European Politics and Society*, (2019)
+DOI:10.1080/23745118.2019.1569340
+
+Li Bennich-Björkman and Karl Magnus Johansson, "Explaining moderation in
+Nationalism: Divergent Trajectories of National Conservative Parties in
+Estonia and Latvia" *Comparative European Politics*, Vol.10, No.5,
+(2012) pp.585-607.
+
+Kārlis Bukovskis & Andris Sprūds, "Latvia" in *Nations in Transit 2015*,
+Freedom House, 2015, accessed 23/09/2019,
+<https://freedomhouse.org/report/nations-transit/2015/latvia>.
+
+Marianne Kneuer, "The tandem of populism and Euroscepticism: a
+comparative perspective in the light of the European crises,"
+*Contemporary Social Science* Vol.14, No.1 (2019) pp.26-42.
+
+Edgars Eihmanis, "Latvia--An Ever-Wider Gap: The Ethnic Divide in
+Latvian Party Politics" in Swen Hutter and Hanspeter Kriesi (eds.)
+*European Party Politics in Times of Crisis*, (Cambridge University
+Press, Cambridge: 2019) pp.236-258.
+
+Licia Cianetti, "The governing parties survived Latvia's election, but
+the issue of the country's Russian-speaking minority remains
+centre-stage" LSE EUROPP blog, 08/10/2014, blogs.lse.ac.uk
+/europpblog/2014/10/08/the-governing-parties-survived-latvias-election-but-the-issue-of-thecountrys-
+
+russian-speaking-minority-remains-centre-stage/
+
+Andrew Higgins, \"Populist Wave Hits Latvia, Lifting Pro-Russian Party
+in Election\" New York Times, October 7 2018
+<https://www.nytimes.com/2018/10/07/world/europe/latvia-election-russia.html>,
+accessed 23/09/2019.
+
+Stefano Arroque, \"Who owns the state? Latvian anti-establishment party
+aims for power" New Eastern Europe
+<http://neweasterneurope.eu/2018/11/13/owns-state-latvian-anti-establishment-party-aims-power/>,
+accessed 23/09/2019.
+
+Vassilis Petsinis "As long as it lasts: Latvia\'s new coalition
+government" OpenDemocracy, 26 January 2019,
+https://www.opendemocracy.net/en/can-europe-make-it/as-long-as-it-lasts-latvia-s-new-coalition-government/
+accessed 23/09/2019.
+
+Juris Kaža, "who is Who in Upcoming Latvian Parliamentary Elections"
+Re:Baltica (rebaltica.lv), August 14, 2018,
+<https://en.rebaltica.lv/2018/08/who-is-who-in-upcoming-latvian-parliamentary-elections/>
+accessed 23/09/2019.
+
+Juris Kaža, "Latvia\'s new taxpayer party - not insane after all?"
+Medium.com, May 5 2016,
+[https://medium.com/@juriskaza/latvias-new-taxpayer-party-not-insane-after-all-9903919d1feb
+accessed
+23/09/2019](https://medium.com/@juriskaza/latvias-new-taxpayer-party-not-insane-after-all-9903919d1feb%20accessed%2023/09/2019).
+
+Mari-Liis Jakobson, Ilze Balcere, Oudekki Loone, Anu Nurk, Tõnis Saarts,
+and Rasa Zakeviciute, "Populism in the Baltic States: A Research Report"
+Tallinn University Institute of Political Science and Governance and the
+Open Estonia Foundation, November 2012 .
+
+Ilze Balcere, "Latvia Pop: Three cases of post-Soviet Populism"
+<https://populismobserver.com/2016/06/27/latvia-pop-three-cases-of-post-soviet-populism/>
+June 27, 2016 Accessed 24/09/2019
+
+Ilze Balcere, "Perceptions of Populism: Analysis of Media Discourse in
+Latvia" *Baltic Journal of Political Science*, No.2 (2013) pp.85-97.
+

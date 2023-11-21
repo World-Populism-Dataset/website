@@ -1,0 +1,140 @@
+---
+title: Belgium
+---
+
+
+Date range: 1980-2020
+
+## Flemish Bloc/ Flemish Interest 
+
+The Flemish Blok (*Vlaams Blok*, VB) started in the late 1970s as a
+coalition of small parties who had splintered from the conserve People's
+Union. For almost a decade it made no sizeable impact on Belgian
+politics until its first breakout success in the 1991 elections. Around
+this time it established itself as a radical right wing party
+representing the Flemish community in Belgium. After being sued by the
+official anti-racism body in Belgium, it changed its name to the Flemish
+Interest (*Vlaams Belang*) while retaining its organisation and ideology
+(Jagers and Walgrave 2007, 320). After declining consistently since
+2007, it made a strong comeback in the 2019 election.
+
+According to de Lange and Akkerman (de Lange and Akkerman 2012, 31) the
+party's ideology is built on an opposition to three groups supposedly
+hostile to the interests of the Flemish people: immigrants, people from
+Wallonia (French speaking Belgians), and the political elites from
+across the country. In 1992 the party published a seventy-point
+programme which, among other things, demanded that immigrants be
+returned to their country of origin (Pauwels 2013, 89; de Lange and
+Akkerman 2012, 28). It has repeated other forms of nativist rhetoric,
+such as its slogan "own people first" (Coffé, Heyndels, and Vermeir
+2007, 143), and the repeated assertion that Muslim and Eastern European
+immigrants are involved in crimes at an "alarming" rate (Coffé 2005, 77)
+(OTH_IMMIGRANT, OTH_ETHNIC= 3). It has branded all other parties as,
+among other insults, a "political mafia", and alleged that it is
+supported by a cultural elite in high society (Pauwels 2013, 90; de
+Lange and Akkerman 2012, 32; De Cleen 2016, 76) (OTH_POLCLASS = 3).
+Aside from these points, the party also favours harsh law and order
+policies and socially conservative policies aimed at encouraging women
+to have more children and outlawing abortion (Billiet and Witte 1995,
+186). According to Pauwels (Pauwels 2013, 90) "economic issues are less
+important" to the party, and other than a general welfare Chauvanism,
+its position on economic policy is generally unclear. For this reason we
+have coded it FR on LRPOSITION and 1 on OTH_ECONOMIC. While the party is
+generally considered to be Eurosceptic, we have not seen evidence that
+this stance is important enough to register on the OTH_FOREIGN variable
+(= 1).
+
+Many scholars and commentators have alleged that the party is a threat
+to democracy in Belgium (Meijen, Raube, and Wouters 2023). Evidence for
+this lies in its wish to radically reform and centralise the Belgian
+state (abolishing provinces), develop a system of majoritarian referenda
+to decide policy, and its repeated attacks on media criticism (it calls
+such criticism a "witch hunt", and has a history of bringing legal
+action against critical journalists (de Lange and Akkerman 2012,
+33--35)). There is clearly a lot behind this assessment, but given that
+the party does not condone violence, nor question the ley of elections
+(as far as we've seen) we have coded it 1 on LIBDEMNORMS. According to
+some (de Lange and Akkerman 2012, 32; Pauwels 2013, 94) the party is not
+dominated by its leader. However the central position of Filip Dewinter
+in party for many years has led some to allege that is somewhat
+leader-centric. We have coded it 1 on CHARISMA, but this should be
+confirmed. As we have seen no evidence that the leaders of the party
+served in government, we have coded the party 1 on INSIDER.
+
+## Not included
+
+New Flemish Alliance (*Nieuw-Vlaamse Alliantie*, N-VA) is a more
+moderate Flemish nationalist party compared with the VB, and has
+arguably done well by attracting VB voters who think that the cordon
+sanitaire against the party makes voting for it superfluous (Pauwels and
+Haute 2017, 2). N-VA has been a challenge for populist scholars: while
+it has often used anti-establishment and ethno-nationalist rhetoric
+(Pauwels 2013, 86), it is not an anti-system party like VB, and each of
+the variables most associated with right wing populism (OTH_POLCLASS,
+OTH_IMMIGRANTS, and OTH_ETHNIC) are notably softer in the N-VAs rhetoric
+than a typical populist party by our definition. Leader Bart De Wever
+has sought to clearly distinguish the party from VB's nativism: "We
+strive for an inclusive citizenship that is acquirable for everyone,
+even for foreigners. That is inconceivable for the VB" (Maly 2016, 271).
+For these reasons, several populist scholars have studied the party but
+concluded that it should not be called populist (Pauwels 2013; Van
+Kessel 2015, 37). There are two other populist parties of note since
+1980 that have not past the 5% threshold. List Dedecker is a
+charisma-based neo-liberal populist party but only peaked at 4% in 2007.
+The Wallonian Front National, seen as a kind of French-speaking
+equivalent to the VB, has also performed poorly.
+
+**References**
+
+Billiet, Jaak, and Hans De Witte. 1995. 'Attitudinal Dispositions to
+Vote for a "New" Extreme Right-Wing Party: The Case of "Vlaams Blok"'.
+*European Journal of Political Research* 27 (2): 181--202.
+https://doi.org/10.1111/j.1475-6765.1995.tb00635.x.
+
+Coffé, Hilde. 2005. 'Do Individual Factors Explain the Different Success
+of the Two Belgian Extreme Right Parties'. *Acta Politica* 40 (1):
+74--93. https://doi.org/10.1057/palgrave.ap.5500078.
+
+Coffé, Hilde, Bruno Heyndels, and Jan Vermeir. 2007. 'Fertile Grounds
+for Extreme Right-Wing Parties: Explaining the Vlaams Blok's Electoral
+Success'. *Electoral Studies* 26 (1): 142--55.
+https://doi.org/10.1016/j.electstud.2006.01.005.
+
+De Cleen, Benjamin. 2016. 'The Party of the People versus the Cultural
+Elite: Populism and Nationalism in Flemish Radical Right Rhetoric about
+Artists'. *JOMEC Journal*, no. 9: 70--91.
+
+Jagers, Jan, and Stefaan Walgrave. 2007. 'Populism as Political
+Communication Style: An Empirical Study of Political Parties' Discourse
+in Belgium'. *European Journal of Political Research* 46 (April):
+319--45. https://doi.org/10.1111/j.1475-6765.2006.00690.x.
+
+Lange, S. L. de, and T. Akkerman. 2012. *Populist Parties in Belgium: A
+Case of Hegemonic Liberal Democracy?* CambridgeCambridge University
+Press.
+https://dare.uva.nl/search?identifier=844b98f2-c427-46ce-abe0-0c6dabe1649b.
+
+Maly, Ico. 2016. '"Scientific" Nationalism: N-VA and the Discursive
+Battle for the Flemish Nation'. *Nations and Nationalism* 22 (April):
+266--86. https://doi.org/10.1111/nana.12144.
+
+Meijen, Jens, Kolja Raube, and Jan Wouters. 2023. 'Protector of the
+People or Enemy of Democracy?: Vlaams Belang's Anti-Pluralist Discourse
+and Institutional Barriers in the Flemish Political System'. In
+*Populist Parties and Democratic Resilience: A Cross-National Analysis
+of Populist Parties' Impact on Democratic Pluralism in Europe*, edited
+by Ben Crum and Alvaro Oleart, 101--19. Abingdon: Routledge.
+
+Pauwels, Teun. 2013. 'Belgium: Decline of National Populism?' In
+*Exposing the Demagogues: Right-Wing and National Populist Parties in
+Europe*, edited by Karsten Grabow and Florian Hartleb, 81--104.
+Brussels: Konrad Adenauer Stiftung.
+
+Pauwels, Teun, and Emilie Haute. 2017. 'Caught between Mainstreaming and
+Radicalisation: Tensions inside the Populist Vlaams Belang in Belgium'.
+*EUROPP* (blog). 11 January 2017.
+https://blogs.lse.ac.uk/europpblog/2017/01/11/tensions-inside-vlaams-belang-belgium/.
+
+Van Kessel, Stijn. 2015. *Populist Parties in Europe: Agents of
+Discontent?* Springer.
+

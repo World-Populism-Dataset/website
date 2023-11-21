@@ -1,0 +1,452 @@
+---
+title: Bolivia
+---
+
+
+-   Date range:
+
+-   Elections included:
+
+-   Not included:
+
+Bolivia was ruled by a dictatorship since 1964 when, in 1978, General
+Padilla staged a coup d'état against the ruling military leaders and
+called for elections in July 1979. Since no candidate won more than 51%
+of the vote, Walter Guevara, the president of the Senate, was invested
+president. In November of that same year, General Natusch staged another
+coup d´état but a popular insurrection made it fail two weeks later.
+Lidia Gueiler, president of the Congress, was elected president and new
+elections were held in June 1980. Hernán Siles Zuazo was the most voted
+candidate but he could not be elected president because a third coup
+d'état, perpetrated by General García Meza, took place. The new military
+dictatorship continued until 1982, when massive strikes triggered its
+fall. The elections of 1980 were considered legitimate and Siles Zuazo
+was elected president in 1982.
+
+Until the victory of Evo Morales in 2006, three parties dominated
+Bolivian politics: the Revolutionary Nationalist Movement, Nationalist
+Democratic Action and Revolutionary Left Movement. Since the Bolivian
+system makes it difficult for any party to obtain a majority,
+governments have traditionally been decided through various agreements
+between these three parties. The lack of perception of a clear
+alternative within these political options aided in the development of
+populist parties in Bolivia in the 90's and 2000's. Barr (2017: 83), Van
+Cott (2007), Madrid (2012) and Mayorga (2003) agree upon identifying
+CONDEPA, UCS and MAS as the main populist parties in Bolivia since the
+reinstatement of democracy.
+
+## CONDEPA
+
+The history of CONDEPA is dependent on the evolution of its leader,
+Carlos Palenque. Palenque started his career as a musician of a group
+that introduced popular indigenous rhythms in their songs and later
+became a very successful TV host. One of his most famous programs
+consisted in hearing the complaints and everyday stories of mainly
+indigenous peoples, an activity he combined with social and
+philanthropic actions. He always claimed his was the "radio of the
+people" (Alenda Mary, 2002: 89) and gained fame as the "compadre" a term
+which refers to a father figure for those that needed it the most
+(Mayorga, 2003: 106). His involvement in politics started when the
+government decided to close all of Palenque's media outlets because of
+an interview in which the president was accused of being related to drug
+trafficking. A massive popular mobilization protested the closure of the
+radios and, in response, Palenque, who had very little previous
+experience in politics, created CONDEPA or Conscience of Fatherland (1
+in Insider Populism).
+
+CONDEPA was largely based on the messianic charisma of Palenque, who
+used to dress and talk in popular ways in order to differentiate himself
+from other politicians (3 in Charisma). Van Cott (2007: 85) identifies
+CONDEPA with the left and its rhetoric aimed at establishing an
+emotional connection with the electorate (Mayorga, 2003: 109). He ran a
+platform based on the protection of the marginal sectors of society by
+the state and the defense of national resources (Plano Medio, 2011).
+Madrid explains the political platform of the party in the following
+way:
+
+> CONDEPA, Perú Posible, and the PNP have employed populist appeals to
+> an even greater extent than ethnic appeals. They have run campaigns
+> centered on the personal characteristics of their leaders, rather than
+> on the parties or their programs. They have employed
+> anti-establishment messages, presenting their leaders as political
+> outsiders and as honest and grassroots alternatives to the corrupt
+> traditional politicians. And they have focused their appeals primarily
+> on the lower classes. They have forged alliances with numerous
+> working-class groups from peasant associations to unions, informal
+> sector organizations, and neighborhood groups. The leaders of these
+> parties have adopted a popular, at times folksy, style of campaigning,
+> and much of their discourse has centered on meeting the needs of
+> disadvantaged and neglected sectors of the population. Some of the
+> mestizo-led parties, such as CONDEPA and the PNP, have also made
+> nationalist and state interventionist appeals, denouncing neo-liberal
+> policies and U.S. intervention. (Madrid, 2012: 29)
+
+In fact, Palenque opposed the liberalizing measures that the government
+was implementing because he defended an "endogenous model" which would
+make Bolivia self-sufficient with its own resources (Plano Medio, 2011).
+I have, thus, coded CONDEPA as 3 in Political Class, Financial Class and
+Foreign Interest and Left-wing as its ideology.
+
+The indigenous element is fundamental to CONDEPA's platform. Himself a
+mestizo (Madrid, 2012: 48), Palenque appealed to the Aymara community
+and often invoked Aymara sayings and traditions (Alenda Mary, 2002). His
+support base was basically composed of indigenous people that lived
+around La Paz (Madrid, 2012: 29). Moreover, his party was the first in
+electing a "chola" (indigenous woman) to the Bolivian Parliament. Since
+I have not found any anti-immigrant rhetoric, I have coded 1 for Ethnic
+Others and Immigration.
+
+Following Panebianco, Mayorga (2003: 111) describes CONDEPA as a
+'charismatic party' whose functioning was based on loyalty to the leader
+and the subordination of formal rules to the personal and familial links
+to Palenque (Mayorga, 2003: 113). Since the figure of the leader is
+stressed in all the texts that addressed CONDEPA, I have coded 3 for
+Charisma.
+
+I have neither found claims against the military nor any violation of
+established LD norms. In fact, despite their rhetoric, Mayorga (2003:
+115) claims that "their emergence did not call into question the
+democratic regime because they soon participated in the logic of
+post-electoral deals that characterized the access to national and
+municipal governments". Thus, they reached agreements with some of the
+so-called "neoliberal parties" and did not threaten the usual way of
+forming governments in Bolivia (1 in Military and LD Norms).
+
+CONDEPA's biggest challenge was faced in 1997 when, just a couple of
+months before the elections, Carlos Palenque suddenly died. He was
+substituted by Remedios Loza, the first 'chola' to enter the Bolivian
+parliament. Loza had been with Palenque since his time in the radio and
+she was known as the "comadre", the female equivalent to the "compadre".
+Loza exhibited a clear continuist line with the politics and proposals
+of Palenque (Alenda Mary, 116). "The credibility of the succession oath
+that Remedios took in front of the compadre's tomb was interpreted as
+loyalty to her leader, a leader close to which she has 'experienced the
+problems of the people' as her loyal 'disciple'" (Alenda Mary, 2002:
+118-119). Thus, considering that Palenque led most of the campaign until
+the very end, that Remedios was also a charismatic character and that
+she displayed clear continuities with her predecessor, I have not
+changed the coding from the 1993 elections to the 1997 elections.
+
+## UCS
+
+Solidarity Civic Unity (or UCS) is usually compared to the case of
+CONDEPA because both were populist parties that enjoyed relative success
+in Bolivia in the 90's and that suffered the loss of their charismatic
+founders. Similarly, to Palenque, Max Fernández, founder of UCS, became
+famous in his field before he entered politics without previous
+experience (1 Insider Populism). Fernández was CEO of the largest beer
+company in Bolivia and he was known for his philanthropic donations to
+the poor.
+
+Barr (2017: 90) clearly identifies the party as populist due to its use
+of "antiestablishment rhetoric and plebiscitarian linkages" and appeals
+"to informal sector workers and marginalized groups, including
+indigenous populations". The party defended a greater solidarity among
+the population (one of its mottos was "The poor less poor and the rich
+more solidary" (Alenda Mary, 2002: 97)) and bashed traditional
+politicians (Mayorga, 2003: 109). However, the UCS lacked a programmatic
+proposal and an ideological profile (Mayorga, 2003: 115). Mayorga (2003)
+sums up the party's ideology with the term "asistencialismo".
+Asistencialismo implies that the leader solves problems through the
+donation of money to a specific marginal group without an ideological
+basis and without addressing structural problems. As a wealthy man,
+Fernández was able to perform many acts of philanthropy through which he
+formed his electoral basis (Mayorga, 2003: 99) which Alenda Mary (2002:
+86) has described as "pure clientelism".
+
+Moreover, he cultivated an image of a mestizo self-made man that came
+from below and was able to achieve success as a businessman (Mayorga,
+2003: 106-107). Barr (2017: 13) considers the UCS as "little more than a
+personalistic vehicle" and Alenda Mary (2002: 98) says that their
+"program is the leader". As opposed to the large social movement led by
+Palenque, Max Fernández's base was created thanks to personalistic ties
+with the leader's philanthropic actions (Mayorga, 2003).
+
+Fernández included Aymara candidates in his party (Barr, 2017: 90) and
+he also "spoke Quechua on the campaign trail and was often referred to
+as a "cholo" entrepreneur, although he generally eschewed identity
+politics." (Madrid, 2012: 47). This allowed him to win a "sizable number
+of indigenous votes" (Madrid, 2012: 47) (1 in Ethnic Others and
+Immigration).
+
+It is difficult to code UCS in the remaining categories. I believe the
+less problematic coding is to consider UCS as a Center party, that is
+populist in relation to anti-politician rhetoric (3 Political class) but
+whose criticisms of foreign powers and economic elite are not as stark
+as those of CONDEPA (2 in Foreign Interests and Financial elite). The
+party is extremely dependent on its leader (3 in Charisma) who comes
+from the business world without any previous political experience (1 in
+Insider Populism).
+
+I have not found any indication of a violation of LD norms. As Mayorga
+pointed out in relation to both UCS and CONDEPA: "their emergence did
+not call into question the democratic regime because they soon
+participated in the logic of post-electoral deals that characterized the
+access to national and municipal governments" (Mayorga, 2003: 115).
+
+In a similar fashion to CONDEPA, Max Fernández died suddenly in 1995 and
+the party had to adapt to the new situation. The leadership role landed
+in Jhonny Fernández, Max's son (Alenda Mary, 2002: 111). His legitimacy
+derived from him being the son of the party founder and from becoming
+mayor of Santa Cruz soon after his father's death (Alenda Mary, 2002:
+111-112). He continued with his father's policies and rhetoric and was a
+candidate in the 2002 presidential election. However, due to lack of
+age, he was not able to run in the 1997 election, and the party chose
+Ivo Kulijs, another businessman, to take his place. Barr (2017: 83)
+considers the three leaders of UCS as populist, however, Jhonny
+Fernández and Ivo Kulijs did not have the charisma of Max Fernández and
+they basically attracted voters exploiting the memory of the founder.
+Thus, I have coded 1 in Charisma for both Jhonny Fernández and Ivo
+Kulijs. During their leadership UCS formed part of Banzer's Right-wing
+government support coalition, which speaks to their ideological
+flexibility.
+
+## MAS
+
+Movement for Socialism was a dying fascist party when Evo Morales'
+political platform used it as a mere legal cover to run for elections in
+the 1999 municipal elections (Monasterios et al., 2007: 79). Morales
+completely changed the character and ideology of the party in order to
+transform it into an indigenous and populist party.
+
+Evo Morales, of Aymara origin, started working in agriculture at an
+early age and received little formal education. He later rose as a union
+leader of coca plantations in the region of Cochabamba (Madrid, 2012:
+63). During the 90's, several of the peasant unions, composed
+overwhelmingly of indigenous people, created indigenous parties to run
+for election. Although "in the mid-1990s he was still largely unknown
+outside of Cochabamba", Evo Morales ran for congress in 1997 as part of
+one of these parties winning "seventy percent of the vote, more than any
+other congressional candidate in the country" (Madrid, 2012: 63). Due to
+conflicts with the leaders of the party, Morales decided to abandon it
+and create his own. Since his party could not register on time for the
+1999 municipal elections, he allied with MAS as the official running
+party. Unexpectedly, Morales surged in the polls in the last weeks of
+the 2002 electoral campaign and came in second (Madrid, 2012: 49). He
+later won an absolute majority in 2005 and became president. I have
+coded him as 1 in Insider Populism in the 2002 and 2005 election and as
+3 in the following elections.
+
+What distinguishes MAS from other typical populist movements is the
+presence of "strong grassroots bases that help shape the parties'
+platforms and policies." (Madrid, 2012: 27). MAS started as an
+indigenous party and has always remained committed to that origin. As
+Madrid (2012: 53) puts it
+
+> The MAS has succeeded in part because it has appealed to Bolivia's
+> indigenous population as indigenous people. It has used a variety of
+> methods to woo indigenous voters. First, the MAS has established close
+> ties with a vast number of indigenous organizations in the country.
+> Second, the MAS has run numerous indigenous candidates, including for
+> high-profile positions. Third, the MAS has made a variety of symbolic
+> appeals to Bolivia's indigenous population. Fourth and finally, the
+> MAS has aggressively promoted traditional indigenous demands. (Madrid,
+> 2012: 53).
+
+Furthermore, MAS "called for the recognition of indigenous forms of
+medicine and justice and the establishment of programs of intercultural
+and bilingual education that would incorporate indigenous traditions and
+knowledge" (Madrid, 2012: 56) and was also committed to eliminate racial
+discrimination through new labor laws (Movimiento al Socialismo 2002,
+25). Lastly, the party's candidates defended not just pro-indigenous
+policies but also "often dressed in indigenous clothing, participated in
+indigenous rituals, invoked indigenous sayings, and made speeches in
+indigenous languages" (Madrid, 2012: 55). 1 in Ethnic others and
+Immigration.
+
+However, MAS is not simply an indigenous party, what characterizes
+Morales' political platform is the combination of ethnic and populist
+elements. Madrid argues that MAS
+
+> runs personalistic electoral campaigns that have revolved around the
+> charismatic personality of its presidential candidate \[...\], has
+> employed extensive anti-establishment rhetoric, aggressively
+> criticizing the traditional parties and politicians \[...\] \[and\]
+> has employed nationalist and state interventionist appeals. It has
+> staunchly opposed market-oriented policies and U.S. intervention in
+> their countries, and it has vowed to assert greater control over their
+> countries' natural resources. (Madrid, 2012: 27).
+
+Morales strongly criticized the elite, which he termed "neoliberal
+parties," "political mafia," "oligarchy," and "mank'a- gastos"---those
+who eat without working (Assies and Salman, 2005: 271). He clearly
+articulated the Manichean opposition between people and elite when he
+said that "We all know that there are two Bolivias. One Bolivia of
+'charlatans' who always make promises and sign agreements that they
+never fulfill; and the other Bolivia which is always tricked,
+subjugated, humiliated, and exploited" (Morales, cited in Postero, 2004:
+190). Morales has described inequality as one of the central reasons for
+the formation of the party, declaring that: "We have created our own
+political force because wealth and land are being concentrated in the
+hands of a few, and the majority of the people live in poverty"
+(Zimmerman, 2002: 8).
+
+As Barr argues "he directed his permanent provocation toward a 'second
+independence' and the 're-founding of the country.' Morales thus framed
+a reformist agenda in very bold terms. For instance, he promised to
+'bury neoliberalism,' promote the production of legal coca, nationalize
+hydrocarbons, and rewrite the constitution." (Barr, 2017: 106). Morales
+also often attacked foreign intervention. In 2002, MAS' governing
+program said:
+
+> The neoliberal parties such as the MNR, ADN, MIR, MBL, UCS, NFR,
+> CONDEPA and other small groupings of their corrupt circle, are
+> characterized by the submission and betrayal of the country, by the
+> handing over of the national patrimony almost without charge to the
+> voraciousness of international capital and its directors, who impose
+> conditions of poverty on the legitimate owners of natural resources.
+> (Movimiento al Socialismo, 2002: 9).
+
+Therefore, Morales' rhetoric represents an ideal-typical case of
+Left-wing populist rhetoric and I have coded his ideology as Far-Left,
+and 3 in Political class, Economic class and Foreign Interests.
+
+It is the combination of the populist and ethnic elements that made the
+party adopt an inclusivist strategy and rhetoric. "Beginning in 2002 the
+MAS recruited numerous white and mestizo candidates, formed alliances
+throughout the country with non-indigenous as well as indigenous
+organizations, and developed a more inclusive and populist discourse"
+(Madrid, 2012: 28). Central to these alliances was the appointment of
+Álvaro García Linera, a well-known leftist academic and a scholar in
+populism to become the vice-presidential candidate in 2005 (Harnecker et
+al., 2008: 102).
+
+Morales has concentrated the party power around his figure, particularly
+in regard to the party's extension to non-indigenous regions. Barr
+(2017: 103) explains that Morales's approach "was first to create
+urban-based arms of MAS, which were under his personal control. However,
+these new urban structures lacked the participatory mechanisms of the
+earlier rural ones". "Like other populist leaders, Evo has mostly
+declined to build institutional structures that might constrain him or
+develop leaders who might challenge him, preferring instead to
+concentrate power in his person." (Madrid, 2012: 63). However, Morales'
+personalism is not limited to the party's structure but the party in
+itself is dependent on his charisma. Some observers speak about 'Evismo'
+a phenomenon similar to the personality cults surrounding other populist
+leaders like Juan Perón (Benavente 2008, 61). Therefore, although other
+indigenous parties would have existed without Morales, a party that
+combined populist and ethnic claims in such as successful manner would
+have been impossible without the figure of its leader (3 in Charisma).
+
+The army did not constitute a target of Morales' anti-elite rhetoric and
+when he took office, he replaced the military leadership with his
+supporters as a means to assure himself control of the army (El País,
+2007).
+
+In relation to liberal-democratic norms, Mudde and Rovira-Kaltwasser
+(2013) point to the political, social and symbolic inclusion of excluded
+sectors of Bolivia that Morales has expressed during his campaigns and
+achieved during his presidency. However, they also note that
+
+> Although the political initiatives promoted by Chávez and Morales have
+> triggered more political participation, they have also undermined the
+> rules of public contestation\... \[Morales\] has relied on 'the
+> people' as the constituent power in order to undertake constitutional
+> reforms that do not necessarily protect the checks and balances that
+> are inherent to liberal democracy (Cameron and Sharpe, 2010). (Mudde
+> and Rovira-Kaltwasser, 2013: 162)
+
+Morales has concentrated great power in his person, and some have argued
+that "Evo is very much of a caudillo \[strongman\], very personalistic.
+He does not allow any dissidence. He turns his back on or expels any
+legislator who competes with him" (Madrid, 2012: 63). The supreme courts
+are chosen in a highly politicized manner and reports on attacks on the
+press are abundant (Freedom House, 2018).
+
+Morales has eschewed Bolivian political institutions towards his
+policies and aims. Morales called for a constitutional assembly shortly
+after winning his first elections. He obtained a majority of seats in
+the new assembly and rewrote the Constitution. This was a highly
+contentious issue and the political environment became polarized. "In an
+effort to break the growing political impasse, in 2008 the government
+called for a referendum on whether to recall President Morales and the
+departmental governors (prefects). Once again, the MAS triumphed"
+(Madrid, 2012: 51). Thus, although he has made significant changes to
+prior democratic rules in the country, he has done so with wide popular
+support.
+
+In 2016, however, Morales lost a referendum on whether he could be
+reelected for a fourth term even though it being prohibited by the
+Constitution. Despite the referendums' result and the Constitutional
+text, MAS pressured the judges into declaring that article
+unconstitutional and have allowed Morales to run for reelection (BBC,
+2017). This represents the clearest violation of LD norms committed by
+Morales' administration.
+
+Given Morales' initial inclusivist discourse in support of marginalized
+groups in Bolivia, I have coded him as 1 in violation of LD norms in the
+2002 and 2005 elections. However, once in office, his actions against
+democratic check and balances, attacks on the press and violation of the
+Constitution point to a coding closer to a 3.
+
+**References**
+
+Alenda Mary, S. (2002) "CONDEPA y UCS, in del populismo?", *Opiniones y
+Análisis*, Vol. 57, pp. 47--83.
+
+Assies, W. and Salman, T (2005) "Ethnicity and Politics in Bolivia."
+*Ethnopolitics* 4(3), pp. 269--297.
+
+BBC (2017) "El Tribunal Constitucional de Bolivia autoriza a Evo Morales
+a buscar la reelección como presidente sin límites" \[Online\]
+<https://www.bbc.com/mundo/noticias-america-latina-42159445> \[Accessed
+12 September 2019\].
+
+Benavente, C. (2008) "Evo Morales, hijo del pueblo y primer presidente
+indígena." In Rincón, O. (ed.) *Los Tele-presidentes: cerca del pueblo,
+lejos de la democracia,* Bogotá: Friedrich Ebert Stiftung, pp. 55--66.
+
+Barr, R. (2017) *The resurgence of populism in Latin America*, Colorado:
+Lynne Rienner Publishers.
+
+Cameron, M.A. and Sharpe, K.E. (2010) "Andean Left Turns: Constituent
+Power and
+
+Constitution Making", in M.A. Cameron and E. Hershberg (eds.), *Latin
+America's Left Turns: Politics, Policies and Trajectories of Change*.
+Boulder, CO: Lynne Rienner, pp. 61--78.
+
+Mudde C. and Rovira-Kaltwasser, C. (2013) "Exclusionary vs. Inclusionary
+Populism: Comparing Contemporary Europe and Latin America" Government
+and Politics, Vol. 48 (2), pp. 147-174.
+
+El País (2007) "Evo Morales mima al Ejército", 3 December, \[Online\]
+<https://elpais.com/diario/2007/12/03/internacional/1196636405_850215.html>
+\[Accessed 12 September 2019\].
+
+Freedom House (2018) "Freedom in the World 2018 Report: Bolivia",
+\[Online\] <https://freedomhouse.org/report/freedom-world/2018/bolivia>
+\[Accessed 12 September 2019\].
+
+Harnecker, M., Fuentes, F. and Ramírez, S. (20089 *MAS-IPSP: Instrumento
+político que surge de los movimientos sociales.* Caracas: Centro
+Internacional Miranda.
+
+Madrid, R. L. (2012) *The rise of ethnic politics in Latin America*,
+Cambridge: Cambridge University Press.
+
+Mayorga, F. (2003) "Neopopulismo y democracia en Bolivia", *Revista de
+Ciencia Política* Vol. 23(1), pp. 99- 118.
+
+Monasterios, K., Stefanoni, P. and do Alto, H (2007) *Reinventando la
+nación en Bolivia: movimientos sociales, Estado y poscolonialidad*. La
+Paz, Bolivia: CLACSO.
+
+Movimiento al Socialismo (2002) "Programa de gobierno: Territorio,
+soberanía, vida", La Paz: Movimiento al Socialismo.
+
+Plano Medio (2011) "Compadre Carlos Palenque, historia" \[Online\]
+<https://www.youtube.com/watch?v=Ez9kE7Hj2Zs> \[Accessed 6 September
+2019\].
+
+Postero, N. (2004) "Articulation and Fragmentation: Indigenous Politics
+in Bolivia." In Postero, N. and Zamosc, L. (eds.) *The Struggle for
+Indigenous Rights in Latin America*, Portland: Sussex Academic Press,
+pp. 189--216.
+
+Van Cott, D. L. (2007) *From Movements to Parties in Latin America: The
+Evolution of Ethnic Politics*, Cambridge: Cambridge University Press.
+
+Zimmerman, Y. (2002) "Taking It from the Streets." in *These Times*,
+September 16, p. 8.
+

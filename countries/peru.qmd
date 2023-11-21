@@ -1,0 +1,366 @@
+---
+title: Peru
+---
+
+
+## APRA
+
+The APRA has been Peru's main leftist part party for most of the 20th
+Century. It was founded and headed by Víctor Raúl Haya de la Torre, who
+was considered as the prototype of populist leader in Perú (Stein, 1999:
+101) and who presided the constitutional assembly of Perú after the
+military government of General Velasco Alvarado. The first democratic
+elections were held in 1980 and Armando Villanueva was the candidate for
+APRA. In his campaign spots there are references to the mobilization of
+the people such as "Armando will come, the people will triumph"
+(Villanueva, 1980a) or "we will take care of the poor people above all"
+(Villanueva, 1980b). Nevertheless, there is no explicit criticism of the
+elites and his campaign should be understood as aligned with that of a
+leftist ideology. I have not found any references in the literature that
+treat him a populist and in 1985, he supported Javier Valle in the
+primaries against Alan García when the former accused the later of
+risking the "leftist position" of the party with his "Caesarist style"
+(Ortiz de Zárate, 2016). This episode points to the fact that Villanueva
+was more a traditional left-wing politician than a populist and thus, I
+have not included him in the dataset.
+
+## Alan García
+
+Alan García won the presidency in 1985 as the candidate of APRA. García
+had never held office positions before (1 in Insider Populism). He
+employed several populist methods such as the "balconazos" (spontaneous
+public appearances in the balcony government to make announcements and
+speak with the people (Stein, 1999: 111)). He also appeared unannounced
+at different places in the country to discuss and talk with the
+citizens. García defended his platform as nationalist and claimed that
+his aim was to "give the people back their government" (García, 1984) so
+that it would "not be the loot of a few who share the membership of the
+party of the government" (García, 1985). García based his campaign in
+criticizing the neoliberal economic model of President Belahúnde, on
+critiquing corruption in the public administration and in fighting the
+violence of the guerrilla group "Sendero Luminoso" (Ortiz de Zárate,
+2016). Moreover, he aimed at creating a broad class interest, including
+the "business class" in the efforts to make the economy grow (Crabtree,
+1996: 576; Ortiz de Zárate, 2016). I have coded 3 for Political Class
+but 2 for Financial Class.
+
+Alan García developed a "personality cult" (Crabtree, 1996: 576) around
+his figure. The APRA was established as a party long before García, but
+his personality greatly shaped it in 1985 (2 for Personality Dependent)
+and explains in part its success (El País, 1986).
+
+The leader of APRA defended economic nationalism against international
+banking and the institutions directed by Washington (Crabtree, 1996:
+575) and said that "IMF's hateful and damaging mediation only benefits
+those who wish to see more inequality" (Ortiz de Zárate, 2016). In the
+presidency, he later declared a restructuring of the debt and
+nationalized several industries. Therefore, I have coded 3 for Foreign
+Interests.
+
+Alan García was investigated by corruption during his government as well
+as promoting, or at least, allowing for repressive counter-terrorist
+measures to take place by the paramilitary group "Comando Rodrigo
+Franco" (Ortiz de Zárate, 2016). I labelled 3 for Violation of LD norms.
+
+On the relationship with the army, Alan García declared a state of
+emergency in several areas in order to fight "Sendero Luminoso", which
+gave the army considerable power for long periods of time (El País,
+1986). I found no reference in which he considers the military to be
+part of the elite.
+
+García's government ended in very poor economic conditions, with
+inflation reaching very high levels and the conflict with "Sendero
+Luminoso" raging. His popularity plummeted and Luis Alva Castro was
+chosen as the candidate to run in the 1990 election for APRA. After the
+1990 election, Alan García was persecuted by Fujimori and had to flee
+the country. He later moderated his discourse and neither in the 2001
+nor in 2006 (when he won for the second time) should he be considered a
+populist. Luis Alva Castro, the APRA's candidate in 1990 did not had the
+populist discourse that Alan García had employed in his 1985 election
+(Crabtree, 1992: 164). As second Vice-president and Ministry of Economy,
+Alva Castro was seen as part of the establishment and could not
+shake-off the blame for the terrible economic situation of the country
+(Crabtree, 1992: 160). I have not included him in the dataset.
+
+## Alberto Fujimori
+
+Alberto Fujimori was a mathematics professor and university rector from
+Japanese descent who had never held elected office or had been part of a
+political party before 1990 (Levitsky and Loxton, 2012: 164). He was
+completely unknown to the public and neither him nor his newly created
+party, "Cambio 90", were polling strongly until shortly before the
+election (1 in Insider Populism). He was able to beat his opponent, the
+writer Mario Vargas Llosa, due to its condition as an outsider and
+anti-politician figure (Stein, 1999: 115). The country suffered at the
+time a very severe economic crisis for which traditional parties were
+blamed (Levitsky and Loxton, 2012: 165). Moreover, the conflict with
+"Sendero Luminoso" was also at its peak and confidence in politicians
+was extremely low (Levitsky and Loxton, 2012: 165). Although the party
+would have not existed without Fujimori, his success is explained more
+by the economic and social circumstances of the moment than by
+Fujimori's popularity. I believe this deserves a 2 in Personality
+Dependent.
+
+Fujimori ran a campaign based on the criticism of the establishment and
+looked for a direct connection with the people. He adopted the slogan "A
+President like you" (Levitsky and Loxton, 2012: 167) and defined the
+election as a "confrontation between the white elite ... and the
+non-white common people" (de la Torre, 2000: 124). He mobilized sectors
+of the population that were at the margins of politics, particularly
+evangelicals and the informal sector (Levitsky and Loxton, 2012: 166).
+On economic issues, Fujimori vehemently opposed the neoliberal shock
+doctrines that he attributed to Vargas Llosa. In the presidential
+debate, Fujimori told Vargas Llosa that state's intervention had created
+"a complex system of incentives which are not in favor of the poorest
+but that respond to the power groups that, unfortunately Dr Vargas, lie
+behind you" (Fujimori, 1990). Fujimori should be labelled 3 in Political
+Class and in Financial Elite.
+
+Fujimori belongs to a small ethnic minority in Peru, a fact that he
+employed to depict himself as someone of the margins, someone who
+represented the Peru of the "the cholos", that is, the darker-skinned
+poor majority that was looked down upon by the white elite (Panfichi,
+1997). He actively embraced the nickname "el chino" and the C90 lists
+included several candidates that "spoke Quechua and worked in the
+informal economy" (Daeschner, 1993: 261). On Foreign Interests, Fujimori
+travelled to the US before his inauguration and struggled to maintain
+good relations with foreign powers during his presidency (McClintock,
+2002).
+
+Similar to the case of Menem in Argentina, shortly after winning,
+Fujimori took a turn to the right and embraced neoliberal reforms.
+Levitsky and Loxton (2012: 169) and Weyland (1999: 184) explain that he
+forged a tacit alliance with the power groups of Peruvian society,
+including the military, the internationally competitive industry and the
+financial sector. This, however, did not make him less populist. He
+simply "lost the class-based elements of his anti-elite discourse and
+stepped up his attacks on the political elite" (Levitsky and Loxton,
+2012: 170). For the 1995 elections, I have changed from 3 to 1 the
+category of Financial elite and I have coded Ideology as "right-wing"
+instead of "left-wing".
+
+Since he was still constrained by a legislative chamber dominated by
+traditional parties, he argued that Peru was not a real democracy. In
+1992, backed by the military, he carried out the "autogolpe", a
+presidential coup which allowed him to close the congress, dissolve the
+constitution and purge the judiciary (Levitsky and Loxton, 2012: 171).
+The "autogolpe" was widely supported by Peruvians and it was followed by
+elections for a constituent assembly, a referendum on the new
+constitution and again presidential elections in 1995, which Fujimori
+won by a landslide. Newspapers and television networks received large
+amounts of money by the government to assure their support (Levitsky and
+Loxton, 2012: 176) and he declared a law of amnesty for the military.
+Fujimori's own constitution banned him from running for a third
+re-election, but he refused to obey the constitutional tribunal, made
+the congress impeach the judges and ran in 2000 under the platform "Perú
+2000" (Conahgan, 2005: 126-300). His opponent, Álvaro Toledo, boycotted
+the election for considering it corrupt and Fujimori was elected again.
+Soon after, however, a video showing a close associate of Fujimori
+bribing politicians triggered the downfall of the regime. Fujimori flew
+the country and new elections were called in 2001. All the actions of
+Fujimori clearly deserve a 3 in violation of LD norms.
+
+## "Fujimorismo"
+
+"Fujimorismo" survived after the downfall of its founder. New Majority
+and C90 created a coalition named "Alliance for the Future" and tried to
+present Alberto Fujimori as their candidate for the 2006 presidential
+election. However, since Fujimori was disqualified by the congress to
+run for office, Martha Chávez, former President of the Congress in the
+1990s, was elected as the running candidate (1 for Personality Dependent
+and 3 for Insider Populism). Her platform continued the politics of
+"Fujimorismo".
+
+In 2011, "Fujimorismo" presented Keiko Fujimori, Alberto's daughter, as
+the presidential candidate of "Force 2011". Keiko had become first lady
+of Peru after her parent's got divorced in 1994 and belong to the inner
+circle of his father's government. Keiko made it to the second round in
+both the 2011 and 2016 elections but lost both of them. Her right-wing
+populist campaign is based in means-targeted policies for the poor, a
+tough stance on crime and an opposition to LGBT rights (El Mundo, 2016).
+Keiko continues employing an anti-elitist discourse. After losing the
+2016 election, for example, she said that "in the second round, our
+opposition included the political power of this outgoing government, the
+economic powers and the powers of the media," (Dow Jones Institutional
+News, 2016). Moreover, she argued that her party would "defend the
+interest of the people against lobbies and the power of big business"
+(Dow Jones Institutional News, 2016). I have coded her in a similar
+fashion as Alberto Fujimori's 1995 and 2000 campaigns.
+
+## Ollanta Humala
+
+Ollanta Humala was an army commander, son of Isaac Humala, founder of
+the ideology of "etnocaceriso", a nationalist ideology in Peru
+reminiscent of the Inca empire which claims the superiority of the "raza
+cobriza" (darker-skinned race) over others and defends the creation of
+an authoritarian regime. Together with his brother, Ollanta carried out
+a failed coup d'état against the government of Fujimori in 2000 which
+made them win popularity. They were later pardoned by the Congress and
+Ollanta founded the Peruvian Nationalist Party in 2005. However, he did
+not register it on time for the elections and decided to run as the
+candidate of another party; Union for Peru. He had never held an
+governmental position or participated in party politics before (I for
+Insider Populism).
+
+For the 2006 election, Humala moderated somewhat his discourse, he
+declared himself as nationalist but not "etnocacerista" and embraced
+democracy (Nesbet-Montecinos, 2011: 85). Ollanta's campaign was
+considered to be "left nationalist", was supported by Chávez and Evo
+Morales and strongly opposed neoliberalism (Nesbet-Montecinos, 2011:
+86). Humala made extensive use of the colors of the Peruvian flag in his
+campaign and used as motto the phrase "love for Peru" (Cabanillas, 2016:
+183). He blamed the "traditional politicians" for the misery of Peru
+(Revesz, 2006: 91) and in the presidential debate against Alan García,
+Humala (2006) tried to depict his opponent as corrupt and as
+representative of an outdated elite (3 for Political Class). Ollanta
+rejected the United States--Peru Trade Promotion Agreement and defended
+the nationalization of the energy industries (Nesbet-Montecinos, 2011:
+86).
+
+Ollanta moderated considerably his anti-capitalist stance in the 2011
+election (Cabanillas, 2016: 183). He stilled enjoyed the support of
+Chávez and Morales and criticized harshly the corruption of the
+politicians before him. Thus, I have lowered from 3 to 2 Financial Elite
+and Foreign Interests in 2011.
+
+Humala was accused of violation of human rights in 1991 (Revesz, 2006:
+91) and linked to the assault to a police station perpetrated by his
+brother in 2004. In 2011, he signed a "Declaration in favor of Democracy
+and Against the Dictatorship" in which he defended the independence of
+the judiciary, the respect for human rights and the rejection of
+corruption, which granted him the support of Vargas Llosa and other
+intellectuals that wished to prevent a victory of Keiki Fujimori.
+However, Humala is currently investigated for corruption during his time
+in office. I have labelled these mixed evidence as 2 in Violation of LD
+norms.
+
+Ollanta's platform emphasized the need to reinvigorate the countryside
+of Peru, particularly of its indigenous people (1 in Immigration and
+Ethnic Others). On the military, Humala criticized the use of the
+military under Fujimori's regime but, being himself a commander, he
+supported greatly the army during his years as President by investing
+heavily in them (Humala, 2015).
+
+Humala's campaign was based entirely on his figure; in 2006 he ran as a
+candidate of another party and managed to reach to the second round
+unexpectedly. The posters in the 2011 election emphasized the personal
+figure of Ollanta in a campaign in which he moderated somewhat his
+views. The movement would not have existed without him and that is why I
+have labelled 3 in Personality Dependent.
+
+## Veronika Mendoza
+
+Verónika Mendoza represented the left-wing populist option in the 2016
+election. She had been an MP of the Peruvian Nationalist Party but left
+the party in 2012 and joined the Broad Front ("Frente Amplio"). In the
+Presidential debate she clearly employed a populist discourse when
+saying that "we face an election, or we continue to have governments
+that are at the service of the very few or we have a government that is
+at the service of the people" (Mendoza, 2016). She also stated that "we
+will be a government of the people" and that "in a government of the
+Broad Front, the priority will be you" (Mendoza, 2016). Mendoza received
+the support of Pablo Iglesias, leader of Spain's "Podemos", and has
+linked ecology with an anti-elitist message: "government after
+government have consumed our resources without thinking about the
+people" (Mendoza, 2015). The axes of her platform were "an economy that
+excludes nobody, a state without corruption, rights without
+discrimination and progress without contamination" (Mendoza, 2015). I
+have coded 3 for Political Class and Financial Elite.
+
+Mendoza speaks Quechua and her manifesto proposed to make Peru a
+"plurinational" state and respect the right to autonomy of indigenous
+people (Frente Amplio, 2016). I have not been able to find any negative
+references to the military nor any intended violation of LD norms.
+Mendoza's manifesto reinstates the importance of national sovereignty
+and the ownership of natural resources but does not identify any
+explicit foreign threat to Peru (Frente Amplio, 2016). Given her
+ideological position, I have coded 2 for Foreign Interest.
+
+**References**
+
+Cabanillas, Y. (2016) "Imagen política de Ollanta Humala en las campañas
+electorales 2006-2011", Opción, Año 32, No. Especial 11 (2016): 179 --
+190.
+
+Crabtree, J. (1992) "Peru under Garcia: An Opportunity Lost", University
+of Pittsburgh Press.
+
+Crabtree, J. (1996) "Populismo y Neopopulismo: La experiencia peruana".
+
+Conaghan, C. M. (2000) "The Irrelevant Right: Alberto Fujimori and the
+New Politics of Pragmatic Peru", in K. J. Middlebrook (ed.),
+Conservative Parties, the Right, and Democracy in Latin America.
+Baltimore: The Johns Hopkins University Press, pp. 255--84.
+
+Daeschner, J. (1993) "The War of the End of Democracy: Mario Vargas
+Llosa vs. Alberto Fujimori", Lima: Peru Reporting.
+
+Dow Jones Institutional News (2016) "Pedro Paulo Kuczynski Secures Peru
+Presidency as Keiko Fujimori Concedes", New York, 10 June 2016:
+https://search-proquest-com.gate3.library.lse.ac.uk/docview/2015421254?accountid=9630&rfr_id=info%3Axri%2Fsid%3Aprimo
+
+El Mundo (2016) "El voto de Keiko", 14 April:
+https://www.elmundo.es/america/2011/04/14/noticias/1302782249.html
+
+El País (1986) "Alan García ha devuelto la confianza a Perú frente al
+terrorismo y la crisis", 22 May:
+https://elpais.com/diario/1986/05/22/internacional/517096812_850215.html
+
+Frente Amplio (2016) "Manifesto":
+http://gestion2.e3.pe/doc/0/0/1/2/7/127399.pdf
+
+Fujimori, A. (1990) "Presidential Debate":
+https://www.youtube.com/watch?v=AcyZDU_OLb4
+
+García, A. (1984) "Alan Garcia 1984 -- promesas electorales":
+https://www.youtube.com/watch?v=eIC4WHR0C28
+
+García, A. (1985) "Alan García: Los Peruanos ¡SÍ podemos!":
+https://www.youtube.com/watch?v=wAgkjCUclxw
+
+Humala, O. (2006) "Predisential Debate":
+https://www.youtube.com/watch?v=ju7ocGU5BKg
+
+Humala. O. (2011) "Declaration in favor of Democracy and Against the
+Dictatorship":
+https://larepublica.pe/politica/542180-lea-el-juramento-de-humala-por-la-democracia-en-el-peru
+
+Humala. O. (2015) "Speech in front of a military parade":
+<https://www.youtube.com/watch?v=IP8-40cZhYY>
+
+McClintock, C. (2002) "The United States and Peru in the 1990s:
+Cooperation with a critical caveat on democratic standards", Working
+paper:
+<https://www2.gwu.edu/~clai/working_papers/McClintock_Cynthia_06-00.pdf>
+
+Mendoza, V. (2015) "Cuatro ejes del gobierno de Verónika Mendoza":
+<https://www.youtube.com/watch?v=_7ejGB3kqfs>
+
+Mendoza, V. (2016) "Presidential debate":
+<https://www.youtube.com/watch?v=6iGfbJhoH3U>
+
+Nesbet-Montecinos, F. (2011) "Humala antes de Ollanta: evolución
+política del nuevo presidente peruano" European Review of Latin American
+and Caribbean Studies / Revista Europea de Estudios Latinoamericanos y
+del Caribe, Vol. 91, pp. 81-90.
+
+Ortiz de Zárate, R. (2016) "Alan García Pérez" CIDOB:
+https://www.cidob.org/biografias_lideres_politicos/america_del_sur/peru/alan_garcia_perez
+
+Panichi, A. (1997) "The Authoritarian Alternative: "Anti-Politics" in
+the Popular Sectors of Lima," in D. Chalmers et al. (eds.), "The New
+Politics of Inequality in Latin America: Rethinking Participation and
+Representation", New York: Oxford University Press, pp. 217--36.
+
+Revesz, B. (2006) "La irrupción de Ollanta Humala en la escena electoral
+peruana". En publicacion: OSAL, Observatorio Social de America Latina,
+año VI, no. 19. CLACSO, Consejo Latinoamericano de Ciencias Sociales,
+Buenos Aires, Argentina: Argentina:
+<http://bibliotecavirtual.clacso.org.ar/ar/libros/osal/osal19/revesz.pdf>
+
+Villanueva A. (1980a) "TV advertisement":
+<https://www.youtube.com/watch?v=nLM2Vrp0TlQ>
+
+Villanueva A. (1980b) "TV advertisement":
+<https://www.youtube.com/watch?v=Cr7ndfIirPk>
+

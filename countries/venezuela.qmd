@@ -1,0 +1,280 @@
+---
+title: Venezuela
+---
+
+
+## Hugo Chávez
+
+Populism in Venezuela is mostly linked to Hugo Chávez's "Bolivarian
+Revolution". There are significant differences in the tone,
+aggressiveness and rhetoric of Chávez before and after winning the 1998
+elections, although he defended a similar ideology based on
+revolutionizing Venezuelan politics, opposing the decadent political
+regime and combatting neoliberal policies. In a couple of interviews
+before the election, he assured he would not nationalize any media
+company, he welcomed foreign investment (Ramos, 1998) and he argued in
+favor of private ownership of certain industries (tourism, lottery,
+banking) (Bayly, 1998). According to Scocozza and Colucciello (2016:
+29), the real increase in aggressiveness came after winning the election
+as a way of marking a breaking point with the previous political
+establishment and particularly after the 2002 failed coup d'état against
+him. Maduro's presidency has seen a general deterioration of the
+political situation in Venezuela, an exacerbation of Chávez's rhetoric
+and an intensification in political repression.
+
+Chávez's initial political rhetoric focused on the idea of revolution,
+on a symbolic and mythic connection with the heroes of the Venezuelan
+past, particularly of Bolívar, on constant messages to his Christian
+values and on the call for a "proceso constituyente", that is, for the
+creation of a new constitution that would give power to the people.
+
+Chávez argued forcefully for the creation of a new political era. This
+was explicitly mentioned in his address to the Congress when debating
+the new constitution and in his rejection of the previous political
+system by saying that the "IV Republic was born with the applause of the
+conservative oligarchy" (Scocozza and Colucciello, 2016: 33). Moreover,
+Roberts (2012: 145) argues that "Chávez deined the enemy primarily in
+terms of the political establishment against which he had launched his
+ill-fated coup attempt in 1992. In particular, he condemned the leaders
+of AD and COPEI as a corrupt, entrenched, and self-serving political
+elite that made a farce of representative democracy". Therefore, Chávez
+can be coded as number 3 in Political Class throughout all the
+elections.
+
+However, his classification in left-right axis and against the financial
+elite is less clear in the 1998 and 2000 election campaigns. Slogans
+such as "homeland, socialism or death" or "Socialism of the XXI century"
+did not gain relevance until after the failed coup (Scocozza and
+Colucciello, 2016: 30). On his first electoral campaign, Chávez was
+considerably more moderated and drove its inspiration more from
+nationalism than socialism (Roberts, 2012: 145; Bolívar, 2001: 47).
+While, on one side, Ellner (2004: 11) and Gates (2010: 3) argue that
+Chávez was a "staunchly anti-neoliberal" candidate in 1998 and Molina
+(2002: 231) points out that he based his 2000 campaign on "claims on
+social division between rich and poor, presenting himself as a friend of
+the poor and an enemy of the oligarchs", on the other side, Roberts
+(2012: 146), drawing on Blanco Muñoz (1998: 611--14), defends that
+"Chavismo could deine itself in opposition to international capital and
+globalized neoliberalism, without rejecting capitalism or capitalists
+per se. Indeed, Chávez came to power advocating a 'humanistic' mixed
+economy that borrowed from both capitalist and socialist development
+models, with a market freed from monopoly control and a developmentalist
+state committed to nurturing national producers, both public and
+private". In fact, he even rejected the label of "socialist" in favor of
+"Bolivarian" before the 1998 elections (Bayly, 1998). Nevertheless,
+since the dataset is thought off as global, in a comparison with other
+parties throughout the world, it is still possible to code MVR as
+far-left and opposed to the financial elite. It suffices to point out
+that it was after the period of 2004 when socialism really became the
+center of Chávez's political discourse with the creation of the "New
+strategic map of the Bolivarian Revolution" (Colmenares, 2011: 11). On
+the 2012 election, this was clear, for example, when he attacked his
+political opponent as a "lackey of imperialism" and a "lackey of the
+bourgeoisie" (Scocozza and Colucciello, 2016: 33).
+
+Immigration to Venezuela is rarely mentioned in Chavez's discourses or
+in academic texts on his politics. In fact, he carried on mass
+nationalizations of immigrants in 2003 under the project "Misión
+Identidad". Thus, he is a 1 in immigration under the Dataset definition
+(a different issue is Chavez\'s view on Venezuelan emigration).
+
+Being a soldier himself and having created a movement inside the
+military that preceded his political party ("Movimiento Bolivariano
+Revolucionario 200" (MBR-200)), Chávez did not associate the military
+with the elite, in fact, the military was seen as a possible agent of
+revolutionary change (Colmenares, 2011: 9). In the 2012 election Chávez
+explicitly praised the military for "being committed, as the working
+class, with the Bolivarian Constitution" (Scocozza and Colucciello,
+2016: 33).
+
+Chávez had nationalism and retrieving popular sovereignty as central
+axis of his 1998 campaign. He started his inaugural speech with a
+reference to the "father of the homeland", Simón Bolívar, that summed up
+his nationalist discourse: "Blessed is the citizen who, under the coat
+of arms of his command, summons national sovereignty to exercise his
+absolute will" (Chávez, 1999). As some authors have stressed, populism
+in Latin America is "inclusionary" of groups that previously felt
+excluded such as working class or indigenous citizens and not based on
+the exclusion of ethnic "aliens" such as European right-wing populism
+(Mudde and Rovira Kaltwasser, 2013). In fact, Chávez stressed constantly
+his commitment to Americanismo and to Bolívar's notion of Gran Patria,
+that is, the vision of a common interest and identity to all Latin
+American countries (Colmenares, 2011: 9). Chávez repeated constantly his
+commitment to the improvement of the indigenous communities, however, he
+did not identify with one particular ethnic group. The 1999 constitution
+declared Venezuela to be "multiethnic and pluricultural". Moreover, he
+did not make this the main axis of his politics, but instead understood
+the fight for indigenous people as one aspect of the larger struggle
+between the people and the elite. Taking this into consideration, I have
+coded 1 for Ethnic others, regions.
+
+Roberts (2012: 145) has argued that "while Chávez had always been
+critical of U.S. imperialism and its ties to elite interests in
+Venezuelan society, he intensified his critique in response to
+Washington's thinly veiled support for the military coup that briefly
+removed him from office in April 2002". Moreover, in an interview with
+Bayly (1998), he stresses the desire of collaboration with the IMF and
+other international institutions. Attending to this criterion, I have
+coded 2 for foreign interest in the 1998 and 2000 elections and a 3
+since the 2006 election.
+
+Chávez was a well-known character in Venezuelan politics before his
+election in 1998, particularly after his failed coup on 1992. However,
+he did not hold any office before becoming president. Thus, he is coded
+as a 1 in Insider Populism in 1998 and a 3 in the rest of elections.
+
+There is much debate over the characterization of Venezuela as a
+democracy or as a dictatorship. Freedom House (2017) considers the
+country "Partly Free" until 2017, where it becomes "Not Free" and Polity
+IV (2014) considers it an open anocracy since 2007. Chávez took over the
+years a series of measures that threatened political pluralism and
+freedom of the press. He dissolved the opposition-controlled Congress in
+favor of a Chávez-leaning Constituent Assembly, he extended the powers
+of the president by weakening checks and balances against the executive
+branch, the new constitution made no mention to political parties, he
+replaced many military officials and oil company managers with men close
+to him, he changed the electoral system to favor his political party and
+took control over some media companies (Colmenares, 2011: 33; Roberts,
+2012). In 2006, the opposition decided not to participate in the
+elections as a protest against their "undemocratic nature". However,
+formally, Venezuela continued to be a democracy and Chávez passed these
+reforms in several referenda. Although there is a significant difference
+between measures taken by Chávez and measures taken under Maduro's
+government, such as the imprisonment of political opponents like
+Leopoldo López or Antonio Ledezma, overall, actions taken by both
+governments can be considered as a radical break with previous liberal
+democracy norms.
+
+There is a clear cult around Hugo Chávez in his movement and he
+identified directly with the people. He argued repeatedly that "Chávez
+is not just a man, but that Chávez is a people" (Michelutti, 2017).
+Nevertheless, the political system before his victory in 1998 showed
+clear signs of decomposition and all candidates in that election where
+anti-establishment (Molina, 2002). Thus, it is possible to imagine that
+another, maybe less successful, Bolivarian movement could have emerged
+in 1998. After Chávez's death, there was plenty debate over if Chavismo
+would survive under Maduro's leadership, which it has done. However,
+Maduro draws his support from Chávez's charisma, and it is perfectly
+imaginable that another politician could have taken its place.
+
+## Movement for Socialism
+
+Movement for Socialism ("Movimiento al Socialismo/MAS") is a very
+difficult party to classify. It emerged from a split from the Communist
+party criticizing harshly its verticality and authoritarianism and
+defending a deeper democratization of both parties and institutions
+(Petkoff, 1989b). Moreover, it aimed at the combination of democratic
+freedoms and social justice (Petkoff, 1989a). Ideologically, it is on
+the far-left because it seeks the public ownership of the productive
+system and to control financial elites, but it should be stressed that
+the party underwent an important de-radicalization compared to the
+Communist party. I have coded 3 on Financial because, although from
+Petkoff's assessment, the party was focused on criticizing political
+parties, their ideological position accounts for their opposition to the
+bourgeoisie as the financial elite.
+
+Although it emerges with a clear criticism to the "bipartidism" of the
+moment, the elites ("cogollos") and the burocratization of power
+(Petkoff, 1989b), its main proposal to renovate politics is deepening
+the democratization of parties and institutions, exemplified by
+institutionalizing in its own party the existence of diverse tendencies.
+Petkoff, the presidential candidate in 1983 and 1988, stresses these
+measures as the real revolution but there is little of the stark
+distinction between elite and people. In this sense, in the 80s it is
+closer to non-populist parties that criticize the political system such
+as Ciudadanos or Macron in Europe than to Podemos. In the presidential
+elections in the 80s, their candidate won less than 5% of the vote and
+in the 90s the party supported other candidates. They supported two
+presidential candidates very far ideologically; Rafael Caldera and Hugo
+Chávez in the presidential elections of 1993 and 1998, respectively. It
+is this last election in which we can see a more populist and radical
+stance (Lalander, 2008), however, this support provoked many divisions
+and splits within the party between supporters and critics of Chávez. I
+have coded a 1 for violation of liberal norms due to its stress with
+democratizing parties and institutions (Petkoff, 1989a) and 1 for
+Insider Populism because the leaders of the party were known political
+leaders but held no governmental position.
+
+## Radical Cause and others
+
+Radical Cause ("Causa Я") is a clear antecedent to Chávez. It was the
+main party of the opposition to Caldera in the 1993 election and
+Lalander (2008: 40) points that it was "the party closest to Chávez and
+that a great number of their militants, union leaders and MPs would
+later be part of 'Chavismo'". Thus, I have coded them in a similar
+fashion as MVR for the 1993 election and again in the 2000 election in
+which it was the main party of the opposition in the presidential
+election. The 2000 election shows the relevance of the populist
+discourse of Chávez because the candidate of Radical Cause was one of
+the colleagues of Chávez in the 1992 failed coup d'état.
+
+The same is essentially true for Fatherland for all ("Pátria para
+todos") and For Social Democracy ("Por la Democracia Social /Podemos")
+which are satellite parties of Chávez in the 2005 election which did not
+wish to become part of his vertical party structure.
+
+**References**
+
+Antonio Scocozza and Mariarosaria Colucciello "Política y discurso en
+América Latina. El caso específico de la retórica de la violencia en la
+Venezuela de Hugo Chávez" Cultura Latinoamericana, 2016, Vol. 24 (2),
+pp. 18-39.
+
+Blanco Muñoz, A. "Del 04F-92 al 06D-98: Habla el Comandante Hugo Chávez
+Frías" Testimonios Violentos 12, 1998, Caracas: Fundación Cátedra Pío
+Tamayo.
+
+Bolívar, A. "El insulto como estrategia en el diálogo político
+venezolano. Oralia. Análisis del discurso oral", 2001, Vol. 4, pp.
+47-74.
+
+Cas Mudde and Cristóbal Rovira-Kaltwasser "Exclusionary vs. Inclusionary
+Populism: Comparing Contemporary Europe and Latin America" Government
+and Politics, 2013, Vol. 48 (2), pp. 147-174.
+
+Constitución de la República Bolivariana de Venezuela, 20 November 1999.
+
+Freedom House, "Freedom in the Worlds 2017: Profile: Venezuela", 2017,
+https://freedomhouse.org/report/freedom-world/2017/venezuela
+
+Jaime Bayly "Interview with Hugo Chávez", 1998,
+https://www.youtube.com/watch?v=mE84o4Yxh70
+
+Jorge Ramos "Interview with Hugo Chávez", 1998,
+https://www.youtube.com/watch?v=XPO0R9TCPlA
+
+José E. Molina "The Presidential and Parliamentary Elections of the
+Bolivarian Revolution in Venezuela: Change and Continuity (1998-2000)"
+Bulletin of Latin American Research, 2002, Vol. 21, No. 2, pp. 219-247.
+
+Kenneth M. Roberts "Populism and democracy in Venezuela under Hugo
+Chávez" in Cas Mudde and Rovira-Kaltwasser "Populism in Europe and the
+Americas: Threat or Corrective for Democracy?", 2012, Cambridge
+University Press.
+
+Lalander, R. (2008) "El contexto histórico del Chavismo y los 1partidos
+políticos venezolanos de la izquierda" Reflexión Política, Vol. 19,
+June. Pp. 37-48.
+
+Leopoldo E. Colmenares "La Exportación de la 'Revolución Bolivariana'
+hacia América Latina" Military Review, 2011, pp. 8-23.
+
+Leslie C. Gates "Electing Chávez: The Business of Anti-Neoliberal
+Politics in Venezuela" 2010, University of Pittsburgh Press.
+
+Lucia Michelutti "We Are All Chávez': Charisma as an Embodied
+Experience" Latin American Perspectives, 2017, Issue 212, Vol. 44, No.
+1, pp. 232--250.
+
+Petkoff, T. (1989ª) "El MAS y la búsqueda de un perfil distintivo",
+Nueva Sociedad, Vol. 101, May-June, pp. 104-113.
+
+Petkoff, T. (1989b) "Hacia un nuevo socialismo", Nueva Sociedad, Vol.
+56-57, September- December, pp. 37-52.
+
+Polity IV "Authority Trends, 1946-2013: Venezuela", 2014,
+https://www.systemicpeace.org/polity/ven2.htm
+
+Steve Ellner "Leftist goals and the debate over Anti-neoliberal Strategy
+in Latin America" Science and Society, 2004, 68(1), pp. 10-32.
+

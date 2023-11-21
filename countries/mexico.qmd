@@ -1,0 +1,261 @@
+---
+title: Mexico
+---
+
+
+Mexico has been dominated for most of the 20th Century by one party, the
+"Partido Revolucionario Institucional" or PRI. The PRI governed Mexico
+from 1930 until 2000 and, although other parties were legalized,
+participated in elections and obtained some seats, victory over the PRI
+was virtually impossible due to the corruption of the electoral system.
+It was not until the electoral reforms of the 1990s were implemented,
+that Vicente Fox, from the PAN, was able to become the president in
+2000. Thus, electoral results before the year 2000 should be taken with
+caution since elections were not fully democratic. Elections to the
+Senate coincide with the presidential elections since 2003, thus, there
+are no elections to the Upper House in the legislative midterms since
+2003.
+
+## Cuauhtémoc Cárdenas / PRD
+
+One of the most famous leaders of el PRI was Lázaro Cárdenas, which is
+considered the prototype of populist leader in Mexico. His son,
+Cuauhtémoc Cárdenas, was a member of the PRI but left it criticizing
+that the party had lost its revolutionary origins and initiated a
+movement within the PRI called "Corriente Democrática". Rejection by PRI
+leadership of this current's claims to democratize the party led to the
+expelling of Cárdenas and encouraged him to run in the 1988 presidential
+election against the PRI with a populist platform. Basurto (1999: 95)
+argues that Cuauhtémoc "resurrected the ideology of his father, based on
+the so-called revolutionary nationalism and on populist mobilization of
+the masses". The internal document of the "Corriente Democrática" (1988:
+40) already contains most of Cárdenas later ideas and argues for the
+validity of the principles of the Mexican Revolution and for the
+"reconquering of the independence and dignity of the people". They
+stated that their fight was for "for the rescue of the full meaning of
+citizenship, for social equality, for the productive economy, for
+natural resources, for cultural identity and for the high moral
+hierarchy of the nation" (Corriente Democrática, 1988: 40).
+Neo-Cardenistas, as Basurto (1999: 84) calls them, strongly opposed
+neoliberalism and their economic nationalism fueled a double criticism
+against financial elites and foreign interests. Cuauhtémoc (1987: 307)
+argued that "behind the sources of credit stand vested political and
+economic interests that, in addition to mere financial profits, sought
+to transform a commercial relationship into one of political dependency.
+Negotiations concerning our debt are dominated by our imperialistic
+neighbor, whose government has been dangerously aggressive". Thus, I
+have coded 3 in both Financial Elites and in Foreign Interests.
+
+Cuauhtémoc ran under the coalition "National Democratic Front" in 1998,
+which was supported by the Popular Socialist Party, the Authentic Party
+of the Mexican Revolution, among others. He then founded the "Party of
+the Democratic Revolution" (or PRD) in 1989, which assumed most of the
+ideas of the National Democratic Front and the "Corriente Democrática".
+
+Another of the main tropes in Cárdenas' rhetoric is the renovation of
+Mexican politics, due to the corruption of the parties. "Corriente
+Democrática" argued for the implementation of primaries inside the PRI
+and the PRD defended the full democratization of the country (Basurto,
+1999: 87). Although the PRD shared objectives with the Zapatistas, they
+rejected their military approach (Basurto, 1999: 91). Therefore, I have
+coded 1 in Violation of LD norms since the PRD argues strongly for a
+deeper democratization of Mexico. Before leaving the PRI, Cárdenas had
+been part of the government, member of the senate and governor of a
+province. Thus, although he was not in the inner circle of decision
+making, he was a well-established figure in the previous regime. I have
+coded 2 for Inner Populism.
+
+The Mexican army was seen by important sectors of the left as part of
+the establishment, particularly since the massacre of Tlatelolco in
+1968. However, as the son of a general, Cuauhtémoc was less aggressive
+towards the military that other leftists and valued its function as the
+guarantor of national sovereignty. Its position was that an
+investigation needed to happen on the events of 1968 but that the
+military as a whole could not be blamed for it (Cárdenas, 1998). Thus, I
+have coded 1 for Military. Although Cuauhtémoc's personal history and
+his initiative in splitting from the PRI are essential to understand the
+PRD, the fact that it was born out of a previous movement inside the
+party points that Cárdenas acted more as the catalyzer than as the
+creator of the movement. I have coded 1 in Personality Dependent. There
+is no negative mention of immigrants or ethnic others in the PRD's
+discourse.
+
+In 2018, the PRD becomes part of a cross-party presidential coalition
+lead by the PAN, which greatly dilutes their former populist stance. I
+have not included the PRD in the 2018 election.
+
+## Andrés Manuel López Obrador
+
+Under Cárdenas' leadership, the PRD participated in all elections
+running on a similar platform. In the 2006 presidential elections, the
+party presented Andrés Manuel López Obrador (commonly known as AMLO) as
+the presidential candidate. AMLO followed Cárdenas when he left the PRI,
+unsuccessfully tried to become governor of the province of Tabasco with
+the PRD in the 1990s, became the president of the PRD in 1996 and
+achieved the position of governor of the Federal District from 2000
+until 2005. Although he occupied important positions in Mexican
+politics, he did not belong to the inner circle of PRI's decision making
+and, for that reason, I have coded 1 in Insider Populism. AMLO was very
+popular in the polls (Álvarez Béjar, 2006: 27) and his political
+campaign was in large part based on his figure (Espinoza and Navarrete,
+2016: 94). Moreover, he had important differences with his party such as
+running on a political platform more moderate (Bruhn, 2012: 91) and
+strongly criticizing its former leader (Cruz González, 2006). Therefore,
+given his efforts to distinguish itself from a party and his popularity,
+I have coded 2 in Personality Dependent.
+
+According to Bruhn (2012) AMLO's platform in 2006 had two souls. On the
+one side, AMLO refrained from employing a Manichean distinction between
+people and elites on speeches with the mass media and in television ads
+(Bruhn, 2012: 91-92). Moreover, his economic proposals were quite
+moderate and "substantially to the right of his own party's platform"
+(Bruhn, 2012: 91). The party and AMLO self-identified as left-wing and
+that was how the electorate perceived the party, but it should be noted
+that López Obrador toned down this position during his campaign. On the
+other side, however, AMLO employed a strong populist discourse in
+campaign rallies and speeches in plazas and other public spaces. Bruhn
+(2012: 92) has analyzed quantitatively AMLO's discourses and finds that
+references to a morally superior people and blaming of a corrupt elite
+are extremely common in his rallies. AMLO stated, for example, that
+"what we have to do therefore is unite the people, this is the struggle
+of the whole people of Mexico to defend its interests, against a band
+that has perpetuated itself in power and has carried our country to
+ruin, that's how clear things are" (López Obrador 2006a) and that "those
+at the very top do not want to let go of power \... they cannot be
+satisfied, they want to continue devouring the country, but enough
+already, now it's the people's turn; it is time now for the people to
+govern our country, for the people to benefit" (López Obrador 2006b).
+
+The distinction between elites and masses is mainly based on political
+terms. The long dominance of the PRI facilitated the distinction between
+"the corrupt and outdated institutions that have the people oppressed"
+(López Obrador, 2005). Institutional corruption is the basis of his
+campaign although he is also committed to social equality, being one of
+his most important mottos: "for the good of all, the poor first".
+Moreover, his discourse towards the PAN was based on equating the PAN
+with the policies and attitudes of the PRI (Bruhn, 2012: 93). Lastly,
+although it is not one of the main axes of his discourse, AMLO has
+criticized several times the existing NAFTA agreement as detrimental for
+Mexico and in need for improvement (Cattan and McKee, 2018). Therefore,
+I have coded Left for ideology, 3 for Political Class, 2 for Foreign
+Interest and 2 for Financial Elites.
+
+In 2006 AMLO argued for the need to "give more power to the military in
+all issues related to the fight against the drug cartels and organized
+crimes" (López Obrador, 2006c), he has also reiterated constantly his
+support to the Mexican indigenous peoples and does not have a negative
+view of immigrants.
+
+AMLO lost the 2006 election by a very small margin. López Obrador did
+not accept the result, called into question the electoral system and
+even declared himself as the legitimate president of Mexico. The courts
+denied a recount of the votes and AMLO called for protests and blocked
+important streets in Mexico and the US Embassy. According to Bruhn
+(2012: 98) AMLO's attempt to create a constitutional crisis shows that
+his commitment to liberal democratic institutions was very shallow. The
+constitutional crisis did not succeed because AMLO misjudged the level
+of support from the population. Nonetheless, this experience radicalized
+his discourse and made AMLO emphasize his populist discourse. As an
+example of his discourse, in 2007, he wrote a book titled: "The Mafia
+Stole the Presidency from US". Even if it happened after the election, I
+have coded 3 in violation of LD norms in the 2006 election given the
+time closeness. In fact, this was not the first time he denounced
+corrupt elections. In his unsuccessful campaigns in the 1990s to become
+governor of Tabasco he also complained of electoral fraud and in his
+more recent position as president he is concentrating enormous power in
+his figure. Moreover, he also rejected calling Enrique Peña Nieto the
+legitimate president of Mexico, although he won the 2012 elections.
+Therefore, AMLO's shallow commitment to LD norms does not seem to be
+restricted to a specific moment.
+
+AMLO run his 2012 and 2018 campaigns under a similar platform to that of
+2006, which emphasizes institutional corruption as the main trope of his
+populist discourse but putting forward center-left policies. After the
+defeat in 2012, AMLO created his own new party, the "Movement for
+National Regeneration" or MORENA, as it is popularly called. This party
+participated in the 2015 midterms and in the 2018 legislative elections
+and constituted the main party of the presidential coalition with which
+AMLO obtained the presidency in 2018. The party, as López Obrador's
+personal platform, is based entirely on AMLO's discourse and persona
+(Espinoza and Navarrete, 2016: 97). That is why I have labelled 3 for
+Personality Dependent.
+
+## Satellite parties
+
+The Party of the Cardenist Front of National Reconstruction, the Popular
+Socialist Party and the Authentic Party of the Mexican Revolution fit
+well within the category of satellite or subordinate parties as defined
+by Sartori (1976) (Rueda, 1998; López, 2001). In the context of a
+hegemonic party system, the hegemonic party allows the existence of
+other parties that have limited freedom and that, ultimately, respond to
+the interests of the main party. In this sense, their support for the
+presidential campaign of Cuauhtémoc in 1988 constitutes more an
+exception than the rule of action of these parties. All three rejected
+being included in the PRD and sidelined again with the PRI in the 90's.
+They lack a strong populist discourse because they are part of the
+system and thus, they cannot be considered populist parties. Therefore,
+I have not included those parties in the database. This means that in
+1988, only the presidential elections are counted as having a populist
+option: Cuauhtémoc Cárdenas.
+
+**References**
+
+Basurto, J. (1999) "From Cárdenas to López Obrador" in Conniff, M. (ed.)
+"Populism in Latin America", pp. 86-109.
+
+Béjar, Á. (2006) "Mexico's 2006 Elections: The Rise of Populism and the
+End of Neoliberalism? Latin American Perspectives", 33(2), 17--32.
+<https://doi.org/10.1177/0094582X05286081>
+
+Bruhn K. (2012) "'To hell with your corrupt institutions!': AMLO and
+populism in Mexico", in Mudde, C., & Rovira Kaltwasser, C. (Eds.).
+(2012) "Populism in Europe and the Americas: Threat or Corrective for
+Democracy?" Cambridge: Cambridge University Press.
+doi:10.1017/CBO9781139152365
+
+Cárdenas, C. (1998) "Exculpa al Ejército Cuauhtémoc Cárdenas",
+Micrositio especial por el 50 aniversario del Movimiento del 68:
+http://michoacantrespuntocero.com/el68.mx/exculpa-al-ejercito-cuauhtemoc-cardenas/
+
+Cattan N. and McKee, M. (2018) "No Nafta Better Than Bad Nafta for
+Mexico\'s AMLO: Top Aide", Bloomberg, 5 Junio:
+https://www.bloomberg.com/news/articles/2018-06-05/no-nafta-better-than-bad-nafta-for-mexico-s-amlo-top-aide-says
+
+Corriente Democrática (1988) "Documento de trabajo dos".
+
+Cruz González, R. (2006) 'El grupo de Ebrard se lanza contra Cárdenas,'
+La Jornada, 7 September.
+
+Espinoza R. and Navarrete, J. P. (2016) "MORENA en la reconfiguración
+del sistema de partidos en México", Estudios Políticos, pp. 81-109.
+
+López Castellanos, N. (2001) "Izquierda y Neoliberalismo de México a
+Brasil", Plaza y Valdés, Editores.
+
+López Obrador, A. M. (2005) 'Por una verdadera puriicación de la vida
+pública,' speech in Apan, Hidalgo, 3 November:
+[www.lupaciudadana.com.mx](http://www.lupaciudadana.com.mx).
+
+López Obrador, A. M. (2006a) 'Los elitistas dicen que no respetamos el
+Estado de derecho \[\...\] lo que queremos nosotros es que haya
+verdaderamente legalidad,' speech in Tepeaca, Puebla, 10 March,
+available at: www.lupaciudadana.com.mx (accessed 9 September 2010).
+
+López Obrador, A. M. (2006b) 'Ya es tiempo de que el pueblo gobierne
+nuestro país, que sea el pueblo el que se beneicie,' speech in Huautla,
+Oaxaca, 13 May, available at: www.lupaciudadana.com.mx (accessed 9
+September 2010).
+
+López Obrador, A. M. (2006c) "Vengo diciendo que al llegar a la
+Presidencia voy a enviar una iniciativa de ley para reformar la
+constitución y dar más facultades al ejército en todo lo relacionado con
+el crimen organizado y con el narcotráfico, así como no se va a utilizar
+para reprimir al pueblo de México" (Press Conference in Sonora, 27
+January).
+
+Rueda, I. (1998) "México: crisis, reestructuración económica, social y
+política, 1982-1996" Siglo veintiuno editores.
+
+Sartori, G. (1976) "Parties and Party Systems" Cambridge: Cambridge
+University Press.
+

@@ -1,0 +1,383 @@
+---
+title: Spain
+---
+
+
+Spain transitioned to democracy after dictator Franco's death in 1975.
+Since the 80's the party system has been dominated by two parties: the
+Socialist party (PSOE) and the Right-wing Popular Party (PP). This
+"bipartidismo" system suffered a crisis due to the financial crisis and
+the outbreak of numerous corruption scandals. This crisis of
+representation paved the way for the birth of new parties in 2015
+(Podemos and Ciudadanos) and in 2019 (VOX and Mas País) as well as the
+nationalist conflict in Catalonia.
+
+## Podemos/ We Can
+
+Podemos originated from of the indignados anti-corruption and
+anti-austerity mass protests. In 2014, a group of university lecturers
+with no previous political experience led by Leftist Pablo Iglesias
+created Podemos (We can) (1 in Insider Populism). Both Pablo Iglesias
+and Iñigo Errejón are academic followers of the work of populist
+theorists Ernesto Laclau and Chantal Mouffe and they very explicitly
+apply their approach for their political platform (Iglesias, 2014). They
+employ the term "la casta" to refer to political and economic elites. La
+casta is "a fundamental component of the political class that runs the
+country. This is people not representing the citizens but butlers of
+financial capital. La casta is a minority that rules against the
+majority's interests, living in a shameful condition of privilege"
+(Iglesias, 2014). Against la casta, Podemos wishes to transform the
+country by redrafting the Constitution in order to establish a real
+democracy and give power to the people (Briziarelli, 2016). As Iglesias
+stated:
+
+> There are two groups, the ones above us who live in prosperity and the
+> one below. The one below needs to be aware of its condition, otherwise
+> we are all screwed. Democracy cannot be exercised only every 4 years,
+> with a voting slip \[. . .\] That is not democracy. Democracy depends
+> on the people, you, going on the streets defending your political
+> power against them. The power is in the people's hands. If we the
+> people do not exercise it, they will exercise it for us and there is
+> no democracy (Iglesias, 2014).
+
+In addition to identifying political and economic elites as part of la
+casta (3 in Political and Financial Class), Podemos has also been a
+harsh critic of the austerity measures imposed by the EU leaders and has
+claimed that Spanish politicians are being controlled by foreign powers.
+For instance, on one occasion he said that "Merkel is very happy with
+viceroy Mariano Rajoy \[President of Spain at the time\] who does not
+obey his citizens but who obeys her. We are going to work to have a
+government that represents the interests of the citizens and not those
+of a foreign country" (Iglesias, 2015). I have coded this as 3 in
+Foreign Interests.
+
+The party is very inclusive of immigrants within 'the people' supporting
+universal health coverage for all immigrants and including in their
+party lists the first Afro-Spanish women to have a seat in parliament
+(El Mundo, 2015). Moreover, although the party defends a united Spain,
+it supports holding a referendum of independence in Catalonia and
+changing the constitution in order to declare Spain 'plurinational'
+(Eldiario.es, 2016) (1 in Immigration and Ethnic Others). As part of its
+territorial conception of Spain, Podemos engaged in coalitions together
+with other regional parties and developed regional versions of itself.
+Sometimes, these regional coalitions ran parallel to Podemos but under a
+different legal political organization. For the sake of simplicity and
+following the tradition of political analysis in Spain, Podemos and its
+coalitions are considered as just one party in the database.
+
+In relation to the army, although Iglesias declared that "the military
+sometimes defends interests they should not defend" he also claimed that
+"they are an essential component of a democracy and are needed in order
+to defend the independence and social rights of a country" (Salvados,
+2014). Moreover, Podemos included a former Chief of the Defense Staff
+among his most prominent electoral candidates (1 in Military).
+
+Podemos could not have been born without the figure of Pablo Iglesias.
+At the time of the creation of the party, he was a well-known TV guest
+in political debates and used that popularity in order to launch Podemos
+by adding his face to the voting list of the party. However, as the
+party has become more institutionalized over the years and has suffered
+several divisions within the core group, Iglesias has lost his relevance
+in favor of other figures such as Irene Montero. I have, thus, coded 3
+in Personality dependent on the 2015 and 2016 elections but only 2 in
+the 2019 elections.
+
+Although Podemos has been a powerful critic of the Spanish media, the
+party has always defended democratic procedures. The party holds
+extensive primary elections to select candidates and consults its
+members to make important choices such as entering in government
+coalitions or not. Podemos also has a strong anti-corruption program and
+is highly transparent in its proceedings. Moreover, in relation to the
+conflict in Catalonia, Podemos has always defended dialogue and
+criticized both the use of force and the suspension of autonomy of the
+region. Although some of its criticism of the media in its first years
+could make it closer to a 2 in LD Norms, I believe that 1 is a more
+appropriate coding.
+
+## VOX
+
+VOX was formed in 2014 from former members of the Popular Party who were
+dissatisfied with what they perceived as the party's lack of ideological
+definition. The party, led by Santiago Abascal, remained unsuccessful in
+elections until the 2018 regional elections in Andalucía, when it
+entered into the regional parliament and enabled a Right-wing government
+for the first time ever in the region. The party then ran for the 2019
+elections in April and again in the repetition of elections in November.
+According to Turnbull-Dugarte:
+
+> VOX is a party with a political ideology firmly grounded in
+> authoritarian conservatism and nationalism. Far from being a
+> single-issue anti-immigrant party (Art, 2011), it advocates policy
+> positions including opposition to same-sex marriage, abortion, gender
+> quotas, gender violence protection ordinances, and general social
+> welfare provision, marking the party's ideological parity with other
+> Western European radical right-wing parties (Art, 2011; Mudde, 2004,
+> 2007; Norris, 2005). Indeed, its populist approach of promising to
+> "make Spain great again" alongside its nativist authoritarianism
+> signal its fulfilment of Mudde's (2004) classification as a populist
+> radical right party. Of note in the specific case of Vox, however, is
+> the addition of a strong anti-feminist message (Simón, 2019) brought
+> about in response to recent waves of feminist advancement in Spain as
+> evidenced by the historical 8M demonstrations in 2018.
+> (Turnbull-Dugarte, 2019: 2).
+
+In a clear reference to Donald Trump, their 2016 electoral manifesto was
+titled "Make Spain great again" (VOX, 2016). The main enemy of VOX is
+the current politicians of Spain, as it is clearly stated in their
+website's self-description:
+
+> VOX \[...\] born to put the institutions at the service of the
+> Spanish, in contrast to the current model that puts the Spanish at the
+> service of politicians. VOX is the commonsense party, which gives
+> voice to what millions of Spaniards think in their homes; the only one
+> that fights against suffocating political correctness. In VOX we do
+> not tell the Spaniards how they have to think, speak or feel, we tell
+> the media and the parties to stop imposing their beliefs on society.
+> Our project is summed up in the defense of Spain, of family and of
+> life; in reducing the size of the State, guaranteeing equality between
+> the Spaniards and expelling the Government from your private life.
+> (VOX, 2014).
+
+VOX, however, does not extend its criticism of the political elites (3
+in Political Class) to the economic ones. In fact, VOX defends a very
+liberal program in economic terms. One of the leaders of VOX said that
+"we don't want a large state, the less state, the more freedom for the
+citizens" (quoted in Antón-Mellón, 2019) and on their website it was
+possible to read that VOX "believes in a system based on liberty where
+all taxes are as reduced as possible or even eliminated. Less taxes,
+more jobs. Less state, more freedom" (quoted in Antón-Mellón, 2019). I
+have coded 1 in Economic Class.
+
+VOX also strongly defends of sovereignty against "globalists" and
+criticizes the rest of the parties for following the dictates of the EU
+instead of those of the Spanish people (Abascal, 2019). Moreover,
+Abascal wishes to make Gibraltar part of Spain, attacks the
+"international oligarchies" and insults Ciudadanos for being
+"cosmopaletos" or "stupid cosmopolitans" (Abascal, 2019). I have coded 3
+in Foreign Interests.
+
+Abascal has proposed to increase the army's budget and has included
+several soldiers as candidates of VOX (El Español, 2019) (1 in
+Military).
+
+Santiago Abascal was a low-level politician of the Popular Party in the
+Basque Country before he decided to leave the party (1 in Insider
+Populism). He was not well-known outside the Basque Country and he was
+not even elected first president of VOX. He assumed the role after the
+first 2014 disastrous elections and the party became relevant through
+regional elections in Andalucía, of which he was not even a candidate.
+Therefore, although he is the face of the party, VOX would also have
+existed without Abascal and its current popularity can hardly be
+attributed to him (1 in Charisma).
+
+VOX displays a very strong Spanish nationalism whose main enemy are the
+pro-independence parties in Catalonia. VOX proposes not only to
+recentralize the state and eliminate all autonomous regions and their
+parliaments but also argues for the illegalization of any party that
+does not defend the unity of Spain (VOX, 2018: 2). Their nationalism is
+not only about territorial integrity but has an important ethnic
+component as well. VOX stresses the defense of the Spanish language and
+wishes to implement a "comprehensive plan for the knowledge,
+dissemination and protection of national identity and the contribution
+of Spain to civilization and universal history, with special attention
+to the deeds and feats of our national heroes" (VOX, 2018: 3).
+
+In relation to migration, VOX advocates for the deportation of all
+illegal immigrants in Spain and of those that are legally in the
+territory but have committed a felony (VOX, 2018: 5). The party also
+wishes to "stop the invitation effect" (VOX, 2018: 5) and has repeatedly
+condemned "multiculturalism" (Abascal, 2019). This anti-immigrant stance
+is particularly harsh against Muslims: "One of the party's earliest
+promotional videos was a spoof news broadcast depicting a veiled woman
+reporting from outside the mosque-cathedral of Cordoba after an imagined
+consecration to Islam by a fictional left-wing government (the building
+was erected during Spain's Moorish era and was turned into a cathedral
+in the 13th century). The video ends with the words: 'Do you want a
+future like this?' and doomy music." (Loucaides, 2018). Thus, I have
+coded 3 for Ethnic Others and Immigration.
+
+VOX's ethnonationalism and proposals to make illegal all parties that do
+not agree with principles in the Constitution (such as the unity of
+Spain) are clear violations of prior LD Norms. VOX also argues for the
+elimination of the Law against gender violence present in Spain since
+2004 and to eliminate "radical feminist organisms" (VOX, 2018: 17).
+However, VOX has not incited violence, nor attacked freedom of the
+press, nor threatened democratic institutions beyond its
+ethnonationalism (2 in LD Norms).
+
+## Parties not included
+
+**Mas País / More Country**
+
+Mas País was created from a division within Unidas Podemos led by Íñigo
+Errejón, former leader of Podemos. Errejón created the party Mas Madrid
+to ran for president of the regional area of Madrid in April 2019 and,
+although he was unsuccessful, he decided to form Mas País in order to
+compete in the national elections on November 2019. Errejón is a scholar
+on populism and explicitly employs populist rhetoric in his politics,
+however, he wishes to distinguish himself from the hard-left image of
+Podemos and he also stresses the green ideology of the party. The party
+did not achieve the threshold of 5% of the share of the vote to be
+included in the dataset.
+
+**Ciudadanos / Citizens**
+
+Ciudadanos (Citizens) was formed in 2006 in Catalonia, and was seen by
+many as an alternative to the growing Catalan nationalist movements - so
+much that it was originally seen as a single-issue movement. In later
+years it has become something very similar to Macron's En Marche in
+France - a pro-European, liberal, pro-entrepreneur, anti-corruption,
+reformist and revival party attracting the attention of the Centre
+right. The party has been a critic of "bipartidismo" and of the
+corruption affecting PSOE and PP and is entirely dependent on its
+charismatic and (very) young leader Albert Rivera.
+
+Nevertheless, the party is not considered populist by any scholar on the
+topic (Rodríguez Teruel and Barrio, 2016; Rodon and Hierro, 2016;
+Orriols and Cordero, 2016). Comparing Podemos and Citizens, Lavezzolo
+and Ramiro (2018: 268) argue that "although both Podemos and Ciudadanos
+are new parties \[...\] and present themselves as political reformers in
+clear contrast to the mainstream parties, Podemos is a radical-left
+populist pro-participatory democracy party \[...\] while Ciudadanos is a
+centrist one aiming for much more moderate political reforms". Although
+the party's success is the result of the political crisis and the lack
+of trust in political parties, Ciudadanos' response can hardly be
+considered populist.
+
+Due to the crisis in Catalonia, Ciudadanos has been focusing more on the
+nationalist elements of its discourse, however, political scientist
+Lluís Orriols (2018) has argued forcefully against considering this a
+move towards populist positions. He rejects that Citizens frames
+politics as elite vs people and argues instead that
+
+Citizens is a party that broke into Spanish politics to offer a
+technocratic response to the political crisis. The proposal of Citizens
+is not to articulate their discourse around returning power to the
+people but to empower a government of experts in order to achieve the
+effective and efficient policies that Spaniards (without distinctions)
+need. With this pedigree of technocratic cut on its backs, it is highly
+unlikely that Citizens will end up becoming a populist party of the
+extreme Spanish right. (Orriols, 2018).
+
+**Catalan nationalist parties**
+
+During the last elections, Catalan nationalist parties have displayed an
+anti-establishment and confrontational rhetoric with the Spanish state
+in which they have combined nationalist claims with populist ones
+defining 'the people' as the Catalan nation (Barrio, 2019; Olivas Osuna,
+2019). However, despite their importance in number of seats in the
+parliament, they do not reach the 5% relevance threshold at the national
+level.
+
+**References**
+
+Abascal S. (2019) "Santiago Abascal contra el consenso globalista"
+\[Online\] <https://www.youtube.com/watch?v=iWuWp609OMI>\[Accessed 20
+September 2019\].
+
+Antón-Mellón (2019) "VOX, del nacional-catolicismo al ultranacionalismo
+neoliberal"
+\[Online\]<http://agendapublica.elpais.com/vox-del-nacional-catolicismo-al-ultranacionalismo-neoliberal/>
+\[Accessed 20 September 2019\].
+
+Barrio, A. (2019) "El populismo y la excepcionalidad española", Quaderni
+di Diritto e Politica Ecclesiastica, Vol. 2, pp. 263-276.
+
+Briziarelli, M. (2016) "To 'Feel' and to 'Understand' Political
+Struggle: The National-Popular Rhetoric of Podemos", *Journal of
+Communication Inquiry*, Vol. 40(3), pp. 287--304.
+
+El Español (2019) "¿Qué dicen PSOE, PP, Cs, Podemos y Vox sobre el
+Ejército? Sus medidas para atraer 130.000 votos" 21 April \[Online\]
+<https://www.elespanol.com/espana/20190421/psoe-pp-cs-podemos-vox-ejercito-medidas/391461739_0.html>
+\[Accessed 20 September 2019\].
+
+El Mundo (2015) "Los críticos de Podemos cuestionan a Bosaho como cabeza
+de lista", 9 November \[Online\]
+<https://www.elmundo.es/comunidad-valenciana/2015/11/09/56406e1c268e3e464d8b4601.html>
+\[Accessed 20 September 2019\].
+
+Eldiario.es (2016) "Esta es la propuesta plurinacional de Podemos y las
+confluencias más allá del referendum", 15 February \[Online\]
+<https://www.eldiario.es/catalunya/politica/propuesta-plurinacional-Comu-Podem-referendum_0_484702224.html>\[Accessed
+20 September 2019\].
+
+Iglesias, P. (2015) "Merkel está muy contenta con un virrey que se llama
+Mariano Rajoy", 3 September \[Online\]
+<https://www.youtube.com/watch?v=2M34oyV4bR4&list=LL9VsJQMPpvrXuMykMFyIqeg&index=181>
+\[Accessed 20 September 2019\].
+
+Iglesias, P. (2014) "Fort Apache - Podemos y el Populismo", 22 November
+\[Online\] <https://www.youtube.com/watch?v=-q9oxr54X_Y> \[Accessed 20
+September 2019\].
+
+Iglesias, P. (2014a) "La casta ha aruinado este país" \[Online\]
+https://[www.youtube.com/watch?v=Mk5gRo88kIQ](http://www.youtube.com/watch?v=Mk5gRo88kIQ)
+\[Accessed 20 September 2019\].
+
+Lavezzolo, S. and Ramiro, L. (2018) "Stealth democracy and the support
+for new and challenger parties", *European Political Science Review
+Vol*10(2), pp. 267--289 Doi:10.1017/S1755773917000108.
+
+Loucaides, D. (2018) "Will Bannonism Play in Spain?", Slate, 2 July
+\[Online\]
+<https://slate.com/news-and-politics/2018/07/vox-party-in-spain-could-bring-right-wing-populist-wave-with-help-from-steve-bannon.html>
+\[Accessed 20 September 2019\].
+
+Mudde, C. (2004) The populist zeitgeist. *Government & Opposition*
+39(4): 541--563.
+
+Mudde, C. (2007) *Populist Radical Right Parties in Europe*. Cambridge:
+Cambridge University Press.
+
+Olivas Osuna, J. J. (2019) "Deconstructing and comparing populism: The
+cases of SNP and Catalan independence paerties", Working Paper presented
+on 29 August in APSA Annual Meeting, Washington DC.
+
+Orriols, L. (2018) "Ciudadanos, ¿hacia el populismo de extrema derecha?"
+\[Online\]
+<https://www.eldiario.es/piedrasdepapel/Ciudadanos-populismo-extrema-derecha_6_774882525.html>
+\[Accessed 20 September 2019\].
+
+Orriols, L., and Cordero, G. (2016) "The Breakdown of the Spanish
+Two-party System: The Upsurge of Podemos and Ciudadanos in the 2015
+General Election." *South European Society and Politics Vol. 21(4)*
+Doi:10.1080/13608746.2016.1198454.
+
+Rodon, T. and Hierro, M. J. (2016) "Podemos and Ciudadanos Shake up the
+Spanish Party System: The 2015 Local and Regional Elections." *South
+European Society and Politics* 21 (3): 339--357. Doi:
+10.1080/13608746.2016.1151127.
+
+Rodríguez Teruel, J. and Barrio, A. (2016) "Going National: Ciudadanos
+from Catalonia to Spain", *South European Society and Politics*, Vol.
+21(4), pp. 587-607, DOI: 10.1080/13608746.2015.1119646
+
+Salvados (2014) "Necesitamos al Ejército, el problema es que, a veces,
+defiende intereses contrarios a los de la gente", 26 October \[Online\]
+[https://www.lasexta.com/programas/salvados/mejores-momentos/pablo-iglesias-"necesitamos-ejercito-problemas-que-veces-defiende-intereses-contrarios-gente"\_201410265725c2784beb28d44601a9d1.html](https://www.lasexta.com/programas/salvados/mejores-momentos/pablo-iglesias-)
+\[Accessed 20 September 2019\].
+
+Simón, P. (2019) Vox en la brecha (de género). El País, 21 January.
+Available at:
+﷟H[tps://elpais.com/elpais/2019/01/20/opinion/1548007306_339168.html
+(](tps://elpais.com/elpais/2019/01/20/opinion/1548007306_339168.html%22h)accessed
+5 April 2019).
+
+Turnbull-Dugarte, S. J. (2019) "Explaining the end of Spanish
+exceptionalism and electoral support for Vox", *Research & Politics*.
+<https://doi.org/10.1177/2053168019851680>
+
+VOX (2014) "¿Qué es Vox?" \[Online\]
+<https://www.voxespana.es/espana/que-es-vox> \[Accessed 20 September
+2019\].
+
+VOX (2016) "Hacer España grande otra vez: Programa electoral 2016"
+\[Online\]
+<https://www.voxespana.es/wp-content/uploads/2015/12/Programa-electoral-VOX-26-J.pdf>
+\[Accessed 20 September 2019\].
+
+VOX (2018) "100 medidas para la España Viva" \[Online\]
+<https://www.voxespana.es/biblioteca/espana/2018m/gal_c2d72e181103013447.pdf>
+\[Accessed 20 September 2019\].
+

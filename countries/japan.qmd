@@ -1,0 +1,257 @@
+---
+title: Japan
+---
+
+
+-   Date range: 1980-2020.
+
+-   Elections included:
+
+    -   Legislative:1980, 1983, 1986, 1990, 1993, 1996, 2000, 2003,
+        2005, 2009, 2012, 2014, 2017.
+
+## Japan Restoration Party/ Japan Innovation Party
+
+The only national party that could be considered populist by the
+dataset's standards is the Japan Restoration Party (*Nippon* *Ishin no
+Kai*, JRP). JRP was is the national successor to the Osaka Restoration
+Party (*Osaka Ishin no Kai,* also translated "One Osaka Party") (Jou
+2015), both built around then Mayor of Osaka and former Governor of
+Osaka Prefecture, Tōru Hashimoto. Hashimoto is a former television
+personality and lawyer who split from the dominant Liberal Democratic
+Party to run successfully for Governor in 2007. ORP was a regionalist
+party with a neoliberal reformist agenda. As his national brand grew, he
+created the JRO as a merger of the ORP with the nationalist Sunrise
+Movement of Tokyo Governor Shintarou Ishihara before the 2012 election.
+While Ishihara was technically the leader of the national party, most
+analyses seem to consider Hashimoto to have been the "face of the party
+during the election" (R. J. Pekkanen and Reed 2016, 66), and the
+continuity of the *Ishin* name suggests as much. The party did
+surprisingly well, leading some to consider it a brief "third force" in
+Japanese politics (Komatsu 2017, 165). Note that the English name
+"restoration" was chosen by the party, but *Ishin* actually means
+"innovation" in Japanese (Kobori 2013, 108), and some literature refers
+to the party as the Japanese Innovation Party. To complicate matters,
+when Hashimoto pulled his faction out of the JRF following strategic
+disputes with Ishihara's Tokyo wing of the party, the new party he
+founded was called the "Japan Innovation Party" (JIP) (Fahey et al.
+2021, 319). This party stood in the subsequent 2014 elections, and
+although a new party, evidence suggests that Hashimoto absorbed the
+newly merged faction into his own operation more than vice versa, and
+hence we've considered it a continuation of the JRP in the dataset
+(except on CHARISMA, as discussed below). Hashimoto's popularity
+declined following the 2014 election, and after his signature policy of
+uniting Osaka prefecture and Osaka city was defeated in a referendum in
+2015, he announced he would leave politics.
+
+Hashimoto's populism was rooted in his harsh and acerbic criticism of
+the political class. His primary antagonists in this regard were
+national political parties, bureaucrats, and unions (Jou 2015, 149), as
+well as local councils and academics (Yoshida, 2019:3). His success was
+due to the "theatrical" (Klein 2015, 3) way in which he berated his
+opponents with "sometimes-violent criticisms" (Yoshida 2020, 3)
+"especially before television crews" (Weathers 2014, 82) and on social
+media (Fahey et al. 2021, 327). This rhetoric accused government
+employees (probably his main "other") of not caring about their jobs
+(Weathers 2014, 82), of being overpaid (Kobori 2013, 112), and of being
+"termites of public finance" (Pons 2012). Further to these insults, he
+repeatedly claimed or implied that public servants actively and
+intentionally maintained the status quo for their own material interest
+(Kobori 2013, 112; Ichihara 2021, 92). Likewise, he claimed that
+politicians in the major parties were untrustworthy, suggesting before
+the 2011 Osaka Prefecture elections, for example, that "We can't entrust
+things to Diet politicians. Isn't it only the people of Osaka Prefecture
+who can get this country moving?" (Weathers 2014, 84). In 2012 he
+campaigned on the slogan "If you are fed up with the two major parties,
+vote JRP" (Reed 2013, 81). This anti-politician message has led many
+observers to consider him and the JRP "anti-establishment" (Lindgren
+2015, 577). In Fahey's words, Hashimoto "depicted politics as a
+good-versus-evil struggle between his reforms and the entrenched,
+self-serving bureaucrats and public servants," (Fahey et al. 2021, 327).
+(OTH_POLCLASS = 3).
+
+The party's key ideological hallmarks were nationalism (Horiuchi 2014,
+29; Jou 2015, 156) and neoliberalism (Weathers 2014; Lindgren 2015), due
+to which it is usually considered to be right wing (Kobori 2013, 117;
+Chiavacci 2022, 127) (LRPOSITION = R). Other than the political class
+and state bureaucrats, other "others" in Hashimoto's and the JRP's
+discourse are somewhat more difficult to clarify. His nationalism was
+not "hard core" in the mould of Ishihara (Horiuchi 2014, 29), but by the
+time of the 2012 election the JRP was clearly a hawkish anti-China party
+which mobilised heavily around the sensitive Senkaku Islands issue
+(Horiuchi 2014, 33). However, we have seen no evidence that the party
+accused domestic rivals of being loyal to these foreign powers, and
+hence we've coded it 2 on OTH_FOREIGN.
+
+Likewise, while some scholars have suggested that Hashimoto was
+something of a nativist (Lindgren 2015, 586), others have stressed that
+"despite his embrace of many nationalist views, Hashimoto strongly
+opposed xenophobic movements" (Fahey et al. 2021, 328--29). While he
+probably deserves a 1 on the OTH_ETHNIC and OTH_IMMIGRANT variables in
+his own right, JRP's coding is complicated by its amalgamation with
+Ishihara's hard right sunrise movement, which was known for harsher
+nativist rhetoric in this regard (Lindgren 2015). Owing to this we've
+coded the JRP 2 on both scales for 2012, but this could be revisited.
+Given that the JIP did not include Ishihara, we've reduced these
+variables to 1 in the 2014 election. JRP was clearly "pro-business"
+(Yoshida 2020, 3; see also Jou 2015, 150) and did not show any major
+hostility to the wealthy (OTH_FINANCIAL = 1) or the military
+(OTH_MILITARY = 1).
+
+The ORP was clearly a "leader-defined party" (Jou 2015, 145). Numerous
+sources note that Hashimoto's "aggressive and impatient political style"
+made him Japan's "most popular politician" in 2012 (Weathers 2014, 77;
+see also Fahey et al. 2021, 327), and that he was notably "charismatic"
+(Horiuchi 2014, 29). However, the JRP being a merger with the Sunrise
+party again complicated the coding here for the 2012 election. Jou
+claims that this co-leadership model means that JRP cannot truly be
+considered a truly leader-defined party, even though Hashimoto's
+charisma was a key reason why voters supported it (Jou 2015).
+Conversely, Reed (Reed 2013, 72) claims that the party didn't really
+have a coherent policy profile, and that "personality" was a dominant
+reason why most of its voters supported it. While there may be a case to
+code it 2 on CHARISMA, we've coded it 3. However once the JIP formed for
+the 2014 election, Pekkanen and Reed suggest that it was new partner
+Kenji Eda, not Hashimoto, who was the "face of the party durin the
+election" R. J. Pekkanen and Reed 2016, 69), and hence we've reduced
+CHARISMA to 1 for that vote. Hashimoto was not a figure in previous
+national governments at the time of the 2012 or 2014 elections (INSIDER
+= 1).
+
+Hashimoto pushed Japanese liberal democratic norms in several ways.
+Ideologically, he advocated what he called a "decisionist" ideal of
+political control (Kobori 2013, 114), where elected leaders (like him)
+would not be as constrained by checks on their power (Fahey et al. 2021,
+327). "His distaste for institutions that limit executive power was
+clear" claims Fahey (Fahey et al. 2021, 327). On 30 June 2011, he
+notoriously said, "the most important thing in Japanese politics is
+dictatorship" (Kobori 2013, 114). He also abused the rights of
+government employees in Osaka by subjecting them to full body searches
+for tattoos (Kobori 2013, 113; Fahey et al. 2021, 328), and attempting
+to force them to complete a non-anonymised questionnaire about their
+political affiliations and activities (Kobori 2013, 112). In addition
+not this he aggressively denounced media outlets critical of this
+administration (Fahey et al. 2021, 327; Yamakoshi 2019, 12). All of this
+led him to labelled "*hashizumu"* by some critics -- a portmanteau of
+his name and *fashizumu* (fascism) (Weathers 2014, 83). While this is
+clearly evidence of threats to liberal democratic norms, we don't feel
+that it quite rises to 3 on the LIBDEMNORMS scale (= 2).
+
+**Not included**
+
+The nature of the **Japanese Socialist Party** (JPA) is not really
+populist, and the same can be said of the **Japanese Communist Party**
+(JCP). Like other socialist parties worldwide, their platform is
+predominantly ideological and issues-based, even if they imply a kind of
+anti-elitism in their economic policy. In the case of the JPA, the two
+issues that are arguably its raison d\'etre are the evils of free-market
+capitalism and militarism. The party did dilute its socialist rhetoric
+as time went on, however, dropping its comittment to socialist
+revolution in 1989. But this was more acquiesence to the political
+estabilishment than response to some bubbling populist sentiment. The
+JCP, on the other hand, has remained steadfastly ideological. It did
+express willingness in 2016 to form a coalition with the Democratic
+Party to challenge the dominance of the LDP/Kometio coalition, but the
+leader of the DP rejected the possiblity due to the JCP being too far
+left.
+
+The growth of the **Democratic Party** through the 2000s into government
+in 2009 has been called populist by some, but this is only really so
+because of how staid and conservative Japanese politics is generally
+under LDP dominant part rule. Several actors within the long-ruling
+**Liberal Democratic Party** (LDP) have been considered populist. The
+first is **Jun\'ichiro Koizumi** emerged at a time when severe economic
+downturn reduced the public\'s faith in the political establishment and
+the bureaucracy (Kato 2018). He ran on a neo-liberal reformist platform
+(advocating privatisations of key sectors) and assailing the more
+patrimonial bosses in the LDP, against whom he commanded deep
+member-based support. While Koizumi often used terms that might be
+considered populist, and occasionally hit touchstone nationalist issues
+(like visiting the Yasukuni shrine), his style seems to have more in
+common with a Ronald Reagan-style outsider politician reformer (Otake
+2009; Fahey et al. 2021), and not a populist as we define the term.
+According to Otake, he avoided "highly inflammatory" rhetoric while
+criticising his opponents (cited in Weathers 2014, 82), contrasting him
+with populists like Hashimoto and Ishihara. Likewise, Koizumi\'s
+successor **Shinzo Abe** has a strong nationalist streak similar to
+far-right populist parties, but not one that could render him or the LDP
+categorically populist under his leadership. Interestingly, it seems
+that Abe\'s ability to command this nationalist flank is the reason why
+far right groups don\'t get much traction, even though several very
+small ones have emerged of late. The **Komeito Party** (both the
+original and the New Komeito) is tough to code because it defies
+conventional party typologies. There is a case to consider it a populist
+party because its mantra is the representation of "common people",
+there's no evidence that it engages in anti-elite rhetoric.
+
+**References**
+
+Chiavacci, David. 2022. "Social Change in Japan, 1989--2019: Social
+Status, Social Consciousness, Attitudes and Values. Carola Hommerich,
+Naoki Sudo, and Toru Kikkawa London: Routledge, 2021. Pp. x and
+175,\\pounds 96.00 (Hardback ISBN 978-0-367-35377-3)." Wiley Online
+Library.
+
+Fahey, Robert A., Airo Hino, Robert J. Pekkanen, and S. M. Pekkanen.
+2021. "Populism in Japan." In *The Oxford Handbook of Japanese
+Politics*, 317. Oxford University Press Oxford.
+
+Horiuchi, Toru. 2014. "Public Opinion in Japan and the Nationalization
+of the Senkaku Islands." *East Asia* 31 (1): 23--47.
+
+Ichihara, Maiko. 2021. "Japanese Democracy After Shinzo Abe." *Journal
+of Democracy* 32 (1): 81--95.
+
+Jou, Willy. 2015. "A Regional Party in a Centralized Country: The Case
+of One Osaka in Japan." *Regional & Federal Studies* 25 (2): 145--63.
+
+Kato, Sota. 2018. "Japan's Post-Populist Paralysis \| Research." The
+Tokyo Foundation for Policy Research. 2018.
+https://www.tokyofoundation.org/research/detail.php?id=358.
+
+Klein, Axel. 2015. "Is There Left Populism in Japan? The Case of Rei a
+Shinsengumi." *Small* 579: 3.
+
+Kobori, Masahiro. 2013. "Populism as Rhetorical Politics in Britain and
+Japan:'Devil Take the Hindmost.'" *Ritsumeikan Law Review* 30: 107--22.
+
+Komatsu, H. 2017. "'First Past The Post' and The Decline of Japanese
+Democracy." *King's Law Journal* 28 (2): 163--66.
+https://doi.org/10.1080/09615768.2017.1362868.
+
+Lindgren, Petter Y. 2015. "Developing Japanese Populism Research through
+Readings of European Populist Radical Right Studies: Populism as an
+Ideological Concept, Classifications of Politicians and Explanations for
+Political Success." *Japanese Journal of Political Science* 16 (4):
+574--92.
+
+Otake, Hideo. 2009. "Neoliberal Populism in Japanese Politics: A Study
+of Prime Minister Koizumi in Comparison with President Reagan." In
+*Populism in Asia*, edited by Kosuke Mizuno and Pasuk Phongpaichit,
+202--16. Singapore: NUS Press.
+
+Pekkanen, Robert J., and Steven R. Reed. 2016. "From Third Force to
+Third Party: Duverger's Revenge?" In *Japan Decides 2014: The Japanese
+General Election*, edited by Robert J. Pekkanen, Steven R. Reed, and
+Ethan Scheiner, 62--71. London: Palgrave Macmillan UK.
+https://doi.org/10.1057/9781137552006_6.
+
+Pons, Philippe. 2012. "Recession-Hit Osaka Pins Its Hopes on a Populist
+Hero." *The Guardian*, January 10, 2012, sec. World news.
+https://www.theguardian.com/world/2012/jan/10/osaka-mayor-attacks-mainstream-politics.
+
+Reed, Steven. 2013. "Challenging the Two-Party System: Third Force
+Parties in the 2012 Election." In *Japan Decides 2012: The Japanese
+General Election*, edited by Robert Pekkanen, Steven Reed, and Ethan
+Scheiner, 72--83. London: Springer.
+
+Weathers, Charles. 2014. "Reformer or Destroyer? Hashimoto Tōru and
+Populist Neoliberal Politics in Japan." *Social Science Japan Journal*
+17 (1): 77--96.
+
+Yamakoshi, Shuzo. 2019. "Legitimation Crisis\" of Journalism in Japan."
+*Keito COmmunication Review*, no. 41.
+
+Yoshida, Toru. 2020. "Populism 'Made in Japan': A New Species?" *Asian
+Journal of Comparative Politics* 5 (3): 288--99.
+

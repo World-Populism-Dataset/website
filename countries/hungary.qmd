@@ -1,0 +1,1276 @@
+---
+title: Hungary
+---
+
+
+## Independent Smallholders' and Peasant Party
+
+The Independent Smallholders' and Peasant Party (*Fiiggetlen Kisgazda
+Pirt*, FKgP), sometimes called just the "smallholders" party, was the
+most popular party in the brief democratic period before the Communist
+takeover in 1945. In its post-communist reformation its main mission was
+to re-privatise rural land back to the peasants from whom it had been
+confiscated under the previous regime (Ilonszki and Kurtán 1992, 423),
+taking the character of a sectional agrarian party (Körösényi 1999, 66).
+Under the leadership of József Torgyán it won almost 12% in the 1990
+election and formed a coalition with the Hungarian Democratic Forum
+(MDF) in the first post-communist government of Józef Antall. After this
+government disappointed the party's aims of rural land redistribution
+Torgyán left the coalition and the party split (Lomax 1995, 132).
+Thereafter Torgyán consolidated his hold on the party in opposition and
+led it to win 9% and 13% in 1994 and 1998 respectively. It then featured
+as a junior partner in the Fidesz government of 1998-02, during which
+further internal splits and corruption scandals saw its decline into
+irrelevance by 2002 (Sitter 2011, 253).
+
+The party has been frequently considered populist in the literature due
+to the what Enyedi calls its "radical protest-party strategy" (Enyedi
+2017, 178). In his "anti-elite approach" (Körösényi 1999, 45), Torgyán
+used highly inflammatory rhetoric against his political rivals, whom he
+accused of "selling out the country" (Batory 2002, 532). For example, at
+one rally in Budapest he called the leaders of the governing parties
+"disgusting pseudo-liberal worms and vultures that have inundated
+\[our\] country" and that "as spring is coming, it is time for
+Hungarians to launch a de-worming campaign" (cited in Nagle 1997, 44).
+Similarly, when the government did not punish former communist leaders
+for "crimes against Magyardom" Torgyán "tried to whip up a hysterical
+campaign against the government for its readiness to compromise" (Fowkes
+1999, 27). In contrast to this elite, Torgyán offered "easy solutions"
+to the country\'s problems (Oltay 1995, 748). We've therefore coded FKgP
+3 on OTH_POLCLASS.
+
+Torgyán and the FKgP "pushed a radical anti-foreigner, Hungarian
+nationalist politics" which increased in the years of IMF-imposed
+austerity budget (Nagle 1997, 44), at which time the party accused the
+government of subservience to international financial institutions
+(Lomax 1999, 116). We've not seen evidence of anti-foreign "others" in
+the party's discourse before this period though, so we've coded it 2 on
+OTH_FOREIGN in 1998 only, and 1 before this. Despite its right
+wing-nationalism, sources did not reveal significant hostility towards
+ethnic "others" (OTH_ETHNIC = 1) or hostility to migrants
+(OTH_IMMIGRANTS =1). Some sources have noted that the party engaged in
+"economic populism" (Rosůlek 2011, 77; Fowler 2004, 100), however this
+seems to be a reference to the politics of land redistribution than
+class-based grievances against business or the wealthy (OTH_FINANCIAL =
+1). Likewise, we've seen no evidence for anything on the OTH_MILITARY
+variable (= 1).
+
+Although it did not have a clear ideological position (Körösényi 1999,
+66), most studies of the 1990s Hungarian party system place the FKgP on
+the right (Fazekas and Fekete 2018, 135), the "centre-right" (Rosůlek
+2011, 69), or "conservative" (Z. Kovács 2001, 258; Körösényi 1999, 32),
+and it is usually placed in the "Christian nationalist" camp (Enyedi
+2017, 197). Many sources claim that the party was "radical" (Körösényi
+1999, 66; Rosůlek 2011, 77; Fowler 2004, 84), but this appears to relate
+more to its populist theatrics and accusations than its ideological
+stance. Hence we've labelled it R on LRPOSITION.
+
+As the FKgP had a long lineage to the pre-communist era, in its first
+election it could not be considered a leader-dependent party. However,
+after by the 1994 election, internal purges and reforms changed this.
+Under the "demagogic" leadership of Torgyán (Lomax 1999, 116), the party
+could be better defined "by personal appeal of its charismatic leader
+than by its political programme" (Enyedi 2017, 178), and under a party
+constitution passed in 1991, as party president Torgyán had total
+control over it (Lomax 1995, 131; Fowler 2004, 108). When the party's
+parliamentary faction split in 1991, it was clear that the majority of
+its members backed Torgyán and at the 1994 elections none of the
+anti-Torgyán MPs were returned (Fowler 2004, 84--85). We've therefore
+coded the party 2 on CHARISMA in 1990 and 3 from 1994. Despite its
+advocacy for reforming the constitution (to recall MPS and disband the
+Constitutional Court among other things) (Körösényi 1999, 45), Rosůlek
+has noted that the party was loyal to democracy (Rosůlek 2011, 77), and
+hence we've coded it 1 on LIBDEMNORMS. As the party was a coalition
+member in the first post-communist government from 1990, we've coded it
+1 on INSIDER in 1990 and 2 afterwards.
+
+## Hungarian Justice and Life Party 
+
+The Party of Hungarian Justice and Life (*Magyar Igazság és Élet
+Pártja*, MIÉP) was founded by former playwright István Csurka. Prior to
+this Csurka had been the leader of a radical right populist faction of
+the ruling Hungarian Democratic Forum (MDF) (A. Kovács 2013, 223).
+Csurka was ejected from the MDF in 1993 after publishing his notorious
+'A few thoughts' tract the previous year, which was laced with
+neo-Nazism and antisemitism in its accusations against the political
+status quo (Szôcs 1998, 1100; Lomax 1995, 128). The name of the party
+was selected to mimic the 'Hungarian Life Movement", an inter-war
+fascist group. The MIÉP had little success in its first election in
+1994, but entered Parliament on a 5.47% vote share in the 1998 election.
+Its vote slipped below 5% in 2002, after which it created a coalition
+with Jobbik for the 2006, which only received 2.2%.
+
+Csuka's political narrative was that there had been no real political
+change in the post-communist era, and that Hungary continued to be ruled
+by a "dwarf minority" (Rosůlek 2011, 82) of 'anti-Hungarians' (A. Kovács
+2013, 223) and foreign interests (Lomax 1995, 128). Csurka campaigned in
+a way that pitted true Hungarians against a clear set of self-serving
+political enemies (Tóth and Grajczjár 2015, 134; Bozóki and Kriza 2008,
+9). In his own words: "The enemy is quite clearly discernible: they are
+the "small circle of liberal and un-Hungarian people out to destroy the
+nation, who deliberately loot the coffers and occupy all key positions"
+(Bozóki and Kriza 2008, 9). This elite, a continuation of the old
+communist elite, was alleged to have consciously betrayed the nation
+(Szôcs 1998, 1100) (OTH_POLCLASS = 3).
+
+The MIÉP was "xenophobic" (Bozóki and Kriza 2008, 8), "ethno-radical"
+(Egedy 2009, 49), and neo-Nazi (Markus 1998, 12), to the point that
+ethnically-based politics was "the essence of its ideology" (Bozóki and
+Kriza 2008, 9). In particular, it relied on a staunch antisemitism (M.
+Szabó 2006, 9; A. Kovács 2013, 223; Pirro 2014a, 256; Lomax 1999, 120;
+Chinatera-Stutte and Pető 2003, 6), which was evident in Csurka's 1992
+tract (Lomax 1995, 128). In addition to claiming that the former
+communist regime was controlled by Jews (LeBor 2008, 35), Csurka alleged
+that the post-1989 regime was loyal to international Jewish interests
+that aimed to "Palestinize" Hungary" (Tóth and Grajczjár 2015, 134).
+According to some analysis, this was an outgrowth of the late communist
+era, in which anti-semitism was a default form of protest (Szôcs 1998,
+1097). In addition to this, Csurka and the MIÉP were hostile to Roma,
+opposition to whom was evident in the party's platforms and manifestos
+(Pirro 2014b, 616; Kenes 2021, 17). All of this is easily sufficient to
+code the party 3 for OTH_ETHNIC. We've seen no mention of immigrants in
+the scholarship on the MIÉP, probably because this was not a major
+political issue in Hungary in the 1990s (OTH_IMMIGRANTS = 1).
+
+That Hungarian politics and the Hungarian state was totally controlled
+by foreign entities attempting to "recolonize" Hungary (Kenes 2021, 5)
+was a constant theme in Csurka's narrative (Chinatera-Stutte and Pető
+2003, 6; see also Bozóki and Kriza 2008, 15; Lomax 1995, 128). Political
+rivals were deemed by the MIÉP to be "serving as the Hungarian outpost
+of international financial circles" (Tóth and Grajczjár 2015, 135), and
+forming "vassal governments" (Bozóki and Kriza 2008, 9) of those
+interests. While this foreign other was often kept vague, the Csurka and
+the party were explicitly opposed to the financial bodies like the IMF
+(Murer 2015, 84) and the EU (Kenes 2021, 5). In some phrasings, this was
+a plutocratic conspiracy controlled from London, New York, Brussels and
+Tel Aviv (Agocs and Agocs 1994, 79; Murer 1999, 23). In the words of
+Kovács:
+
+> The tensions caused by economic and cultural globalization were
+> portrayed as a conflict between cosmopolitan and national interests,
+> joining international integration as a loss of national sovereignty,
+> and the social consequences of the economic and political transition
+> as the result of being at the mercy of colonial masters (A. Kovács
+> 2013, 223).
+
+We've coded the MIÉP 3 on OTH_FOREIGN.
+
+There is an overlap between this anti-foreign narrative and hostility
+towards economic and financial powerbrokers. Csurka and the MIÉP have
+identified "thieving capitalists" (Murer 2015, 83) and "Big Money"
+(Bozóki and Kriza 2008, 16) as enemies of the Hungarian people, and
+developed a narrative whereby global capitalist organisations have set
+out to "ruin" Hungary (Murer 2015, 82; see also Kenes 2021, 5). While
+this aspect of its rhetoric is somewhat thin in the scholarship on the
+party, we've labelled it 3 on the evidence available, although this
+could be revisited. We've seen no evidence for anything on the
+OTH_MILITARY variable (= 1).
+
+The MIÉP is usually classed as "extreme right" (Palonen 2010, 14), or
+"ultra-right-wing" (Lomax 1999, 117). Its policy framing and criticism
+of capitalism had some left-leaning traits (Szôcs 1998, 1101), but
+according to Bozóki and Kriza it did "not seek solutions to problems in
+the domain of social and welfare politics, instead, it consistently
+looks to answers steeped in racial and ethnic tint" (Bozóki and Kriza
+2008, 9). Hence we've coded it FR. Csurka has been called a
+"heavyweight" in his status as a leader and an intellectual (Szôcs 1998,
+1105), who exerted "dominance" within the party and the far right more
+generally (Dániel Mikecz 2015, 106). According to Bozóki and Kriza,
+"Csurka exerts a completely determining influence on \[the parliamentary
+MIÉP\] ... his authority in MIÉP is unquestionable and his weekly
+'orientations' serve as signposts for the party faithful on political
+and ideological issues." (Bozóki and Kriza 2008, 8--9). We've therefore
+coded the MIÉP 3 on CHARISMA. Given that Csurka was a major faction
+leader in the governing MDF party from 1990, we've labelled the MIÉP 2
+on INSIDER
+
+Csurka and the MIÉP were anti-liberal (Chinatera-Stutte and Pető 2003,
+6) and anti-democratic (Kenes 2021, 5; Bozóki and Kriza 2008, 16).
+Csurka made vague threats of violence if his enemies attempted their
+grand plans (Chinatera-Stutte and Pető 2003, 6) and MIÉP rallies were
+often attended by skinheads (Murer 1999, 36). Csurka also rejected media
+criticism on the grounds that the media was controlled by Jews (Murer
+1999, 17), and he rejected the results of elections and the legitimacy
+of elected governments (Bozóki and Kriza 2008, 16). We've therefore
+coded the party 3 on LIBDEMNORMS.
+
+## Fidesz
+
+The "Alliance of Young Democrats" (*Fiatal Demokratak Szovetsege*,
+'FIDESZ') is a former dissident youth movement from the late communist
+period that transitioned into a mainstream party in the 1990s (M. Szabó
+2011). The party has been in power twice in its history, between 1998
+and 2002, and 2010-present, both times under the leadership of founder
+Viktor Orbán. The party's second stint in power started in the context
+of both the financial crisis and a host of scandals within the previous
+socialist government (Rydliński 2018, 96), an environment which saw
+Fidesz received two thirds majority in Parliament (off a 53% vote). The
+party has gone on to win twice more in succession, albeit not with the
+same vote share as 2010. Since the 2006 election the party has
+officially served in an electoral alliance with the historical Christian
+Democratic Party (KNDP).
+
+Exactly when Fidesz should be counted as populist by our definition is
+debatable. According to numerous sources, the party was a mainstream
+liberal party in the 1990s (M. Szabó 2011, 47), and studies of Hungarian
+politics in this era do not mention it as a populist force (see for
+example Fowler 2004; Hanley et al. 2008). Its 1998 election slogan was
+"\[do\] more than change the government, but less than change the
+system" (Egedy 2009, 47), and while in government 1998-02 it was a
+progressive pro-European party (Palonen 2009, 329) whose policies were
+not very different from the other parties (Palonen 2010, 11). According
+to numerous sources, the party's defeat in 2002 was the trigger of its
+major rhetorical shift towards populist discourse (M. Szabó 2011, 50),
+at which point Orbán "transformed his rhetoric" and adopted
+"anti-elitism" (Palonen 2018, 314), claiming that the new government was
+the product of "electoral manipulation" at the expense of ordinary
+Hungarians (M. Szabó 2006, 1; Halmai 2018, 299). While some sources
+claim that the party fully embraced populist anti-elitism in the 2010
+elections (Farkas 2018), or that this rhetoric picked up after its 2006
+defeat (J. Szabó 2020, 30), we've followed the preponderance of the
+literature (see for example Palonen 2009, 324--25; Enyedi and Róna 2018,
+252) to conclude that 2006 was the first election in which Fidesz engage
+in populist rhetoric by our definition, and hence it is included in the
+dataset from this point.
+
+After its embrace of populist rhetoric, the party has been defined as
+"anti-system, anti-establishment" (Palonen 2009, 323) and "anti-elitist"
+(Ádám and Bozóki 2011, 3). Within Orbán's populist rhetoric, the elite
+are considered to be the entirely of the political establishment (Halmai
+2018; Csehi 2019, 1016). This included former communist figures (the
+party's original target) (Egedy 2009, 50), who were called "forces from
+the past" (Hegedüs 2019, 413) or simply "them" (M. Szabó 2011, 57),
+accused by the party of converting political power to wealth after the
+1989 transition (Csigó and Merkovity 2016, 2), and plotting a communist
+restoration (Csehi 2019, 1016). In 2006, the leaking of a speech by
+Socialist Prime Minister Ferenc Gyurcsány admitting to dishonesty in the
+previous campaign triggered mass protests which prominently featured
+Fidesz (Ádám and Bozóki 2011, 12). The party was equally scathing of
+economic liberals, to the extent that it labelled the political class a
+"clandestine conspiracy of Communism and Capitalism" (M. Szabó 2006,
+10). Once in power, NGOs and civil society groups critical of the
+government were consistently positioned within the political class (J.
+Szabó 2020, 32), particularly after the 2015 migrant crisis (Etl 2022,
+5). These groups were considered corrupt foreign agents "attempting to
+enforce foreign interests upon Hungary" (Csehi 2019, 1016). In time this
+"other" would be defined as a shadowy but powerful class of
+international "elite" loyal to no nation but hostile to Hungary:
+
+> Their faces are not visible, but are hidden from view; they do not
+> fight directly, but by stealth; they are not honorable, but
+> unprincipled; they are not national, but international, they do not
+> believe in work, but speculate with money; they have no homeland, but
+> feel that the whole world is theirs (cited in Csehi 2019, 1019)
+
+Against this threat from the political class, Orbán styled himself and
+Fidesz as the only true representative of the nation (Bozóki 2012, 12),
+and in J. Szabó's words, "the only one capable of defending the people"
+(J. Szabó 2020, 32). In fact, after losing in 2002, Orbán rejected the
+idea that he and in Fidesz were in "opposition" on the grounds that the
+"nation cannot be in opposition" (Bozóki 2012, 12). For this reason
+we've coded Fidesz 3 on OTH_POLCLASS from 2006 onward.
+
+Despite pursuing generally neo-liberal policies (Ádám 2018, 12), the
+financial elite have been a key element of the "elite" opposed to the
+ordinary people in Orbán's populism. Ideologically, Fidesz has
+encouraged anti-capitalist sentiments at home (Bozóki 2012, 18; Enyedi
+2016, 15), specifically by denouncing "speculative capitalism" as being
+an anti-Christian system through which "ordinary and trustworthy people
+always \[turn\] out as losers" (Hegedüs 2019, 414). The party has
+specifically opposed "liberal capitalist elites" (Hegedüs 2019, 413),
+"bankers" (Batory 2016, 290), "new aristocrats," "opulent millionaires,"
+"loafers" and "swindlers," for their exploitation of the Hungarian
+people (Enyedi 2016, 14). It seems that this rhetoric only really picked
+up in 2010 in the context of the financial crisis (Hegedüs 2019, 414).
+It also seems that it was particularly foreign financial institutions
+that were targeted in this way (Csigó and Merkovity 2016, 4), and after
+assuming government in 2010 the party enacted taxes specifically
+targeting multinational firms (Ádám 2018, 13), which were represented as
+ways to hurt banks and multinationals while sparing ordinary people
+(Bozóki 2012, 17). Nonetheless, domestic collaborators and beneficiaries
+of this global capitalist elite were also key enemies of the people in
+the party's language (Csehi 2019, 1016; Enyedi 2016, 14). The dates and
+range of coding the party for OTH_FINANCIAL are difficult to determine,
+but on the balance of secondary evidence we've coded it 1 in the 2006
+election and 3 from 2010.
+
+According to Palonen from 2002 onward the party's representation of the
+"people" was in framed in ethnic terms (Palonen 2009, 329). It has
+employed ethnocentric ideas against external "enemies" (Fabry 2019,
+175), specifically targeting several non-ethnic Hungarian "others" such
+as Roma, Muslims, Africans (L. Fekete 2016, 40), who have been targeted
+with "institutionalized racism" by the Fidesz government (Fabry 2019,
+167). Against the ideals of multi-culturalism, Orbán has stressed the
+need to maintain ethnic homogeneity, as "too much mixing causes trouble"
+(Fabry 2019, 175). This ethnocentrism has included an antisemitic
+element (Becker 2010), which according to J. Szabó subtly "shapes
+current political propaganda of Orbán's regime" (J. Szabó 2020, 32).
+This is often alleged to be a driving factor in the government's fierce
+opposition to Hungarian-born Jewish billionaire George Soros (Kalmar
+2020), who became a major element of the "elite" (Csehi 2019, 1017), and
+was accused of orchestrating the 2015 migrant crisis for profit (Kalmar
+2020). The 2015 migrant crisis (see below) acted as a catalyst to
+sharpen the government's rhetoric against ethnic others (Hegedüs 2019,
+412), to the point that it started to match the more extreme Jobbik
+party in its ethnic nationalism (Palonen 2018, 317). We've therefore
+coded the party 2 on OTH_ETHNIC 2002-14, and then 3 after the migrant
+crisis (2018).
+
+After the 2015 migrant crisis, this ethno-nationalism was coupled with a
+strong opposition to immigrants, who were represented as cultural
+threats to Hungary and Europe (Palonen 2018, 317), and an "enemy" of the
+Hungarian people (Gonda 2019, 606). Orbán and Fidesz claimed that
+"migration will destroy us" (Lamour and Varga 2020, 342), that the
+crisis constituted an "invasion" of Muslims (L. Fekete 2016, 40), and
+that migrants were "waste" (Thorleifsson 2017, 318) hostile to the
+Hungarian people (Palonen 2018, 316). In government Fidesz installed
+billboards throughout the country stating that "The People have chosen:
+The country needs to be defended" to signal its unwillingness to accept
+migrants (Etl 2022, 3), and imposed laws punishing organizations accused
+of aiding illegal immigration with jail time (Fabry 2019, 175; Majtényi,
+Kopper, and Susánszky 2019). While this rhetoric clearly picked up from
+2015, Majtényi (*et al)* make a convincing case that the party's
+anti-immigrant rhetoric predates the crisis (Majtényi, Kopper, and
+Susánszky 2019, 179). For this reason we've coded it 2 on OTH_IMMIGRANTS
+from 2006-14 and 3 from 2018.
+
+Foreign interests and states have been key elements of the "other" and
+the "elite" within Fidesz's populist rhetoric. After his 2002 defeat
+Orbán started blaming opponents who served "foreign interests" (Bozóki
+2012, 12), and he consistently alleged that opponents are activists
+attempting to enforce foreign "interests" on the Hungarian people
+(Johnson and Barnes 2015, 546; J. Szabó 2020, 31). For example, in 2014,
+he claimed that:
+
+> we had had enough of the politics that is forever concerned with how
+> we might satisfy the West, the bankers, big capital and the foreign
+> press . . . Over the past four years we have overcome that . . .
+> subservient mentality . . . Hungary will not succumb again! (cited in
+> Johnson and Barnes 2015, 536)
+
+While this category was often kept vague, the EU and the IMF have
+probably been the most important specific "external enemies" in Fidesz's
+populist rhetoric (Gonda 2019, 606; Batory 2016, 289; Hargitai 2020,
+203; Ádám and Bozóki 2011, 14; Csehi 2019, 1016). Orbán and the party
+have claimed, for example that: resistance to Brussels today is
+equivalent to resistance against Vienna and Moscow in previous chapters
+of the Hungarian nationalist story (Batory 2016, 290); that the EU was a
+colonial power in its interactions with Hungary (Csehi 2019, 1018); that
+Hungary was engaged in "a war of independence against the IMF" (Csehi
+2019, 1018); and, after walking out of debt renegotiations in 2010, that
+Hungary would "not accept diktats" from the IMF or EU in the future
+because they were "not our bosses" (Fabry 2019, 173). Significantly for
+our coding definitions, numerous sources claim that this has reached the
+level of considering domestic political rivals to be puppets of these
+foreign actors (Hegedüs 2019, 415; Johnson and Barnes 2015, 551). In
+Enyedi's words, "Ordinary Hungarians were typically not contrasted \[by
+Fidesz\] with the Hungarian elite, but rather with the international
+economic and cultural establishment and their local representatives: the
+'foreign-minded,' cosmopolitan leftists and liberals" (Enyedi 2016, 14).
+This is sufficient to code the party consistently 3 on OTH_FOREIGN.
+We've seen no evidence for any rhetoric on the OTH_MILITARY scale (= 1).
+
+While the party has often had some left leaning economic policies
+(Toplišek 2020, 394; Palonen 2009, 322), it is usually considered to be
+a right-wing (Csigó and Merkovity 2016, 1) and
+"conservative-nationalist" party (Ádám and Bozóki 2011, 7). Where it
+should be placed within the right of the ideological spectrum is
+somewhat more difficult, as some have contended that is somewhat
+"moderate" (Boda et al. 2015, 876) and "centrist" (Palonen 2009, 325),
+and others a "hard right" party (Fabry 2019, 165) at various points in
+its history. On the whole its economic policy is generally liberal (Ádám
+2018, 12), and we've coded it R on LRPOSITION, although this could be
+revisited.
+
+Most secondary sources identify Orbán's political charisma and conclude
+that it has been a critical element of the party's image and success
+(Körösényi 2019; Enyedi 2016, 2016; Ádám and Bozóki 2011, 3; Körösényi
+and Patkós 2017; Pappas 2016). As a party Fidesz has been "structured
+around its leader" (Lamour and Varga 2020, 336). In Bozóki's
+interpretation, since 2003 he "transformed Fidesz from a democratic to a
+highly hierarchical, centralized party which is controlled exclusively
+by him", and that "Orbán has not simply been an elected representative
+of Fidesz, it is Fidesz which belong to him and represent him" (Bozóki
+2012, 17, 12). Similarly, Antal considers Orbán's Hungary a case of
+"leader democracy" (Antal 2017, 11). This is sufficient evidence to code
+the party 3 on CHARISMA. Given that Orbán served as Prime Minster before
+2006, we have coded Fidesz 3 on INSIDER for the entirety of its
+inclusion in the dataset.
+
+The secondary literature has uniformly considered Fiedesz to be hostile
+to liberal democratic norms in that it is "authoritarian" (Ádám 2018),
+"autocratic" (Pappas 2019, 77), and directing Hungary on an illiberal
+and authoritarian "turn" in power (Bánkuti, Halmai, and Scheppele 2012;
+Ádám and Bozóki 2016, 104). Ideologically, Orbán has officially declared
+that "liberalism" was an enemy of the nation in 2014 (Hegedüs 2019,
+416), specified a number of philosophical objections to it (which he
+considered different to democracy) (Scheppele 2019), and declared that
+his government would serve as a model alternative to Western liberal
+democracy (Toplišek 2020, 393). In Orbán's words "the new state that we
+are constructing in Hungary is an illiberal state, a non-liberal state"
+(J. Szabó 2020, 31). This shift relates mostly to the constitutional
+changes which centralised power under the Fidesz government (L. Fekete
+2016, 44). After winning a two-thirds supermajority in the 2010
+election, Orbán used this control to give his parliamentary majority
+even more power, "effectively dismantling all checks and balances on
+executive power" (Ádám 2018, 12), and engaging in "unconventional moves
+limiting constitutional rights in Hungary" (J. Szabó 2020, 31). Bozóki
+has called this a "constitutional coup d'état" (Bozóki 2012, 17). In
+government the party has tried to force out judges opposed to its
+initiatives (Kornai 2015; L. Fekete 2016), curtailed the power of the
+constitutional court (Bozóki 2012, 17), and "undermin\[ed\] the
+institutional autonomy of the judiciary system" (Ádám and Bozóki 2011,
+15). Constitutional reforms allowed Fidesz to nominate judges without
+parliamentary approval, after which it passed laws that the prior court
+would have struck down (Bánkuti, Halmai, and Scheppele 2012, 139).
+Regarding media freedom, government controlled media stations refused
+airtime for the opposition under Fidesz's rule (Bozóki 2012, 17), and
+the government forced hundreds of private media owners to collectivise
+their outlets under the control of a state-linked entity led by a former
+Fidesz lawmaker (J. Szabó 2020, 33). The party also stacked state media
+with politically friendly managers (Bánkuti, Halmai, and Scheppele 2012,
+141), and passed a law establishing the new "National Media and
+Info-communications Authority" with leadership elected by parliament
+(which was dominated by Fidesz at the time), which had carte blanch to
+regulate the media and fine journalists and institutions which print
+content which it deems "improper" content (Fabry 2019, 176). The Fidesz
+government has also created new security units that have acted as a
+"private army" for Orbán (Fabry 2019, 176)*,* restricted the
+opposition's capacity for mobilisation during elections (Palonen 2018,
+315) and engaged in a 'penal populism' of adding minimum life sentences
+to habitual violent offenders (Boda et al. 2015). Before its second
+stint in government, Orbán criticised the legitimacy of the 2002 and
+2006 elections, which Fidesz lost (Ádám 2019, 387). For these reasons
+many consider Hungary to no longer be a democracy under Orbán (Bozóki
+and Heged\\Hus 2018), and that the party has "washed away" the rule of
+law and threatens basic human rights (Csigó and Merkovity 2016, 299).
+For these reasons we've coded it 3 on LIBDEMNORMS from 2006.
+
+## Movement for a Better Hungary/Jobbik 
+
+Jobbik is the successor of the "Right-Wing Youth Association"
+(Jobboldali Ifjúsági Közösség, JOBBIK) founded by a group of university
+students in 2002. The following year it officially became a party and
+changed its name while keeping its acronym to become "Movement for a
+Better Hungary" (note that the name is actually a play on words as
+"Jobb" means both "better" and "further to the right"). The new party
+formed an electoral alliance with MIÉP which received only 2.2% in the
+2006 polls (A. Kovács 2013, 224). The following election in 2010 saw the
+party's electoral breakthrough on its own, totalling almost 17% and
+winning the third largest number of seats in Parliament, following a
+similarly strong performance in EU elections the previous year. This
+occurred in the context of the economic crisis and a number of high
+profile crimes involving Roma perpetrators (Enyedi and Róna 2018, 255).
+Subsequent elections in 2014 and 2018 saw it reach 20% and 19%
+respectively, each time mobilising partially off its youth support and
+strong online presence (Kim 2016, 351; Karl 2017). Jobbik is considered
+by many to be the successor to the MEÍP on the far right (Kenes 2021,
+5), and has claimed this itself (Tóth and Grajczjár 2015, 140). Its
+influence is widely seen to have pushed Fidesz further to the right in
+rhetoric and policy (Czibere and Kovách 2022, 738). Gábor Vona became
+leader of the party in 2006, but stepped down after failing to reach his
+target performance in the 2018 elections.
+
+A challenge with Jobbik is how to account for its changes over time.
+Around 2014-16, the party embarked on a *cukisagkampany* ('cuteness
+campaign') to moderate its image and broaden its appeal (Pirro 2019,
+794) Vona claimed to be "killing the soul of Jobbik" in order to mature
+it" (Hyttinen 2022, 5), aiming to convert it into a centrist "people's
+party" (Kenes 2021, 8). As a part of this strategy, Vona offered an
+apology to those who had been offended by earlier remarks (Metz and
+Oross 2020, 6), pledged not to make any more (including burning the EU
+flag) (Enyedi and Róna 2018, 264). The party then changed some of its
+policies on the EU (Kenes 2021, 8; Enyedi and Róna 2018, 264), started
+working with other parties in Parliament (Goldstein 2021, 28), and
+altered its rhetoric such that its "new slogans are not directed against
+anyone" (Hyttinen 2022, 14). It's unclear exactly when this transition
+began, and therefore when it should be considered to have taken affect.
+Some say it emerged before the 2014 elections (Kenes 2021, 8), but most
+analysis suggests it only solidified after those elections (Lubarda
+2020, 819--20), and took root in 2016 (Héjj 2017, 88; Metz and Oross
+2020, 6), after an aberration back to nativist nationalism during the
+2015 migrant crisis (Hyttinen 2022, 5). By 2018, a group frustrated with
+the transition split to form a rival party, *Mi Hazánk* ('Our Homeland')
+(Lubarda 2020, 819--20). Despite the change, the preponderance of the
+literature still considers the reformed Jobbik to be populist (Lubarda
+2020, 820), albeit less violent nationalistic and ethnocentric, with
+some going as far as concluding the transition to be merely a
+"redecoration of a façade" (Héjj 2017, 89). Even Hyttinen, who considers
+the transition to be significant, considers the reformed party to be "a
+more flexible right-wing populism" (Hyttinen 2022, 23). Others have
+noted that: the shift did not lead the party to change its elite or
+membership (Dániel Kovarek et al. 2017, 66; Héjj 2017, 89); that changes
+mainly related to national level discourse, not the actions of local
+leaders (Dániel Kovarek et al. 2017, 78); that Vona still made efforts
+to tie the party to more extreme movements (Tóth and Grajczjár 2015,
+137). We have concluded that the party has remained essentially populist
+through 2018, and that the changes should not alter any coding decisions
+for the 2018 elections, although this could be revisited.
+
+Jobbik has been classed as an "anti-system party" (Enyedi and Róna 2018,
+252). "anti-elite" (Enyedi and Róna 2018, 256; Bíró-Nagy, Boros, and
+Varga 2012, i), "Anti-corruption" (Pirro 2019, 792) and
+"anti-establishment" (Enyedi 2016, 17), the latter typified in its
+presence on the frontline of chaotic protests which followed the leaked
+speech of PM Gyurcsany in 2006 (Kenes 2021, 6; Kim 2016, 347). The party
+holistically blamed social grievances on "destructive behaviour of the
+political establishment" (Lugosi 2018, 223), which it articulated with
+what Pytlas calls a "conspiracy-like" framing (Pytlas 2013, 170). From
+its breakthrough 2010 election it specifically targeted "political
+criminals" (Pirro 2019, 794; Hyttinen 2022, 3) and "political crime"
+(Kenes 2021, 10), alleging that the political establishment betrayed the
+nation for the its own direct benefit (Pirro 2014b, 617). In Vona's own
+words "Let's be straight about it for once: they have deliberately and
+completely destroyed the country" (A. Kovács 2013, 226). This allegation
+is levelled against the entirety of the political establishment rather
+than just a few parties (Kim 2016, 349; Varga 2014, 795--96; Batory
+2016, 296; Bíró-Nagy, Boros, and Vasali 2013, 238). In the words of Biro
+Nagy (et al.), Jobbik "continually alleges that the apparently
+controversial debates conducted between leading political forces are
+simply a front to conceal the fact that they are all in league with each
+other and operate in close-knit networks" (Bíró-Nagy, Boros, and Varga
+2012, 4). As stated in the party's 2010 Manifesto: "In Hungary the word
+'politician' is now synonymous with the word 'scoundrel'... Our goal is
+not merely the abolition of corruption, it is rather the cessation of
+the existence of politicians -- as lawmakers -- as being above the law"
+(cited in Kenes 2021, 10).
+
+One of the elements of this attack on the political establishment was
+the claim that the post 1989 transition from communism was a "stolen
+transition" (Enyedi and Róna 2018, 263), and that the old communist
+elite is still in power (Bíró-Nagy, Boros, and Varga 2012, 2; A. Kovács
+2013, 225--26), in league with other liberal newcomers (Lugosi 2018,
+219). While Vona was once linked to Fidesz, from 2010 it too was
+considered by Jobbik to be part of the corrupt elite (Murer 2015, 87;
+Bíró-Nagy, Boros, and Varga 2012, 2--3; Héjj 2017, 90), becoming by 2014
+the core of the "political establishment" (Pirro 2019, 794) only
+disguising itself as conservative (Tóth and Grajczjár 2015, 144). Vona
+claimed Orban only criticised Jobbik because "we do not want to
+prosecute only the red \[Socialist\], but also the orange \[Fidesz\]
+evildoers" (cited in Varga 2014, 802) This did not change after the
+party's moderation from 2016. In the 2018 election for example, it's
+posters showed Orbán and other Fidesz politicians with the caption:
+"they are stealing" (Héjj 2017, 90). In contrast to this elite, the
+party represented itself as a spontaneous manifestation of the people,
+in the words of one of its MPs: "The moment has arrived when people
+yearning for both justice and self-determination no longer await the
+arrival of change from politics, but rather they themselves effect
+change!" (cited in A. Kovács 2013, 226). This is more than sufficient
+evidence to show that the party reached 3 on the OTH_POLCLASS variable.
+
+From its foundation Jobbik has been a "nativist" (Borbáth and Gessler
+2021), "ultra-nationalistic" (Thorleifsson 2021, 188) "openly racist"
+(Hyttinen 2022, 3), and "xenophobic" (Lubarda 2020, 819) party with an
+explicitly ethnocentric idea of the Hungarian nation (Bozóki and Cueva
+2021, 111), including ethnic Hungarians living in neighbouring states
+(Lázár 2015, 229) and excluding Roma and Jews (Ádám and Bozóki 2016,
+106; Enyedi and Róna 2018, 256). The party's motto is "Hungary for
+Hungarians" (Ilikova and Tushev 2020, 329) and its manifestos have shown
+"strong traces of overt racism" (Lugosi 2018, 225). Hostility toward
+Roma peoples has been the most important element of this (Ilikova and
+Tushev 2020, 329; Pirro 2014b, 616; Bíró-Nagy, Boros, and Vasali 2013,
+234). Exploiting a number of high profile crimes committed by Roma
+(Pirro 2014b, 255), Jobbik has mainstreamed the narrative of
+*cigánybűnözés* ("Gypsy crime") (Pirro 2019, 792), and "Gypsy terror"
+(Tóth and Grajczjár 2015, 138), to the extent of claiming that Roma were
+genetically predisposed to be criminals (Kenes 2021, 13; Kyriazi 2016,
+2533). More than any other issue, the struggle conflict between the Roma
+and non-Roma was placed at "the heart of its political struggle" in its
+breakthrough years (A. Kovács 2013, 225). Roma are also target on
+welfare chauvinist grounds as lazy and unworthy of state benefits
+(Dániel Kovarek et al. 2017, 68), and "parasites" on the nation (Kyriazi
+2016, 2534). The party has "called for a policy of forced assimilation"
+(Pirro 2014b, 616). Though some consider the party in 2010 to be less
+antisemitic than the MIEP (Pirro 2019, 792; Szabados 2015, 49),
+antisemitism has still been a core part of the party's narrative in the
+era of its electoral success (Murer 2015, 80; A. Kovács 2013, 227; Ádám
+and Bozóki 2011, 15; Thorleifsson 2021, 197). Speeches my Jobbik MPs,
+for example, show that many party leaders "consider the Gypsies to be
+tools in the hands of Zionist conspirators against the Hungarian nation"
+(Enyedi 2016, 17). Jobbik was originally very favourable to Islam, but
+made a U-turn on this after the migrant crisis (Thorleifsson 2021;
+Dániel Kovarek et al. 2017). At this point the party started to engage
+in anti-Islam narratives about crime and radicalism. "Softening" this
+nativist rhetoric has been a major component of the party's image chance
+since 2014-16 (Ilikova and Tushev 2020, 329; Palonen 2018, 317).
+According to some analysis this was in response to Fidesz embracing such
+rhetoric (Hyttinen and Näre 2017). However, while the party began to
+distance itself from its most radical elements, many of its members did
+not (Kenes 2021, 15), particularly at the local level (Dániel Kovarek et
+al. 2017, 78), and Borbáth and Gessler claim that any shift in this
+rhetoric was re-elevated by the 2018 election (Borbáth and Gessler 2021,
+13). While there may be an argument that the party should be coded 2 on
+OTH_ETHNIC in 2018, on the balance of evidence we've kept this at 3
+throughout.
+
+Jobbik has also engaged in "anti-immigrant" rhetoric (Ilikova and Tushev
+2020, 239). As with Fidesz, the story here is different before and after
+the 2015 migrant crisis. Before it, immigration was an "insignificant"
+issue (Szabados 2015, 54), and Jobbik focused very little on immigration
+compared to other far-right parties (Bíró-Nagy, Boros, and Vasali 2013,
+231; Dániel Kovarek et al. 2017, 72). However a number of sources
+mention that it warned of the potential threat of migration coming from
+the recently enlarged EU (Pirro 2019, 792), and according to Szabados it
+organised a "hate campaign" against Chinese immigrants, whom it accused
+of stealing jobs, and destroying local businesses (Szabados 2015, 54).
+Because of this we've coded it 2 on OTH_IMMIGRANT in 2010 and 2014.
+After the migrant crisis, immigrants were elevated to be a key "other"
+in Jobbik's discourse (Kovarek et al. 2017, 72), when "Inflammatory
+imagery, rhetoric and antimigrant sentiments were heavily present in
+\[its\] online campaigns, newsletters and internet debates"
+(Thorleifsson 2021, 195). One Jobbik mayor formed a "migrant hunter"
+militia and officially banned Muslims from entering his village in 2016
+(Dániel Kovarek et al. 2017, 64), and some have claimed that the party
+has been trying to out-do Fidesz on anti-immigrant toughness (Szabados
+2015, 55). We've therefore coded the party 3 on OTH_IMMIGRANT in 2018.
+
+Jobbik has been described as "anti-banking" (Murer 2015, 79) and
+"anti-capitalist" (Pirro 2019, 792; Kenes 2021, 5). Party leaders have
+clarified that they are not against the market system totally, but just
+the "excessive economic liberalism" that Hungary got "lured" into after
+1990 (Goldstein 2021, 27), and that they favour small and medium sized
+Hungarian owned businesses (Bíró-Nagy, Boros, and Varga 2012, 798).
+Foreign multinational firms, however, are a key enemy of the Hungarian
+people (Bíró-Nagy, Boros, and Vasali 2013, 238; Tóth and Grajczjár 2015,
+141), and the party has advocated confiscating assets owned by foreign
+investors and handing them to Hungarians (Tóth and Grajczjár 2015, 141).
+Kovarek describes the party's narrative thusly: "lobby groups financed
+by international capital, through their local lackeys, are executing
+their plot to destroy nations and indigenous values" (Dániel Kovarek et
+al. 2017, 68). This hostility is in many instances bound together with
+the party's antisemitic discourse (Dániel Kovarek et al. 2017, 68). It
+is mainly foreign financial elites who are target here, but some sources
+refer to the fact that Jobbik "presented the rich elite and the banks...
+as a threat to society" (Vratislav Havlík 2012, 148--49). We've
+therefore coded Jobbik 3 on the OTH_FINANCIAL variable.
+
+Jobbik has also focussed heavily on foreign and "colonizing" global
+elites as enemies of the Hungarian people (A. Kovács 2013, 226). It has
+articulated a narrative whereby a global elite is attempting to
+eradicate the nation as the foundation of human community" (cited in
+Ádám and Bozóki 2016, 109). Vona voiced hostility to Western
+(particularly American and Isreali) interests and fidelity to Eastern
+(Russian, Iranian) ones (A. Kovács 2013, 228). While this narrative is
+somewhat vague (and relates to global capital as well as foreign
+states), Jobbik has been particularly opposed to the EU and NATO. Party
+members have burnt the EU flag and threw one from a Parliamentary window
+(Lázár 2015, 230; Ádám and Bozóki 2016, 110), and according to Bíró Nagy
+(et al), the party "attributed almost every negative trend in Hungary to
+the supposed background machinations of the EU." (Bíró-Nagy, Boros, and
+Vasali 2013, 240). It has accused NATO of "serving American interests
+unconditionally" (Murer 2015, 93), and developed irredentist positions
+regarding Hungary's neighbours (Pirro 2014b, 614). Domestic rivals have
+routinely been seen as lackeys and representatives of this global elite.
+In Bíró Nagy (et al)'s words, "Jobbik's rhetoric has thus right from the
+start sought to portray national politics as serving international
+interests" (Bíró-Nagy, Boros, and Varga 2012, 4). There is evidence that
+since the party's 2014-16 moderation its positions regarding the EU have
+changed (Hyttinen 2022, 11), but as with the prior categories, it
+remains to be seen whether the party's general discourse regarding
+foreign elites had shifted fundamentally in 2018, hence we've coded it 3
+on OTH_FOREIGN. We've not seen any evidence of OTH_MILITARY rhetoric (=
+1).
+
+Jobbik has been consistently placed on the "extreme right" (Ádám and
+Bozóki 2011, 15) "radical right-wing" (Tóth and Grajczjár 2015, 133),
+"far right" (Ádám and Bozóki 2016, 99; Kyriazi 2016, 2531),
+"ultra-right" (Ilikova and Tushev 2020, 328) end of the spectrum, and
+often considered either "neo-fascist" (Becker 2010, 29) or "blatantly
+fascist" (Bíró-Nagy, Boros, and Vasali 2013, 238) owing to its militant
+nationalism. However scholars have long noted the gulf between the
+party's economic policy and its cultural politics, the former being
+left-leaning and the latter far right (Bíró-Nagy, Boros, and Varga 2012,
+5). The party claims to advocate "a stronger role of the state in the
+economy, redistribution of wealth and a revision of privatization
+contracts" (Pirro 2014b, 615; see also Tóth and Grajczjár 2015, 142;
+Lugosi 2018), and has been notably more economically interventionist in
+its policies than Fidesz. Despite this, the rejection of the pre-1990
+communist economy is a "cornerstone of its identity" (Bíró-Nagy, Boros,
+and Varga 2012, 2; see also Dániel Kovarek et al. 2017, 71; Héjj 2017,
+84). After its transition in 2014-16, it started to define itself as
+"centrist" (Lubarda 2020, 819), or "modern conservative" (Kenes 2021,
+10). As with the above categories, we've erred on the side of leaving
+its coding consistent rather than changing it for the 2018 election
+(LRPOSITION = FR).
+
+A handful of texts on Jobbik have noted that Gabor Vona has been a
+"dynamic" (Tóth and Grajczjár 2015, 136) and "charismatic" leader of the
+party (Hyttinen 2022, 3), and a "great orator" (Metz and Oross 2020, 6).
+Sources also note that the party organisation was largely centralised
+under his control during his tenure (Metz and Oross 2020, 13--14).
+However, references to the significance of Vona's charisma and persona
+to the image of Jobbik are notably rare compared to secondary literature
+about other populist parties, and some clearly refute the idea that the
+party is a one-man show (Havlík 2012, 144). While his leadership was
+clearly important to the party's success after 2006, we've not concluded
+that this reached the highest level on our CHARISMA coding, and hence
+we've coded the party 2 here. Though he was once close to Orban
+(Szabados 2015, 49), neither Vona nor Jobbik has ever served in
+government (INSIDER = 1).
+
+Jobbik has consistently threatened liberal democratic norms.
+Ideologically, it has joined Fidesz in declaring its opposition to
+liberal democracy (which they called "refuse imported from abroad") with
+a system in which the state is ideologically engaged in the support of
+the Hungarian ethnic majority (Enyedi 2016, 12). It has also questioned
+the fundamental merits of democracy (Bíró-Nagy, Boros, and Vasali 2013,
+232), and many Jobbik leaders "reject democracy entirely" (Enyedi and
+Róna 2018, 264). Its most significant threat to liberal democratic norms
+however is its relationship with paramilitary violence (Kenes 2021, 8).
+In 2007 Vona created the *Magyar Gárda*, or "Hungarian Guard", as a
+paramilitary organisation loyal to Jobbik and active at its rallies
+(Ádám and Bozóki 2016, 106; Thorleifsson 2021, 188; Szabados 2015, 49).
+Created to "restore law and order" (Pirro 2019, 793), the group has
+sported paraphernalia associated with the Arrow Cross fascist movement
+active in the Second World War (Ilikova and Tushev 2020, 329). It was
+disbanded by court order in 2009, but has reformed under various new
+names and long remained linked to Jobbik (Murer 2015, 88; Kim 2016,
+348). Jobbik militias like this have demonstrated against alleged "gypsy
+terror" (Feischmidt and Szombati 2017), throwing bottles and rocks at
+homes believed to be owned by Roma (Murer 2015, 89). According to
+numerous studies, the founding of the *Magyar Gárda* constituted the
+"real breakthrough" that facilitated Jobbik's subsequent electoral
+success (Bíró-Nagy, Boros, and Vasali 2013, 229; see also Varga 2014,
+794). This is more than sufficient to code Jobbik 3 on LIBDEMNORMS.
+
+## Politics Can Be Different 
+
+"Politics Can be Different" (*Lehet Más a Politika*, LMP) was a green
+party founded in 2008 by a collection of activists led by András
+Schiffer. It built on the legacy of prior green movements, especially
+the Protect the Future movement (Tóth 2015), and succeeded in part due
+to the left wing void in the political system in the 2010 election where
+it won 7% of the vote (Daniel Mikecz 2017, 359). In its first term in
+Parliament the party split on the question of how much to cooperate with
+the other anti-Orbán parties in the run up to the 2014 election. Some
+MPs favoured cooperation at the expense of the party's original
+anti-party independence, whereas the official party chose to remain
+non-aligned for the election (see Tóth 2015). Despite losing the former
+faction, the maintained its presence in parliament (with 5%) and
+improved again in 2018 under the leadership of Ákos Hadházy.
+
+LMP is occasionally considered non-populist in the literature (Csigó and
+Merkovity 2016, 2), in part due to its "intellectual style discourse"
+that was in stark contrast to Orbán and Fidesz (Tóth 2015, 247), and its
+related image of being "too professional" in the eyes of many voters
+(Glied 2014, 50). It also engaged after 2010 in a "constructive and
+halfhearted oppositional role" (Tóth 2015, 248), and included a socially
+inclusive message that contrasted with the *völkisch* nationalism of
+other populist (Lubarda 2020, 824). Despite this, the description of the
+party's message in the literature paints a clear picture of populist
+discourse as we have defined it. This message was "anti-elitist"
+(Vratislav Havlík 2012, 136), "anti-party" (Sitter 2011, 260),
+"anti-establishment" (Dániel Mikecz 2015, 103; Engler 2020; Pirro and
+Della Porta 2021, 440), and "strongly anti-corruption" (Vratislav Havlík
+2012, 138). It claimed that all other established parties were corrupt
+(Sitter 2011, 260), including those on the left (Daniel Kovarek and
+Littvay 2019, 574), offering itself (as its name suggests) as a complete
+renewal of the democratic process in the interests of ordinary people
+(Vratislav Havlík 2012, 141). The party's campaigns portrayed a country
+in ruin due to the ruling elite's internal power struggles in pursuit of
+self-interests, hidden behind the mere façade of representative
+democracy (Tóth 2015, 237; Vratislav Havlík 2012, 150). Despite its
+professional image, it nonetheless described the political situation in
+"apocalyptic" terms (Tóth 2015, 237). In Fábián's synopsis:
+
+> LMP's critique of the existing political, economic and social order is
+> extensive. Most importantly, LMP sees itself as an anti-party,
+> standing outside and above the existing Hungarian political structure
+> that it considers corrupt, self-serving and obstructing the creation
+> of a meaningful democracy (Fábián 2010, 1008).
+
+Alongside its green and progressive policy agenda, the party ramped up
+its anti-corruption message under the leadership of Hadházy, who was a
+former Fidesz city councillor who left the ruling party as a corruption
+whistle-blower (Pirro and Della Porta 2021, 443). In the 2018 elections,
+for example, LMP campaigns featured slogans that reduced political
+problems to elite corruption, such as 'Against stealing: LMP' or 'Those
+who stole are going to jail!' (cited in Daniel Kovarek and Littvay 2019,
+576). We have considered this sufficient evidence to code the party 3 on
+OTH_POLCLASS, although its professional and occasionally "constructive"
+image may make a case for this to be 2.
+
+The LMP's green progressive agenda pitted it against both global
+capitalism and multinational firms (Fábián 2010, 1008), especially
+monopolies (Lubarda 2020, 822). According to Havlík, it claimed that the
+parties that remained in parliament were controlled by economic
+oligarchs (Vratislav Havlík 2012, 150) (OTH_FINANCIAL = 3). This also
+had an anti-foreign dimension, with foreign ownership of assets (Lubarda
+2020, 823), the EU, and international corporations targeted in the LMP's
+discourse (Fábián 2010, 1007). This appears not to have reached the
+point of arguing that foreign interests control the elite, hence
+OTH_FOREIGN = 2.
+
+In contrast to other Hungarian populist parties, LMP did not have an
+ethnocentric definition of the people, their "others," or the elite. For
+example, it was notably progressive regarding the integration of Romani
+into Hungarian society (Vratislav Havlík 2012, 149) (OTH_ETHNIC = 1).
+Likewise, even after the 2015 migrant crisis significantly impacted the
+discourse of other parties, LMP "did not take a stand" on migration in
+the 2018 elections (Daniel Kovarek and Littvay 2019, 575) (OTH_IMMIGRANT
+= 1). We also could not find any evidence of OTH_MILITARY discourse (=
+1).
+
+Positioning LMP on a left-right ideological axis is very difficult. The
+core if its initial outlook was in green politics, identifying itself as
+an "ökopárt" (party of ecology) (Fábián 2010, 1007), and its leadership
+deliberately positioned itself beyond left and right wing viewpoints
+(Fábián 2015, 332; Dániel Mikecz 2015, 103). In that capacity it has
+been called "eco-libertarian" (Becker 2010, 34), and "agrarian populist"
+(Lubarda 2020, 822). However most sources claim that the party's
+policies were generally "left leaning" (see Tóth 2015, 232; Glied 2014,
+39), in relation to both economic and social policy (Vratislav Havlík
+2012, 149), and that it appealed mainly to left-leaning voters in its
+initial election (Fábián 2010, 1007). Later sources however suggest that
+the party's leadership pulled the party to the centre (Engler 2020; S.
+Fekete and Fazekas 2018, 164), or even the centre-right (Lubarda 2020,
+812). Based on the above we've coded the party L on LRPOSITION in 2010
+and 2014, and CL in 2018.
+
+Numerous sources stress that under Schiffer leadership the LMP did not
+"present charismatic leading figures" that could personify its message
+(Tóth 2015, 256; Glied 2014, 50; Papp and Zorigt 2016), in part due to
+its insistence on avoiding centralised leadership structures (Vratislav
+Havlík 2012, 145; Vratislav Havlík and Pinková 2012, 290). The party's
+messaging became somewhat more personalised under Hadházy and the LMP
+Prime Minster candidate Bernadett Szél (Daniel Kovarek and Littvay 2019,
+576), but not to the point of registering on the CHARISMA variable,
+hence we have coded it as 1 consistently. The party and its leaders have
+never been central figures in government (Hadházy was only a local
+representative when he was in Fidesz until 2013) (INSIDER = 1). Party
+members have occasionally considered their politics as "revolutionary",
+but not to the extent of advocating system change (Tóth 2015, 241). In
+fact the party had a strong "rule of law" focus and joined the fight
+against Orbán's illiberal reforms after 2010 (Vratislav Havlík 2012,
+149--51) (LIBDEMNORMS = 1).
+
+## Not included
+
+**S**ome of the literature suggests that the **Hungarian Democratic
+Forum** (*Magyar Demokrata Fórum*, MDF) was a poplist party in its early
+years (see for example Sitter 2011, 255). However the movement was more
+of an "umbrella" movement of various factions (Palonen 2018, 313), only
+some of which appear populist (specifically that of István Csurka which
+went on to become the MIÉP). Its leader Józef Antall does not appear to
+have used populist rhetoric himself. Hence we've not included it in the
+dataset.
+
+**References**
+
+Ádám, Zoltán. 2018. "Authoritarian Populism at Work: A Political
+Transaction Cost Approach with Reference to Viktor Orbán's Hungary."
+
+---------. 2019. "Explaining Orbán: A Political Transaction Cost Theory
+of Authoritarian Populism." *Problems of Post-Communism* 66 (6):
+385--401.
+
+Ádám, Zoltán, and András Bozóki. 2011. "From Surrogate Religion to
+Surrogate Democracy: Paganized Christianity and Right-Wing Populism in
+Hungary." *CEU Paper, Http://Politicalscience. Ceu.
+Edu/Sites/Politicalscience. Ceu.
+Hu/Files/Attachment/Event/1361/Adambozokfromsurrogatereligiontosurrogatedemocracy2015final.
+Pdf*.
+
+---------. 2016. "State and Faith: Right-Wing Populism and Nationalized
+Religion in Hungary." *Intersections. East European Journal of Society
+and Politics* 2 (1).
+
+Agocs, Peter, and Sandor Agocs. 1994. "Youth in Post-Communist Hungary."
+*Society* 31 (3): 76--81.
+
+Antal, Attila. 2017. "The Political Theories, Preconditions and Dangers
+of the Governing Populism in Hungary." *Politologickỳ Časopis-Czech
+Journal of Political Science* 24 (1): 5--20.
+
+Bánkuti, Miklós, Gábor Halmai, and Kim Lane Scheppele. 2012. "Hungary's
+Illiberal Turn: Disabling the Constitution." *Journal of Democracy* 23
+(3): 138--46.
+
+Batory, Agnes. 2002. "Attitudes to Europe: Ideology, Strategy and the
+Issue of European Union Membership in Hungarian Party Politics." *Party
+Politics* 8 (5): 525--39.
+
+---------. 2016. "Populists in Government? Hungary's 'System of National
+Cooperation.'" *Democratization* 23 (2): 283--303.
+
+Becker, Jens. 2010. "The Rise of Right-Wing Populism in Hungary." *SEER:
+Journal for Labour and Social Affairs in Eastern Europe*, 29--40.
+
+Bíró-Nagy, András, Tamas Boros, and Aron Varga. 2012. *Right-Wing
+Extremism in Hungary*. Friedrich-Ebert-Stiftung Berlin.
+
+Bíró-Nagy, András, Tamás Boros, and Zoltán Vasali. 2013. "More Radical
+than the Radicals: The Jobbik Party in International Comparison."
+*Right-Wing In Europe*, 229.
+
+Boda, Zsolt, Gabriella Szabó, Attila Bartha, Gerg\\Ho Medve-Bálint, and
+Zsuzsanna Vidra. 2015. "Politically Driven: Mapping Political and Media
+Discourses of Penal Populism---The Hungarian Case." *East European
+Politics and Societies* 29 (4): 871--91.
+
+Borbáth, Endre, and Theresa Gessler. 2021. "How Do Populist Radical
+Right Parties Differentiate Their Appeal? Evidence from the Media
+Strategy of the Hungarian Jobbik Party." *Government and Opposition*,
+1--22.
+
+Bozóki, András. 2012. "The Illusion of Inclusion: Configurations of
+Populism in Hungary."
+
+Bozóki, András, and Sarah Cueva. 2021. "Xenophobia and Power Politics:
+The Hungarian Far Right." In *Anti-Genderismus in Europa*, 109--20.
+transcript Verlag.
+
+Bozóki, András, and Dániel Heged\\Hus. 2018. "An Externally Constrained
+Hybrid Regime: Hungary in the European Union." *Democratization* 25 (7):
+1173--89.
+
+Bozóki, András, and Borbála Kriza. 2008. "The Hungarian Semi-Loyal
+Parties and Their Impact on Democratic Consolidation." *Political
+Transformation and Changing Identities in Central and Eastern Europe,
+Washington, DC: Council for Research in Values and Philosophy*, 215--42.
+
+Chinatera-Stutte, Patricia, and Andrea Pető. 2003. "Cultures of Populism
+and the Political Right in Central Europe." *CLCWeb: Comparative
+Literature and Culture: A WWWeb Journal* 5.
+
+Csehi, Robert. 2019. "Neither Episodic, nor Destined to Failure? The
+Endurance of Hungarian Populism after 2010." *Democratization* 26 (6):
+1011--27.
+
+Csigó, Péter, and Norbert Merkovity. 2016. "Hungary: Home of Empty
+Populism." In *Populist Political Communication in Europe*, edited by
+Toril Aalberg, Frank Esser, Carsten Reinemann, Jesper Strömbäck, and
+Claes H de Vreese, 299--310. New York: Routledge.
+
+Czibere, Ibolya, and Imre Kovách. 2022. "State Populism in Rural
+Hungary." *Rural Sociology* 87: 733--57.
+
+Egedy, Gergely. 2009. "Political Conservatism in Post-Communist
+Hungary." *Problems of Post-Communism* 56 (3): 42--53.
+
+Engler, Sarah. 2020. "Centrist Anti-Establishment Parties and Their
+Protest Voters: More than a Superficial Romance?" *European Political
+Science Review* 12 (3): 307--25.
+
+Enyedi, Zsolt. 2016. "Paternalist Populism and Illiberal Elitism in
+Central Europe." *Journal of Political Ideologies* 21 (1): 9--25.
+
+---------. 2017. "The Survival of the Fittest: Party System
+Concentration in Hungary." In *Post-Communist EU Member States*,
+191--216. Routledge.
+
+Enyedi, Zsolt, and Dániel Róna. 2018. "Governmental and Oppositional
+Populism: Competition and Division of Labour." *Absorbing the Blow: The
+Impact of Populist Parties on European Party Systems*, 251--72.
+
+Etl, Alex. 2022. "Liminal Populism---The Transformation of the Hungarian
+Migration Discourse." *Journal of Borderlands Studies* 37 (1): 115--32.
+
+Fábián, Katalin. 2010. "Can Politics Be Different? The Hungarian Green
+Party's Entry into Parliament in 2010." *Environmental Politics* 19 (6):
+1006--11.
+
+---------. 2015. "Can Politics Still Be Different? The Hungarian Green
+Party's Return to Parliament in 2014." *Environmental Politics* 24 (2):
+332--36.
+
+Fabry, Adam. 2019. "Neoliberalism, Crisis and Authoritarian--Ethnicist
+Reaction: The Ascendancy of the Orbán Regime." *Competition & Change* 23
+(2): 165--91.
+
+Farkas, E. 2018. "Discovering the Populist Turn of Fidesz Voters through
+Personal Values." In *European Consortium for Political Research,
+General Conference*.
+
+Fazekas, Csaba, and Ewelina Fekete. 2018. "Party System in Hungary." In
+*Contemporary Political Parties And Party Systems In The Visegrad Group
+Countries*, edited by Ewelina Kancik-Kołtun, 133--46. Lublin: Maria
+Curie-Skłodowska University Press.
+
+Feischmidt, Margit, and Kristóf Szombati. 2017. "Understanding the Rise
+of the Far Right from a Local Perspective: Structural and Cultural
+Conditions of Ethno-Traditionalist Inclusion and Racial Exclusion in
+Rural Hungary." *Identities* 24 (3): 313--31.
+
+Fekete, Liz. 2016. "Hungary: Power, Punishment and the
+'Christian-National Idea.'" *Race & Class* 57 (4): 39--53.
+
+Fekete, Sándor, and Csaba Fazekas. 2018. "Contemporary Parliamentary
+Political Parties in Hungary." In *Contemporary Political Parties And
+Party Systems In The Visegrad Group Countries*, edited by Ewelina
+Kancik-Kołtun, 147--72. Lublin: Maria Curie-Skłodowska University Press.
+
+Fowkes, Ben. 1999. "History Changes Gear: The Transition in East-Central
+Europe." In *The Post-Communist Era*, 23--58. Springer.
+
+Fowler, Brigid. 2004. "Concentrated Orange: Fidesz and the Remaking of
+the Hungarian Centre-Right, 1994--2002." *Journal of Communist Studies
+and Transition Politics* 20 (3): 80--114.
+
+Glied, Viktor. 2014. "From the Green Movement to a Party. The Effect of
+the Crisis and Democratic Movements in Hungary." *Politeja-Pismo
+Wydzia\\lu Studiów Międzynarodowych i Politycznych Uniwersytetu
+Jagiellońskiego* 11 (28): 31--61.
+
+Goldstein, Ariel. 2021. "Right-Wing Opposition to the Mainstream Radical
+Right: The Cases of Hungary and Poland." *Journal of Contemporary
+Central and Eastern Europe* 29 (1): 23--40.
+
+Gonda, Noémi. 2019. "Land Grabbing and the Making of an Authoritarian
+Populist Regime in Hungary." *Critical Agrarian Studies*, 246.
+
+Halmai, Gábor. 2018. "Is There Such Thing as 'Populist
+Constitutionalism'? The Case of Hungary." *Fudan Journal of the
+Humanities and Social Sciences* 11 (3): 323--39.
+
+Hanley, Sean, Aleks Szczerbiak, Tim Haughton, and Brigid Fowler. 2008.
+"Sticking Together: Explaining Comparative Centre---Right Party Success
+in Post-Communist Central and Eastern Europe." *Party Politics* 14 (4):
+407--34.
+
+Hargitai, Tibor. 2020. "How Eurosceptic Is Fidesz Actually?" *Politics
+in Central Europe* 16 (1): 189--209.
+
+Havlík, Vratislav. 2012. "Hungary." In *Populist Political Parties in
+East-Central Europe*, edited by Vlastimil Havlík and Aneta Pinková,
+135--61. Brno: Masarykova univerzita.
+http://ebookcentral.proquest.com/lib/rmit/detail.action?docID=4887129.
+
+Havlík, Vratislav, and Aneta Pinková. 2012. "Party Populism in
+East-Central Europe." In *Populist Political Parties in East-Central
+Europe*, edited by Vlastimil Havlík and Aneta Pinková, 285--99. Brno:
+Masarykova univerzita.
+http://ebookcentral.proquest.com/lib/rmit/detail.action?docID=4887129.
+
+Hegedüs, Daniel. 2019. "Rethinking the Incumbency Effect. Radicalization
+of Governing Populist Parties in East-Central-Europe. A Case Study of
+Hungary." *European Politics and Society* 20 (4): 406--30.
+
+Héjj, Dominik. 2017. "The Rebranding of Jobbik." *New Eastern Europe*,
+no. 06 (29): 83--90.
+
+Hyttinen, Anniina. 2022. "Deradicalisation of Jobbik and Its
+Consequences--a Visual Ethnographic Analysis of the Symbolic and Ritual
+Change of a Hungarian Radical Right Party." *European Journal of
+Cultural and Political Sociology*, 1--28.
+
+Ilikova, Lilia, and Andrey Tushev. 2020. "Right-Wing Populism in Central
+Europe: Hungarian Case (Fidesz, Jobbik)." *Utopía y Praxis
+Latinoamericana* 25 (12): 325--32.
+
+Ilonszki, Gabriella, and Sándor Kurtán. 1992. "Hungary." *European
+Journal of Political Research* 22 (4): 421--27.
+
+Johnson, Juliet, and Andrew Barnes. 2015. "Financial Nationalism and Its
+International Enablers: The Hungarian Experience." *Review of
+International Political Economy* 22 (3): 535--69.
+
+Kalmar, Ivan. 2020. "Islamophobia and Anti-Antisemitism: The Case of
+Hungary and the 'Soros Plot.'" *Patterns of Prejudice* 54 (1--2):
+182--98.
+
+Karl, Philipp. 2017. "Hungary's Radical Right 2.0." *Nationalities
+Papers* 45 (3): 345--55.
+
+Kenes, Bulent. 2021. "Jobbik: A Turanist Trojan Horse in Europe?"
+
+Kim, Dae Soon. 2016. "The Rise of European Right Radicalism: The Case of
+Jobbik." *Communist and Post-Communist Studies* 49 (4): 345--57.
+
+Kornai, János. 2015. "Hungary's U-Turn: Retreating from Democracy."
+*Journal of Democracy* 26 (3): 34--48.
+
+Körösényi, András. 1999. *Government and Politics in Hungary*. Central
+European University Press.
+
+---------. 2019. "The Theory and Practice of Plebiscitary Leadership:
+Weber and the Orbán Regime." *East European Politics and Societies* 33
+(2): 280--301.
+
+Körösényi, András, and Veronika Patkós. 2017. "Liberal and Illiberal
+Populism: The Leadership of Berlusconi and Orbán." *Corvinus Journal of
+Sociology and Social Policy* 8 (3S): 315--38.
+
+Kovács, András. 2013. "The Post-Communist Extreme Right: The Jobbik
+Party in Hungary." *Right-Wing Populism in Europe: Politics and
+Discourse*, 223--34.
+
+Kovács, Zoltán. 2001. "The Geography of Post-Communist Parliamentary
+Elections in Hungary." In *Transformations in Hungary*, edited by Peter
+Meusburger and Heike Jöns, 249--71. Berlin: Springer.
+
+Kovarek, Daniel, and Levente Littvay. 2019. "Where Did All the
+Environmentalism Go? 'Politics Can Be Different' (LMP) in the 2018
+Hungarian Parliamentary Elections." *Environmental Politics* 28 (3):
+574--82. https://doi.org/10.1080/09644016.2019.1567874.
+
+Kovarek, Dániel, Dániel Róna, Bulcsú Hunyadi, and Péter Krekó. 2017.
+"Scapegoat-Based Policy Making in Hungary: Qualitative Evidence for How
+Jobbik and Its Mayors Govern Municipalities." *Intersections. East
+European Journal of Society and Politics* 3 (3).
+
+Kyriazi, Anna. 2016. "Ultranationalist Discourses of Exclusion: A
+Comparison between the Hungarian Jobbik and the Greek Golden Dawn."
+*Journal of Ethnic and Migration Studies* 42 (15): 2528--47.
+
+Lamour, Christian, and Renáta Varga. 2020. "The Border as a Resource in
+Right-Wing Populist Discourse: Viktor Orbán and the Diasporas in a
+Multi-Scalar Europe." *Journal of Borderlands Studies* 35 (3): 335--50.
+
+Lázár, Nóra. 2015. "Euroscepticism in Hungary and Poland: A Comparative
+Analysis of Jobbik and the Law and Justice Parties." *Politeja-Pismo
+Wydzia\\lu Studiów Międzynarodowych i Politycznych Uniwersytetu
+Jagiellońskiego* 12 (33): 215--33.
+
+LeBor, Adam. 2008. "Marching Back to the Future: Magyar Garda and the
+Resurgence of the Right in Hungary." *Dissent* 55 (2): 34--38.
+
+Lomax, Bill. 1995. "Factions and Factionalism in Hungary's New Party
+System." *Democratization* 2 (1): 125--37.
+
+---------. 1999. "The 1998 Elections in Hungary: Third Time Lucky for
+the Young Democrats."
+
+Lubarda, Balsa. 2020. "'Homeland Farming' or 'Rural Emancipation'? The
+Discursive Overlap between Populist and Green Parties in Hungary."
+*Sociologia Ruralis* 60 (4): 810--32.
+https://doi.org/10.1111/soru.12289.
+
+Lugosi, Nicole VT. 2018. "Radical Right Framing of Social Policy in
+Hungary: Between Nationalism and Populism." *Journal of International
+and Comparative Social Policy* 34 (3): 210--33.
+
+Majtényi, Balázs, Ákos Kopper, and Pál Susánszky. 2019. "Constitutional
+Othering, Ambiguity and Subjective Risks of Mobilization in Hungary:
+Examples from the Migration Crisis." *Democratization* 26 (2): 173--89.
+
+Markus, György G. 1998. "Party Politics, Party System and the Dynamics
+of Political Cleavages in Hungary." *Final Report to NATIP, Budapest*.
+
+Metz, Rudolf, and Daniel Oross. 2020. "Strong Personalities' Impact on
+Hungarian Party Politics: Viktor Orbán and Gábor Vona." In *Party
+Leaders in Eastern Europe*, 145--70. Springer.
+
+Mikecz, Dániel. 2015. "Changing Movements, Evolving Parties: The
+Party-Oriented Structure of the Hungarian Radical Right and Alternative
+Movement." *Intersections. East European Journal of Society and
+Politics* 1 (3).
+
+Mikecz, Daniel. 2017. "Environmentalism and Civil Activism in Hungary."
+In *Understanding Central Europe*, edited by Marcin Moskalewicz and
+Przybylski Wojciech, 349--55. London: Routledge.
+
+Murer, Jeffrey Stevenson. 1999. "Pursuing the Familiar Foreigner: The
+Resurgence of Antisemitism and Nationalism in Hungary Since 1989."
+University of Illinois at Chicago.
+
+---------. 2015. "The Rise of Jobbik, Populism, and the Symbolic
+Politics of Illiberalism in Contemporary Hungary." *Pol. Q. Int'l Aff.*
+24: 79.
+
+Nagle, John. 1997. "Ethnos, Demos and Democratization: A Comparison of
+the Czech Republic, Hungary and Poland." *Democratization* 4 (2):
+28--56.
+
+Oltay, Edith. 1995. "Government and Parties in Hungary (1990-1994)."
+*Comparative Southeast European Studies* 44 (11--12): 746--61.
+
+Palonen, Emilia. 2009. "Political Polarisation and Populism in
+Contemporary Hungary." *Parliamentary Affairs* 62 (2): 318--34.
+
+---------. 2010. "Fringe and Mainstream Populism(s) in Hungary." In .
+University of Munster, 22-27 March.
+
+---------. 2018. "Performing the Nation: The Janus-Faced Populist
+Foundations of Illiberalism in Hungary." *Journal of Contemporary
+European Studies* 26 (3): 308--21.
+
+Papp, Zsófia, and Burtejin Zorigt. 2016. "Party-Directed
+Personalisation: The Role of Candidate Selection in Campaign
+Personalisation in Hungary." *East European Politics* 32 (4): 466--86.
+
+Pappas, Takis S. 2016. "Are Populist Leaders 'Charismatic'? The Evidence
+from Europe." *Constellations* 23 (3): 378--90.
+
+---------. 2019. "Populists in Power." *Journal of Democracy* 30 (2):
+70--84.
+
+Pirro, Andrea LP. 2014a. "Digging into the Breeding Ground: Insights
+into the Electoral Performance of Populist Radical Right Parties in
+Central and Eastern Europe." *East European Politics* 30 (2): 246--70.
+
+---------. 2014b. "Populist Radical Right Parties in Central and Eastern
+Europe: The Different Context and Issues of the Prophets of the Patria."
+*Government and Opposition* 49 (4): 600--629.
+
+---------. 2019. "Ballots and Barricades Enhanced: Far-Right 'Movement
+Parties' and Movement-Electoral Interactions." *Nations and Nationalism*
+25 (3): 782--802.
+
+Pirro, Andrea LP, and Donatella Della Porta. 2021. "On Corruption and
+State Capture: The Struggle of Anti-Corruption Activism in Hungary."
+*Europe-Asia Studies* 73 (3): 433--50.
+
+Pytlas, Bartek. 2013. "Radical-Right Narratives in Slovakia and Hungary:
+Historical Legacies, Mythic Overlaying and Contemporary Politics."
+*Patterns of Prejudice* 47 (2): 162--83.
+
+Rosůlek, Přemysl. 2011. "Consolidation of the Centre-Right Political
+Camp in Hungary (1989--2002), Nationalism and Populism1." *Politics in
+Central Europe* 7 (2): 68--97.
+
+Rydliński, Bartosz. 2018. "Viktor Orbán--First among Illiberals?
+Hungarian and Polish Steps towards Populist Democracy." *Online Journal
+Modelling the New Europe*, no. 26: 95--107.
+
+Scheppele, Kim Lane. 2019. "The Opportunism of Populists and the Defense
+of Constitutional Liberalism." *German Law Journal* 20 (3): 314--31.
+
+Sitter, Nick. 2011. "Absolute Power? Hungary Twenty Years after the Fall
+of Communism." *20 Years Since the Fall of the Berlin Wall: Transitions,
+State Break-Up and Democratic Politics in Central Europe and Germany*,
+249--68.
+
+Szabados, Krisztian. 2015. "The Particularities and Uniqueness of
+Hungary's Jobbik." *The European Far Right: Historical and Contemporary
+Perspectives (Ed.: Giorgos Charalambous)* 2.
+
+Szabó, Jakub. 2020. "First as Tragedy, Then as Farce: A Comparative
+Study of Right-Wing Populism in Hungary and Poland." *Journal of
+Comparative Politics* 13 (2): 24--42.
+
+Szabó, Máté. 2006. "Mobilization and Protest Strategy of the Fidesz-MPP
+within and after the Electoral Campaign in Hungary 2002." In .
+
+---------. 2011. "From a Suppressed Anti-Communist Dissident Movement to
+a Governing Party: The Transformations of FIDESZ in Hungary." *Corvinus
+Journal of Sociology and Social Policy* 2 (2): 47--66.
+
+Szôcs, László. 1998. "A Tale of the Unexpected: The Extreme Right
+Vis-à-Vis Democracy in Post-Communist Hungary." *Ethnic and Racial
+Studies* 21 (6): 1096--1115.
+
+Thorleifsson, Cathrine. 2017. "Disposable Strangers: Far-Right
+Securitisation of Forced Migration in Hungary." *Social
+Anthropology/Anthropologie Sociale* 25 (3): 318--34.
+
+---------. 2021. "In Pursuit of Purity: Populist Nationalism and the
+Racialization of Difference." *Identities* 28 (2): 186--202.
+
+Toplišek, Alen. 2020. "The Political Economy of Populist Rule in
+Post-Crisis Europe: Hungary and Poland." *New Political Economy* 25 (3):
+388--403.
+
+Tóth, András. 2015. "The Rise of the LMP Party and the Spirit of
+Ecological Movements." In *The Hungarian Patient. Social Opposition to
+an Illiberal Democracy*, edited by Péter Krasztev and Jon Van Til,
+231--62. Budapest and New York: CEU Press.
+
+Tóth, András, and István Grajczjár. 2015. "The Rise of the Radical Right
+in Hungary." In *The Hungarian Patient: Social Opposition to an
+Illiberal Democracy*, edited by Péter Krasztev and Jon Van Til, 133--64.
+Budapest and New York: CEU Press.
+
+Varga, Mihai. 2014. "Hungary's 'Anti-Capitalist' Far-Right: Jobbik and
+the Hungarian Guard." *Nationalities Papers* 42 (5): 791--807.
+

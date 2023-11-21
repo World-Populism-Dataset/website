@@ -1,0 +1,278 @@
+---
+title: Argentina
+---
+
+
+-   Date range:
+
+-   Elections included:
+
+-   Not included:
+
+## Carlos Menem
+
+Argentina suffered a coup by the military that overthrew the Peronist
+government of Isabel Perón and imposed a military dictatorship. The
+first free elections after the coup took place in 1983 and Raul Alfonsín
+became president until 1989, when he was succeeded by Carlos Menem.
+Carlos Menem is a complicated figure. Most authors agree that he won the
+1989 election running a campaign based on the traditional Peronist
+discourse articulated around the concepts of "salariazo" and "the
+revolution of production" (Burdman, 2008: 10). In this victory speech,
+for instance, Menem proclaimed his was the victory of the "heroic march
+of national unity to be protagonist of a historic battle that all
+Argentinians must undertake \... against privileges, against vested
+interests, against speculators and usurers, against those who seek that
+nothing changes so that misery, underdevelopment, poverty and hunger
+continue in the Argentinian Republic" (Menem, 1989b). He also proclaimed
+that "my only compromise is to achieve the happiness of the Argentinian
+people and the greatness of the fatherland" (Menem, 1989b). Hawkins and
+Rovira Kaltwasser (2017) argue that his 1989 campaign indeed showed
+signs of a Manichean division between the elite and the people.
+
+Fair (2011: 2) argues that Menem initiated a timid dialogue with the
+military, stressed the need for peace and hinted that he would
+[indult]{.mark} the military, as he later did. Menem stressed his
+commitment to democracy by arguing that they, as opposed to the radical
+party, were the only ones holding primary elections in their party
+(Menem, 1989a). Burdam (2008: 13) argues that although Menem stressed
+the need to achieve economic independence this did not meant, as it did
+with Perón, freedom from the dependence vis-à-vis the UK, but simply the
+modernization of the economy and the level of production, without
+addressing who owns the capital. Therefore, I have coded 1 for military,
+LD norms violation and Foreign Interests.
+
+However, Menem quickly shifted his economic discourse and embraced
+neoliberal policies devoted to control inflation. This fact has sparked
+the debate on Menem's populism. For those authors who defend a more
+substantive definition of populism (Hawkins and Rovira Kaltwasser, 2017;
+Levitsky, 2003) Menem should not be considered populist after 1989.
+Neoliberal policies are considered to be opposed to neoliberalism and
+Menem is portrayed as betraying its previous populist stance. Moreover,
+Hawkins and Rovira Kaltwasser (2017) find little Manichean discourse
+between the elite and the people in his 1995 campaign. For authors that
+define populism based on personalism, a direct connection with the
+people, concentration of power and transgressing liberal political norms
+(Weyland, 2003: 6, 1996; Wehner, 2004) and less on substantive elements,
+neoliberalism and populism have a number of synergies. These include low
+levels of institutionalization, targeting unorganized poor, distancing
+themselves from unions, professional organizations and business groups
+and the use of the state to push through reform against opposition
+(Weyland, 2003: 2-3). Menem presented itself as a courageous leader that
+attacked the crisis head-on and thus deliver the country from
+hyperinflation demonstrating and reinforced his charisma (Weyland, 2003:
+4). This author argues that "when the country confronted a deep open
+crisis and neoliberals prescribed the shock therapy of drastic market
+reform, they relied on the boldness and transgressive tendencies of
+neo-populist leaders to carry out this plan of action" (Weyland 2003:
+5). Moreover, it was this boldness in the initial crisis what may
+explain their downfall as inflation lost importance compared to
+unemployment and growth, areas where neoliberal policies fare less well
+(Weyland 2003; Wehner, 2004). This understanding of the connection of
+neoliberalism and neo-populism is not very far from Hall's and Jacques's
+(1983) understanding of the politics of Thatcher.
+
+Wehner (2004: 41) attributes Menem's 1995 reelection to the relatively
+good results of his neoliberal economic policies. High inflation had
+been huge problem during Alfonsín's government and, although poverty and
+employment did not improve, Menem's ability to control inflation was
+rewarded by the Argentinian voters (Wehner, 2004: 46). In government, he
+had proclaimed an amnesty to militaries involved in the dictatorship and
+promoted close relationships with the EEUU in what was known as
+"relaciones carnales" through, for example, participating in the
+invasion to Kuwait (Botta, 2012: 157).
+
+I have coded Menem in 1989. However, I have finally ruled against
+including him the rest of his years in government due to its lack of
+Manichean distinction between elite and people and his more pluralist
+understanding of politics.
+
+## Néstor Kirchner
+
+In 2001, Argentina suffered a very strong economic and political crisis
+provoked by the "corralito" (which severely restricted people\'s ability
+to withdraw cash from banks). Widespread anger against the political
+system was summed in the motto \"All of them must go!\" ("¡Que se vayan
+todos!"). The election of Néstor Kirchner in 2003 as president of
+Argentina can be seen as the political outcome of that crisis. Néstor
+ran a campaign based on an opposition to the "old political class" and
+the "Fatherland's enemies" (Padoan, 2017: 533; Fernández, 2010: 205). He
+argued for a radical change in the political system, the retrieval of
+the traditional Peronists goals of "Economic Independency", "Political
+Sovereignty" and "Social Justice" (Padoan, 2017: 533) and criticized the
+Peronists of the 1990s for not delivering their promises and betraying
+Perón (Kirchner, 2003). Néstor condemned harshly the human rights abuses
+of the military dictatorship and the presidents before him for not
+prosecuting their crimes. Thus, once in government, he revoked the "Law
+of Due Obedience" and the "Full Stop law" and renewed the military
+hierarchy because the previous one was seen as part of the establishment
+(Fernández, 2010: 202). I have coded 3 for political class and for
+military.
+
+Economically, Néstor argued forcefully against the neoliberal reforms
+that Menem had implemented in the previous decade. Kirchner proclaimed
+the need to rethink the economic system and, in his investment speech,
+talked about constructing a "National capitalism" (Kirchner, 2003b;
+Padoan, 2017: 533). The central issue in his economic and international
+policies was the payment of Argentina's debt. Argentina had accrued a
+huge debt problem and Néstor's solution consisted mainly on
+restructuring it. He famously proclaimed that "the creditors have to
+understand that they will only get paid if Argentina performs well"
+(Kirchner, 2003b; Fernández, 2010: 206). He managed to restructure 76%
+of the debt in 2005 and then Cristina did it again in 2010 up to 92%
+(Fernández de Kirchner, 2014). The main construction of a foreign enemy
+was done precisely on this point. Kirchnerism focuses less on attacks on
+specific foreign others but calls into question the whole international
+economic system that promotes neoliberal policies. Therefore, their
+attacks are mainly directed towards international economic institutions
+such as the IMF and against the financial elite (both national and
+international) who is blamed for pressuring in favor of policies that
+damage "the people" (Fernández, 2010). In Cristina's presidency this
+opposition to foreign intervention was exemplified by the conflict over
+US judge Thomas Griesa' decision over the payment of the debt to
+creditors.
+
+There is no important ethnic other for Kirchnerism and immigrants have
+not been identified as the enemy of the people. In fact, Cristina has
+had a welcoming stance towards immigration (Irigaray, 2014). In order to
+underlie that their opposition to foreign interest are intrinsically
+connected with their economic position and not with specific enemy
+countries, I have marked a 3 for Financial and Foreign Interests, 1 for
+Immigration and Ethnic Other and "left-wing" as political ideology.
+
+Néstor Kirchner was an unknown governor of a province when, in 2003, he
+launched his campaign (code 1 for insider populism in 2003). He was
+endorsed by exiting president Eduardo Duhalde, in a move to stop Carlos
+Menem from winning. He started with a 6% share in the polls and ended
+with a 22%. Thus, the social demand for a left-wing protest party
+produced by the devastating effects of the "corralito" may explain
+better Kirchner's success than his charisma. However, the personality
+cult around Kirchner should not be discarded and "kirchnerism" became
+the name for the specific branch of populism developed by Néstor and
+Cristina. Moreover, Kirchner won the election with a party coalition
+(Front for Victory) and later constructed its party support not just
+from the traditional Justicialist Party, but from a very diverse mix of
+groups, governors and people from different ideologies. The only
+unifying figure of this coalition was Néstor Kirchner himself (Schurman,
+2006). Thus, I have coded 1 for the first election and 2 for the rest in
+the category Personality Dependent.
+
+Although she held no position in government, since Cristina was Néstor's
+wife, a member of the Senate before her 2007 campaign and participated
+actively in her husband's political decisions, she can be considered as
+belonging to the "inner-circle" of power before running in 2007.
+Therefore, I have coded her as a 3. Scioli's campaign and personal
+position as Vice-president, although not identical, can be considered
+largely as a continuation of Cristina's Kirchnerism and his campaign was
+read as such by the population (Smink, 2015).
+
+## The Intransigent Party and FrePaSo
+
+The Intransigent Party was a branch of the Radical Civic Union and which
+obtained its best result in the legislative elections of 1985. As its
+foundational document states, their principles are "popular
+participation, economic nationalism, social justice and Latin American
+integration" (Intransigent Party, 1975: 30). They argued in favor of an
+anti-imperialist revolution that would transform capitalism and liberate
+the people (Intransigent Party, 1975: 37).
+
+FrePaSo is a coalition of parties that included Peronists that were
+critic with Menem, Frente Grande, the Communist party, the Intransigent
+party and Christian democrats. The party obtained good results in 1995
+in both the legislative and the presidential elections. Bordon's
+rhetoric stressed the need for a "serious and responsible" political
+proposal based on the "work culture" and promised "honesty, austerity
+and capacity to recognize when I make a mistake" (Neustadt, 1995). The
+presidential candidate abandoned the party the following year. Koessl
+(2009) argues that FrePaSo's success was due to the internal problems of
+the UCR, Menem's neoliberal policies and the pact between these parties
+("Pacto de Olivos") which gave the impression that there was no
+political opposition to the bipartisan system. It is precisely this
+image as a political alternative what explains its success but the
+party's rhetoric, particularly that of its leader, is difficult to
+classify as populist. Thus, I have not added the party in the list.
+
+**References**
+
+Botta, Paulo (2012) "Argentina e Irán entre 1989 y 1999: Entre las
+sombras de los atentados terroristas y el cambio de política exterior
+argentina", Araucaria. Revista Iberoamericana de Filosofía, Política y
+Humanidades, Vol. 14 (28), pp. 155--178.
+
+Burdam, Javier (2008) "La rearticulación identitaria del peronismo a
+partir del discurso de Carlos Menem. Una perspectiva desde los enfoques
+de Ernesto Laclau y Slavoj Zizek", Memoria y Sociedad, Vol. 12 (25), pp.
+7-20.
+
+Fair, Hernan (2011) "Las relaciones políticas entre el menemismo y las
+Fuerzas Armadas. Un análisis histórico-político del período 1989-1995",
+Kairos: Revista de temas sociales, Year 15, Vol, 27, May, pp. 1-16.
+
+Fernández Alonso, José Marcelino (2010) "La política hacia las
+inversiones extranjeras del gobierno de Néstor Kirchner: tras los rasgos
+de un populismo atemperado", Sociedade e Cultura, Vol. 13 (2).
+
+Fernández de Kirchner, Cristina (2014) "Presidential Speech", 19 August:
+https://www.youtube.com/watch?v=EYuaPxW5M_I
+
+Hall, Stuart and Martin Jacques (eds.) (1983) The Politics of
+Thatcherism (PT), London.
+
+Hawkins, K. A., & Rovira Kaltwasser, C. (2017) "The Ideational Approach
+to Populism", Latin American Research Review, 52(4), 513--528.
+
+Intransigent Party (1975) "Aportes Para el Proyecto Nacional", Internal
+document.
+
+Irigaray, Juan Ignacio (2014) "Argentina abre las puertas a los
+inmigrantes" El Mundo, 16 September:
+https://www.elmundo.es/internacional/2014/09/16/541879f5e2704ecf318b459a.html
+
+Kirchner (2003b) "Inaugural Speech", 25 May 2003:
+https://www.youtube.com/watch?v=1Zao4M3qXvw
+
+Kirchner, (2003a) "Campaign rally in River Plate", 2 April 2003:
+https://www.youtube.com/watch?v=ZZp328XBFxA
+
+Koessl (2009) "Apogeo y derrumbe del FrePaSo. Algunas consideraciones",
+Revista del CESLA, Vol. 12, pp. 99-116, July.
+
+Levitsky, Steven. 2003. Transforming Labor-Based Parties in Latin
+America: Argentine Peronism in Comparative Perspective. Cambridge:
+Cambridge University Press.
+
+Memem, Carlos (1989b) "Menem habla desde el balcón de la Casa Rosada en
+1989 (parte I)", Archivo histórico RTA S.E.:
+https://www.youtube.com/watch?v=aobgltxzE4w
+
+Menem, Carlos (1989a) "La campaña electoral del PJ y de la UCR, 1989"
+Archivo histórico RTA S.E.: https://www.youtube.com/watch?v=v1O16Pcel-4
+
+Neustadt, Bernardo (1995) "Interview with Jose Octavio Bordon":
+https://www.youtube.com/watch?v=cka5JbZRsS4
+
+Padoan, Enrico (2017) "The Populist Re-Politicization: Some Lessons from
+South America and Southern Europe", The Open Journal of Sociopolitical
+Studies, Vol. 10 (2).
+
+Shurman Diego (2006) "Guía práctica para entender la nebulosa del
+kirchnerismo" Página 12, 12 February:
+https://www.pagina12.com.ar/diario/elpais/1-62987-2006-02-12.html
+
+Smink, Veronica (2015) "Daniel Scioli: el candidato atrapado entre el
+kirchnerismo y la autonomía" 20 November:
+https://www.bbc.com/mundo/noticias/2015/11/151118_elecciones_argentina_daniel_scioli_vs
+
+Wehner, Leslie (2004) "El neo-populismo de Menem y Fujimori: desde la
+primera campaña electoral hasta la reelección", Revista Enfoques, Vol.
+2.
+
+Weyland, Kurt (1996) "Neopopulism and Neoliberalism in Latin America:
+Unexpected Affinities." Studies in Comparative International Development
+(SCID) 31(3): 3--31
+
+Weyland, Kurt (2003) "Neopopulism and Neoliberalism in Latin America:
+How Much Affinity?" Paper for Panel on Neopopulism in Latin America:
+Conceptual and Theoretical Issues. XXIV International Congress, Latin
+American Studies Association. Dallas, TX, 27-29 March.
+

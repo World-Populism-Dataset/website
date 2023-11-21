@@ -1,0 +1,388 @@
+---
+title: Estonia
+---
+
+
+-   Date range: 1992-2020
+
+-   Elections included:
+
+    -   Legislative: 1992, 1995, 1999, 2003, 2007, 2011, 2015, 2019.
+
+    -   Presidential: 1992.
+
+## Estonian National Independence Party 
+
+The Estonian National Independence Party (*Eesti Rahvusliku Sõltumatuse
+Partei*, ERSP, or occasionally ENIP) was founded in 1988 as a movement
+to oppose the communist state and remained the vehicle of radical
+nationalism through the 1992 elections. Despite possessing the biggest
+party organisation at the time, it polled a disappointing 8.7% and
+disappeared soon after as the independence question receded (Arter 1995,
+253, 261). It acted as a coalition partner to the conservative Pro
+Patria party in government, where it was seen to moderate much of its
+rhetoric and policy (Auers and Kasekamp 2015, 144). By 2015 it merged
+formally with Pro Patria to create the Pro Patria Union, which does not
+appear to be populist or radically nationalist.
+
+The party's nationalism in 1992 is generally considered "radical"
+(Kivirahk 1993, 157; Auers and Kasekamp 2015, 144) (LR_POSITION = FR),
+and takes shape particularly against Russian interference (OTH_FOREIGN =
+3), and the Russian ethnic minority in Estonia (OTH_ETHNIC = 3).
+According to Mäe (Mäe 1995, 211), the party saw Estonian statehood as
+the only mechanism by which the Estonian people can survive the
+geopolitical threat of their neighbours.
+
+We have not seen evidence that it campaigned against the domestic
+(OTH_POLCLASS = 1). Available evidence suggests that it was generally
+free-market (Mäe 1995, 212), despite being, in Fitzmaurice's words,
+"less interested in economic issues" than nationalist ones (Fitzmaurice
+1993, 173)(OTH_FINANCIAL = 1). Despite being a well-organised party it
+had not participated in government by the time of the 1992 elections
+(INSIDER = 1), and its leadership is not often considered significant to
+its identity (CHARISMA = 1). Further research should probe whether the
+party violated LIBDEMNORMS -- for now we have seen no clear evidence
+that it did so (= 1).
+
+## Estonian Citizen
+
+Estonian Citizen (*Eesti Kodanik*, EK) was formed a month before the
+1992 elections by Jüri Toomepuu, a flamboyant Estonian-American and
+retired US, army lieutenant-colonel. EK polled a surprising 6.9% in 1992
+but drifted into obscurity by the time of the 1995 poll, after which it
+disbanded.
+
+EK was built around the personality of Toomepuu (Kasekamp 2003, 405)
+(CHARISMA = 3). It has been considered an "anti-party" party (Millard
+2004, 70) due to Toomepuu's "aggressive, American style populism"
+(Kasekamp 2003, 405; Kivirahk 1993, 158; Auers and Kasekamp 2015, 144;
+Arter 1995, 257; Rosimannus 1995, 33). He was particularly convinced
+that the former communist elite was still running the country via the
+post-transition parties (OTH_POLCLASS = 3).
+
+Ideologically, EK is considered to have a lot in common with the ERSP
+(Kasekamp 2003, 404; Auers and Kasekamp 2013, 237), specifically in its
+advocacy of forced repatriation of ethnic Russians (Kasekamp 2003, 405;
+Arter 1995, 266), and for this reason we've coded it 3 on OTH_ETHNIC and
+OTH_FOREIGN, and FR on LRPOSITION. We have not seen much evidence for
+the LIBDEMNORMS variable, but given that Mikkel claims that the party
+"never questioned the legitimacy of the political system as such and
+never used illegal methods in the political process" (Mikkel 2006, 28),
+we've kept this variable at 1.
+
+## Independent Royalists
+
+The Independent Royalists were a small party that emerged in time for
+the 1992 elections. The literature suggests that the Royalists were
+initially a satirical protest party "with only a semi-serious intent to
+win elections" (Grofman, Mikkel, and Taagepera 2000, 336; see also
+Fitzmaurice 1993, 168; Wilder 1993, 74). In a similar vein to Sweden's
+New Democracy, the party and its "Territorial Marshal" Kalle Kulbok
+campaigned in costumes (Arter 1995, 266).
+
+The party did not have many serious policies (Arter 1995, 266; V. A.
+Pettai 1993, 119) (Estonia has never actually had a monarchy of its
+own), and the party even decided some votes in parliament by coin toss
+(Clemens 1994, 399). we've therefore labelled them N/A on LRPOSITION.
+There is no evidence that the party was a threat to democracy
+(LIBDEMNORMS = 1), nor any hostility to OTH_ETHNIC, OTH_FOREIGN or
+OTH_FINANCIAL. However the Royalists are universally considered to be an
+"anti-party protest" party (Kivirahk 1993, 157; see also Wilder 1993,
+76; Arter 1995, 266; Rosimannus 1995, 33) (OTH_POLCLASS = 3). The
+picture on CHARISMA is less clear: while Kulbok was clearly the leader
+of the party we've seen no source that mentions the centrality of his
+personal leadership over its other leaders (= 1).
+
+## Centre Party
+
+The Centre Party (*Keskerakond*) was founded by Edgar Savisaar (Prime
+Minister 1990-92) in 1991 and has been a significant part of the
+Estonian political scene ever since. The party is centre-left
+(LRPOSITION = CL), and includes many Russian speakers in its base. The
+party is a personality vehicle for Savisaar, a charismatic figure almost
+universally considered "controversial" for his sharp rhetoric and
+corruption allegations. Savisaar's domineering personality, according to
+many observers, defined the party until he was replaced in November 2016
+(Saarts 2015, 220) (CHARISMA = 3). After this, we have not included the
+party as populist, given that this designation in the literature seems
+to rely on Savisaar's personal stylings, without which it is a
+mainstream party (although this could be confirmed by further research).
+
+Numerous texts consider the party populist (Millard 2004, 112; Saarts
+2015, 214; Sikk 2004, 9; Jakobson et al. 2012, 59; Ehin 2002, 99), with
+reference to Savisaar's hostility to other parties. However we have not
+found much specific detail on this, and for now we have left the
+OTH_POLCLASS at 2. We have also not seen any evidence of OTH_FORIEGN,
+OTH_ETHNIC, OTH_IMMIGRANT or OTH_FINANCIAL, all of which are left at 1.
+
+Savisaar's personality is considered by many to be "authoritarian"
+(Arter 1995, 255), but we have not found any evidence of actual
+contradictions of liberal democratic norms either in office or
+opposition (LIBDEMNORMS = 1). As he was a former Prime Minister when the
+party was founded, the party is coded 3 on INSIDER while it is included
+in the dataset.
+
+## Res Publica
+
+Res Publica (RP) was founded in 2001 as a youthful party that attacked
+the petty squabbling and corruption of the dominant parties. The party
+had extraordinary success in in its first election in 2003, benefiting
+from popular discontent with the likely coalition government between the
+two major parties. Upon joining government it lost most of its
+popularity and then joined in a union with Pro Patria for the 2006
+elections onwards, where it seemingly became non-populist (Učeň 2007,
+59). The party had much in common with New Era in neighbouring Latvia.
+
+RP campaigned on a generally populist "new politics" appeal (Sikk 2009,
+7; Saarts 2015, 214). The party made corruption its central issue, and
+campaigned in a generally protest narrative against the entrenched
+parties (Saarts 2015, 214, 223). However, it seems that its
+anti-politics "purifying" image was not as explicitly hostile against
+the political class as other populists, making it similar to populists
+like Simeon II in Bulgaria (Taagepera 2006, 84--85). For this reason,
+we've left it as 2 on OTH_POLCLASS. It did not take a stance on
+Estonia's ethnic political issues (Saarts 2015, 217) (OTH_ETHNIC = 1),
+or, to our knowledge, anything that would register on the OTH_FOREIGN,
+OTH_IMMIGRANT, or OTH_FINANCIAL variables.
+
+The party had a vague and ambiguous ideological standing (Sikk 2004, 10;
+Saarts 2015, 217), but is usually considered centre-right (Učeň 2007,
+56; Saarts 2015, 215; Taagepera 2006) (LRPOSITION = CR). There is a case
+that it should actually be classified as centrist based on the
+non-ideological way that it campaigned in 2003, which should be explored
+further. The party did not rely on its leader (Saarts 2015, 221;
+Taagepera 2006, 84) (CHARISMA = 1), did not violate any LIBDEMNORMS (=
+1), and could not be considered INSIDER prior to its initial victory in
+2003 (Taagepera 2006).
+
+## Estonian People\'s Union
+
+The Estonian People's Union (*Eestimaa Rahvaliit*, ER) was an agrarian
+party formed in 2000 through a merger of smaller agrarian parties
+including many former collective farm managers from Soviet times (V.
+Pettai and Toomla 2003, 6). It did very well in the 2003 elections
+(13%), forming coalition government with the Centre Party, but faded
+after political scandals (Saarts 2015, 214). From obscurity, some
+members of its base merged with the Estonian Patriotic Movement to for
+the Estonian Conservative People's Party (EKRE) (see below) in 2012.
+
+While not a great deal is written about the party, numerous texts
+mention in passing that it was populist (Taagepera 2006, 80; Jakobson et
+al. 2012, 59). Appealing almost exclusively to rural voters, ER featured
+"to some extent" (Jakobson et al. 2012, 73) a redemptive discourse in
+which it portrayed itself as the protector of the "people" (OTH_POLCLASS
+= 2). Jakobson *et al* claim that it engaged in some degree of
+ethnocentric rhetoric against non-white immigrants (Jakobson et al.
+2012, 73). However, Saarts (Saarts 2015, FN 224) states explicitly that
+the party avoided a "far right" outlook in contrast with the EKRE, and
+we have coded these variables more moderately (OTH_IMMIGRANTS = 2,
+OTH_ETHNIC = 2, OTH_FOREIGN = 2).
+
+The party is difficult to categorise on LRPOSITION, as it was socially
+conservative but economically left wing (V. Pettai and Toomla 2003, 27).
+Most commentators seem to consider it centre-right (CR) (Petsinis 2019,
+217; Braghiroli and Petsinis 2019, 5) and we have coded it such. Saarts
+does not consider the party's original leader Villu Reiljan to be
+particularly charismatic (Saarts 2015, 2020) (CHARISMA = 1), and there
+is no evidence that it departed from the norms of liberal democracy
+(Jakobson et al. 2012, 72) (LIBDEMNORMS = 1). The party was not an
+INSIDER until the 2007 election (= 3 from 2007 on).
+
+## Conservative People's Party of Estonia
+
+The Conservative People's Party of Estonia (EKRE) formed after the
+merging of the Estonian People's Union and the far right (and much
+smaller) pressure group Estonian Patriotic Movement in 2012. It achieved
+break-out success of 8.1% in the 2015 elections, performing far better
+than any far-right party in Estonia since the early 1990s. This surged
+to 17.8% in 2019, primarily on the back of the European migrant crisis.
+It has signed a declaration of support with the Latvian National
+Alliance (NA), with which it has a lot in common.
+
+The party's ideology is anti-globalist, ethno-centric and radically
+nationalist, making it an exemplar of the European far right (LRPOSITION
+= FR). Among numerous examples of this ideology and rhetoric, it has
+advanced an officially racist immigration policy, supported
+controversial monuments dedicated to Nazi collaborationist soldiers who
+fought against the Soviet Red Army (Auers and Kasekamp 2015, 145), and
+campaigned against the "Islamization of Europe" (Braghiroli and Petsinis
+2019, 11). It considered the migration crisis the deliberate work of
+global elites done to undermine the mono-ethnic nation state (Kasekamp,
+Madisson, and Wierenga 2019, 9). While explicitly hostile to immigrants
+(Kasekamp, Madisson, and Wierenga 2019; Veebel 2015), Wierenga claims
+that its most important "other" is the domestic Russian-speaking
+population (Wierenga 2017, 3). For all these positions the party is
+coded 3 on both OTH_ETHNIC and OTH_IMMIGRANT.
+
+The party espouses a distinctly anti-establishment rhetoric (Braghiroli
+and Petsinis 2019, 11; Makarychev and Sazonov 2021, 461), and presents
+itself as an alternative to the political class (Auers and Kasekamp
+2015, 146). For example, at its inception in 2012 it claimed to "offer a
+viable alternative to the voters who are sick of the forced choice
+between \[Reform Party and Centre Party\] East and West, left and right"
+(cited in Braghiroli and Petsinis 2019, 5) (OTH_POLCLASS = 3). It is
+strongly opposed to Russian interference (Lanko 2015, 51), denouncing a
+2014 border treaty as a "give away" (Auers and Kasekamp 2015, 146). It
+is also critical of the EU for taking away Estonia's sovereignty
+(Wierenga 2017, 8), imposing its cultural liberalism and enforcing
+bailout packages for southern European states (Braghiroli and Petsinis
+2019, 6; Braghiroli and Makarychev 2022, 132). In the words of its 2018
+programme, ""the sovereign nation state has been transformed into a
+vassal state representing the interests of the European Union, of
+foreign capital and of parasitic elites" (Braghiroli and Makarychev
+2022, 135). For both of these stances it is coded 3 on OTH_FOREIGN. The
+party does make some reference to taxing foreign capital (Braghiroli and
+Makarychev 2022, 135), but generally does not place the same
+significance on economic issues as other ones (Braghiroli and Petsinis
+2019, 5). We have coded it 2 on OTH_FINANCIAL.
+
+The party is very closely associated with its charismatic leader Mart
+Helme (Trumm 2018, 334), and his son Martin Helme, who, according to
+Auers and Kasekamp, have injected "dynamism and energy... into the
+moribund radical right" (Auers and Kasekamp 2015, 145) (CHARISMA = 3).
+EKRE has a very different membership, leadership and ideology to the
+People's Union (Saarts 2015, 214), and thus should not register on
+INSIDER (= 1) even though the latter had been in power (Petsinis 2019,
+215). Wierenga claims that the party "does not espouse anti-democratic
+rhetoric" (Wierenga 2017, 6), and that the party does not have a
+militant wing such as, for example, Jobbik in Hungary. The party
+possesses a lively youth wing ("Blue Awakening") that organises
+militarised "patrols" and rallies (Kazharski and Makarychev 2020, 173).
+It has also floated plans to regulate the media, which it considered
+part of the "establishment" (Kasekamp, Madisson, and Wierenga 2019, 20).
+Given Wierenga's analysis, we have left EKRE's LIBDEMNORMS coding at 2.
+
+## Not included
+
+In 1995 the "Rightwing Party" (a.k.a. "right-wingers", *Eesti
+Parempoolsed*) narrowly crossed the 5% threshold to make it into
+parliament. The party split from Fatherland in 1994 (Grofman, Mikkel,
+and Taagepera 2000; V. Pettai and Toomla 2003, 13), and there is reason
+to suspect that this may be a populist party, but not enough evidence to
+code it correctly.
+
+**References**
+
+Arter, David. 1995. 'Estonia after the March 1995 Riigikogu Election:
+Still an Anti-Party System'. *The Journal of Communist Studies and
+Transition Politics* 11 (3): 249--71.
+
+Auers, Daunis, and Andres Kasekamp. 2013. 'Comparing Radical-Right
+Populism in Estonia and Latvia'. In *Right-Wing Populism in Europe:
+Politics and Discourse*, edited by Ruth Wodak, Majid KhosraviNik, and
+Brigitte Mral, 235--48. London and New York: Bloomsbury Academic.
+
+---------. 2015. 'The Impact of Radical Right Parties in the Baltic
+States Finding One's Way through Social Space'. In *Transforming the
+Transformation?: The East European Radical Right in the Political
+Process*, edited by Michael Minkenberg. London and New York: Routledge.
+
+Braghiroli, Stefano, and Andrey Makarychev. 2022. 'Сonservative Populism
+in Italy and Estonia: Playing the Multicultural Card and Engaging
+"Domestic Others"'. *East European Politics*, 1--22.
+
+Braghiroli, Stefano, and Vassilis Petsinis. 2019. 'Between Party-Systems
+and Identity-Politics: The Populist and Radical Right in Estonia and
+Latvia'. *European Politics and Society* 20 (4): 431--49.
+
+Clemens, Walter C. 1994. 'Estonia Rebuilds: The Second Year of
+Independence, 1992--1993'. *Nationalities Papers* 22 (2): 393--403.
+
+Ehin, Piret. 2002. 'Estonian Euroskepticism: A Reflection of Domestic
+Politics'. *Eastern European Constitutional Review* 11 (4): 96--100.
+
+Fitzmaurice, John. 1993. 'The Estonian Elections of 1992'. *Electoral
+Studies* 12 (2): 168--73.
+
+Grofman, Bernard, Evald Mikkel, and Rein Taagepera. 2000. 'Fission and
+Fusion of Parties in Estonia, 1987--1999'. *Journal of Baltic Studies*
+31 (4): 329--57.
+
+Jakobson, M., Ilze Balcere, Oudekki Loone, Anu Nurk, Tõnis Saarts, and
+Rasa Zakeviciute. 2012. 'Populism in the Baltic States'. Research
+report, Tallinn University Institute of Political Science and Governance
+/ Open Estonia Foundation.
+
+Kasekamp, Andres. 2003. 'Extreme-Right Parties in Contemporary Estonia'.
+*Patterns of Prejudice* 37 (4): 401--14.
+
+Kasekamp, Andres, Mari-Liis Madisson, and Louis Wierenga. 2019.
+'Discursive Opportunities for the Estonian Populist Radical Right in a
+Digital Society'. *Problems of Post-Communism* 66 (1): 47--58.
+
+Kazharski, Aliaksei, and Andrey Makarychev. 2020. 'Populism in Estonia
+and Slovakia: Performances, Transgressions, and Communicative Styles'.
+*Populism* 3 (2): 165--85.
+
+Kivirahk, Juhan. 1993. 'The Premises for Democracy: A Study of Political
+Values in Post-Independent Estonia'. *Journal of Baltic Studies* 24 (2):
+149--60.
+
+Lanko, Dmitry. 2015. 'Estonian Political Parties in the Mid-2010s'.
+*Baltic Region* 2 (24): 50--57.
+
+Mäe, Andres. 1995. 'Estonian National Independence Party (ENIP)'.
+*Nationalities Papers* 23 (1): 211--12.
+
+Makarychev, Andrey, and Vladimir Sazonov. 2021. 'Populisms, Popular
+Geopolitics and the Politics of Belonging in Estonia'. In *Multifaceted
+Nationalism and Illiberal Momentum at Europe's Eastern Margins*, 23--42.
+Routledge.
+
+Mikkel, Evald. 2006. 'Patterns of Party Formation in Estonia:
+Consolidation Unaccomplished'. In *Post-Communist EU Member States:
+Parties and Party Systems*, edited by Susanne Jugerstam-Mulders, 37--64.
+Aldershot: Ashgate.
+
+Millard, Frances. 2004. *Elections, Parties, and Representation in
+Post-Communist Europe*. Basingstoke: Palgrave.
+
+Petsinis, Vassilis. 2019. 'Identity Politics and Right-Wing Populism in
+Estonia: The Case of EKRE'. *Nationalism and Ethnic Politics* 25 (2):
+211--30.
+
+Pettai, Vello A. 1993. 'Estonia: Old Maps and New Roads'. *J. Democracy*
+4: 117--25.
+
+Pettai, Vello, and Rein Toomla. 2003. *Political Parties in Estonia*.
+Washington, DC: National Council for Eurasian and East European Research
+Washington, DC.
+
+Rosimannus, Rain. 1995. 'Political Parties: Identity and
+Identification'. *Nationalities Papers* 23 (1): 29--41.
+
+Saarts, Tõnis. 2015. 'Persistence and Decline of Political Parties: The
+Case of Estonia'. *East European Politics* 31 (2): 208--28.
+
+Sikk, Allan. 2004. 'Successful New Parties in the Baltic States: Similar
+or Different?' In *The Baltic States: New Europe or Old*, 22--23.
+University of Glasgow.
+
+---------. 2009. 'Parties and Populism'. Working Paper 2009-02. Centre
+for European Politics, Security and Integration (CEPSI), University
+College London.
+
+Taagepera, Rein. 2006. 'Meteoric Trajectory: The Res Publica Party in
+Estonia'. *Democratisation* 13 (1): 78--94.
+
+Trumm, Siim. 2018. 'The 'New'Wave of Populist Right-Wing Parties in
+Central and Eastern Europe: Explaining Electoral Support for the
+Conservative People's Party of Estonia'. *Representation* 54 (4):
+331--47.
+
+Učeň, Peter. 2007. 'Parties, Populism, and Anti-Establishment Politics
+in East Central Europe'. *The SAIS Review of International Affairs* 27
+(1): 49--62.
+
+Veebel, Viljar. 2015. 'Balancing between Solidarity and Respondibility:
+Estonia in the EU Refugee Crisis'. *Journal on Baltic Security* 1 (2).
+
+Wierenga, Louis. 2017. 'Russians, Refugees and Europeans: What Shapes
+the Discourse of the Conservative People's Party of Estonia?' UPTAKE
+Working Paper No. 6, 2017.
+http://www.uptake.ut.ee/wp-content/uploads/2017/06/06_wierenga.pdf.
+
+Wilder, Paul. 1993. 'The Estonian Elections of 1992: Proportionality and
+Party Organisation in a New Democracy'. *Representation* 31 (116):
+72--76.
+

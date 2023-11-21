@@ -1,0 +1,290 @@
+---
+title: Bulgaria
+---
+
+
+-   Date range: 1991-2020
+
+-   Elections included:
+
+    -   Legislative: 1991, 1994, 1997, 2001, 2005, 2009, 2013, 2014,
+        2017.
+
+    -   Presidential: 1992, 1996, 2001, 2006, 2011, 2016.
+
+## Bulgarian Business Bloc
+
+The Bulgarian Business Bloc (*Bulgarski biznes blok*, BBB) was founded
+to defend business interests in the early 1990s (Kosová 2022, 370).
+Although not created by him, the party became totally dependent on its
+1992 presidential candidate George Ganchev (Lessenski 2020, 45; Zankina
+2016, 196; Georgi Karasimeonov 1995, 583), a flamboyant businessman who
+had lived abroad (CHARISMA = 3). Ganchev placed third in that election
+with 16.78%, and reached 21.9 in the 1996 presidential election. The BBB
+won 5.27% of the vote in the 1997 parliamentary election. Ganchev split
+from the party to form the George Ganchev Bloc for the 2001
+parliamentary elections, at which both entities polled poorly.
+
+Ganchev's campaign was light on programmatic policy, but heavy on
+criticism of the political class, both sides of which he alleged to be
+equally corrupt, dishonest and incompetent (Levitt and Kostadinova 2014,
+529). In Cristova's words:
+
+> For the first time, the bifurcation and polarization in political
+> discourse were superseded by an indiscriminate attack on the political
+> elite altogether. His rhetorics witnessed an emergent attack on
+> parliamentary democracy, which was testified in his depiction of
+> deputies as "liars in parliament" (Cristova 2010, 223)
+
+Other literature has labelled him a "protest candidate" (Bastian 1998,
+192) and an "opportunist" (Georgi Karasimeonov 1995, 583). On this basis
+we've coded him 3 on (OTH_POLCLASS = 3)
+
+Other than this anti-politician rhetoric, we cannot see any evidence
+that the campaigns of Ganchev or BBB should register on the
+OTH_IMMIGRANT, OTH_ETHNIC, OTH_MILITARY, or OTH_FOREIGN, even though
+Ganchev was a strident nationalist (Georgi Karasimeonov 1995, 583), and
+the party was generally right wing (LRPOSITION = R). We've also seen no
+evidence that Ganchev was a participant in previous governments (INSIDER
+= 1), or that his campaign violated liberal democratic norms
+(LIBDEMNORMS = 1).
+
+## National Movement -- Simeon II
+
+In 2001, the former King Simeon Saxe-Goburg-Gotha (who served as a child
+monarch during WWII) ran a reformist campaign that is widely referred to
+as populist (see for example Raycheva and Peicheva 2020, 76). This was
+furnished with a new party, the National Movement - Simeon Second /
+NMSS). Simeon's campaign was a mixture of royal nostalgia, frustration
+with the political class, and the promise of an immediate improvement in
+living conditions (Cristova 2010, 224). It was based exclusively on the
+charisma of Simeon himself (G Karasimeonov and Lyubenov 2013, 413; Gurov
+and Zankina 2013, 5) (CHARISMA = 3). Simeon's OTH_POLCLASS rhetoric was
+somewhat "softer" (Smilov and Krastev 2008, 9) than other populists in
+Bulgara, given that he promised to work with rivals transcend the
+pettiness of the current party system. Nonetheless, his campaign did
+paint a picture of the elite as enjoying "inexplicable richness" while
+the people suffered (Cristova 2010, 224), and presented a totally
+non-ideological and binary representation of the people and the elite
+(Smilov and Krastev 2008, 16; Gurov and Zankina 2013, 5), justifying at
+least a 2 on this variable.
+
+We have seen no evidence of any other relevant OTH\_ variable, and
+despite his status as a former monarch, he was not any kind of INSIDER
+when he ran. Simeon's transcendent image became diluted in office as he
+acted in increasingly partisan ways, and by the time he ran for
+re-election he did not present any populist traits at all (Cholova 2012,
+78; Van Kessel 2015, 39).
+
+## Attack
+
+While Ganchev had attempted a kind of right wing populism in the early
+1990s, the first true far right populist party, Attack (*Ataka*),
+emerged in 2005 led by journalist Volen Siderov and based on his cable
+TV program of the same name. Attack utilised an extreme ethnocentric
+rhetoric as a rallying cry to disaffected voters, advocating "to take
+our Bulgaria back for the Bulgarians" (Ghodsee 2008, 30). The country
+allegedly needed to be taken "back" from a range of enemies, among them
+ethnic minorities such as Jews, Roma and Turks (Mestan 2022) (OTH_ETHNIC
+= 3).
+
+It also utilised a radical anti-establishment rhetoric (Stoyanov and
+Kostadinova 2021, 230), claiming to represent the people as a whole
+(Smilov and Krastev 2008, 17), in opposition to a corrupt and
+self-serving elite. In Siderov's maiden parliamentary speech, he claimed
+that "the Bulgarian people have been aroused and have deafeningly
+slapped the face of the so-called political class that has long turned
+into a herd of grunting pigs, into unfeeling balls of lard, deaf to the
+problems and the suffering of their own people" (Ghodsee 2008, 31). It
+also utilised an anti-globalist against the influence of the US (which
+Siderov considered to be controlled by Jews, (Ghodsee 2008, 32)), NATO,
+the World Bank and the IMF (Cristova 2010, 225), and the EU
+(OTH_FOREIGN=3). We could not find any specific references to
+anti-immigrant rhetoric in the years in which Ataka is included in the
+dataset (OTH_IMMIGRANTS = 1), although this could be investigated
+further. We've coded the party's OTH_FINANCIAL rhetoric 2 given that it
+seems to be an extension of OTH_POLCLASS and OTH_FOREIGN rhetoric rather
+than opposition to businesses and the wealthy *per se* (Ghodsee 2008).
+
+The party was dominated by the personality of Siderov (Ghodsee 2008, 32)
+(CHARISMA = 3), and given its occasionally violent rhetoric and actions
+it also deserves a 3 on LIBDEMNORMS. The party's core left-right
+ideology is a hotly debated subject. While it presents the nativism and
+ethnocentrism typical of far-right parties, it also presents a programme
+critical of neo-liberalism, in particular the privatisation of state
+assets to political cronies and foreign powers. It has also advocated
+higher spending on welfare and social programs. Raycheva and Peicheva
+claim that the party's ideology is a combination of "extremist
+right-wing with extreme left-wing ideas" (Raycheva and Peicheva 2020,
+75). Given the salience of the party's ethnonationalism, we've coded it
+FR. Cholova has suggested that the party moderated its image around 2009
+in order to drop its pariah status (Cholova 2012, 78), but we cannot see
+enough evidence for a change on any of these variables. Further research
+should confirm this.
+
+## GERB
+
+The strongest populist party since Simeon has been the centre-right GERB
+(Citizens for European Development of Bulgaria) founded by the popular
+mayor of Sofia (and former bodyguard) Boyko Borisov. The party is built
+around Borisov's crass man-of-the-people appeal in a similar way to
+Ganchev in the 1990s, with his main criticism being corruption and ties
+to organised crime in existing governments (Cristova 2010, 225; Cholova
+2012, 85). GERB achieved remarkable success in taking the place of the
+SDS and NMSS as the dominant centre right party from 2009 and as a
+result Borisov has dominated national politics in various coalitions for
+the past decade, weathering a storm of protests that saw him temporarily
+resign in 2013.
+
+While he is generally right wing (LRPOSITION = CR), Borisov's ideology
+was kept quite vague (Gurov and Zankina 2013, 6; Smilov 2008, 19). His
+hostility to the political class is rooted in allegations of corruption
+and incompetance -- alleging for example that Parliament was full of
+"liars" and losers" (Cristova 2010, 226) -- particularly in relation to
+their inability to tackle organised crime (Cholova 2012, 85). He
+therefore "portrayed himself as a man of the people fighting against the
+corrupt elite" (G Karasimeonov and Lyubenov 2013, 415). It is however
+debatable whether Borisov and GERB deserve a 2 or a 3 in OTH_POLCLASS.
+There is reason to believe that his anti-politician rhetoric was not as
+strong as others in Bulgaria at the time -- in part due to the fact that
+Borisov was himself connected to previous governments, and had an
+interest in eschewing the 'populist' label (G Karasimeonov and Lyubenov
+2013, 415). While this could be further researched (particularly whether
+it has changed over time), we've labelled it 3 here.
+
+Borisov is also pro-European, and it is not evident from my reading that
+OTH_ETHNIC politics is prominent in his populism. Likewise, OTH_FOREIGN
+rhetoric does not seem to be significant part of his platform, nor is
+OTH_FINANCIAL given that the party generally promotes a sound business
+environment in its policies and platforms (Cholova 2012, 87). It is
+difficult to code the party on OTH_IMMIGRANT. Immigration has not been a
+salient political topic in Bulgaria until very recently, and much of the
+criticism GERB receives on the issue seems to have more to do with its
+choice of far right coalition parties rather then rhetoric emanating
+from Boyko himself. We've kept the coding at 1 in elections since 2014,
+further research should confirm this.
+
+The party was and is entirely built around the down-to-earth tough guy
+personality of Borisov (Cristova 2010, 226; Smilov 2008, 19)
+(CHARISMA=3). As opposed to the regal and high-minded Simeon, this was
+rooted in a common man persona honed by skilled media performances and
+the personalisation of public policy (Ganev 2018, 99). According to
+Gurov and Zankina Borisov "shares the popular dislike of institutions
+and the bureaucracy, labeling entire socio-occupational
+categories---such as judges or parliamentary deputies---inefficient and
+corrupt," and rarely complies with constitutional constraints on his
+executive power (Gurov and Zankina 2013, 9). The government has also
+pressured state TV to supress voices critical of GERB (Ganev 2018, 96).
+However, it is not clear from research that this hostility to democratic
+institutions constitutes a wholesale threat to democracy on the scale of
+Attack (LIBDEMNORMS = 2). Given that Borisov was the head of the police
+under Simeon II (Smilov 2008, 19), We have coded him 2 for INSIDER in
+his first election in 2009 and 3 in all others after forming government.
+
+## Patriotic Front/ United Patriots 
+
+Two far-right parties smaller than Ataka, the National Front for the
+Salvation of Bulgaria (NFSB) and IMRO Bulgarian National Movement
+(IMRO-BNM), formed a coalition for the 2014 elections called "Patriotic
+Front" (PF). NFSB is led by Valeri Simeonov, a media mogul who was once
+closely aligned with Attack's leader Siderov before the two fell out
+bitterly (Simeonov is the owner of the SKAT cable TV station that
+Siderov's original "Attack" program aired on). The IMRO has a more
+independent history, and could be considered somewhat more moderate than
+Attack, although not to the point of changing any of its coding here.
+The coalition received 7.28% in 2014, and was organised around a program
+highly similar to Attack's. After seeing its own vote decline in
+comparison to the PF, Attack decided to join the group (previously
+bitter rivals) for the 2017 elections under the name United Patriots
+(UP), winning 15%.
+
+While there are some differences between the three parties in this
+coalition, we have not seen any evidence to code PF or UP any
+differently to Attack, except for on the OTH_IMMIGRANT variable. This is
+not due to outlook as much as context: immigration was not a salient
+political issue in Bulgaria until the Syrian refugee crisis made it so
+(Weisskircher and Rone 2016, 2).
+
+**References**
+
+Bastian, Jens. 1998. 'From Former to Post: Communist Parties in Central
+and Eastern Europe'. In *The Political Economy of Transition in Central
+and Eastern Europe*, 167--93. Routledge.
+
+Cholova, Blagovesta. 2012. 'Bulgaria'. In *Populist Political Parties in
+East Central Europe*, edited by Vlastimil Havlík and Aneta Pinková,
+73--96. Brno: Munipress.
+
+Cristova, Christiana. 2010. 'Populism: The Bulgarian Case'. *Sociedade e
+Cultura* 13 (2): 221--32.
+
+Ganev, Venelin I. 2018. 'Explaining Eastern Europe:\" Soft Decisionism\"
+in Bulgaria'. *Journal of Democracy* 29 (3): 91--103.
+
+Ghodsee, Kristen. 2008. 'Left Wing, Right Wing, Everything: Xenophobia,
+Neo-Totalitarianism, and Populist Politics in Bulgaria'. *Problems of
+Post-Communism* 55 (3): 26--39.
+
+Gurov, Boris, and Emilia Zankina. 2013. 'Populism and the Construction
+of Political Charisma: Post-Transition Politics in Bulgaria'. *Problems
+of Post-Communism* 60 (1): 3--17.
+
+Karasimeonov, G, and M Lyubenov. 2013. 'Bulgaria'. In *The Handbook of
+Political Change in Eastern Europe, Third Edition*, edited by Sten
+Berglund, Joakim Ekam, Kevin Deegan-Krause, and Terje Knutsen, 3
+edition, 407--41. Northampton, MA: Edward Elgar Pub.
+
+Karasimeonov, Georgi. 1995. 'Parliamentary Elections of 1994 and the
+Development of the Bulgarian Party System'. *Party Politics* 1 (4):
+579--87. https://doi.org/10.1177/1354068895001004009.
+
+Kosová, Klára. 2022. 'Wealth Defence Strategies of Bulgarian Oligarchs
+in the 1990s'. *Southeast European and Black Sea Studies* 22 (3):
+361--79.
+
+Lessenski, Marin. 2020. 'Bulgaria: A Lesson in Learning the Hard Way?'
+In *Political History of the Balkans (1989-2018)*, edited by József Dúró
+and Zoltán Egeresi, 35--49. Budapest: Dialóg Campus.
+
+Levitt, Barry, and Tatiana Kostadinova. 2014. 'Personalist Parties in
+the Third Wave of Democratization: A Comparative Analysis of P Eru and B
+Ulgaria'. *Politics & Policy* 42 (4): 513--47.
+
+Mestan, Adnan. 2022. 'Critical Analysis of the Russian-Bulgarian
+Political Relations Based on Far Right Parties 2013-2018'. *CenRaPS
+Journal of Social Sciences* 4 (1): 143--58.
+
+Raycheva, Lilia, and Dobrinka Peicheva. 2020. 'Reappraising the
+Political Populist Milieu in Bulgaria'. In *Populist Political
+Communication across Europe: Contexts and Contents*, edited by Agnieszka
+Stępińska, 71--87. Berlin: Peter Lang.
+https://www-peterlang-com.eu1.proxy.openathens.net/document/1059418.
+
+Smilov, Daniel. 2008. 'Bulgaria'. In *Populist Politics and Liberal
+Democracy in Central and Eastern Europe*, edited by Grigorij Mesežnikov,
+Ol'ga Gyárfášová, and Daniel Smilov, 7--13. Bratislavia: Institute for
+Public Affairs.
+
+Smilov, Daniel, and Ivan Krastev. 2008. 'The Rise of Populism in Eastern
+Europe: Policy Paper'. In *Populist Politics and Liberal Democracy in
+Central and Eastern Europe*, edited by Grigorij Mesežnikov, Ol'ga
+Gyárfášová, and Daniel Smilov, 7--13. Bratislavia: Institute for Public
+Affairs.
+
+Stoyanov, Dragomir, and Petia Kostadinova. 2021. 'Bulgarian Political
+Parties and European Integration: From Anticommunism to Euroscepticism'.
+*European Politics and Society* 22 (2): 222--36.
+
+Van Kessel, Stijn. 2015. *Populist Parties in Europe: Agents of
+Discontent?* Springer.
+
+Weisskircher, Manès, and Julia Rone. 2016. 'Unity Makes Strength? How
+the Radical Right Could Become Kingmakers in Bulgaria'. *LSE European
+Politics and Policy (EUROPP) Blog* (blog). London School of Economics
+and Political Science. 2016.
+http://eprints.lse.ac.uk/70093/1/blogs.lse.ac.uk-Unity%20makes%20strength%20How%20the%20radical%20right%20could%20become%20kingmakers%20in%20Bulgaria.pdf.
+
+Zankina, Emilia. 2016. 'Theorizing the New Populism in Eastern Europe'.
+*Politologickỳ Časopis-Czech Journal of Political Science* 23 (2):
+182--99.
+

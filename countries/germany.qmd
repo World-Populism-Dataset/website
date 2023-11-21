@@ -1,0 +1,191 @@
+---
+title: Germany
+---
+
+
+## Die Linke 
+
+After German unification in 1990, the former ruling communist party of
+the eastern German Democratic Republic became the Party of Democratic
+Socialism (PDS). While maintaining a presence in the Bundestaag in the
+1990s, the PDS party was generally seen as an eastern regionalist party
+without national appeal. This changed somewhat when it merged with the
+renegade left faction of the Social Democratic Party opposed to
+Chancellor Gerhard Schröder in 2005, the Electoral Alternative for
+Labour and Social Justice (WASG), to form Die Linke ("The Left"). This
+was technically an electoral alliance in 2005 but was formalised as a
+unified political party in 2007. According to several scholars, Die
+Linke was a fundamentally different party to the old PDS (Patton 2013,
+220). The new party's vote doubled in 2005 from the PDS's previous
+performance, and peaked at 11.9% in the 2009 election. While there is an
+argument that the PDS itself should be included in the dataset, several
+scholars have argued that its political style and platform did not
+constitute populism as practiced by Die Linke (Decker and Hartleb 2007,
+447).
+
+Die Linke advocated a clearly populist agenda and style under the
+leadership of former WASG member and federal Minister for Finance Oskar
+Lafontaine, who led the party until 2010. The party's ideology, while
+generally far left, has always been somewhat undefined and simplistic
+(Hough and Koß 2009, 82). According to Hough and Koβ, its platform has
+been a combination of a broad opposition to neoliberalism, advocacy of
+pacifism in foreign policy, and a populist opposition to "bad guys" --
+especially financial elites and big business (Hough and Koß 2009, 82;
+Thomeczek 2023, 5) (OTH_FINANCIAL = 3). Aside from economic elites of
+various stripe, the party opposes the threat of foreign imperial forces
+(the US and NATO) (OTH_FOREIGN = 2), and the political class of elite
+politicians supposedly owned by capital (Hough and Koß 2009, 85; Hough
+and Keith 2019) (OTH_POLCLASS = 2). In both these registers however, the
+party does not quite reach a 3 by our definition. There is no evidence
+of any populist rhetoric regarding OTH_ETHNIC (although there is a case
+to be made that is regionalist in representing the interests of East
+Germans), OTH_IMMIGRANT, or OTH_MILITARY (all = 1).
+
+While Die Linke had organisational roots and factional divisions,
+Lafontaine's leadership of the party does seem to have been
+substantially significant to its political meaning and appeal (Decker
+and Hartleb 2007, 449; Patton 2013, 222). This does not appear to have
+been replicated by any leader since his departure in 2010 (Patton 2013,
+231) (CHARISMA = 2 2005-2009, 1 2009-2020). The party advocates a
+rethinking of German democracy, including more direct forms of
+participation and decision making (Hough and Koß 2009, 84; Olsen 2018,
+77). As it stated in 2017, "elections become a farce if those elected
+allow their decisinos to be dictated by big corporations and the wealthy
+and thus evade democratic scrutiny" (Hough and Keith 2019, 137). While
+this reflects a general criticism of the status quo of German liberal
+democracy, it is not clear that this constitutes a threat to LIBDEMNORMS
+in any way that would register on our scale (= 1).
+
+## **Alternative for Germany** 
+
+The Alternative for Gernamy (AfD) was formed with several minor members
+of the centre-right CDU-CSU before the 2013 election, driven principally
+by opposition to German bailout of debtor nations in the Eurozone. The
+party narrowly missed the federal electoral threshold of 5%, but grew
+rapidly in its early months and started to articulate clearer policy
+stances on matters other than the Eurozone issue (Arzheimer 2015, 541),
+causing some conflict among the various factions that had flocked to it
+as a general protest party of the right in 2013. The party entered
+Parliament in the next election (2017) with 12.6% of the vote, by which
+time it had moved many of its policies closer to the conventional
+European far-right.
+
+According to many scholars (Arzheimer 2015; Arzheimer and Berning 2019,
+1; Dilling 2018), at the time of the 2013 election the party was not
+particularly populist or radical, acting as a general protest party and
+avoiding German taboos about the radical right. In fact, Angela Merkel's
+move of the CDU/CSU to the centre, coupled with the fact that most of
+the new AfD had ties to that party's conservative wing, led some to
+consider the AfD a new centre right challenger to the CDU/CSU (Dilling
+2018) (note that the party is not coded for this election as it was
+under the 5% threshold). In 2015, a power struggle saw the departure of
+moderate party leader Bernd Lucke and his faction, leaving those in
+favour of more nativist and populist rhetoric in charge. Months later,
+Chancellor Angela Merkel's liberal response to the refugee crisis of
+2015-16 saw an rise in support for the party based on the hardline
+anti-immigration and anti-Islam stances of its new leaders (Arzheimer
+and Berning 2019, 3).
+
+Since the fall of fascism, German politics is extremely hostile to
+radical nativism and abnormally pro-EU integration, making even small
+movements on these scales seem relatively significant even when they do
+not match regional or global standards. While awareness of this fact
+should temper allegations of any party's radicalism, the AfD did employ
+populist and radical stances on several key variables in the 2017
+election. New leader Frauke Petry made headlines by suggesting that
+refugees could be shot at the border, and built ties with the Austrian
+Freedom Party (FPÖ) and other far right parties (Arzheimer and Berning
+2019, 3). The party also allied with the radical Patriotic Europeans
+Against the Islamization of the Occident (PEGIDA) organisation (Dilling
+2018, 88), started to advocate closing borders with European neighbour
+states in order to prevent the arrival of asylum seekers (Dilling 2018,
+89), and claimed outright that "Islam does not belong in Germany" (Olsen
+2018, 78). For these stances it is generally seen by the literature to
+feature the kind of anti-immigrant and ethnonationalist stances as other
+populist right wing parties in Europe (Hartmann, Kurz, and Lengfeld
+2022, 139) (OTH_IMMIGRANT = 3, OTH_ETHNIC = 3).
+
+After 2015 the party also adopted a populist rhetoric against the
+"political class of career politicians", a.k.a. the "political cartel"
+(Dilling 2018, 88), earning it a 3 on OTH_POLCLASS (see also Hansen and
+Olsen 2019, 3; Olsen 2018, 71; Goerres, Spies, and Kumlin 2018; Berbuir,
+Lewandowsky, and Siri 2015, 173). In one election program, the party
+spoke of a "political class whose overriding interest is only its own
+power, status, and material benefit" (Olsen 2018, 79). While attacking
+all established parties as enemies of the "*volkisch*" (a highly
+sensitive word in Germany given its association with Nazism), the party
+focused its rhetoric on Merkel in 2017, who is deemed to have betrayed
+"the people" by allowing refugees to enter (Nociar and Thomeczek 2018,
+2). The party is Eurosceptic, but not exceeding a 2 on OTH_FOREIGN.
+
+While many have accused the AfD of being an authoritarian radical right
+party, it is not evident that it should register on the LIBDEMNORMS
+scale. While its original members were insiders in the CDU/CSU, these
+were not powerful enough to register on the INSIDER variable by 2017. It
+is also not evident that the CHARISMA of the party leaders is
+particularly important for its political meaning.
+
+**References**
+
+Arzheimer, Kai. 2015. 'The AfD: Finally a Successful Right-Wing Populist
+Eurosceptic Party for Germany?' *West European Politics* 38 (3):
+535--56. https://doi.org/10.1080/01402382.2015.1004230.
+
+Arzheimer, Kai, and Carl C. Berning. 2019. 'How the Alternative for
+Germany (AfD) and Their Voters Veered to the Radical Right, 2013--2017'.
+*Electoral Studies* 60 (August): 102040.
+https://doi.org/10.1016/j.electstud.2019.04.004.
+
+Berbuir, Nicole, Marcel Lewandowsky, and Jasmin Siri. 2015. 'The AfD and
+Its Sympathisers: Finally a Right-Wing Populist Movement in Germany?'
+*German Politics* 24 (2): 154--78.
+
+Decker, Frank, and Florian Hartleb. 2007. 'Populism on Difficult
+Terrain: The Right- and Left-Wing Challenger Parties in the Federal
+Republic of Germany'. *German Politics* 16 (4): 434--54.
+https://doi.org/10.1080/09644000701652466.
+
+Dilling, Matthias. 2018. 'Two of the Same Kind?: The Rise of the AfD and
+Its Implications for the CDU/CSU'. *German Politics and Society* 36 (1):
+84--104.
+
+Goerres, Achim, Dennis C. Spies, and Staffan Kumlin. 2018. 'The
+Electoral Supporter Base of the Alternative for Germany'. *Swiss
+Political Science Review* 24 (3): 246--69.
+
+Hansen, Michael A., and Jonathan Olsen. 2019. 'Flesh of the Same Flesh:
+A Study of Voters for the Alternative for Germany (AfD) in the 2017
+Federal Election'. *German Politics* 28 (1): 1--19.
+
+Hartmann, Jörg, Karin Kurz, and Holger Lengfeld. 2022. 'Modernization
+Losers' Revenge? Income Mobility and Support for Right- and Left-Wing
+Populist Parties in Germany'. *European Sociological Review* 38 (1):
+138--52. https://doi.org/10.1093/esr/jcab024.
+
+Hough, Dan, and Dan Keith. 2019. 'The German Left Party: A Case of
+Pragmatic Populism'. In *The Populist Radical Left in Europe*, edited by
+Giorgos Katsambekis and Alexandros Kioupkiolis, 129--44.
+https://www.routledge.com/The-Populist-Radical-Left-in-Europe-1st-Edition/Katsambekis-Kioupkiolis/p/book/9781138744806.
+
+Hough, Dan, and Michael Koß. 2009. 'Populism Personified or
+Reinvigorated Reformers? The German Left Party in 2009 and Beyond'.
+*German Politics and Society* 27 (2): 76--91.
+
+Nociar, Tomas, and Jan Philipp Thomeczek. 2018. 'Far Right Politics in
+Germany: From Fascism to Populism?' Online resource. LSE European
+Politics and Policy (EUROPP) Blog. London School of Economics and
+Political Science. 24 January 2018. http://blogs.lse.ac.uk/europpblog.
+
+Olsen, Jonathan. 2018. 'The Left Party and the AfD: Populist Competitors
+in Eastern Germany'. *German Politics and Society* 36 (1): 70--83.
+https://doi.org/10.3167/gps.2018.360104.
+
+Patton, David F. 2013. 'The Left Party at Six: The PDS--WASG Merger in
+Comparative Perspective'. *German Politics* 22 (3): 219--34.
+https://doi.org/10.1080/09644008.2013.794454.
+
+Thomeczek, Jan Philipp. 2023. 'Moderate in Power, Populist in
+Opposition? Die Linke's Populist Communication in the German States'.
+*Journal of Political Ideologies* 0 (0): 1--20.
+https://doi.org/10.1080/13569317.2023.2196516.
+

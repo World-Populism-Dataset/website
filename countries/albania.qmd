@@ -1,0 +1,135 @@
+---
+title: Albania
+---
+
+
+Date range: 1992-2020
+
+## Edi Rama, Socialist Party of Albania
+
+The only Albanian populist figure who reaches the 5% threshold since the
+return to multiparty parliamentary elections in 1992 is the Socialist
+Party of Albania (PS) leader Edi Rama. Rama is a former artist and
+basketball player who served as Mayor of Tirana between 2000 and 2011
+and who took over the leadership of the PS in 2006 -- the first leader
+of the party not to have been a member of the Albanian Communist Party
+(Kajsiu 2016, 289). Rama's ascent to power took place among massive
+protests in 2011 following corruption allegations within the previous
+coalition government (Kajsiu 2014, 112). He was elected Prime Minster
+with a minority government in 2013 and re-elected with an outright
+majority in 2017.
+
+According to several sources, in the years before his first national
+election in 2013, as Mayor Rama mastered a kind of "anti-politics"
+rhetoric that lent heavily on populist conceptions of ordinary people
+being held back by the elite (Kajsiu 2010, 245; Budini 2012). He was
+part of a group who, after the transition from communism, "came to
+define themselves against political parties and politicians" as part of
+an "anti-political project" (Budini 2012), which, in combination with
+his artist background and personalistic style, has led him to be
+classified by Budini as Albania's "pop(ulist) star" (Budini 2008). In
+Kajsiu's words:
+
+> Edi Rama, trans­formed the antipolitics discourse from an attack on
+> politics in general into an attack against the "old politics" in the
+> name of a new one. According to him the old politics of the past had
+> caused much damage to Albania and Albanians, it had "poisoned the
+> blood of Albanian society, it \[had\] halted her and her development."
+> (Kajsiu 2010, 245)
+
+While some of this language is boilerplate in post-communist Albania,
+Rama seems to have taken it to a new level. He ran on an anti-corruption
+platform which targeted the entire state and political elite, claiming
+that corruption was "endemic in every cell of the state organism and in
+every contact of the state with the extended hand of the citizen that is
+asking for a service" (Kajsiu 2021, 40). Rama accused one incumbent,
+Ilir Meta of the Socialist Movement for Integration (SMI) of
+representing "everything that is rotten in Albanian Politics" (though he
+subsequently joined a coalition with him for the 2013 elections) (Kajsiu
+2014, 113). He also called the incumbent government of Berisha Sali a
+"regime of thievery and extortionists", and a "morally fallen power,
+rotten to its core" (Heba 2017, 11). In contrast to the political status
+quo, he has styled himself as a "political outsider" (Lela 2016, 44),
+declaring in 2009 "I am not a politician! I want to say this out loud. I
+am a citizen, like you, like many others" (Kajsiu 2010, 246). He has
+governed in a personalist way -- for example having his supporters
+directly submit the names of corrupt officials whom he subsequently
+black listed, and campaigning in 2017 on a platform of "co-governance
+with common people" (André 2017). There is a dearth of English language
+sources on Rama's rhetoric after becoming Prime Minister -- however,
+owing to what has been written earlier we have coded him 3 on
+OTH_POLCLASS.
+
+He has attacked critical media with significant vitriol (André 2017),
+but we do not think that this escalates to a 2 on the LIBDEMNORMS
+variable (= 1). We found no evidence for any rhetoric on the
+OTH_IMMIGRANTS, OTH_MILITARY, OTH_ECONOMIC or OTH_ETHNIC variables (each
+= 1). Rama has engaged in some nationalistic rhetoric against Albania's
+neighbours (see Rrustemi 2020), but not to the point of identifying
+their hand in the people's grievances (OTH_FOREIGN = 1).
+
+According to most sources Rama is notably "charismatic" (Fras 2017;
+Triantis, n.d.), and his campaigns have turned the PS into a "one-man
+show" (Kalemaj 2020, 32). However, given the existing strength of the
+party before his rise we've coded it 2 on CHARISMA. Despite the fact
+that Rama has advocated for the irredentist cause of "Greater Albania"
+including ethnic Albanian Kosovo and parts of North Macedonia, and has
+been called a "nationalist" (Rrustemi 2020, 19, 25), he clearly belongs
+to the centre left tradition in Albanian politics (LRPOSITION = CL).
+Owing to his non-political past we've coded him 1 on INSIDER up to 2013
+and 3 after he became Prime Minister in 2013.
+
+**References**
+
+André, Jérôme. 2017. "Co-Governance with Citizens --- What Kind of
+Democracy under Edi Rama?" *Exit - Explaining Albania* (blog). October
+4, 2017. https://exit.al/en/2017/10/04/edi-rama-a-new-enver-hoxha/.
+
+Budini, Belina. 2008. *Edi Rama: Politikani Pop (Ulist)-Star*. UET
+Press.
+
+---------. 2012. "Yll i partisë, yll i mediave: Rasti i ngritjes
+mediatike të Edi Ramës \[Edi Rama, the case of a media-driven politician
+in Albania: The implications for political parties\]." *POLIS*, no. 11:
+85--94.
+
+Fras, Max. 2017. "Prime Minister Edi Rama Takes Total Control in
+Albania, but Who Can Keep Him in Check?" *LSE Europe Politics and Policy
+Blog* (blog). June 30, 2017.
+https://blogs.lse.ac.uk/europpblog/2017/06/30/edi-rama-takes-control-albania/.
+
+Heba, Holta. 2017. "Propaganda in the Albanian Political Communication
+Prio to and Following 1990." *Juornalos of Advanced Scientific Research
+and Innovation* 11 (31): 1--15.
+
+Kajsiu, Blendi. 2010. "Down with Politics! The Crisis of Representation
+in Post-Communist Albania." *East European Politics and Societies* 24
+(2): 229--53.
+
+---------. 2014. "The 2013 Parliamentary Elections in Albania: Lights
+and Shadows." *Contemporary Southeastern Europe* 1 (1).
+
+---------. 2016. "Polarization without Radicalization: Political
+Radicalism in Albania in a Comparative Perspective." *Journal of
+Contemporary European Studies* 24 (2): 280--99.
+
+---------. 2021. "Public or Private Corruption?: The Ideological
+Dimension of Anti-Corruption Discourses in Colombia, Ecuador and
+Albania." *Journal of Extreme Anthropology* 5 (2): 27--51.
+
+Kalemaj, Ilir. 2020. "Albania: A Taxing Journey Toward Democratic
+Consolidation and European Integration." In *Political History of the
+Balkans (1989--2018)*, edited by József Dúró and Egeresi Zoltán, 23--34.
+Budapest: Dialóg Campus.
+
+Lela, Alfred. 2016. "Communicating in Style: The Aesthetic Politics of
+Edi Rama." *International Journal of Academic Research and Reflection* 4
+(5): 44--49.
+
+Rrustemi, Arlinda. 2020. *Far-Right Trends in South Eastern Europe: The
+Influences of Russia, Croatia, Serbia and Albania*. JSTOR.
+
+Triantis, Loukas. n.d. "Colour Politics and Urban Identities: A Critical
+Evluation of the Facade-Colouring Project, in Edi Rama's Tirana."
+https://www.academia.edu/download/35308323/Triantis_Painting_Tirana_2010.pdf.
+

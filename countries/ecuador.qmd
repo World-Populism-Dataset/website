@@ -1,0 +1,498 @@
+---
+title: Ecuador
+---
+
+
+-   Date range:
+
+-   Elections included:
+
+-   Not included:
+
+A military dictatorship was established in Ecuador in 1972, overthrowing
+Velasco Ibarra, the great populist figure in the 20^th^Century who had
+been president on five different occasions and had declared himself as
+dictator two years before. In 1978, the military called for a referendum
+and the Ecuadorians chose a new democratic constitution. Presidential
+elections were held in 1978-1979 and Jaime Roldós, of the Concentration
+of Popular Forces (CFP) was elected president. Ecuadorian politics
+include many populist parties. The most relevant ones are CFP, PRE,
+Patriotic Society Party and Alianza PAIS.
+
+## CFP
+
+CFP was founded in 1944 by Carlos Guevara Moreno. The party ran on a
+populist platform promising to break "the tradition of political
+manipulation of the people" (Sosa-Buchholz, 1999: 148). The party
+concentrated most of its power in the poor suburbs of Guayaquil and
+their leaders "refused to identify themselves with the left, right or
+center", emphasizing instead Ecuadorian popular ideology and the
+connection with the "*jefe máximo*" or supreme leader (Sosa-Buchholz,
+1999: 148).
+
+Jaime Roldós participated in the election as candidate because historic
+CFP leader Assad Bucaram, of Lebanese origin, was banned by the military
+from participating for not having Ecuadorian parents. The CFP criticized
+the military by arguing that the decree was an attack on Bucaram.
+Roldós, who was married to Bucaram's niece, "expanded upon the
+techniques already developed by CFP leaders" by cultivating an image of
+the suburbs (Sosa-Buchholz, 1999: 151). However, soon a conflict arose
+between Roldós and Bucaram. In addition, their untimely deaths in 1981,
+marked the division and decline of the CFP. The CFP was then led by
+Ángel Duarte, a former minister before the military coup who
+participated in the 1984 and 1988 presidential elections. Although
+Duarte did not have the charisma of his predecessors (1 in Charisma), he
+continued with the traditional rhetoric of the CFP and has also been
+described as populist (Taufic, 1984). I have coded 2 for insider
+populism because although Duarte was once part of the government, it was
+before the military coup. He did not have any significant power in the
+new democracy.
+
+I have not found any opposition to immigrants, ethnic others or foreign
+threats nor did I find any departure from the incipient
+Liberal-Democratic norms that the new Ecuadorian democracy was
+establishing. It is difficult to establish the ideological position of
+the CFP. I have opted for Centre since they combine elements from both
+Left and Right, however, N/A would also apply.
+
+## PRE
+
+Abdalá Bucaram, nephew of Assad and brother-in-law of Roldós, led the
+division of the CFP and created a new party; the Ecuadorian Roldosist
+Party (PRE). He is considered one of the most important populist figures
+in Ecuador (Sosa-Buchholz, 1999; De la Torre, 1997; Ulloa, 2017). Abdalá
+became the mayor of Guayaquil and then presented his candidacy to the
+presidential election in 1988, 1992 and 1996, finally winning the last
+year. Abdalá was known as "*el loco*", the crazy one, and presented
+himself as a passionate politician who did not abide by the etiquette of
+traditional politicians. "He challenges their respectability \[of the
+elite\] by glorifying the qualities of the people, insulting his rivals,
+and acknowledging and accentuating his own ugliness" and employed
+"simple, humorous, direct, and authentically popular language" (De la
+Torre, 1997: 17; Moreano and Donoso, 2005). His ideological basis was
+summed in one of his campaign slogans: "Only one ideology, against the
+oligarchy" (Sosa-Buchholz, 1999: 153). As he stated once: "The oligarchy
+is an amorphous entity, an insensitive and exploitative system, an
+anti-Christian system. \... I think that the oligarchy is everywhere"
+(Bucaram, 1990: 24). De la Torre (1997: 16) argues that the oligarchy is
+incarnated mainly in rival politicians thus, for example, "in the 1988
+elections, Bucaram presented himself as the child of Christ in struggle
+against 'the devil,' \[Socialist leader\] Rodrigo Borja." Bucaram
+employed a moralistic language to frame the struggle between the people
+and the elite and contrasted the effeminate nature of the elite with the
+virility of the Ecuadorian people (De la Torre, 1997: 16).
+
+The ideological classification of Abdalá Bucaram is complicated. Several
+authors coincide in the diffuse character of his ideology (Moreano and
+Donoso, 2005; Ulloa, 2017). He has been called a neopopulist because "he
+campaigned with a leftist discourse but implemented neoliberal measures
+during his government and formed his team with members of the oligarchy"
+(Ulloa, 2017: 118). He ran on the promise to improve the living
+condition of the poor (Sosa-Buchholz, 1999: 153) and had as a campaign
+slogan "the strength of the poor" (Ulloa, 2017: 117). In government, he
+applied personalistic measures such as the "Abdalact, cheap milk for
+Guayaquil's *suburbios*, of free back-packs and textbooks, notebooks and
+pencils bearing the president's name for poor students" (Sosa-Buchholz,
+1999: 154). However, not only did he never question capitalism (De la
+Torre, 1997: 18), he even implemented strong neoliberal policies by
+inviting Domingo Cavallo, a former Argentinian finance minister, to
+advise him. He also showed a great degree of pragmatism forming
+coalitions with other parties or including members of the former
+conservative government into his cabinet. I have decided to code him as
+Centre-Left to reflect his pro-poor policies, although it should be
+noticed that, as other neopopulists in the 90's, he shifted
+significantly once in government.
+
+Although the military did not form the main target of his attacks, he
+criticized it considerably. In 1985, he flew to Panamá because he was
+sentenced to four days in prison for saying that the military "had no
+other use than spend money and march in civic celebrations". I have
+coded his position as 2. Abdalá tried to "incarnate the representation
+of Indians, cholos, whites, blacks and mestizos" (Ulloa, 2017: 120),
+thus, I have coded 1 for Immigration and Ethnic Others. On his
+leadership role it is important to point out that the party was created
+and led by Abdalá. No one disputed his leadership and his style was
+extremely personalistic. I have coded 3 in charisma.
+
+Abdalá was related to both Assad Bucaram and Jaime Roldós and was mayor
+of Guayaquil, Ecuador's second most important city, before running for
+president in 1988. Therefore, he can be considered as a significant
+figure in previous governments (2 in Insider Populism). I have not found
+references or significant attacks on foreign powers or interests (1 in
+OTH_FOREIGN).
+
+Although several authors point to his "lack of respect for the rights of
+others" (De la Torre, 1997: 19) or his clientelism (Acosta, 1996), he
+did not deviate significantly from the liberal-democratic norms of other
+parties (I coded it as 1). In fact, when his economic austere policies
+resulted in widespread opposition, he was impeached by the parliament
+under the vague pretext of his mental incapacity and was substituted by
+an 'interim president' a novel figure for Ecuadorian politics of dubious
+constitutionality. A new constitution was approved, and elections
+followed in 1998.
+
+With its leader gone and new elections coming soon, the PRE had to find
+a replacement and Álvaro Noboa was chosen as the presidential candidate
+for the 1998 elections. He was one of the most successful businessmen in
+Ecuador. Nevertheless, he lost that election and then founded the
+Institutional Renewal Party of National Action, or PRIAN and ran for
+president in all elections until 2013, coming in in second place in 2002
+and in 2006. Noboa has sometimes been described as a populist (Nohlen et
+al. 2005: 372), however, his classification as such is contentious.
+Although he cultivates an image of a political outsider, in 1998, he
+stressed his technical abilities of management and differentiated
+himself from Abdalá Bucaram (Noboa, 1998). More importantly, as Carlos
+de la Torre argues, Noboa lacks the manichaean confrontation between the
+people and the power in his discourse (Ecuadorinmediato, 2006). He is
+better described as a personalistic leader more than as a populist
+candidate. Thus, I have not included him in the dataset.
+
+I have, however, included the party it the dataset since the party's
+position did not change after Abdalá left office. In the 2002 elections,
+the last in which the party obtained more than 5% of the vote, the party
+was led by Jacobo Bucaram, Abdalá's older brother. Jacobo was a
+sportsman and university chancellor who also became vice-president of
+the Congress between 1992 and 1993 and was major of the city of Milagro.
+He was known in the country for beating congressman Jamil Mahuad (who
+would later become president). He was in favor of the construction of a
+united Latin American currency that would help redistribute wealth and
+combat the problem of insecurity (BBC Mundo, 2002). He also wished to
+renegotiate Ecuador's debt with the IMF and promote an agrarian
+revolution (BBC Mundo, 2002). Due to his political career as
+vice-president of the congress and mayor I have codified him as a 2 in
+Insider Populism and given that he inherited his brother's party, I
+coded him as 1 in Charisma.
+
+## Lucio Gutiérrez and the Patriotic Society Party
+
+Gutiérrez was an unknown coronel without political experience (1 in
+Insider Populism) who became famous nationwide because of a coup d'état,
+in a similar fashion to Chávez. In January 2000, in the midst of a deep
+economic crisis, several factions of the military allied with indigenous
+movements overthrew the government of Pesident Mahuad. As Gutiérrez
+(2002) then declared: "from now on you, the people, will always be put
+first and those who have benefited from the people must step aside".
+However, the military was not able to hold power and Mahuad's
+vice-president was elected president. Gutiérrez was briefly arrested and
+later founded the Patriotic Society Party to run for the presidency in
+the 2002 elections.
+
+De la Torre argues that Gutiérrez "employed the populist rhetoric of
+confrontation between the people, whom he said he represented, against
+the oligarchy, symbolized by the corrupt politicians" (De la Torre,
+2008: 201). He also exploited the image of the military man as a man of
+the people who would not sell himself to "antinational interests" as
+well as his humble origins (De la Torre, 2008: 202). I coded 1 in
+Military and 2 in Foreign Interests.
+
+The ideological classification of Gutiérrez is not easy because he was
+able to "coincile opposed tendencies as well as had an enormous
+flexibility to transform itself" (Montúfar, 2008: 269). He could be
+described as a neopopulist because of his rhetoric before and after
+achieving power. He campaigned on a leftist platform, particularly
+concerned with the indigenous movement's claims. Moreover, he campaigned
+against neoliberal measures (De la Torre, 2008: 206). He was, however,
+less leftist than Chávez, as he himself stated "I admire the courage of
+Chávez... for challenging a corrupt government. I did the same in
+Ecuador. But I am not a communist. I am deeply Christian and respect
+private property and human rights" (El País, 2005). However, once in
+power, he soon broke his alliance with leftist and indigenous parties
+and supported himself with right-wing parties (Ulloa, 2017: 124). He
+then applied measures dictated by the FMI and appointed technocrats with
+ties to the business powers (Burbano de lara, 2003). The best
+classification I believe that fits Gutiérrez is to code him as Centre
+Left in 2002, 3 in Political Class and 2 in Economic Class.
+
+His political platform was strongly based on the indigenous movements,
+which he identified as the main component of "the people" (De la Torre,
+2008: 218) and he did not attack immigrants. 1 in both Immigration and
+Ethnic Others.
+
+The Patriotic Society Party was created by Gutiérrez as a platform to
+run for president. The party did not do well in the legislative
+elections (2.5% of the vote share), which gives an idea of the lack of
+relevance of the party compared to the figure of its leader. The party
+later changed its ideological position when Gutiérrez did, which implies
+that it did not have a solid ideological basis apart from being
+Gutiérrez's platform. I have coded 3 in Charisma, since Gutiérrez's
+populism was entirely based on his persona.
+
+Gutiérrez's violation of Liberal-Democratic norms was patently evident.
+He became known in his country through a coup d'état against the elected
+president. His downfall also showed his lack of respect for LD norms.
+Due to corruption scandals, Gutiérrez's alliance with the conservative
+parties broke down, and he decided to seek for the help of the PRE and
+Álvaro Noboa. He then proceeded to substitute judges in the Supreme
+court and those judges declared null the charges against Abdalá Bucaram.
+Massive protests followed and Gutiérrez declared the state of exception
+and ceased the Supreme Court judges. This was seen as an authoritarian
+intervention to the judicial power and, finally, the congress voted to
+substitute Gutiérrez with his vice-president, who also had become
+extremely critical of Gutiérrez's measures. I have coded 3 in LD Norms.
+
+In the 2006 elections, Gutiérrez was expecting to run for president, but
+the Supreme Court removed his political rights for two years. His
+brother Gilmar, who also had participated in Gutiérrez's 2000 military
+coup and had been a congressman, had to ran instead (1 in Insider
+Populism and Charisma). Lucio was, however, able to run on 2009 and 2013
+and was the undisputed leader of Patriotic Society Party since he
+founded the party (3 in Charisma and Insider Populism). During this
+time, his rhetoric was focused on his opposition to Rafael Correa.
+Gutiérrez did not lose his populist rhetoric, but the elite was now
+embodied by the government of Correa whom he accused of corruption
+(Gutiérrez, 2013a). Lucio called into question the transparency of the
+elections and criticized Correa for participating in the coup d'état
+that overthrew his "democratically elected government, thus violating
+the will of the people" (Gutiérrez, 2013a). Gutiérrez was also a critic
+of Correa's closure of media outlets and called into question the
+impartiality of the Ecuadorian institutions, saying that they only
+benefited the president but not the people (Gutiérrez, 2013b).
+
+Gutiérrez continued running a populist platform of difficult ideological
+classification. As Bowen (2010: 187) argues, he "generally eschewed
+well-defined platforms in favor of personalistic appeals" and
+"attempted, with some success, to mobilize clientelist networks that he
+had built during his period as president". However, he moved from his
+initial leftist positions to become a critic of Correa's progressive
+policies. He argued for the lowering of taxes (Gutiérrez, 2012) and had
+become, paradoxically, "the preferred candidate among the country\'s
+economic elite who see him as the only candidate capable of challenging
+Correa" (Bowen, 2010: 189). Thus, although he continued to be a populist
+leader, his definition of elite radically changed, and we could argue
+that his populism is mainly directed against a political elite (Correa
+and his government) and not anymore anti-economic class or anti-foreign
+interest. Therefore, I have changed to 1 Economic Elite and Foreign
+interest while keeping 3 for Political class and modified his ideology
+from left to Centre Right.
+
+## Rafael Correa and PAIS Alliance
+
+Rafael Correa, who obtained his PhD at the University of Illinois, was a
+professor of economics in Ecuador when he entered into politics.
+Probably because of his technocratic profile, he was called by Alfredo
+Palacio to be Minister of Economy after the downfall of Lucio Gutiérrez.
+"He was the ultimate outsider---a college economics professor who had
+never even belonged to a party" (De la Torre, 2013: 35). He remained
+only four months in the post because he disagreed with the free-trade
+policies of the government. He then created the movement Alianza PAIS
+(Patria Altiva i Soberana) or PAIS Alliance (Proud and Sovereign
+Homeland) and won the 2006 elections. Although he was a minister, I have
+coded him 1 in Insider Populism because his time as minister was very
+brief and previously, he had no political experience or public exposure.
+
+His platform has been repeatedly compared to that of Hugo Chávez (De la
+Torre, 2013; Ulloa, 2017). Correa argued for a "citizens revolution"
+that called "for the closure of Congress followed by elections for a
+constituent assembly that would write a new basic law. The underlying
+goal was to break the 'partidocracia' or system of domination by
+political parties." (De la Torre, 2013: 36). Since his intention was to
+call for a constituent assembly that would create a new constitution and
+change the way the political system worked up until then, PAIS Alliance
+did not present any candidate for the legislative body. This indicated
+his aim to connect directly with the people bypassing the formal
+institutions of representation. Ulloa (2017: 127) points out the
+importance of Correa's charisma and the concentration of party power in
+his hands (3 in Charisma).
+
+His aim was to "refound the homeland" in order to achieve "a radical and
+rapid change in the existing structures of Ecuadorean society, in order
+to change the bourgeois state into a truly popular one." (Correa, 2012).
+In his inaugural speech, he claimed that Ecuador needed to "get its
+homeland back" (Correa, 2006a) and argued that, under his government,
+"the fatherland was no longer for sale" (Correa, 2006a). "Correa
+presented himself as a leftist candidate, anti-international credit
+organizations, defendant of sovereignty; he employed an anti-political
+discourse that was, above all, anti-party" (Ulloa, 2017: 128). Correa
+defined himself as "socialist from a Christian, not Marxist, source; I
+like to define myself as a leftist Christian humanist" (Correa, 2006)
+whose platform was based primarily on fighting corruption and reversing
+neoliberal policies. He claimed that "we will never forget the crimes of
+the corrupt bankers who bankrupt us" (Correa, 2006a). Moreover, he
+stated that neoliberal policies whose "consequences have been
+disastrous" "were not only imposed but were also enthusiastically
+applauded by our elites" (Correa, 2006a). Thus, Correa claimed for a
+second Independence of Ecuador (De la Torre, 2013: 44) by which "Ecuador
+will become independent from international organizations, that represent
+foreign paradigms and interests" (Correa, 2006a). The most appropriate
+coding for Correa seems to be Far Left in Ideology and 3 in Political
+Class, Economical Class and Foreign Interests.
+
+Correa had good relations with the military at the beginning of his
+presidency and although it later deteriorated due to spending cuts (ABC,
+2016), the military was not a target of his populist speech.
+
+Another of the pillars of Rafael Correa's platform was what in Quechua
+is called the "*sumak kawsay*, which literally means 'the life well
+lived'" (De la Torre, 2013: 39). The concept "comes from indigenous
+cosmology, and aims to build 'the good life,' understood as non-Western
+relationships between society, nature, and development." (De la Torre,
+2013: 39). This pillar was concretized in Ecuador's new constitution
+with the definition of the country as 'plurinational' and the inclusion
+of "nature rights". Additionally, Correa included a leader of the
+indigenous movement as president of the constituent assembly and
+finished his inaugural speech with some words in Quechua (Correa,
+2006a). His relations with the indigenous communities deteriorated later
+due to disagreements over mineral extraction which the indigenous
+communities opposed to, but which Correa's government thought necessary
+for the independence of the country (De la Torre, 2013: 41). However,
+neither immigration nor other ethnic communities were ever identified by
+Correa as part of the elite.
+
+Although Correa claimed to seek the democratization of Ecuador, his
+actions in government fall short of his electoral promises (De la Torre,
+2013; Ulloa, 2017). Moreover, he launched several attacks on the media
+because, as he put it "the media have always been one of the de facto
+powers that have dominated Latin American countries." (quoted in De la
+Torre, 2013: 42). Members of 'El Universo' were convicted of defamation
+for an editorial they wrote, and the newspaper was heavily fined as
+well. Moreover, every week Correa hosted 'Enlace Ciudadano' a three-hour
+show in which he criticized the media's representation of his government
+treating them as political actors (Ulloa, 2017: 289). Insults and
+mocking of other political leaders were very common in his shows.
+
+Furthermore, his call for a constituent assembly has been questioned for
+its legality (Ulloa, 2017: 136,137). That possibility was not one of the
+prerogatives of the president in the constitution and it completely
+bypassed the legislative body. However, he went ahead with his plans due
+to his massive popular support. De la Torre (2013: 33) argues that
+Correa represents a case of "soft authoritarianism" similar to that of
+Chávez. Taking into consideration his attacks on the press, I have coded
+him as 3 in Lib-Dem Norms.
+
+Carlos de la Torre (2017: 39) points out that Correa, himself an
+'expert' in economics as an academic, exhibited a kind of technocratic
+populism by which he had the knowledge to rebuild his nation and bring
+progress and modernization. Thus, he combined technocracy with populism.
+Lenín Moreno, vice-president during most of Correa's years in power and
+UN special delegate on disability issues would represent this
+technocratic element in his government. Moreno won the 2017 elections
+with Alliance PIAS. Moreno has a leftist ideology and continues with
+many of Correa's policies; however, he is less charismatic than his
+predecessor and does not employ the level of confrontational rhetoric
+that Correa did. Although many saw him as the marionette of Correa, he
+soon started to differentiate himself from Correa in what De la Torre
+(2018) calls Ecuador's 'perestroika'. Moreno has strongly persecuted
+corruption, removed the asylum to Julian Assange and engaged in a
+dialogue with all political forces, including Right-wing parties, moves
+that have been strongly criticized by Correa. Moreno's case can be
+compared to that of Juan Manuel Santos in Colombia and his relationship
+with Álvaro Uribe, where a non or less populist leader inherited the
+party that the populist leader created. Following the criteria used with
+Santos and acknowledging that Moreno has inherited mainly Correa's
+ideological basis but not so much his populism, I have not included him
+in the dataset. I have, however. Included Alliance PAIS in the
+legislative elections as a way to show that the party is still very much
+influenced by Correa's personality (I changed Charisma from 3 to 1 to
+indicate the difference in importance of the leader). Whether Moreno
+will be able to change the character of the party in the future or not
+is an open question.
+
+## MPD
+
+The Popular Democratic Movement is not included in the dataset because
+it has been described as a "traditional party" based on a communist and
+Maoist ideology (De la Torre, 2013: 34-35) with strong connections with
+the country's unions. Although it briefly supported Lucio Gutiérrez and
+Rafael Correa, it later became part of the opposition to these populist
+leaders. None of the sources consulted describes this party as populist.
+
+**References**
+
+*ABC* (2016) "Rafael Correa llama a los soldados del Ejército
+ecuatoriano a rebelarse", 14 September \[Online\]
+<https://www.abc.es/internacional/abci-rafael-correa-llama-soldados-ejercito-ecuatoriano-rebelarse-201609131620_noticia.html>\[Accessed
+5 September 2019\].
+
+Acosta, A. (1996) "El bucaramismo en el poder", *Nueva sociedad*, Vol.
+146 Nov-Dec, pp. 6-16.
+
+BBC Mundo (2002) "Los que quedaron atrás", 22 November \[Online\]
+<http://news.bbc.co.uk/hi/spanish/specials/cambio_de_mando_en_ecuador/newsid_2500000/2500965.stm#5>
+\[Accessed 12 September 2019\].
+
+Bucaram, A. (1990) *Las verdades de Abdalá*. Quito: Editorial El Duende.
+
+Burbano de lara, F. (2003) "Lucio Gutiérrez, la política indígena y los
+frágiles equilibrios en el poder", *Anuario Social y Político de América
+Latina y el Caribe V*ol. 6.
+
+Bowen J. (2010) "Ecuador's 2009 presidential and legislative elections",
+Notes on Recent Elections, *Electoral Studies*, Vol. 29, pp. 171--195.
+
+Correa, R. (2006a) "Inaugural Speech," \[Online\]
+[https://web.archive.org/web/20090304151840/http://www.rafaelcorrea.com/la_noticia/942/Discurso%20de%20Posesión%20de%20Rafael%20Correa%20Presidente%20del%20Ecuador](https://web.archive.org/web/20090304151840/http:/www.rafaelcorrea.com/la_noticia/942/Discurso%20de%20Posesi%C3%B3n%20de%20Rafael%20Correa%20Presidente%20del%20Ecuador)\[Accessed
+4 September 2019\].
+
+Correa, R. (2006b) "Statements in TV program 'Detrás de la noticia'",
+\[Online\] <http://www.youtube.com/watch?v=I8aSHojROqY>\[Accessed 5
+September 2019\].
+
+Correa, R. (2012) "Rafael Correa Interview: Ecuador's Path," *New Left
+Review, Vol.* 77, Sep-Oct, pp. 90.
+
+De la Torre, C. (1997) "Populism and Democracy: Political Discourses and
+Cultures in Contemporary Ecuador", *Latin American Perspectives*, Vol.
+24(3), pp. 12-24.
+
+De la Torre, C. (2008) "Protesta y democracia en Ecuador: la caída de
+Lucio Gutiérrez", in López Maya, M., Iñigo Carrera, N. and Calveiro, P.
+(eds.) *Luchas contrahegemónicas y cambios políticos recientes de
+América Latina,* Quito: CLACSCO.
+
+De la Torre, C. (2013) "Latin America's Authoritarian Drift:
+Technocratic Populism in Ecuador", *Journal of Democracy*, Vol. 24(3),
+pp. 33-46.
+
+De la Torre, C. (2018) "La perestroika de Lenín Moreno en Ecuador",
+*Letras Libres*, 5 April \[Online\]
+<https://www.letraslibres.com/espana-mexico/politica/la-perestroika-lenin-moreno-en-ecuador>
+\[Accessed 5 September 2019\].
+
+*Ecuadorinmediato* (2006) "Noboa es un neo populista con riesgo de que
+aglutine poderes", 6 November, \[Online\]
+<http://www.ecuadorinmediato.com/index.php?module=Noticias&func=news_user_view&id=43490>
+\[Accessed 4 September 2019\].
+
+El País (2005) "El coronel que no se parece a Chávez", 19 April
+\[Online\]
+<https://elpais.com/diario/2005/04/19/internacional/1113861613_850215.html>
+\[Accessed 4 September 2019\].
+
+Gutiérrez, L. (2000) "El día que cayó Mahuad y subió Gutierrez, 21 DE
+ENERO DEL 2000" \[Online\] <https://www.youtube.com/watch?v=5Up6pZtUBJ8>
+\[Accessed 4 September 2019\].
+
+Gutiérrez, L. (2012) "Expresidente Lucio Gutiérrez inscribe su
+candidatura a la presidencia de Ecuador" \[Online\]
+<https://www.youtube.com/watch?v=vZTYR3K8jks> \[Accessed 5 September
+2019\].
+
+Gutiérrez, L. (2013a) "Entrevista Lucio Gutiérrez - Contacto Directo"
+\[Online\] <https://www.youtube.com/watch?v=hB3CPfIZUm0> \[Accessed 5
+September 2019\].
+
+Gutiérrez, L. (2013b) "Inicio de Campaña de Lucio Gutiérrez - 3 PSP"
+\[Online\] <https://www.youtube.com/watch?v=p4sIOxW9TY4> \[Accessed 5
+September 2019\].
+
+Montúfar, C. (2008) "El populismo intermitente de Lucio Gutiérrez", in
+De la Torre, C. and Peruzzotti, E. (eds.) *El retorno del pueblo*,
+Quito: FLACSO, pp. 267-298.
+
+Moreano H. and Donoso, C. (2005) "Populismo y neopopulismo en Ecuador",
+*Opera* Vol. 6, pp. 117-140.
+
+Noboa, A. (1998) "Political advertisement" \[Online\]
+<https://www.youtube.com/watch?v=A5Os85QXynU> \[Accessed 4 September
+2019\].
+
+Sosa-Buchholz, X. (1999) "The Strange Career of Populism in Ecuador", in
+Conniff, M. (ed.) *Populism in Latin America*, London: The University of
+Alabama Press.
+
+Taufic, C. (1984) "Ecuador: La vida te da sorpresas", *Nueva Sociedad*,
+Vol. 70, Jan-Feb, pp. 13-17.
+
+Ulloa, C. (2017) *El populismo en escena ¿Por qué emerge en unos países
+y en otros no?*, Quito: FLACSO Ecuador.
+

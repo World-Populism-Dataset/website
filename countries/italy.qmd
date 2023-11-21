@@ -1,0 +1,696 @@
+---
+title: Italy
+---
+
+
+## Italian Social Movement (MSI)
+
+The Italian Social Movement (*Movimento Social Italiano*, MSI) was the
+successor party of the deposed government of Benito Mussolini. For
+decades after the Second World War it identified itself as a fascist
+party and was therefore relegated to political "ghetto" by the other
+parties who considered right wing politics of any kind toxic (Newell
+2000, 469). After the 1992 *Tangentopoli* scandal exposed corruption
+within the political system and led to institutional changes to the
+Italian electoral system which gave more power to minor parties, the
+party gradually came "in from the cold" and changed its name to the
+National Alliance (*Alleanza Nazionale*, NA) in 1995. Under the
+leadership of Gianfranco Fini, the NA joined in a long-time "pole of
+freedom" coalition partnership with Forza Italia, and the two parties
+eventually merged to create the "People of Freedom" (*Popoli della
+Libertà*, PDL) party.
+
+The party clearly changed as it re-entered the political system in the
+mid-1990s. However the precise dates of this change as they would
+reflect inclusion and coding in this dataset are difficult to determine.
+From around the time of the 1994 election (and name change) the
+leadership made clear statements in support of democratic institutions
+and disavowed many racist and anti-Semitic traditions of the far right.
+Thereafter many of the party's fascist hard-core split off into the
+*Fiamma Tricolore* (Newell 2000, 480--82). Ignazi, while sceptical that
+this initial shift was often ambiguous and hollow, agrees that at least
+by the late 1990s the party leadership was "progressively and
+unambiguously leaving the territory of right-extremism" with statements
+of support for democratic institutions and critiques of fascism
+(although the party's cadres and members did not always follow) (Ignazi
+2004, 148--52). There is general agreement that by the end of the 1990s
+the party should not be considered "neo-populist" (Tarchi 2003, 174) or
+"anti-system" (Newell 2000, 484), and Ruzza and Fella actually regard
+the Fini's participation in the post 2001 Berlusconi coalition
+government as a contrast to the other leaders (Berlusconi and Bossi) for
+his more moderate and constitutionally respectful leadership (Ruzza and
+Fella 2011, 159; see also Zaslove 2011, 63). In a way it seems that the
+party's determination to detoxify itself saw it give up its far-right
+base right when the Lega Nord was ready to take it (Ignazi 2005, see).
+Tarchi notes that it was "one of the first preoccupations" of the NA
+leadership to reduce its anti-system character (Tarchi 2003, 139, 173;
+see also 2008, 90), even if early documents maintained the party's
+opposition to the "partitocrazia" in Rome.
+
+Given that this shift was evidently gradual, and may have occurred more
+in official discourse than other forms of discourse (see Tarchi 2003),
+it is certainly debatable whether and when the NA should be included.
+We've excluded it after its name change, but it may be the case that the
+NA's early elections -- especially 1994 -- warrant inclusion for the
+continuation of anti-system populist rhetoric. This should be further
+researched.
+
+While some comparativists are hesitant to consider the Almirante-led
+post-fascist MSI as populist (Kitschelt and McGann 1997), in 1980s the
+MSI adopted an image of a "party of protest" (Zaslove 2011, 63; Ignazi
+1993, 84), embracing its isolation as an "anti-system" movement against
+the corruption of the other parties (the *partitocrazia*) (Newell 2000,
+473--74; Fella and Ruzza 2006, 180; Ruzza and Fella 2011, 168; Tarchi
+2003, 157; Caciagli 1988, 29) (OTH_POLCLASS = 3). While staunchly
+anti-communist, the MSI also maintained some anti-capitalist themes
+consistent with fascist ideology (Furlong 1992, 352). However we've not
+seen evidence that this should register on the OTH_FINANCIAL variable (=
+1).
+
+Despite being clearly extreme-right on the ideological spectrum
+(LRPOSITION = FR), in the 1980s and early 1990s the MSI did not seem to
+exhibit many of the ideological traits of the European populist right,
+many of which would be manifest in the Lega Nord. While exhibiting a
+clear sense of nationalism, the party did not focus on foreign "others"
+in its political discourse. Tarchi claims that despite a general
+anti-Americanism among the party's base, the MSI was not particularly
+focused on foreign entities (Tarchi 2003, 165). It was also unopposed to
+European integration (Caciagli 1988, 28; Tarchi 2003, 165) or mildly
+sceptical (Kritzinger, Cavatorta, and Chari 2004, 958) of EU integration
+OTH_FOREIGN = 1. Its approach to ethnic others was also complicated.
+While the party had ideological to the ethnocentric narratives of
+fascism, it also included wings that emphasised Italy's links with the
+Third World in cause of anti-capitalism (Furlong 1992, 352). It did
+include a strain of anti-Semitism under Almirante's leadership (Parlato
+2017, 53), and therefore deserves 2 on OTH_ETHNIC. According to Ignazi,
+in the 1980s when immigration first became a significant issue in
+Italian politics, MSI saw this as the consequence of capitalist
+domination of the Third World, and avoided demonising immigrants
+themselves (although Ignazi says that party cadres and members didn't
+necessarily follow this view) (Ignazi 2004, 151; see also Zaslove 2011).
+Again, this was an issue-space that seemed to be taken by the Lega Nord
+in the 1980s.
+
+Parlato states that the party was "strongly anchored to the charismatic
+role of Almirante" (Parlato 2017, 53; see also Caciagli 1988, 32),
+although given the party had a firm institutional base of its own
+(Ignazi and Ysmal 1992, 102) it should only be coded 2 on CHARISMA under
+his leadership. Once Fini took over in 1991, the party should not be
+considered leader-defined at all (= 1). MSI had "built into its genetic
+code" an opposition to the liberal democratic institutions that had seen
+the demise of the Fascist state (Newell 2000, 469; see also Tarchi 2003,
+157), and had historical links to violent extremism going back to the
+post-war era (Caciagli 1988, 30; Furlong 1992, 348; Ignazi 1993, 83)
+(LIBDEMNORMS = 3). Although several party members had ties to the
+inter-war fascist regime, by the 1980s this could hardly be said to
+count towards any try INSIDER status (= 1).
+
+## Forza Italia
+
+*Forza Italia* (Let's Go Italy, FI) is the party of Milanese Prime
+Minister Silvio Berlusconi. Berlusconi is a billionaire media magnate
+famous before his entry into politics for his ownership of multiple
+private TV stations and the AC Milan football club. FI's entry into
+Italian politics occupied the space left by the collapsing Cristian
+Democrats in the early 1990s, and after a strong performance in its
+debut election in 1994 FI formed a short-lived government with the NA
+and LN. With these coalition allies (although intermittently with LN)
+Berlusconi was Prime Minister between 1994-95, 2001-2006, and 2008-2011,
+alternating mainly with centre left rivals. Forza Italia merged with the
+National Alliance (formerly the populist MSI) in 2009, creating the
+"People of Freedom" (*Popoli della Libertà*, PDL). As this party was
+still led by Berlusconi and the FI rank and file constituted the bulk of
+its members and voters (McDonnell, 2013), we have characterised the PDL
+as a continuation of FI rather than a new party.
+
+Berlusconi's entrance into Italian politics came at a point when trust
+in established parties and politicians was at an all-time low due to the
+*Tangentopoli* corruption scandal. Due to this context, he built his
+political brand on a distinctly "anti-politics" (Ruzza and Fella 2011,
+166; Tarchi 2008, 86; Pasquino 2007; Raniolo 2006, 437; Fella and Ruzza
+2013, 39) populism that presented himself as a reluctant saviour of the
+people against the "old politics" of the other parties (Tarchi 2008, 86;
+Hopkin and Paolucci 1999, 325) and the "political elites" (Fella and
+Ruzza 2013, 40) (OTH_POLCLASS = 3). Although he occasionally attacked
+big business (Ignazi 2005, 335), Berlusconi and FI were thoroughly
+neoliberal and pro-entrepreneur (Ruzza and Fella 2011, 168), advocating
+lower taxes and constantly accusing the incompetent political class of
+meddling in the private sector's affairs (Tarchi 2008, 96). A big part
+of Berlusconi's own identity is of the self-made billionaire
+(OTH_FINANCIAL = 1).
+
+While a Eurosceptic attitude has always been present in FI (Raniolo
+2006, 442), it is not clear that this or any other foreign foe reached
+the level of "other" to the "people" in the party's populist rhetoric
+(OTH_FOREIGN = 1), which was one of the main differences between FI and
+its coalition partner LN. Another was its less ethnocentric approach to
+defining "the people" (Ruzza and Fella 2011, 166; Tarchi 2008, 85--86)
+(OTH_ETHNIC = 1). Berlusconi's immigration politics is a little bit more
+difficult. While his government introduced controversial legislation
+restricting immigration (Geddes 2008), this was attributed more to FI's
+coalition partners (LN and NA), and it is not clear in the literature
+that anti-immigrant discourse was an important party of the party's
+campaigns (OTH_IMMIGRANTS = 1). This should be confirmed.
+
+While the coalition governments led by Berlusconi are considered "right"
+(an important term in Italy given its association with fascism since the
+war), he and FI are universally considered "centre-right" in the
+literature for their moderate conservatism (Sapelli 1997, 179; Tarchi
+2008, 84; Ignazi 2004, 147; Zaslove 2011, 61; D'Alimonte 2019, 122;
+Verbeek and Zaslove 2015, 306) (LRPOSITION = CR). FI was, especially
+early on, dependent on the personality of Berlusconi (Hopkin and
+Paolucci 1999, 324; Raniolo 2006; Ignazi 2004, 147; 2005, 335; Ruzza and
+Fella 2011, 166; Tarchi 2008, 86; McDonnell 2013, 220), who presented
+himself as a savour of Italy unconnected with the establishment (Zaslove
+2011, 61). McDonnell suggests that this has continued under the PDL
+(McDonnell 2013). While FI it was originally little more than an arm of
+Berlusconi's business interests (Hopkin and Paolucci 1999, 321), several
+scholars claim that the party attempted to become more institutionalised
+and less leader-dependent in the late 1990s (Zaslove 2011, 61; Raniolo
+2006, 441). This however this is not enough to reduce the CHARISMA
+coding of FI down from 3 for its duration.
+
+Berlusconi build a "politics of doing" to contrast the accused "politics
+of chatting" of the political class (Fella and Ruzza 2013, 40), which
+involved pushing back against state institutions that checked on
+executive power. From 1994, the judiciary in particular was constantly
+accused of being partisan, corrupt and inefficient (Ignazi 2005, 335;
+Tarchi 2008, 95; Verbeek and Zaslove 2016, 306). Berlusconi's ownership
+of such a large section of the media (in addition to his hostility to
+critical media) also constituted a threat to media freedom vis-à-vis the
+government (Statham 1996, 91). This is enough to consider FI/PDL a mild
+threat to liberal democratic norms, even if not an outright threat to
+democracy (LIBDEMNORMS = 2). While Berlusconi was very well-connected to
+the previous governments, he had no actual politics experience, and
+therefore is coded as 1 on INSIDER in 1994, and 3 afterwards.
+
+## Lega Nord / Lega
+
+*Lega Nord* (Northern League, LN) was founded in the 1991 out of a
+number of regional "lega\'s" in northern Italy advocating for more
+political autonomy from Rome. For most of its life it has been led and
+dominated by founder Umberto Bossi. The party drifted in and out of
+partnership with *Forza Italia* in the 1990s -- initially standing
+together in the breakthrough 1994 election, then bitterly falling out
+with Berlusconi after a few months in office, before re-joining in 2001.
+It has for most of its life advocated for federalism (even secessionism)
+to protect the "Padania" northern region. In 2013 LN was taken over by
+Mateo Salvini, and its identity shifted away from its regionalist
+origins and toward a more national and non-secessionist profile -- as
+evidenced by its dropping the "*Nord*" from its name to become simply
+the "*Lega*" before the 2018 elections.
+
+Alongside its demand for regional autonomy in the late 1980s, the
+original LN developed a populist opposition to the dominant political
+parties in Rome who formed a *cordon sanitaire* against several of the
+Lega's early elections. Bossi railed against the incompetence and
+corruption of the "patrtitocrazia" in Rome (Gilbert 1993, 100;
+Albertazzi, Giovannini, and Seddone 2018, 648; Ignazi 2004, 153; 2005,
+345; Fella and Ruzza 2006, 180; Ruzza and Fella 2011, 165), in part
+riding a wave of anti-establishment sentiment after the corruption
+scandals of the late 1980s (see Tarchi 2008). In Ignazi's words: "the
+Lega offered itself to the northern 'honest and laborious' people as a
+sanctuary from the sleaze, corruption and selfishness of the traditional
+parties and politics" (Ignazi 2005, 345). Although Salvini shifted the
+geography of the "elite" from Rome to include Brussels (Vampa 2017, 34),
+this anti-political class rhetoric has continued under his leadership
+(OTH_POLCLASS = 3).
+
+The Lega's early platform of regional autonomy was rooted in both the
+ideology of devolution and a hostility to non-northern cultural/ethnic
+others: initially Southern Italian immigrants to the North and later
+immigrants from developing countries, in particular North Africa (Betz
+1994, 122--23; Ignazi 2004, 153; Fella and Ruzza 2006, 180; Ruzza and
+Fella 2011, 165; Zaslove 2011, 57; Furlong 1992, 354). While Betz
+mentions that Bossi and the party attempted to moderate xenophobic
+rhetoric in the early 1990s, there was clearly enough explicit
+anti-Islamic and anti-African discourse in the party to warrant 3 on
+both OTH_IMMIGRANTS and OTH_ETHNIC in the 1990s under his leadership
+(Giordano 2004, 69; Woods 1992, 60; Ignazi 2004, 154; Tarchi 2008, 85;
+Fremeaux and Albertazzi 2002, 154; McDonnell 2006, 129). Under Salvini
+this has continued
+
+There are a number of relevant points regarding OTH_FOREIGN. Under Bossi
+the Lega "ferociously criticised" the USA for its financial capitalism
+and pro-globalisation imperialism. However after 9/11 this subsided as
+Islam became a more important threat and the USA an ally (Ignazi 2004,
+155; see also Verbeek and Zaslove 2015, 533). Interestingly the party
+was very pro-European as it considered the EU as advantageous to
+regional safeguards (Verbeek and Zaslove 2015, 531--32), before turning
+sharply Eurosceptic from 1998 (Kritzinger, Cavatorta, and Chari 2004,
+958; McDonnell 2006, 128--29). It is difficult to pinpoint exactly when
+anti-EU rhetoric reached the point of a 3 on our coding scheme, but
+Giodano suggests the 2001 election as the best candidate (Giordano 2004,
+73). For this reason the party's OTH_FOREIGN coding elevates from 2 to 3
+in that year. Under Salvini, hostility to the EU has grown to become an
+even stronger component of the Lega's populist discourse (Vampa 2017;
+Brunazzo and Gilbert 2017, 625), which it now accused of being
+"totalitarian" (Albertazzi, Giovannini, and Seddone 2018).
+
+While the party under Bossi had a low-tax liberal economic outlook that
+valorised small businesses and small entrepreneurs (Bull and Gilbert
+2001, 90; Zaslove 2011, 57), there are some scholars who claim that this
+included attacks on big business, banks and capital who stood in the way
+of the small northern producer (Tarchi 2008, 90--91; Biorcio 2003,
+72--73; Bull and Gilbert 2001; McDonnell 2006, 128). This seems
+sufficient to code LN 2 on OTH_FINANCIAL under Bossi's leadership, but
+as sources on Salvini's leaderhip make no mention of this, we have
+dropped this down to 1 from 2013.
+
+Ignazi suggests that the early LN should be considered somewhat centrist
+(Ignazi 2004, 153--54; see also Verbeek and Zaslove 2016, 306). However
+the bulk of the literature identifies it as far right from its inception
+(LRPOSITION = FR). Bossi's charismatic and "demagogic" leadership
+defined the party (Fella and Ruzza 2006, 180; Ruzza and Fella 2011, 159;
+Gilbert 1993, 100; Ignazi 2004, 153; Tarchi 2008, 90; McDonnell 2016),
+speaking with a "language that was clear, practical, evoking the
+everyday life of ordinary people" (Biorcio 2003, 84; see also McCarthy
+1997, 343; Fremeaux and Albertazzi 2002, 150) and possessing an "uncanny
+ability to mobilise voters" (Zaslove 2011, 58). According to McDonnell,
+Bossi is held "held to possess extraordinary personal qualities and a
+*fiuto politico* (political sixth sense) which put his actions and
+U-turns beyond reproach" (McDonnell 2006, 130). The party\'s
+leader-dependence is equally true under the personal leadership of
+Salvini as it was under Bossi (Albertazzi, Giovannini, and Seddone 2018,
+651), when charismatic leadership was necessary to overcome the
+contradictions of the party's expansion into the south. However the
+party has become more institutionalised over time (McDonnell and Vampa
+2016), and after Bossi stepped down in 2008 it seems more worthy of
+being coded 2 on CHARISMA (3 before this).
+
+According to Ignazi (Ignazi 2004, 154--55), the Lega has a history of
+violent party propaganda, the denegration of rules and institutions the
+hinder the people's will, and even a paramilitary of sorts in the
+*Camicie Verdi* ("green shirts") who staged mass ritual events and
+"Padana Patrols" (Biorcio 2003, 90). *Lega* members and leaders have
+occasionally used violent rhetoric to discuss its political rivals and
+immigrants, but there is not quite enough evidence of this to elevate it
+above a 2 on LIBDEMNORMS by the standards of other parties so coded. As
+the party participated briefly in the post 1994 Berlusconi government,
+it is coded 2 on INSIDER since that election. However as Salvini had no
+part in that government, we've taken it back down to 1 after he took
+control of the party.
+
+## Five Star Movement
+
+The Five Star Movement, (*Movimento 5 Stella*, M5S or FSM) is the
+creation of comedian Beppe Grillo. Grillo had commentated on politics
+since the 1970s, and was noted for his sharp attack on ruling
+politicians (Cremonesi 2017, 253). He became something of an underground
+figure after being kicked off public television in the 1980s for being
+too critical of Socialist Prime Minister Bettino Craxi, and in 2005 he
+formed a highly successful political blog (Bortoluzzi and Semino 2016).
+His informal following grew into a movement via both performances and
+online organisation. Starting around 2007 Grillo -- by all accounts an
+"explosive speaker" (Ruggiero 2012, 317) -- held a series of "V-Day"
+rallies (unofficially *vaffanculo,* "fuck off") that attracted large
+audiences in town squares (Tronconi 2018, 164). Simultaneously, his blog
+readership was transformed into a sophisticated platform for polling
+members on policy stances via the new "Rousseau" software and linking
+members with each other via the "Meetup" website. FSM started to run
+candidates in 2010, and broke out in the 2013 general elections to
+become the most voted party with 25.5%. After years of resolutely ruling
+out any form of coalition with other parties, its increased success in
+the 2018 election (32%) led to a "populist coalition" with the far-right
+Lega, and after the collapse of that coalition in 2019, with the
+Democratic Party.
+
+M5S's most important "other" is the political class, namely the
+established parties, which it described as one of two "castes" ruling
+the country unaccountably (the other being the media) (Bordignon and
+Ceccarini 2015, 455; Mosca 2014, 42). As an "anti-political" (Fella and
+Ruzza 2013, 39; Maggini 2013, 2), "anti-establishment" (Mosca 2014, 44)
+and "anti-system" (Fabbrini and Lazar 2013, 110) movement, it considered
+all the parties to be essentially the same (Bortoluzzi and Semino 2016,
+2), and ran on slogans like "all politicians have to go home" and "all
+professional politicians are corrupt" (Hartleb 2013, 139). Considering
+itself a "free association of citizens" rather than a political party
+(Lanzone 2014, 68; Cosenza 2014, 90), Grillo considered political
+parties and representative democracy itself were dead as instruments for
+serving citizens' interests, and that MPs should merely be passive
+servants of the people's demands (Diamanti 2014, 4). In his words, "We
+want 100% of Parliament, not 20% or 25% or 30%. When the movement gets
+to 100%, when the citizens become the state, the movement will no longer
+need to exist" (Manucci and Amsler 2018, 18). Eschewing any form of
+ideological pedigree, he therefore chose politicians on the basis of
+their ordinariness rather than any kind of political experience or
+leadership (Bordignon and Ceccarini 2015, 458). In campaigns, Grillo
+also used his considerable rhetorical skill to personally demean leaders
+of other parties (Bortoluzzi and Semino 2016; Franzosi, Marone, and
+Salvati 2015, 110), including their private lives (Hartleb 2013, 139),
+and maintained this high level of antagonism after forming government
+(Corso 2019, 463). All of this clearly warrants 3 for OTH_POLCLASS.
+
+Aside from this very consistent opposition to the political class, the
+ideological and programmatic profile of the M5S is extremely difficult
+to pinpoint. A number of analyses suggest that the movement is somewhat
+left wing (Hartleb 2013, 139; Mudde 2016, 15) or "left libertarian"
+(Verbeek and Zaslove 2016, 307), which may be due to Grillo's initial
+focus on environmentalism and sustainability, the movement's linkages
+with the anti-globalisation discourses of the early 2000s, and the fact
+that many of its initial members were members of left wing associations
+(Manucci and Amsler 2018, 7). However the majority of scholars consider
+the movement more difficult to categorise, describing its ideology as
+"catch all" (Mosca 2014, 46), "post-ideological" (Maggini 2013, 7;
+Manucci and Amsler 2018), "eclectic" (Mosca and Tronconi 2019), out of
+the left-right dimension" (Chiaramonte et al. 2018, 482). Grillo himself
+has described the movement as "beyond" the categories of left and right
+(Bordignon and Ceccarini 2015, 460; Bortoluzzi and Semino 2016, 3). This
+difficulty is in part due to Grillo's focus on somewhat technical and
+"post-material" issues like transport, water, and internet access
+(Cremonesi 2017, 254; Corso 2019, 469), but also due to the seemingly
+contradictory nature of its policy stances on traditionally contentious
+matters. On economic matters for example, Grillo and the party have
+advocated some left-leaning policies in favour of state intervention and
+a universal income and opposition to austerity, but simultaneously taken
+an anti-tax line that comes close to defending tax evasion (Mosca and
+Tronconi 2019, 1276; Bordignon and Ceccarini 2015, 460). The party shows
+similar ambivalence to immigration and Europe (see below). Manucci and
+Amsler, who have focused directly on the movements' ideological profile,
+define it as a "'purely populist' party because it has no thick
+ideologies attached to its thin ideological core" (Manucci and Amsler
+2018, 3). With this in mind, the party is categorised as C on
+LRPOSITION.
+
+This ideological and policy ambiguity makes its opposition to "others"
+aside from politicians equally difficult to determine. Occasionally
+Grillo's rhetoric has targeted "global financial powers" (Miconi 2015,
+1044) and the national telecommunications company Telecom (Manucci and
+Amsler 2018, 7) and "some expressions of economic oligarchy" (Lanzone
+2014, 62), but on the whole these groups only seem relevant when they
+relate to the Italian political class's corruption, and it does not
+appear that the movement's discourse should register on the
+OTH_FINANCIAL scale (= 1).
+
+Likewise, the party's position on OTH_IMMIGRANTS is difficult. Early on
+the party completely avoided the sensitive subject (Mosca 2014, 47;
+Turner 2013, 206; Mosca and Tronconi 2019, 1277)(Mosca, 2014:47; Turner,
+2013:206; Mosca & Tronconi, 2019:1277), but according to D'Alimonte when
+Salvini started to voice strong anti-immigrant sentiment in the 2018
+election Grillo "followed suit" (D'Alimonte 2019, 117). Other scholars
+have noted that the Grillo and the party have occasionally veered toward
+anti-immigrant policies (Bordignon and Ceccarini 2015, 460). However
+this does not necessarily mean that immigrants are an "other" to the
+party's version of the people, something that is captured best by Bulli
+and Soare:
+
+> the M5S's stances on immigration are essentially filtered by their
+> emphasis on the people's will. There is no a priori exclusion either
+> in terms of welfare chauvinism or in terms of a cultural or religious
+> threat. It is mainly the denunciation of the way immigration is
+> managed by the corrupt national elites and/or the technocratic elites
+> in Brussels that characterises the M5S discourse (Bulli and Soare
+> 2018, 149).
+
+This makes it difficult to categorise the party as anything other than a
+1 on OTH_IMMIGRANTS. OTH_ETHNIC is easier to code (=1), given that all
+scholars agree that ethnic identity and xenophobia does not play a part
+in the Movement's discourse (Corso 2019, 464; Lanzone 2014, 63; Mosca
+and Tronconi 2019, 1277). There is also no evidence to suggest
+OTH_MILITARY populism (= 1)
+
+The party's attitude to Europe is also very murky, and has been the
+subject of much debate in the literature (Cremonesi 2017, 257). Like on
+other matters, Grillo initially avoided taking a stance on Europe (Mosca
+2014, 47), and has always tried to have it both ways (Franzosi, Marone,
+and Salvati 2015, 113). Similar to immigration, Grillo's criticism of
+Brussels often seems to be filtered through his opposition to the
+Italian political class; for example by criticising Europe for funding
+Italian politicians and excusing their corruption (Corbetta and Vignati
+2014, 56--57). Grillo has called for a referendum on the Euro, and his
+speeches suggest he is opposed to the currency (Corbetta and Vignati
+2014, 58). While this is not OTH_FOREIGN populism *per se*, several
+scholars point out that since the 2014 European elections, Grillo and
+the party have taken a harsher line against European elites. Franzosi,
+Marone and Salvati claim that the party represented Prime Minister Mateo
+Renzi as "an agent of German interests in Italy", and that members
+sometimes lashed out at the "brussels caste" in a similar way as they
+did against the Italian establishment (Franzosi, Marone, and Salvati
+2015, 116). While this a difficult call, we've decided to code 2 for
+OTH-FOREIGN in 2018 (1 for 2013).
+
+All analysis suggests that Grillo is central to the movement's meaning
+and identity (Bentivegna 2014; Lanzone 2014; Mosca 2014, 43), and FSM
+has been called a "personal party" (Bordignon and Ceccarini 2015, 465)
+and a "one man show" (Hartleb 2013, 140). Grillo has often been accused
+of authoritarian management of the movement (Hartleb 2013, 139), and
+some members have been thrown out for voicing these concerns (Bordignon
+and Ceccarini 2015, 458; Bortoluzzi and Semino 2016, 3). He personally
+appoints all of the party's representatives (Miconi 2015), and the
+Movement's formal documents certify that he is the sole "guarantor" of
+the party's brand (Cosenza 2014, 90). While some question the degree to
+which it can be called a personal party due to its usage of
+participatory polling to make policy decisions (Diamanti 2014, 4;
+Tronconi 2018, 176), in practice these grass roots instruments seem to
+be "relegated to a marginal role and employed only when compatible with
+the directions from above" (Manucci and Amsler 2018, 5). Hence the
+coding of 3 for CHARISMA seems to be clear.
+
+Having never held any national political office, Grillo and M5S are
+clearly not INSIDERs (=1). Grillo's vitriolic attacks on the media
+(Cosenza 2014, 90; Bordignon and Ceccarini 2015, 463), which he has
+called the other "*casta*" alongside politicians (Cremonesi 2017, 256),
+don't quite rise to the point of threatening liberal democratic norms,
+and the party does not show any contempt for the rule of law or the
+judiciary (Corso 2019, 463) (LIBDEMNORMS =1).
+
+**References**
+
+Albertazzi, Daniele, Arianna Giovannini, and Antonella Seddone. 2018.
+'"No Regionalism Please, We Are Leghisti !" The Transformation of the
+Italian Lega Nord under the Leadership of Matteo Salvini'. *Regional &
+Federal Studies* 28 (5): 645--71.
+https://doi.org/10.1080/13597566.2018.1512977.
+
+Bentivegna, Sara. 2014. 'Beppe Grillo's Dramatic Incursion into the
+Twittersphere: Talking Politics in 140 Characters'. *Contemporary
+Italian Politics* 6 (1): 73--88.
+
+Betz, Hans-Georg. 1994. *Radical Right-Wing Populism in Western Europe*.
+Basingstoke and London: Springer.
+
+Biorcio, Roberto. 2003. 'The Lega Nord and the Italian Media System'. In
+*The Media and Neo-Populism: A Contemporary Comparative Analysis*,
+edited by Gianpietro Mazzoleni, Julianne Stewart, and Bruce Horsfield,
+71--94. Westport and London: Praeger.
+
+Bordignon, Fabio, and Luigi Ceccarini. 2015. 'The Five-Star Movement: A
+Hybrid Actor in the Net of State Institutions'. *Journal of Modern
+Italian Studies* 20 (4): 454--73.
+
+Bortoluzzi, Maria, and Elena Semino. 2016. 'Face Attack in Italian
+Politics: Beppe Grillo's Insulting Epithets for Other Politicians'.
+*Journal of Language Aggression and Conflict* 4 (2): 178--201.
+
+Brunazzo, Marco, and Mark Gilbert. 2017. 'Insurgents against Brussels:
+Euroscepticism and the Right-Wing Populist Turn of the Lega Nord since
+2013'. *Journal of Modern Italian Studies* 22 (5): 624--41.
+
+Bull, Anna Cento, and Mark Gilbert. 2001. *The Lega Nord and the
+Northern Question in Italian Politics*. Palgrave Macmillan.
+
+Bulli, Giorgia, and Sorina Christina Soare. 2018. 'Immigration and the
+Refugee Crisis in a New Immigration Country: The Case of Italy'.
+*Croatian and Comparative Public Administration* 18 (1): 127--56.
+
+Caciagli, Mario. 1988. 'The Movimento Sociale Italiano-Destra Nazionale
+and Neo-Fascism in Italy'. *West European Politics* 11 (2): 19--33.
+
+Chiaramonte, Alessandro, Vincenzo Emanuele, Nicola Maggini, and Aldo
+Paparo. 2018. 'Populist Success in a Hung Parliament: The 2018 General
+Election in Italy'. *South European Society and Politics* 23 (4):
+479--501.
+
+Corbetta, Piergiorgio, and Rinaldo Vignati. 2014. 'Direct Democracy and
+Scapegoats: The Five Star Movement and Europe'. *The International
+Spectator* 49 (1): 53--64.
+
+Corso, Lucia. 2019. 'When Anti-Politics Becomes Political: What Can the
+Italian Five Star Movement Tell Us about the Relationship between
+Populism and Legalism'. *European Constitutional Law Review* 15 (3):
+462--87.
+
+Cosenza, Giovanna. 2014. 'Grillo's Communication Style: From Swear Words
+to Body Language'. *Contemporary Italian Politics* 6 (1): 89--101.
+
+Cremonesi, Cristina. 2017. 'Populism and Euroscepticism, the Case of the
+Italian Five Star Movement in 2013: An Analysis of Party Direct
+Communication and Media Coverage'. *Why Europe*, 245--68.
+
+D'Alimonte, Roberto. 2019. 'How the Populists Won in Italy'. *Journal of
+Democracy* 30 (1): 114--27.
+
+Diamanti, Ilvo. 2014. 'The 5 Star Movement: A Political Laboratory'.
+*Contemporary Italian Politics* 6 (1): 4--15.
+
+Fabbrini, Sergio, and Marc Lazar. 2013. 'Still a Difficult Democracy?
+Italy between Populist Challenges and Institutional Weakness'.
+*Contemporary Italian Politics* 5 (2): 106--12.
+
+Fella, Stefano, and Carlo Ruzza. 2006. 'Changing Political Opportunities
+and the Re-Invention of the Italian Right'. *Journal of Southern Europe
+and the Balkans* 8 (2): 179--200.
+
+---------. 2013. 'Populism and the Fall of the Centre-Right in Italy:
+The End of the Berlusconi Model or a New Beginning?' *Journal of
+Contemporary European Studies* 21 (1): 38--52.
+
+Franzosi, Paolo, Francesco Marone, and Eugenio Salvati. 2015. 'Populism
+and Euroscepticism in the Italian Five Star Movement'. *The
+International Spectator* 50 (2): 109--24.
+
+Fremeaux, Isabelle, and Daniele Albertazzi. 2002. 'Discursive Strategies
+around'community'in Political Propaganda: The Case of Lega Nord'.
+*National Identities* 4 (2): 145--60.
+
+Furlong, Paul. 1992. 'The Extreme Right in Italy: Old Orders and
+Dangerous Novelties'. *Parliamentary Affairs* 45 (3): 345--56.
+
+Geddes, Andrew. 2008. 'Il Rombo Dei Cannoni? Immigration and the
+Centre-Right in Italy'. *Journal of European Public Policy* 15 (3):
+349--66.
+
+Gilbert, MARX. 1993. 'Warriors of the New Pontida: The Challenge of the
+Lega Nord to the Italian Party System'. *The Political Quarterly* 64
+(1): 99--106.
+
+Giordano, Benito. 2004. 'The Politics of the Northern League and Italy's
+Changing Attitude towards Europe'. *Perspectives on European Politics
+and Society* 5 (1): 61--79.
+
+Hartleb, Florian. 2013. 'Digital Campaigning and the Growing
+Anti-Elitism: The Pirates and Beppe Grillo'. *European View* 12 (1):
+135--42.
+
+Hopkin, Jonathan, and Caterina Paolucci. 1999. 'The Business Firm Model
+of Party Organisation: Cases from Spain and Italy'. *European Journal of
+Political Research* 35 (3): 307--39.
+
+Ignazi, Piero. 1993. 'The Changing Profile of the Italian Social
+Movement'. In *Encounters with the Contemporary Radical Right*, edited
+by Peter H. Merkl and Leonard Weinberg, 75--92. Routledge.
+
+---------. 2004. 'Changing the Guard on the Italian Extreme Right'.
+*Representation* 40 (2): 146--56.
+
+---------. 2005. 'Legitimation and Evolution on the Italian Right Wing:
+Social and Ideological Repositioning of Alleanza Nazionale and the Lega
+Nord'. *South European Society & Politics* 10 (2): 333--49.
+
+Ignazi, Piero, and Colette Ysmal. 1992. 'New and Old Extreme Right
+Parties: The French Front National and the Italian Movimento Sociale'.
+*European Journal of Political Research* 22 (1): 101--21.
+
+Kitschelt, Herbert, and Anthony J. McGann. 1997. *The Radical Right in
+Western Europe: A Comparative Analysis*. University of Michigan Press.
+
+Kritzinger, Sylvia, Francesco Cavatorta, and Raj Chari. 2004.
+'Continuity and Change in Party Positions towards Europe in Italian
+Parties: An Examination of Parties' Manifestos'. *Journal of European
+Public Policy* 11 (6): 954--74.
+
+Lanzone, Maria Elisabetta. 2014. 'The "Post-Modern" Populism in Italy:
+The Case of the Five Star Movement'. In *The Many Faces of Populism:
+Current Perspectives*, 22:53--78. Emerald Group Publishing Limited.
+
+Maggini, Nicola. 2013. 'Understanding the Electoral Rise of the Five
+Star Movement in Italy'. In . Bordeaux: Mezinárodní politologickỳ ústav
+Masarykovy univerzity v Brně.
+
+Manucci, Luca, and Michi Amsler. 2018. 'Where the Wind Blows: Five Star
+Movement's Populism, Direct Democracy and Ideological Flexibility'.
+*Italian Political Science Review/Rivista Italiana Di Scienza Politica*
+48 (1): 109--32.
+
+McCarthy, Patrick. 1997. 'Italy: A New Language for a New Politics?'
+*Journal of Modern Italian Studies* 2 (3): 337--57.
+
+McDonnell, Duncan. 2006. 'A Weekend in Padania: Regionalist Populism and
+the Lega Nord'. *Politics* 26 (2): 126--32.
+
+---------. 2013. 'Silvio B Erlusconi's Personal Parties: From F Orza I
+Talia to the P Opolo D Ella L Ibertà'. *Political Studies* 61: 217--33.
+
+---------. 2016. 'Populist Leaders and Coterie Charisma'. *Political
+Studies* 64 (3): 719--33.
+
+McDonnell, Duncan, and Davide Vampa. 2016. '4 The Italian Lega Nord'. In
+*Understanding Populist Party Organisation: The Radical Right in Western
+Europe*, edited by Reinhard Heinisch and Oscar Mazzoleni, 105--29.
+London: Palgrave Macmillan.
+
+Miconi, Andrea. 2015. 'Italy's "Five Stars" Movement and the Role of a
+Leader: Or, How Charismatic Power Can Resurface through the Web'. *New
+Media & Society* 17 (7): 1043--58.
+
+Mosca, Lorenzo. 2014. 'The Five Star Movement: Exception or Vanguard in
+Europe?' *The International Spectator* 49 (1): 36--52.
+
+Mosca, Lorenzo, and Filippo Tronconi. 2019. 'Beyond Left and Right: The
+Eclectic Populism of the Five Star Movement'. *West European Politics*
+42 (6): 1258--83.
+
+Mudde, Cas. 2016. *SYRIZA: The Failure of the Populist Promise*.
+Springer.
+
+Newell, James L. 2000. 'Italy: The Extreme Right Comes in from the
+Cold'. *Parliamentary Affairs* 53 (3): 469--85.
+
+Parlato, Giuseppe. 2017. 'Delegitimation and Anticommunism in Italian
+Neofascism'. *Journal of Modern Italian Studies* 22 (1): 43--56.
+
+Pasquino, Gianfranco. 2007. 'The Five Faces of Silvio Berlusconi: The
+Knight of Anti-Politics'. *Modern Italy* 12 (1): 39--54.
+
+Raniolo, Francesco. 2006. 'Forza Italia: A Leader with a Party'. *South
+European Society & Politics* 11 (3--4): 439--55.
+
+Ruggiero, Christian. 2012. 'Forecasting in the Politics of Spectacle,
+from Berlusconi to Grillo: The Narrative of Impolite Politics'.
+*Bulletin of Italian Politics* 4 (2): 305--22.
+
+Ruzza, Carlo, and Stefano Fella. 2011. 'Populism and the Italian Right'.
+*Acta Politica* 46: 158--79.
+
+Sapelli, Giulio. 1997. 'The Transformation of the Italian Party System'.
+*Journal of Modern Italian Studies* 2 (2): 167--87.
+
+Statham, Paul. 1996. 'Berlusconi, the Media, and the New Right in
+Italy'. *Harvard International Journal of Press/Politics* 1 (1):
+87--105.
+
+Tarchi, Marco. 2003. 'The Political Culture of the Alleanza Nazionale:
+An Analysis of the Party's Programmatic Documents (1995-2002)'. *Journal
+of Modern Italian Studies* 8 (2): 135--81.
+
+---------. 2008. 'Italy: A Country of Many Populisms'. In *Twenty-First
+Century Populism: The Spectre of Western European Democracy*, edited by
+Daniele Albertazzi and Duncan McDonnell, 84--99. Basingstoke: Palgrave
+Macmillan.
+
+Tronconi, Filippo. 2018. 'The Italian Five Star Movement during the
+Crisis: Towards Normalisation?' *South European Society and Politics* 23
+(1): 163--80.
+
+Turner, Eric. 2013. 'The 5 Star Movement and Its Discontents: A Tale of
+Blogging, Comedy, Electoral Success and Tensions'. *Interface: A Journal
+for and about Social Movements* 5 (2): 178--212.
+
+Vampa, Davide. 2017. 'Matteo Salvini's Northern League in 2016: Between
+Stasis and New Opportunities'. *Italian Politics* 32 (1): 32--50.
+
+Verbeek, Bertjan, and Andrej Zaslove. 2015. 'The Impact of Populist
+Radical Right Parties on Foreign Policy: The Northern League as a Junior
+Coalition Partner in the Berlusconi Governments'. *European Political
+Science Review* 7 (4): 525--46.
+
+---------. 2016. 'Italy: A Case of Mutating Populism?' *Democratization*
+23 (2): 304--23.
+
+Woods, Dwayne. 1992. 'The Centre No Longer Holds: The Rise of Regional
+Leagues in Italian Politics'. *West European Politics* 15 (2): 56--76.
+
+Zaslove, Andrej. 2011. *The Re-Invention of the European Radical Right:
+Populism, Regionalism, and the Italian Lega Nord*. McGill-Queen's
+Press-MQUP.
+

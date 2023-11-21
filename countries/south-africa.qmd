@@ -1,0 +1,526 @@
+---
+title: South Africa
+---
+
+
+## African National Congress (Jacob Zuma)
+
+As an entrenched dominant party with multiple internal political
+traditions, the African National Congress (ANC) is difficult to
+categorically depict as holistically populist at any point. The period
+of Jacob Zuma's leadership, however, is generally seen by the literature
+to be a "ANC's populist turn" (Vincent 2011, 8), that fundamentally
+shifted the party's political narrative. Zuma was previously the deputy
+president before being sacked by President Thabo Mbeki in 2005 on
+corruption grounds. From that point he became the figurehead of an
+anti-Mbeki faction of the ANC and its allies (Gumede 2008, 264),
+resulting in his successful challenge for the party leadership at
+Polokwane in 2007. He went on to lead the party to victory in elections
+in 2009 and 2014, before being forced to resign in 2018 due to a number
+of high-profile scandals. While Zuma's own rhetoric, behaviour, and
+charisma was important in signifying the ANC's populist turn (see below)
+the embrace of populism under his leadership was far deeper than him,
+including the rise to prominence of other figures representing a broader
+"politics of grievance and resentment" that came together around is
+presidential candidacy (Hart 2007, 86; see also Ndlovu-Gatsheni 2008;
+Tshabangu 2022, 46; Cooper 2015, 156; Bassett and Clarke 2008, 797). In
+Ndlovu-Gatsheni's words, a nativist and populist politics
+"crystalis\[ed\] around" Zuma at the time of the Mbeki transition
+(Ndlovu-Gatsheni 2008, 53). Hence, while Zuma's own populist statements
+against the elite are relatively thin, such attacks from key allies
+within the party achieved enough salience to compensate for this in the
+party's new discourse. The most important of these allies was Julias
+Malema, the leader of the ANC Youth League (ANCYL), who has been called
+Zuma's "attack dog" (Glaser 2011, 89) and the "oft-quoted battering ram
+of the ANC's 2009 electoral campaign" (Vincent 2011, 4).
+
+Classing Zuma and the ANC as populist for the 2014 election is somewhat
+more difficult than in 2009. According to some sources the president's
+persona and rhetoric after the election changed quickly, ("he can call
+the mobs off... he has no further need for their service," (Glaser 2009,
+11), and in government he seemed to abandon any tactic of visibly
+fighting the elite -- on the contrary making alliances with key business
+figures and continuing Mbeki-era policies (Glaser 2011, 68). Most
+significantly, in 2010 he moved against Malema and other "left
+populists" in his political faction who dramatically turned their fire
+on him (Cooper 2015, 156; Glaser 2011, 89). This "served to dampen the
+spirit of rebellion" that had previously characterised Zuma's faction
+(Cooper 2015, 162). However, according to other sources, he did appear
+to rely on populist tropes in his second campaign (Melber 2014, 645),
+and deep into his late presidency (Melber 2018, 683; Plaut 2014, 637;
+cf. Horwitz 2016). Because of this, we've kept the ANC in the dataset
+for the 2014 elections, though this should be reviewed.
+
+At the time of his ascendancy, Zuma's appeal was considered by most
+observers to have been based in his "anti-elitist" crudentials (Nyandera
+and Agwanda 2019, 82; Resnick 2010, 21; Vincent 2011, 4). The context
+for this was the aloof and intellectual image of Mbeki, which seemed to
+many of Zuma's supporters to personify the betrayal of ordinary peasants
+and workers by the ANC (Ndlovu-Gatsheni 2008, 77). Zuma, by contrast,
+played up his credentials as a non-educated foot soldier in the ANC's
+struggle, remote from the self-serving elites who had taken over the
+party (Hart 2007, 98; Tshabangu 2022, 46). His being sacked by Mbeki and
+subject to numerous criminal and corruption cases allowed him to embody
+a sense of victimhood at the hands of that elite (Southall 2009, 319).
+In Glaser's words: Zuma's coalition was mobilised
+
+> against a range of 'insider' elites, first and foremost the leadership
+> cadres and businessmen around Thabo Mbeki but encompassing, if often
+> only subliminally, liberal judges and journalists, intellectuals,
+> gender activists and urban sophisticates. Against these forces, the
+> 'Zunami' represented an anti-establishment revolt (Glaser 2009, 9; see
+> also Makulilo 2013, 196--97).
+
+In doing so Zuma and the ANC consistently portrayed their political
+rivals as nefarious conspirators against the him and average people,
+calling them "witches" (Melber 2018, 683), "clever Blacks" (Shain 2017,
+6), and \"bright people" (media, opposition politicians) who think they
+know better (Melber 2014, 645). The sense of antagonism against this
+elite in Zuma's discourse is tied up in his "trademark" song, *Umshini
+Wami* ("My Machine Gun"), sung so frequently by him that it became "part
+of \[his\] skin" (Gunner 2009, 27). The song had very few lyrics, but
+with its call-to-arms-message "drew boundaries between those perceived
+as insiders and those seen as outsiders" (Gunner 2009, 32; see also
+Resnick 2010, 22), and recalled a time when the ANC's core narrative was
+not governance but "struggle" (Melber 2018, 683). As mentioned, much of
+the party's rhetoric against the political class was outsourced to
+Malema, who for example, warned the party's enemies "acting against the
+youth and the workers you are acting against the people who brought down
+the apartheid regime . . . they too can bring you down" (Vincent 2011,
+4--5)
+
+The populist turn under Zuma had elements of race/ethnocentrism and
+hostility to business and capital -- often tied together.
+Ndlovu-Gatcheni claims that Zuma's politics had a clearly nativist
+component, awakening race-populist tropes that had been long-present
+within the ANC but somewhat subdued in the post-Apartheid era
+(Ndlovu-Gatsheni 2008). Again, much of the evidence for this comes not
+from Zuma but from Malema, who, while leading at the ANCYL, made
+derogatory comments about Whites (Plaut 2010) and Indians (Shain 2017,
+8), and accused black critics of the ANC of being "not really black"
+(Glaser 2011, 74). Relatedly, Zuma engaged in an "unabashed promotion of
+his Zulu identity" (Resnick 2010, 23; see also Sitas 2008; Glaser 2011,
+87). This is partially relevant in populist terms because the ANC had
+previously been dominated by Xhosa elites (Tshabangu 2022, 46), causing
+a sense of marginalisation among Zulu (Nyandera and Agwanda 2019, 83).
+However, this embrace may have been more an attempt to court votes in
+KwaZuku Natal (Paret 2018, 476) (a province where the ANC had
+traditionally struggled) (Resnick 2010, 22), rather than to frame
+national politics and "others" in ethnic terms. Regarding business
+leaders and the wealthy, numerous sources point out that Zuma positioned
+himself against "white monopoly capital" (Melber 2018, 683), and that
+Mbeki's closeness with business leaders was one of the criticisms
+against him (Glaser 2009, 9), even though he maintained controversial
+connections with major financial elites before and after his election to
+the presidency (Southall 2009, 324). Given the presence of nativist
+rhetoric in Zuma's coalition, but the avoidance of full-throated
+ethnocentrism, we've coded the party 2 on OTH_ETHNIC. Likewise, there
+are clear strands of hostility to financial powerbrokers within this
+discourse, yet not to the highest extent. Hence we've coded
+OTH_FINANCIAL 2. Despite overseeing a crisis of anti-immigrant violence
+during his tenure, we've seen no sources claim that anti-immigrant
+discourse was a apart of Zuma or the ANC's rhetoric (OTH_IMMIGRANT = 1).
+Similarly absent is hostility to the military (OTH_MILITARY = 1), nor
+any connection between domestic elites and foreign powers (OTH_FORIEGN =
+1).
+
+Zuma's rise has also been considered by many to have threatened
+democratic and constitutional norms in South Africa (Southall 2009,
+326). The main initial reason for this appears to be his contempt for
+the judicial process and hostility towards judges (Gumede 2008, 267). As
+he was charged with both corruption and rape before his ascendency to
+the ANC leadership, Zuma questioned why judges were "not human beings".
+(Vincent 2011, 5). Glaser claims that "\[h\]is mobs and allies gathered
+aggressively outside courtrooms, demonized judges as
+'counter-revolutionaries' and successfully turned the tables on his
+prosecutorial accusers" (Glaser 2009, 10). Malema, for his part,
+repeatedly threated violence on behalf of Zuma and other ANC allies
+(Vincent 2011, 6; Southall 2009, 326). He also put pressure on
+unfriendly media, threatening them with legal suits and tribunals
+(Glaser 2009, 10). In government Zuma's government became "increasingly
+tyrannical as it set itself up against the constitution and the rule of
+law," and increased the state's control over the media (Chipkin 2018,
+101; see also Guha 2013, 7; Gumede 2008, 269). These are significant
+breaches of liberal democratic norms, but they do not quite rise to the
+threshold of 3 in our definitions -- hence LIBDEMNORMS = 2. Zuma is
+universally considered to have been a "charismatic" figure (Nyandera and
+Agwanda 2019, 82; Resnick 2010, 21), who commanded a strong personal
+following among supporters. To Glaser, this became a "popular cult of
+Zuma -- the belief in Zuma's almost Jesus-like powers" (Glaser 2009,
+11). Given the embeddedness of the ANC at the time of his ascension,
+we've coded the part 2 for CHARISMA under his leadership. Given that he
+was a former deputy president at the time of his 2009 election, we've
+labelled the ANC 2 on INSIDER in 2009 and 3 in 2014.
+
+OTH_FOREIGN
+
+Zuma is universally considered to have been a "charismatic" figure
+(Nyandera and Agwanda 2019, 82; Resnick 2010, 21), who commanded a
+strong personal following among supporters. To Glaser, this became a
+"popular cult of Zuma -- the belief in Zuma's almost Jesus-like powers"
+(Glaser 2009, 11). Given the embeddedness of the ANC at the time of his
+ascension, we've coded the part 2 for CHARISMA under his leadership.
+
+Zuma and his ANC are difficult to categorise ideologically. He has been
+called a "post-ideological" leader (Glaser 2009, 10), whose political
+appeal was "not a matter of left-right" (Nyandera and Agwanda 2019, 83).
+At the time of his ascension, though, he was considered a part of a
+leftward shift away from the pro-market policies of his predecessors
+(Chipkin 2018, 104; Gumede 2008, 267), hence the strong support he
+received from the left factions of the party. Giventhis, and the ANC's
+general left leaning profile, we've positioned the party as L on
+LRPOSITION. Zuma was already president by the time of his 2009 election,
+hence we've coded the party 3 on INSIDER in both elections.
+
+## Economic Freedom Fighters
+
+The Economic Freedom Fighters (EFF) were formed by former African
+National Congress Youth League (ANCYL) leader Julius Malema in 2013
+after his expulsion from the ANC and fall out with president Zuma the
+previous year. The new party wedded Malema's faction of the ANCYL with
+several smaller left-wing parties. In keeping with Malema\'s
+well-established confrontational style, the party combined a militant,
+revolutionary posture with a leftist policy agenda based on
+nationalisation of assets and land redistribution. The party received
+6.35% in its first election in 2014, increasing to 10.8% in 2019.
+
+The EFF is thoroughly anti-elitist (Akinola, Oluwaseum, and Tolulope
+2015, 110; Nyenhuis and de Jager 2021), training most of its rhetoric
+against the elite of the ANC (Nyenhuis 2020, 412; Akinola, Oluwaseum,
+and Tolulope 2015, 109). The ANC elite is considered by the EFF to be a
+political elite estranged from the black majority, the latter having
+become a "voting, but powerless majority" (Mbete 2015, 41). A recurring
+theme of the EFF's is that the ANC has "sold out" its original black
+working class constituency (Horwitz 2016, 548; Fölscher, de Jager, and
+Nyenhuis 2021, 448), for which it had "sheer disregard" (Adams 2018,
+115). In Everatt's words "voting ANC was equated with voting for more of
+the same -- white economic control, white racism, 'neoliberalism', black
+elite sell-outs and little or nothing for ordinary black citizens."
+(Everatt 2016, 58). Much of this critique originally centred on Zuma,
+who was mired in corruption scandals at the time. Malema and the EFF
+called the president a "thief" in 2013 (Cooper 2015, 153), and pledged
+to send practically all leading ANC figures to jail for corruption
+(Nyenhuis 2020, 420). The attacks against the ANC continued after Zuma
+left in 2018, and in a debate he accused Ramaphosa of becoming "the
+enemy of the people" driven by personal gain and representing the
+economic elite (Nyenhuis 2020, 419). Aside from the ANC, Malema has also
+targeted the other major party, the Democratic Alliance (DA), which he
+also called an "enemy of the people" (Horwitz 2016, 543). More
+generally, Melama and the EFF have asserted the organs of the state
+itself were hostile to the ordinary people. In its first election
+campaign in 2014 the party played heavily on the clash between striking
+platinum miners and police in Marikana, which left 34 of the former
+killed, as a iconic revelation of the way that the ANC had sold out to
+capital (Mbete 2015, 41; Nyenhuis 2020, 419). He was later ejected from
+parliament for saying that the ANC had "murdered" the miners (Mbete
+2015, 51). The EFF has campaigned with a highly confrontational style,
+often linking with protests in various cities and towns (Hurt and Kuisma
+2016, 12; Mbete 2015; Adams 2018, 116). In each of its categorisations
+of the political elite, Malema and the EFF asserted a conspiratorial
+tone, accusing the elites of "stealing from the poor" for their own
+benefit (Nyenhuis 2020, 420) (OTH_POLCLASS = 3).
+
+Shunning the post-1994 ANC's rainbow nation narrative, the EFF
+"discard\[ed\] any pretence of support for non-racialism" (Everatt 2016,
+58), and "equated elitism with race" (Resnick 2018, 276). The party has
+explicitly defined its "people" as black Africans (Mbete 2015, 41), and
+often referred to "whites" in categorical terms as the people's enemy
+(Akinola, Oluwaseum, and Tolulope 2015, 109). Party posters included
+slogans like "'the honeymoon is over for whites," and Malema has stated
+that white South Africans were collectively "thieves" (Mbete 2015, 36)
+and "criminals" (Akinola, Oluwaseum, and Tolulope 2015, 107; Welz and
+Kromrey 2015, 268) for their possession the nation's land and assets. In
+practice, the concept of the white racial elite and the rich were merged
+in Malema's discourse (forming "economic apartheid") (Oso 2020, 251;
+Essop 2015, 214; Fölscher, de Jager, and Nyenhuis 2021, 543), in the
+same way that the black racial majority was merged with the working
+class (Hurt and Kuisma 2016, 14; Mbete 2015, 41). Malema has accused his
+black critics of being "coconuts" who are "not really black" (Glaser
+2011, 73--74), and in the 2019 election accused Ramaphosa of wanting "to
+sound white, because you do not believe in the total liberation of
+African children" (Nyenhuis 2020, 419) (OTH_ETHNIC = 3).
+
+Alongside the political and racial elite, big business and capital were
+considered as key enemies of the people to the EFF (Horwitz 2016, 548;
+Hurt and Kuisma 2016). The party's 2014 election manifesto describes
+itself as "anti-capitalist", and states the party's goal to
+
+> emancipate \[workers\] from economic subjugation and oppression. The
+> African working class suffered and continue to suffer excessive levels
+> of oppression and exploitation as Mineworkers, Farm workers, underpaid
+> Domestic workers, Petrol Attendants, Private Security Guards, and
+> constitute the large pool of reserve labourers as they are
+> \[unemployed\] (cited in Phadi 2020, 420).
+
+The party called a minister "a dog of white monopoly capital" (Phadi
+2020, 425). For this we have coded them 3 on OTH_FINANCIAL.
+
+Not a lot is written about the EFF and immigration, but some scholars
+have noted that it has avoided xenophobic attacks on immigrants in South
+Africa, taking an "open and pan-Africanist approach to immigration,
+rather than a purely nationalist stance on the issue" (Hurt and Kuisma
+2016, 2). After episodes of violence against foreign immigrants and
+refugees (particularly Zimbabweans) in South Africa, Malema has been a
+notable voice of opposition, claiming that he "did not want a vote of
+xenophobes" (Asuelime 2020, 14622), and criticising black South
+African's who championed the global Black Lives Matter movement while
+not caring about violence against African migrants (Ruzungunde and Zhou
+2021, 7). Though they were highly critical of the police, we've seen no
+evidence that they were hostile to the military (OTH_MILITARY = 1). The
+party's manifesto mentions its "anti-imperialism", but not that the
+domestic elite represents foreign powers (OTH_FOREIGN = 1)
+
+EFF policy is considered by Fakir to have been a "hodge-podge of
+different ideological and political strains melding the incendiary
+politics of 'radical blackness' with the seeming elements of socialism"
+(Fakir 2014, 4). While some have associated the party with fascism
+(Satgar 2019), the party (as its name suggests) usually tends to be
+considered far left (Hurt and Kuisma 2016; Yende 2021; Fölscher, de
+Jager, and Nyenhuis 2021, 543) owing to its stated policy of
+nationalising assets like farms, mines, and banks without compensation,
+as well as other conventionally left leaning economic policies (Mbete
+2015, 39; Adams 2018, 115). We've concurred with this, and labelled it
+FL on LRPOSITION.
+
+The party is widely considered to be tied to Malema's charismatic
+personality and his remarkable ability to command media attention (Mbete
+2015, 35; 2020, 241; Roberts 2019, 101; Gunner 2015). Malema is the
+party's "Commander in Chief" (Horwitz 2016, 543), and some consider a
+"cult of personality" to have formed around him (Calland and Seedat
+2015, 305). One study of local branch members showed the centrality of
+Malema's personality in the motivation of members' participation (Essop
+2015, 222). (CHARISMA = 3). Given Malema's closeness to Jacob Zuma in
+the early years of the latter's presidency, there could be an argument
+that he served as an "insider" in government at that time. We don't
+think this is sufficient to register on our INSIDER scale, and have thus
+coded the EFF 1.
+
+For several reasons, many scholars have considered the EFF to be threat
+to liberal democratic norms in South Africa. Malema has repeatedly made
+threats of violence against rivals, such as: threatening to "cut the
+throat" of a Democratic Alliance mayor (Horwitz 2016, 543); telling a
+crowd in 2016 that "we're not calling for the slaughter of white people,
+at least for now" (Hitchcock-Lopez 2019, 319); celebrating attacks on
+white farmers (Morrell, Jewkes, and Lindegger 2012, 18); and encouraging
+supporters to "go to parliament... and shoot them randomly" (Horwitz
+2016, 550). Perhaps the most notorious example is his singing of the
+anti-Apartheid era song "Shoot the Boer", for which he was found guilty
+of hate speech (Akinola, Oluwaseum, and Tolulope 2015, 108). The party's
+2014 advertisements were banned for calling for the physical destruction
+of highway toll booths (Mbete 2015, 43). This is in keeping with the
+party's self-identification as "militant" in its 2014 election manifesto
+(Horwitz 2016, 543). The combination of its uniforms (with red berets),
+its designation of Malema as "Commander in Chief" (Horwitz 2016, 543),
+and its rigid command structure (Paret 2018, 477) has given the party a
+"performatively militaristic" style (Nieftagodien 2015, 447). The EFF
+has also undermined parliamentary procedures, disrupting sittings and
+refusing to show up to disciplinary hearings. (Horwitz 2016, 543;
+Roberts 2019, 99; Yende 2021, 59), sometimes leading to violent
+altercations with the chamber's security (Hurt and Kuisma 2016, 11). One
+such interruption was during President Zuma's State of the Nation
+Address in 2015 (Calland and Seedat 2015, 304). Ideologically, Malema
+has a history of illiberal majoritarianism (Vincent 2011, 4--5), and
+party spokespeople have claimed that they want to create a "one-party
+system" (Horwitz 2016, 543; Fölscher, de Jager, and Nyenhuis 2021, 543).
+We find this sufficient evidence to code the party 3 on LIBDEMNORMS.
+
+**References**
+
+Adams, Rachel. 2018. "South Africa's Social Contract: The Economic
+Freedom Fighters and the Rise of a New Constituent Power?" *Acta
+Academica: Critical Views on Society, Culture and Politics* 50 (3):
+102--21.
+
+Akinola, Adeoye O., Tella Oluwaseum, and Adeogun Tolulope. 2015. "From
+Reformist to Pugnacious Rhetoric: Julius Malema and the South African
+Political Space." *Gandhi Marg Quarterly* 37 (1): 103--20.
+
+Asuelime, Raquel A. 2020. "Ubuntu and Xenophobia Incongruities and the
+2019 South African Elections Impetus." *Gender & Behaviour* 18 (1):
+14621--30.
+
+Bassett, Carolyn, and Marlea Clarke. 2008. "The Zuma Affair, Labour and
+the Future of Democracy in South Africa." *Third World Quarterly* 29
+(4): 787--803.
+
+Calland, Richard, and Shameela Seedat. 2015. "Institutional Renaissance
+or Populist Fandango? The Impact of the Economic Freedom Fighters on
+South Africa's Parliament." *Verfassung Und Recht in Übersee/LAW AND
+POLITICS IN AFRICA\| ASIA\| LATIN AMERICA*, 304--28.
+
+Chipkin, Ivor. 2018. "The End of Tyranny: How Civil Society in South
+Africa Fought Back." *Rising to the Populist Challenge*, 101.
+
+Cooper, Ian. 2015. "Zuma, Malema and the Provinces: Factional Conflict
+within the African National Congress." *Transformation: Critical
+Perspectives on Southern Africa* 87 (1): 151--74.
+https://doi.org/10.1353/trn.2015.0009.
+
+Essop, Tasneem. 2015. "Populism and the Political Character of the
+Economic Freedom Fighters-a View from the Branch." *Labour, Capital and
+Society/Travail, Capital et Société* 48 (1 & 2): 212--38.
+
+Everatt, David. 2016. "The Era of Ineluctability? Post-Apartheid South
+Africa after 20 Years of Democratic Elections." *Journal of Southern
+African Studies* 42 (1): 49--64.
+
+Fakir, Ebrahim. 2014. "Fragmentation and Fracture -- The Loss of Trust
+and Confidence in Political Parties." In *SA Elections 2014: Political
+Opposition - Cohesion, Fracture or Fragmentation?*, 8--12. South Africa
+2014 Election Updates EISA Election Update Four. Johannesburg: Electoral
+Institute for Sustainable Democracy in Africa.
+
+Fölscher, Marine, Nicola de Jager, and Robert Nyenhuis. 2021. "Populist
+Parties Shifting the Political Discourse? A Case Study of the Economic
+Freedom Fighters in South Africa." *The Journal of Modern African
+Studies* 59 (4): 535--58.
+
+Glaser, Daryl. 2009. "South Africa: Toward Authoritarian Populism?" *The
+Johannesburg Salon* 1: 9--11.
+
+---------. 2011. "The New Black/African Racial Nationalism in SA:
+Towards a Liberal-Egalitarian Critique." *Transformation: Critical
+Perspectives on Southern Africa* 76 (1): 67--94.
+https://doi.org/10.1353/trn.2011.0029.
+
+Guha, Keshava D. 2013. "Jacob Zuma: Assessing His First Three Years."
+*Harvard International Review* 34 (3): 6--8.
+
+Gumede, William M. 2008. "South Africa: Jacob Zuma and the Difficulties
+of Consolidating South Africa's Democracy." *African Affairs* 107 (427):
+261--71.
+
+Gunner, Liz. 2009. "Jacob Zuma, the Social Body and the Unruly Power of
+Song." *African Affairs* 108 (430): 27--48.
+
+---------. 2015. "Song, Identity and the State: Julius Malema's
+Dubul'ibhunu Song as Catalyst." *Journal of African Cultural Studies* 27
+(3): 326--41.
+
+Hart, Gillian. 2007. "Changing Concepts of Articulation: Political
+Stakes in South Africa Today." *Review of African Political Economy* 34
+(111): 85--101.
+
+Hitchcock-Lopez, Dylan. 2019. "If a Person Must Die, Then So Be It: A
+Constitutional Perspective on South Africa's Land Crisis." *Wash. UJL &
+Pol'y* 60: 317.
+
+Horwitz, Dean. 2016. "The Role of Branding in the Success of the
+Economic Freedom Fighters (EFF)." Master's Thesis, University of Cape
+Town.
+
+Hurt, Stephen R., and Mikko Kuisma. 2016. "Undermining the 'Rainbow
+Nation'? The Economic Freedom Fighters and Left-Wing Populism in South
+Africa." In *66th Political Studies Association Annual International
+Conference Hilton Brighton Metropole, Brighton*, 21--23.
+
+Makulilo, Alexander B. 2013. "Populism and Democracy in Africa."
+*Contemporary Populism: A Controversial Concept and Its Diverse Forms*,
+167--202.
+
+Mbete, Sithembile. 2015. "The Economic Freedom Fighters: South Africa's
+Turn Towards Populism?" *Journal of African Elections* 14 (1): 35--59.
+
+---------. 2020. "Out With the Old, In With the New?: The ANC and EFF's
+Battle to Represent the South African 'People.'" In *Populism in Global
+Perspective*, 240--54. Routledge.
+
+Melber, Henning. 2014. "South Africa's Elections 2014: More than More of
+the Same?" *Review of African Political Economy* 41 (142): 645--51.
+
+---------. 2018. "Populism in Southern Africa under Liberation Movements
+as Governments." *Review of African Political Economy* 45 (158):
+678--86.
+
+Morrell, Robert, Rachel Jewkes, and Graham Lindegger. 2012. "Hegemonic
+Masculinity/Masculinities in South Africa: Culture, Power, and Gender
+Politics." *Men and Masculinities* 15 (1): 11--30.
+
+Ndlovu-Gatsheni, Sabelo J. 2008. "Black Republican Tradition, Nativism
+and Populist Politics in South Africa." *Transformation: Critical
+Perspectives on Southern Africa* 68 (1): 53--86.
+
+Nieftagodien, Noor. 2015. "The Economic Freedom Fighters and the
+Politics of Memory and Forgetting." *South Atlantic Quarterly* 114 (2):
+446--56.
+
+Nyandera, İsrael Nyaburi, and Billy Agwanda. 2019. "The Emergence and
+Evolution of Populism in Sub-Saharan Africa: Party Politics and
+Personalities." *Uluslararası Politik Araştırmalar Dergisi* 5 (2):
+76--91.
+
+Nyenhuis, Robert. 2020. "The Political Struggle for 'the People':
+Populist Discourse in the 2019 South African Elections." *Commonwealth &
+Comparative Politics* 58 (4): 409--32.
+
+Nyenhuis, Robert, and Nicola de Jager. 2021. "Is the Economic Freedom
+Fighters' Brand of Populism Transforming Political Discourse in South
+Africa?" *Africa at LSE*.
+
+Oso, Ibitayo O. 2020. "Discursive Ideologies in Campaign Speeches of
+Cyril Ramaphosa and Julius Malema in the 2019 South African Presidential
+Election." *Inkanyiso: Journal of Humanities and Social Sciences* 12
+(2): 243--57.
+
+Paret, Marcel. 2018. "Beyond Post-Apartheid Politics? Cleavages, Protest
+and Elections in South Africa." *The Journal of Modern African Studies*
+56 (3): 471--96.
+
+Phadi, Mosa. 2020. "The Economic Freedom Fighters: Rethinking Du Bois in
+a Tale of Reconstruction." *Review of African Political Economy* 47
+(165): 416--31.
+
+Plaut, Martin. 2010. "South Africa -- the ANC's Difficult Allies."
+*Review of African Political Economy* 37 (124): 201--12.
+https://doi.org/10.1080/03056244.2010.483894.
+
+---------. 2014. "South Africa: How the ANC Wins Elections." *Review of
+African Political Economy* 41 (142): 634--44.
+https://doi.org/10.1080/03056244.2014.964198.
+
+Resnick, Danielle. 2010. *Populist Strategies in African Democracies*.
+2010/114. WIDER Working Paper.
+
+---------. 2018. "The Influence of Populist Leaders on African
+Democracy." In *Routledge Handbook of Global Populism*, 263--80.
+Routledge.
+
+Roberts, Benjamin. 2019. "Economic Freedom Fighters: Authoritarian or
+Democratic Contestant?"
+
+Ruzungunde, Vongai S., and Sindiso Zhou. 2021. "Attitudes towards
+Migrant Workers in South Africa: A Critical Discourse Analysis."
+*Journal of Local Government Research and Innovation* 2: 9.
+
+Satgar, Vishwas. 2019. "Black Neofascism? The Economic Freedom Fighters
+in South Africa." *Canadian Review of Sociology/Revue Canadienne de
+Sociologie* 56 (4): 580--605.
+
+Shain, M. 2017. "Racial and Populist Nationalism in South Africa: The
+Global Nexus." *The Journal of the Helen Suzman Foundation* 80: 5--9.
+
+Sitas, Ari. 2008. "The Road to Polokwane?: Politics and Populism in
+KwaZulu-Natal." *Transformation: Critical Perspectives on Southern
+Africa* 68 (1): 87--98.
+
+Southall, Roger. 2009. "Understanding the 'Zuma Tsunami.'" *Review of
+African Political Economy* 36 (121): 317--33.
+
+Tshabangu, Thulani. 2022. "Popular Music, Political Mobilisation and
+Grandstanding: An Analysis of Maskandi in Legitimisation of Jacob Zuma
+(2008--2018)." In *Indigenous African Popular Music, Volume 2*, 43--58.
+Springer.
+
+Vincent, Louise. 2011. "Seducing the People: Populism and the Challenge
+to Democracy in South Africa." *Journal of Contemporary African Studies*
+29 (1): 1--14.
+
+Welz, Martin, and Daniela Kromrey. 2015. "Legacies of the Past: The
+Influence of Former Freedom Fighters and Their Rhetoric in Southern
+Africa." *Politikon* 42 (2): 255--73.
+
+Yende, Nsizwazonke E. 2021. "The Economic Freedom Fighters (EFF) as a
+'Super-Sub' in the South African Parliament: Fostering Accountability in
+Organised Disruptive Chaos." *African Journal of Development Studies* 11
+(4): 53.
+

@@ -3,11 +3,27 @@ project:
 
 website:
   title: "World Populism Dataset"
+  description: "World Populism Dataset"
+  site-url: "https://worldpopulism.org/"
+
+  repo-url: https://github.com/World-Populism-Dataset/
+  repo-actions: []
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - country.qmd
+    right:
+      - icon: download
+        text: Downloads
+        menu:
+          - text: All data
+            href: '#'
+      - icon: file-certificate
+        href: license.qmd
+      - icon: github
+        href: https://github.com/World-Populism-Dataset/
 
 format:
   html:

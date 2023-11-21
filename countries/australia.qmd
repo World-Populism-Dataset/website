@@ -1,0 +1,252 @@
+---
+title: Australia
+---
+
+
+Date range: 1980-2020
+
+## One Nation Party
+
+One Nation Party (ONP), led and created by Queensland Senator Pauline
+Hanson, has been Australia's most recognisable populist party in recent
+decades. Hanson was once a Liberal Party candidate in outer-suburban
+Brisbane in the 1996 election, before the party disendorsed her due to
+past comments about indigenous Australians (Mason 2010, 186). She went
+on to stand and win as an independent. As a Member of Parliament she
+provoked enormous media attention through controversial nativist and
+xenophobic rhetoric. She founded ONP after winning, which enjoyed some
+success in the next 1998 election (despite Hanson losing her own seat)
+before collapsing under the pressures of internal and legal fights that
+ended up sending her to prison (Rutherford 2001). Under the new name
+Pauline Hanson's One Nation it made a surprising comeback in the 2016
+elections, but did not pass the 5% threshold in the lower house
+(although it did better in the Senate, where Hanson won a seat).
+
+Hanson became an immediate sensation when she declared in her maidan
+speech in Parliament that Australia was in danger of being "swamped by
+Asians" (Mughan and Paxton 2006, 344). This was indicative of a range of
+her other xenophobic attacks on Asians (Ahluwalia and McCarthy 1998,
+83), whom she claimed were responsible for drugs and crime (Stokes 2000,
+28). More generally she classed immigrants from the "Third World" as a
+threat to Australian culture due to their refusal to assimilate into it
+(Reynolds 2000, 28; Mughan and Paxton 2006, 344; Deutchman and Ellison
+1999, 36). In doing so she appealed to anti-immigrant attitudes in the
+community that major parties were less willing (at the time) to stoke
+(Goot and Watson 2001). She also made numerous statements critical of
+Indigenous Australians (Melleuish 1997; Deutchman 2000, 51; DeAngelis
+2003, 86), claiming that a "reverse racism" policy was unfairly
+advantaging them in them via more generous welfare policies at the
+expense of others (Johnson 1998). All of this established her solid
+OTH_ETHNIC and OTH_IMMIGRANT foundations (both = 3).
+
+From its inception, the party sought to label as out of touch the
+political elite in the major parties (Labor and the Liberal/National
+coalition), and dissatisfaction with the functioning of the political
+system has always been a core part of ONP appeal (Reynolds 2000, 165;
+DeAngelis 2003, 86).
+
+Hanson made general claims against "politicians" in a catch all way
+(Deutchman and Ellison 1999, 37), and cultivated an image as an
+"anti-politician, untarnished by not being a member of the generally
+despised political establishment" (Pasquarelli 1997, 6). Hanson claimed
+policies targeting and excluding white non-Indigenous Austrailans were
+bound with the fundamental elitism of the political system writ large.
+She claiming that the establishment had lost touch with the mainstream
+opinion and experience on race and immigration (Jackman 1998, 170), was
+forcing multi-culturalism on ordinary Australians against their will
+(Stokes 2000, 27), and pushed a repressive "political correctness"
+agenda to silence ordinary people (Ahluwalia and McCarthy 1998). This
+system, she claimed, resulted in a net benefit for the elites -- which
+she termed the "New Class" (Melleuish 1997, 25) -- at the expense of
+ordinary people. In one notable example of this narrative, Hanson
+claimed that:
+
+> In response to my call for equality for all Australians, the most
+> noisy criticism came from the fat cats, bureaucrats and the
+> do-gooders. They screamed the loudest because they stand to lose the
+> most -- their power, money and position, all funded by ordinary
+> Australian taxpayers (Jackman 1998, 168).
+
+In opposition to this elite, Hanson sold her credentials as someone in
+touch with "the people", owing to her humble outer suburban origins and
+her time running a fish and chip shop (Moffit 2017, 124; Deutchman 2000,
+36; Nile 1997, 1). Due to this rhetoric we've coded ONP as 3 on
+OTH_POLCLASS.
+
+Banks and big businesses were among the New Class elite in her discourse
+(Stokes 2000, 30). Specifically, she accused Australian companies of
+selling out to foreign stockholders (Louw and Loo 1997, 6) at the
+expense of the national interest. Given that this was a relatively
+smaller "other" to the people, we've coded ONP as 2 on OTH_ECONOMIC.
+Despite being opposed to foreign immigrants, we've seen no evidence that
+Hanson accused foreign powers or entities of controlling Australian
+politics at the expense of the people (OTH_FOREIGN = 1).
+
+Despite generally maintaining a state interventionist and protectionist
+set of economic policies (DeAngelis 2003, 86), Hanson's cultural and
+immigration policies are by far the more salient part of her politics,
+and for that she has been consistently labelled "radical right" in the
+secondary literature (Moffit 2017, 124; Deutchman and Ellison 1999, 34)
+(LRPOSITION = FR). ONP has always been a personalist operation (Moffit
+2017, 125), totally dependent on Hanson\'s "charismatic" personality
+(DeAngelis 2003, 87; Mason 2010) and her capacity to attract media
+attention (Louw and Loo 1997; Deutchman and Ellison 1999, 35; Lewis
+1997). Internally, Hanson and her close associates maintained total
+control of the party structure -- one of the reasons why the party
+collapsed was its lack of internal democracy and Hanson's autocratic
+leadership style (Rutherford 2001, 193). This has led ONP to be called
+the "One Person Party (Nile 1997) (CHARISMA = 3). Despite her attaches
+on social liberal norms, we've seen no evidence that Hanson or ONP
+threatened the liberal democratic system in Australia (LIBDEMNORMS = 1),
+and as she has never been part of any government, we've coded her 1 on
+INSIDER.
+
+## Palmer's United Party, Clive Palmer
+
+Clive Palmer is a billionaire mining magnate who split from the
+Liberal-National Party (LNP) (of which he was once a financier) in 2012,
+allegedly after being denied a government contract to build a railway
+line. He stood in the 2013 election with his own party, Palmer\'s United
+Party (PUP) (Kefford and McDonnell 2018, 384). With an enormous
+advertising budget, PUP won 5.49% of the national lower house vote and
+one seat (taken by him) in the Parliament. Following the departure of
+several PUP senators after the election and Palmer's extra-parliamentary
+business scandals, the project was put on hiatus in the subsequent 2016
+election, only to return as the United Australia Party in 2019. In its
+comeback it only managed 3.43% of the lower house vote, due to which we
+have only included it in the dataset in 2013.
+
+The central message of the PUP was its distain for the Australia's two
+major parties (Moffit 2017, 125; Kefford and McDonnell 2016, 192). It
+claimed that these major parties (the Labor party and the LNP) were not
+only out of touch, but actively hostile to the interests of ordinary
+people. For example, Palmer accused LNP leader Tony Abbott of trying to
+"sell off Australia to people only concerned with making money. Whatever
+they pay, they will only do it so they can charge you more" (Kefford and
+McDonnell 2016, 185). PUP did not differentiate between the two parties,
+considering them part of the single corrupt system. In opposition to
+this system, he styled himself as an "anti-politician" (Watson 2014,
+27), in touch with the concerns of ordinary Australians (OTH_POLCLASS =
+3).
+
+Aside from the political class, Palmer's populism didn't target very
+many "others" to the ordinary people. Although there is a nationalist
+steak to his politics, his OTH_FOREIGN rhetoric only picked up in his
+2019 reincarnation (= 1 in 2013). Unlike Hanson, Palmer's populism did
+not (during the 2013 campaign at least) target ethnic others or
+immigrants (Moffit 2017, 125; Watson 2014, 2)(OTH_IMMIGRANT = 1,
+OTH_ETHNIC = 1). In fact the party actually favoured increasing support
+to refugees and was generally more progressive on immigration than the
+major parties (Kefford and McDonnell 2016, 185; Moffit 2017, 133). As a
+major industrialist and billionaire, he never engaged in any consistent
+rhetoric against major financial interests or businesses (OTH_ECONOMIC =
+1), nor against the military (OTHMILITARY =1).
+
+As its name suggests, it has been seen as little more than a vehicle for
+Palmer\'s personal brand and ambition (Kefford and McDonnell 2016, 187).
+As a candidate he commanded a flamboyant, unpredictable personal image
+(Moffit 2017, 125; Watson 2014, 27), and a used a highly combative
+interview style. Structurally, the party was almost entirely funded by
+Palmer, and totally controlled by him (Kefford and McDonnell 2018,
+385--89). For this reason PUP has been considered a "personal party"
+built around Palmer that would not exist without him (Kefford and
+McDonnell 2018, 388) (CHARISMA = 3). Palmer's policies in the 2013
+election were an "eclectic" (Moffit 2017, 125) mix of crowd-pleasing
+contradictions (Kefford and McDonnell 2016, 184), including higher
+spending, lower taxes and the elimination of the national debt, and as a
+result Kefford and McDonnell claim that the party's ideology "cannot be
+easily classified" (Kefford and McDonnell 2016, 183). There may be an
+argument that the vague nationalism of the party makes it right-leaning,
+but we've coded it C on LRPOSITION due to its ideological ambiguity and
+vagueness. While Palmer was a high-profile donor to the LNP party before
+leaving it (Kefford and McDonnell 2018, 384), it is not evident that he
+was any kind of "insider" to previous governments in the way that we are
+using term (INSIDER = 1), and while he consistently attacked critics in
+the media with great vitriol (Moffit 2017, 125), there is nothing in his
+campaigning conduct that challenges liberal democratic norms as we've
+defined them (LIBDEMNORMS = 1).
+
+**References**
+
+Ahluwalia, Pal, and Greg McCarthy. 1998. "'Political Correctness':
+Pauline Hanson and the Construction of Australian Identity." *Australian
+Journal of Public Administration* 57 (3): 79--85.
+
+DeAngelis, Richard A. 2003. "A Rising Tide for Jean--Marie, Jörg, &
+Pauline? Xenophobic Populism in Comparative Perspective." *Australian
+Journal of Politics & History* 49 (1): 75--92.
+
+Deutchman, Iva Ellen. 2000. "Pauline Hanson and the Rise and Fall of the
+Radical Right in Australia." *Patterns of Prejudice* 34 (1): 49--62.
+
+Deutchman, Iva Ellen, and Anne Ellison. 1999. "A Star Is Born: The
+Roller Coaster Ride of Pauline Hanson in the News." *Media, Culture &
+Society* 21 (1): 33--50.
+
+Goot, Murray, and Ian Watson. 2001. "One Nation's Electoral Support:
+Where Does It Come from, What Makes It Different and How Does It Fit?"
+*Australian Journal of Politics & History* 47 (2): 159--91.
+
+Jackman, Simon. 1998. "Pauline Hanson, the Mainstream, and Political
+Elites: The Place of Race in Australian Political Ideology." *Australian
+Journal of Political Science* 33 (2): 167--86.
+
+Johnson, Carol. 1998. "Pauline Hanson and One Nation." In *The New
+Politics of the Right: Neopopulist Parties and Movements in Established
+Democracies*, edited by Hans-Georg Betz and Stefan Immerafll, 211--18.
+New York: St Martin's Press.
+
+Kefford, Glenn, and Duncan McDonnell. 2016. "Ballots and Billions: Clive
+Palmer's Personal Party." *Australian Journal of Political Science* 51
+(2): 183--97.
+
+---------. 2018. "Inside the Personal Party: Leader-Owners, Light
+Organizations and Limited Lifespans." *The British Journal of Politics
+and International Relations* 20 (2): 379--94.
+
+Lewis, Glen. 1997. "The Media and the Pauline Hanson Debate: Cheap Talk
+or Free Speech?" *Australian Journal of Communication* 24 (1): 9--22.
+
+Louw, P. Eric, and Eric Loo. 1997. "Constructing Hansonism: A Study of
+Pauline Hanson's Persona in Australian Press." *Asia Pacific Media
+Educator* 1 (3): 4--31.
+
+Mason, Robert. 2010. "'Pitbulls' and Populist Politicians: Sarah Palin,
+Pauline Hanson and the Use of Gendered Nostalgia in Electoral
+Campaigns." *Comparative American Studies An International Journal* 8
+(3): 185--99.
+
+Melleuish, Gregory. 1997. "Pauline Hanson and Australian Conservative
+Populism." *Quadrant* 41 (9): 25--29.
+
+Moffit, Benjamin. 2017. "Populism in Australia and New Zealand." In *The
+Oxford Handbook of Populism*, edited by Cristóbal Rovira Kaltwasser,
+Paul A. Taggart, Paulina Ochoa Espejo, and Pierre Ostiguy, 121--39.
+Oxford: Oxford University Press.
+
+Mughan, Anthony, and Pamela Paxton. 2006. "Anti-Immigrant Sentiment,
+Policy Preferences and Populist Party Voting in Australia." *British
+Journal of Political Science* 36 (2): 341--58.
+
+Nile, Richard. 1997. "The Pauline Hanson One Person Party." Taylor &
+Francis.
+
+Pasquarelli, John. 1997. "The Pauline Hanson Phenomenon." *Australia and
+World Affairs*, no. 33: 5--12.
+
+Reynolds, Paul. 2000. "One Nation's Electoral Support in Queensland: The
+1998 State and Federal Elections Compared." In *The Rise and Fall of One
+Nation*, edited by Michael Leach, Geoff Stokes, and Ian Ward, 153--69.
+St Lucia: Univ. of Queensland Press.
+
+Rutherford, Jennifer. 2001. "One Love Too Many: The Undoing of Pauline
+Hanson." *Australian Journal of Politics & History* 47 (2): 192--208.
+
+Stokes, Geoff. 2000. "One Nation and Australian Populism." In *The Rise
+and Fall of One Nation*, edited by Michael Leach, Geoff Stokes, and Ian
+Ward, 23--41. St Lucia: Univ. of Queensland Press.
+
+Watson, Ian. 2014. "Are the PUPs Pauline's Progeny? Populism and
+Political Alienation among Australian Voters." In *Murray Goot
+Festschrift, Macquarie University, Sydney*.
+

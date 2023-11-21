@@ -1,0 +1,240 @@
+---
+title: Romania
+---
+
+
+-   Date range: 1990-2020
+
+-   Elections included:
+
+    -   Legislative: 1990, 1992, 1996, 2000, 2004, 2008, 2012, 2016,
+        2020.
+
+    -   Presidential: 1990, 1992, 1996, 2000, 2004, 2009, 2014, 2019.
+
+## Greater Romania Party
+
+Greater Romania Party (*Partidul România Mare*, PRM) was an agrarian,
+nationalist and socially conservative populist party dominated by its
+long-time leader Corneliu Tudor. Founded in 1991 as an offshoot of the
+extreme nationalist Movement for a Greater Romania, it has been highly
+nostalgic for the Ceauşescu regime (for which Tudor was once a
+propagandist) and the WWII era fascist movements that allied with the
+Nazis (Ţurcanu 2010; Andreescu 2003, 20). Tudor was a staple of
+elections in the 1990s and the PRM peaked in the 2000 presidential and
+parliamentary elections, after which it gradually declined to obscurity.
+
+Aside from a brief attempt to appear more moderate around 2004-05 (when
+it wanted to join the European People's Party), the PRM's radical
+programme has been very consistent. There were several components to
+Tudor's radical right nativist politics. The first was ethnocentrism,
+particularly regarding his hostility towards Jews, Roma, ethnic
+Hungarians in Romania, and others (Ţurcanu 2010, 6--7; Andreescu 2003,
+31; Gallagher 1995, 205). He repeatedly denied the holocaust (Shafir
+2008, 456), campaigned to have the Democratic Alliance of Hungarians in
+Romania party banned (Smrčková 2012, 209), and glorified the
+anti-Semitic ideology of the inter-war Iron Guard militia (Smrčková
+2012, 213) (OTH_ETHNIC = 3). The party was also very socially
+conservative, opposing homosexuality and championing the Romanian family
+(Norocel 2011). We have found no evidence that immigrants were a
+relevant target of Tudor's nationalism (OTH_IMMIGRANTS = 1), although
+this is probably due mainly to the low rates of immigration into Romania
+at that time, and should be confirmed by further research.
+
+Tudor was also sharply hostile to a number of foreign powers: for
+example decrying the "ever more violent interference of foreign
+diplomats accredited to Bucharest in the state of affairs in Romania"
+(Gallagher 1995, 207). Hungary, the EU, the IMF, and the United States
+(He once accused the US ambassador of assisting in the rigging of EU
+elections) (Shafir 2008, 457) were frequent enemies of the Romanian
+people (OTH_FOREIGN = 3). For a time the PRM was also the only
+significant anti-EU party in the Romanian parliament (Sum 2010, 19).
+
+According to Mungiu-Pippidi, Tudor tapped into a well-established
+(Ceauşescu era) personality-led populist tradition essentially hostile
+to politicians and parties (Mungiu‐Pippidi 2001, 231). This has led to
+an established anti-politics populism that reaps protest votes from
+citizens frustrated with the political and economic system writ large
+(Smrčková 2012, 208; Ţurcanu 2010, 8; Busuioc 2016, 42; Gallagher 2001,
+112; Andreescu 2003, 69) (OTH_POLCLASS = 3). Like other nativist parties
+in the region, the PRM's economic programme is somewhat leftist
+(Mungiu‐Pippidi 2001, 235; Sum 2010, 21; Ţurcanu 2010, 9), advocating
+the nationalisation of industry and robust welfare spending (to ethnic
+Romanians) (Smrčková 2012, 214). While the party should still be
+classified as FR on LRPOSITION, it does exhibit some opposition to
+economic elites, particularly relating to foreign capital (Smrčková
+2012, 214) (OTH_FINANCIAL = 2). Further research should confirm the
+degree of this.
+
+Shafir considers the PRM to be an anti-system party aimed at maintaining
+the nationalist rhetoric of the Ceauşescu era in order to undermine
+democracy itself (Shafir 2008, 455). Tudor has frequently alleged
+electoral fraud after poor results (Shafir 2008, 457), and openly called
+for the military to lead a coup d'état against democracy in 1993
+(Mungiu‐Pippidi 2001, 235). In another highly controversial incident,
+the party sided with highly militarised miners' union strike (led by PRM
+vice president Miron Cosma) which marched on Bucharest, destroying
+police road-blocks in the process (Andreescu 2003, 34) (LIBDEMNORMS =
+3). The party has been totally defined by the "cult of personality" of
+Tudor (Gallagher 2005, 295; Andreescu 2003, 32; Busuioc 2016, 42), and
+its decision making process is totally centralised around his leadership
+(Smrčková 2012, 210) (CHARISMA = 3). The PRM was once briefly in
+coalition government in 1992-1996. This, coupled with the fact that
+Tudor was an insider in the Ceauşescu regime, means that the PRM
+deserves a 2 for INSIDER.
+
+## Romanian National Unity Party
+
+The Romanian National Unity Party (*Partidul Unităţii Naţionale a
+Românilor*, PUNR), founded in 1990, was an ultranationalist party based
+around its leader, Gheorghe Funar, mayor of Cluj 1992-2004. The party
+was a successor to the violent Romanian Hearth movement which organised
+deadly clashes with ethnic Hungarians in the Transylvania region in 1990
+(Andreescu 2003, 29). Funar had a heated rivalry with the PRM's Tudor
+(Sum 2010), but after the PUNR melted away he joined the PRM to become
+its Secretary General in 1998, taking his remaining supporters with him
+(Smrčková 2012, 209).
+
+The ethno-nationalist cause formed the basis of the PUNR's radical
+ethno-nationalism (Petrovici 2011, 68) (OTH_ETHNIC = 3), with which is
+found moderate success in early post-communist elections as "the most
+important ultra-nationalist party in Romania" (Andreescu 2003, 30). True
+to their authoritarian origins, Funar and the party repeatedly incited
+attacks against the Hungarian minority in Transylvania (including the
+Hungarian consulate in Cluj) (Andreescu 2003, 59) and instituted martial
+law in majority Hungarian areas of Cluj (Gallagher 1995, 213)
+(LIBDEMNORMS = 3). Funer repeatedly denied foreign investment in Cluj on
+the reasoning that "we don't sell our country to foreigners," (Petrovici
+2011, 69) (OTH_FOREIGN = 3). Note that this does not seem to be an
+indication of OTH_FINANCIAL rhetoric (= 1).
+
+The picture on OTH_POLCLASS is less clear, however several sources point
+Funar's general position that Bucharest did not appreciate the needs of
+Romanians in the North (Gallagher 2005, 103), and that it had become a
+"city of filth and corruption" that did not deserve to be the Romanian
+capital (Gallagher 1995, 203; see also Petrovici 2011, 70--71). While
+evidence for this rhetoric is not as clear as for Tudor, it does warrant
+at least a 2 on OTH_POLCLASS. Funar was "a believer in one-man
+leadership" (Gallagher 1995, 209), and his controversial image defined
+the PUNR (CHARISMA = 3).
+
+## People's Party Dan Diaconescu
+
+People's Party - Dan Diaconescu (*Partidul Poporului -- Dan Diaconescu*,
+PP-DD) was a left wing nationalist party that emerged in 2010. Its
+founder and leader, Dan Diaconescu, is a former investigative journalist
+with a large audience, known for revealing sensational stories about
+corruption and political scandals (Gherghina and Miscoiu 2014, 187).
+After stunning success in the 2012 parliamentary elections, the party
+soon faced a downfall after Diaconescu was imprisoned on extortion
+charges (Busuioc 2016, 43).
+
+The PP-DD has a somewhat confusing ideological profile, but has
+generally been called left-wing (Busuioc 2016, 43). Its programme was a
+crowd-pleasing set of contradictions, promising cash handouts of 20,000
+Euros per citizen, free tractors, and jobs for everyone, with little
+detail on how it would be paid for (it also advocated cutting taxes)
+(Lavinia 2013, 22; Gherghina and Miscoiu 2014, 189). The party was
+generally critical of state privatisations and promised the confiscation
+of unjustified wealth (Lavinia 2013, 22) (OTH_FINANCIAL = 2).
+Diaconescu's was a highly performative populism, as displayed by his
+spectacle of trying to buy the state-owned chemical firm Oltchim "in the
+name of the people and for the people" (Busuioc 2016, 43) in 2012.
+
+The party did have some nationalist elements in its politics, such as
+its dismissal of ethnic-Hungarian's demands for autonomy, and its
+hostility towards the IMF as a "foreign intruder", and the policy of
+reuniting with Moldova (Gherghina and Miscoiu 2014, 187--90) (OTH_ETHNIC
+= 2, OTH_FOREIGN = 2). However, it is not particularly nativist in the
+sense of the PRM or PUNR (Cinpoeş 2013, 176). Instead, its principle
+"other" for the PP-DD was the political class, which it accused of a
+permanent conspiracy against the Romanian people (Gherghina and Miscoiu
+2014, 187). This was given momentum by the 2012 constitutional crisis
+and anti-government demonstrations. The party drew a simple distinction
+between the people affected by the economic crisis and the established
+elite who caused it (Smrčková 2012, 207). It also alleged that all
+established rivals criticised each other in order to hide the extensive
+cross-party networks of corruption (Lavinia 2013, 17) (OTH_POLCLASS =
+3).
+
+PP-DD It was -- as its name suggests -- totally dependent on its leader,
+who maintained total control of it (Gherghina and Miscoiu 2014, 189;
+Gherghina and Soare 2013, 1) (CHARISMA = 3). Interestingly, most of the
+PP-DD candidates were former members of ruling party members (Lavinia
+2013, 17). However, as the party leader or the party itself has never
+been in power, we have coded it 1 on INSIDER. We have seen no evidence
+that it threatened LIBDEMNORMS (1).
+
+**References**
+
+Andreescu, Gabriel. 2003. *Right-Wing Extremism in Romania*.
+Cluj-Napoca: Ethnocultural Diversity Resource Center.
+
+Busuioc, Elena Negrea-. 2016. '"Of the People or for the People"? An
+Analysis of Populist Discourse in the 2014 European Parliament Elections
+in Romania'. *Romanian Journal of Communication and Public Relations* 18
+(2): 39--53.
+
+Cinpoeş, Radu. 2013. 'Right-Wing Extremism in Romania'. In *Right-Wing
+Extremism in Europe. Country Analyses, Counter-Strategies and
+Labor-Market Oriented Exit Strategies*, edited by Ralf Melzer and
+Sebastian Serafin, 169--97. Berlin: Universität Tübingen.
+
+Gallagher, Tom. 1995. *Romania after Ceauşescu: The Politics of
+Intolerance*. Edinburgh: Edinburgh University Press.
+
+---------. 2001. 'Nationalism and Romanian Political Culture in the
+1990s'. In *Post-Communist Romania: Coming to Terms with Transition*,
+edited by Duncan Light and David Phinnemore, 104--24. Springer.
+
+---------. 2005. *Modern Romania: The End of Communism, the Failure of
+Democratic Reform, and the Theft Of*. New York: New York University
+Press.
+
+Gherghina, Sergiu, and Sergiu Miscoiu. 2014. 'A Rising Populist Star:
+The Emergence and Development of the PPDD in Romania'. *Debatte: Journal
+of Contemporary Central and Eastern Europe* 22 (2): 181--97.
+https://doi.org/10.1080/0965156X.2014.959325.
+
+Gherghina, Sergiu, and Sorina Christina Soare. 2013. 'From TV to
+Parliament: Populism and Communication in the Romanian 2012 Elections'.
+In . University of Florence.
+
+Lavinia, Stan. 2013. 'Romanian Politics in 2012: Intra-Cabinet
+Coexistence and Political Instability'. *South-East European Journal of
+Political Science* 1 (3): 12--26.
+
+Mungiu‐Pippidi, Alina. 2001. 'The Return of Populism ‐ The 2000 Romanian
+Elections'. *Government and Opposition* 36 (2): 230--52.
+https://doi.org/10.1111/1477-7053.00063.
+
+Norocel, Ov Cristian. 2011. 'Heteronormative Constructions of
+Romanianness: A Genealogy of Gendered Metaphors in Romanian
+Radical-Right Populism 2000--2009'. *Debatte: Journal of Contemporary
+Central and Eastern Europe* 19 (1--2): 453--70.
+https://doi.org/10.1080/0965156X.2011.626121.
+
+Petrovici, Norbert. 2011. 'Articulating the Right to the City:
+Working-Class Neo-Nationalism in Postsocialist Cluj, Romania'. In
+*Headlines of Nation, Subtexts of Class: Working Class Populism and the
+Return of the Repressed in Neoliberal Europe*, edited by Don Kalb and
+Gábor Halmai, 57--77. New York: New York University Press.
+
+Shafir, Michael. 2008. 'From Historical to "Dialectical" Populism: The
+Case of Post-Communist Romania'. *Canadian Slavonic Papers* 50 (3--4):
+425--70. https://doi.org/10.1080/00085006.2008.11092591.
+
+Smrčková, Markéta. 2012. 'Romania'. In *Populist Political Parties in
+East Central Europe*, edited by Vlastimil Havlík and Aneta Pinková,
+199--226. Brno: Munipress.
+
+Sum, Paul E. 2010. 'The Radical Right in Romania: Political Party
+Evolution and the Distancing of Romania from Europe'. *Communist and
+Post-Communist Studies* 43 (1): 19--29.
+https://doi.org/10.1016/j.postcomstud.2010.01.005.
+
+Ţurcanu, Florin. 2010. 'National and Right-Wing Radicalism in the New
+Democracies: Romania'. Paper for the workshop of the Friedrich Ebert
+Foundation on "Right-wing extremism and its impact on young democracies
+in the CEE countries".
+

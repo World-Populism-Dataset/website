@@ -1,0 +1,290 @@
+---
+title: Austria
+---
+
+
+Date range: 1980-2020
+
+## Austrian Freedom Party
+
+The Austrian Freedom Party (*Freiheitliche Partei Österreichs*, FPÖ)
+traces its roots back to organisations representing former Nazis
+disenfranchised in Austria's initial post-war elections. After founding
+as a party in 1956 its first two leaders were former Nazis and the party
+carried an illiberal taboo in the party system (Fallend 2012, 116--17).
+With an ideologically ambiguous character, it participated in several
+minority governments before 1980, and strived to moderate its
+controversial image. We see no evidence that it was populist by our
+definition in the 1983 election, so we've included it in the dataset
+only from 1986, when Jörg Haider took it over and moved the party to the
+hard right in policy and rhetoric (most authors agree that this is when
+it should be classified as populist, see: Van Kessel 2015, 35;
+Heinrisch, 2013, 47; Fallend 2012, 117; McGann and Kitschelt 2005, 151).
+After improving its electoral performance through the 1990s the FPÖ
+joined a coalition government with the centre right ÖVP between 2000 and
+2005, following which Haider split off to form his own party (BZÖ) that
+took the FPÖ's spot in the coalition. The FPÖ then became a new
+opposition party under the leadership of one of Haider's former mentees
+Heinze-Christian Strache, who gradually rebuilt its following to peak at
+26% in the 2017 election, after which it again formed coalition
+government with the ÖVP. After Strache was caught on tape dealing
+corruptly with an undercover journalist (the "Ibiza Affair") he was
+forced to leave politics, and the party's vote dropped to 16% in the
+2019 elections.
+
+Haider converted the FPÖ into a protest vehicle that tapped into the
+dissatisfaction with the political system. A cornerstone of this was his
+opposition to "partitocracy" of the dominant national parties, the SPÖ
+and ÖVP (McGann and Kitschelt 2005, 151). Haider's rhetoric projected a
+system in which a "ruling class" (cited in Wodak 2013, 23) was both
+homogenous and fundamentally separate from the ordinary people (Bauböck
+2009, 243). He accused this political elite of enjoying embedded
+privileges that allowed them to line their own pockets at the expense of
+ordinary people (Höbelt 2003, 56). In Betz's words, the FPÖ:
+
+> pursued 'a strategy of system change' intended to liberate the
+> ordinary citizen from the political parties... Its self-proclaimed
+> goal was to solve what it saw as one of Austria\'s most urgent
+> political problems, namely citizens' growing alienation from the
+> state, by engineering Austria\'s transition from a 'party state' to a
+> 'citizens' democracy. (Betz 2001, 401)
+
+Even when the party was in government, Haider continued this stance by
+fashioning himself into a kind of internal "opposition" within the
+coalition (Heinrisch, 2013, 51). After Haider stepped down from the
+leadership the party appears to have maintained this stance (see
+Heinisch, Werner, and Habersack 2020; Wodak and Forchtner 2014). Stache,
+for example, has alleged that the government deliberately allowed for
+the asylum system to be abused in order to tend to the interests of the
+"asylum industry" at the expense of the people (Ajanovic, Mayer, and
+Sauer 2018, 13). For this we have coded the party 3 on OTH_POLCLASS for
+the duration of its time in the dataset.
+
+Soon after taking control of the party Haider made antipathy to
+immigrants and ethnic others a core component of its discourse and
+agenda under an "Austria first" platform. Initially his ethnocentric
+rhetoric was largely based in antisemitic comments and symbolism (at one
+point he alleged that he was a victim of a "Jewish" smear campaign, see:
+Heinrisch, 2013, 63), and included other forms of xenophobia (McGann and
+Kitschelt 2005, 151--63). The party succeeded in mobilising against
+immigration and asylum seekers in the context of the crisis in the
+Bulkans in the early Haider days, but from the 1990s dramatically turned
+its attention to Muslim migrants (Fallend 2012, 118), whom it considered
+as a cultural threat to the nation, a drain on the welfare system, and a
+source of crime and radicalism (Heinrisch, 2013, 62--63). Strache has
+maintained this "virulently anti-Muslim" posture (Turner-Graham 2008,
+181), with the party campaigning against "invading Muslim hordes" (Wodak
+and Forchtner 2014, 239) and conflating immigration with crime under his
+leadership. We've therefore coded the FPÖ 3 on both OTH_ETHNIC and
+OTH_IMMIGRANT.
+
+There was a clear anti-foreign element to Haider's Austria First
+rhetoric, and at one point he targeted the "Brussels mafia" during
+debates about European integration in the 1990 (though he ended up
+supporting membership) (Hockenos 1995, 76). The party then took an
+anti-EU line in the 2000s on the slogan "People's Representatives
+instead of EU-Traitors" (Turner-Graham 2008, 197). By the late 2010s (or
+possibly earlier), Strache and other party leaders claimed that the
+government was a "stooge" of European Commission, "agents" of the EU,
+and "the parrot of Merkel" (Heinisch, Werner, and Habersack 2020, 171).
+This appears to be an elevation of OTH_FOREIGN rhetoric, and hence we've
+coded the party 3 on this variable from 2016 and 2 before then, although
+the timing of this shift could be investigated further. We've seen
+nothing that indicates any hostility to the military (OTH_MLITARY = 1).
+
+Haider was clearly a very effective and charismatic leader (Hockenos
+1995, 76) (Murphy 2004, 306), known for performatively braking taboos
+surrounding political correctness (Betz 2001, 407). Strache appears to
+have modelled his own image on Haider (Heinrisch, 2013, 52), and has
+been just as important to the FPÖ's image as Haider was (Heinrisch,
+2013, 57). Due to the strong influence of its leaders the FPÖ has been
+called a "leader cult" (Bailer 2018). However the party clearly has an
+institutional history that goes beyond its leaders (Heinrisch, 2013,
+65), and has withstood multiple leadership transitions. We have
+therefore coded it as 2 on CHARISMA.
+
+The party\'s economic agenda is complicated (see Heinrisch, 2013, 64),
+but it has generally remained liberal and deregulatory, despite the
+occasional comment against international capitalism. There are also
+elements of liberal or libertarian ideas in its policies (McGann and
+Kitschelt 2005, 152; Rathgeb 2021, 646). We\'ve kept the OTH_ECONOMIC
+variable at 1 and coded it FR in LRPOSITION due to the salience of its
+cultural majoritarianism.
+
+The FPÖ (even well before Haider's arrival) had a clearly illiberal
+image within Austria due to their linkage to former Nazis (Fallend 2012,
+115). Haider's right wing majoritarian and ethnocentric rhetoric clearly
+re-established this image, as has his (and Strache's) various
+associations with far-right groups in their youth. The party's calls for
+a more direct and republican democratic model have also been viewed as
+illiberal in this context (see Adamson 2010, 156). However we've not
+found any evidence that party has linked the party's actions or policies
+to violations of liberal democratic norms in the institutional sense.
+We've coded it 2 for LIBDEMNORMS due to its Nazi lineage, but this could
+be investigated more. We've coded the party 2 on INSIDER in each
+election since 2000, after which it formed a coalition government with
+the ÖVP.
+
+## Alliance for the Future of Austria
+
+The Alliance for the Future of Austria (*Bündnis Zukunft Österreich*,
+BZÖ) was formed when Haider reacted to discontent with the FPÖ\'s
+grassroots and split the parliamentary group off from the party. He
+served as leader of the new party, and sought a relatively more moderate
+orientation that was more open to forming government (Heinrisch, 2013,
+48). Although most of the far right policies are similar to the FPÖ, it
+is difficult to decide whether these differences would manifest on a 1-3
+scale. Given that the party was led by Haider, we've coded it the same
+as FPÖ in the one election in which it scored above 5% (2008). The
+exception to this is the CHARISMA variable, given that the new party was
+formed around Haider.
+
+## Team Stronach
+
+Founded in 2012, Team Stronach (TS) was a vehicle for Canadian-Austrian
+billionaire Frank Stronach. An "entrepreneurial party" backed
+financially by Stronach and linked to his business (Heinisch and
+Saxonberg 2017, 210), TS spent heavily in the election and recruited
+several BZÖ MPs to form a parliamentary caucus before the election. It
+won 5.7 % in the election, narrowly making it past the 4% threshold to
+enter parliament, but dissolved into infighting soon afterward and did
+not participate in the 2017 election.
+
+Stronach's central campaign theme was his "radical anti-establishment"
+hostility towards the political class (Hloušek, Kopeček, and Vodová
+2020, 96), whom he considered fundamentally corrupt (Dolezal and
+Zeglovits 2014, 646; Schmuck, Matthes, and Boomgaarden 2016, 88; Van
+Kessel 2015, 35; Brett 2013, 411). Stronach's rhetoric crafted
+politicians as self-serving and categorically estranged from the
+interests and experiences of citizens (Hloušek, Kopeček, and Vodová
+2020, 98). This is well-captured by one of his catch phrases: "the
+politicians want to serve themselves. I want to serve Austria" (Luther
+2014, 24) (OTH_POLCLASS = 3). According to several sources, Stronach
+also targeted business elites and banks (especially in the context of
+the Euro debt crisis) (Hloušek, Kopeček, and Vodová 2020, 98),
+considering them an element of the corrupt "system" alongside
+politicians (Luther 2014, 25). As this appears somewhat narrow we've
+coded him 2 on OTH_ECONOMIC = 2. Euroscepticism was also a key part of
+his narrative (Hloušek, Kopeček, and Vodová 2020, 98; Dolezal and
+Zeglovits 2014, 645), albeit not quite to the level that would warrant a
+3 on OTH_FOREIGN (= 2). We've seen nothing that indicates any hostility
+to the military (OTH_MILITARY = 1).
+
+Stronach's central policy platform was economic neoliberalism, stressing
+his business credentials and a managerial approach to governance
+(Hloušek, Kopeček, and Vodová 2020, 95). He did not target immigrants
+(Heinrisch, 2013, 49; Dolezal and Zeglovits 2014, 645), or make
+xenophobic statements (Brett 2013, 411) (OTH_ETHNIC = 1, OTH_IMMIGRANTS
+= 1). Given the salience of his economic liberalism he has been
+generally positioned on the ideological right (Schmuck, Matthes, and
+Boomgaarden 2016, 86) (LRPOSITION = R). Although Stronach had a number
+of somewhat authoritarian law and order positions (including advocating
+the return of the death penalty), we've not seen enough evidence to
+consider his campaign a threat to liberal democratic norms (LIBDEMNORMS
+= 1). As its name suggests, the party was Stronach's "personal project"
+(Hloušek, Kopeček, and Vodová 2020, 95) and relied on his charisma
+(Heinisch and Saxonberg 2017, 220). Media coverage also focused far more
+on Frank Stronach than on his party (Hloušek, Kopeček, and Vodová 2020,
+97), and there appeared to be no organisational coherence other that his
+leadership (CHARISMA = 3). Stronach did not serve in any government
+before the campaign (INSIDER = 1).
+
+**References**
+
+Adamson, Goran. 2010. *The Spectre of Austria---Reappraising the Rise of
+the Freedom Party from 1986 to 2000*. London School of Economics and
+Political Science (United Kingdom).
+
+Ajanovic, Edma, Stefanie Mayer, and Birgit Sauer. 2018. 'Constructing
+"the People" An Intersectional Analysis of Right-Wing Concepts of
+Democracy and Citizenship in Austria'. *Journal of Language and
+Politics* 17 (5): 636--54.
+
+Bailer, Brigitte. 2018. 'The FPÖ of Jörg Haider---Populist or Extreme
+Right-Winger?' In *Women in Austria*, 164--73. Routledge.
+
+Bauböck, Rainer. 2009. 'Constructing the Boundaries of the Volk:
+Nation-Building and National Populism in Austrian Politics'. In *The
+Haider Phenomenon in Austria*, edited by Ruth Wodak and Anton Pelinka,
+231--54. New Brunswick, NJ.: Transaction Publishers.
+
+Betz, Hans-Georg. 2001. 'Exclusionary Populism in Austria, Italy, and
+Switzerland'. *International Journal* 56 (3): 393--420.
+
+Brett, William. 2013. 'What's an Elite to Do? The Threat of Populism
+from Left, Right and Centre'. *The Political Quarterly* 84 (3): 410--13.
+
+Dolezal, Martin, and Eva Zeglovits. 2014. 'Almost an Earthquake: The
+Austrian Parliamentary Election of 2013'. *West European Politics* 37
+(3): 644--52.
+
+Fallend, Franz. 2012. 'Populism in Government: The Case of Austria'. In
+*Populism in Europe and the Americas: Threat or Corrective for
+Democracy?*, 113--35. Cambridge: Cambridge University Press.
+
+Heinisch, Reinhard, and Steven Saxonberg. 2017. 'Entrepreneurial
+Populism and the Radical Centre: Examples from Austria and the Czech
+Republic'. In *Political Populism*, 209--26. Nomos Verlagsgesellschaft
+mbH & Co. KG.
+
+Heinisch, Reinhard, Annika Werner, and Fabian Habersack. 2020.
+'Reclaiming National Sovereignty: The Case of the Conservatives and the
+Far Right in Austria'. *European Politics and Society* 21 (2): 163--81.
+
+Heinrisch, Reinhard. 2013. 'Austrian Right-Wing Populism: A Surprising
+Comeback under a New Leader'. In *Exposing the Demagogues: Right-Wing
+and National Populist Parties in Europe*, edited by Karsten Grabow and
+Florian Hartleb, 47--79. Brussels, Centre for European Studies.
+http://www.kas.de/wf/doc/kas_35420-544-2-30.pdf?140519123322.
+
+Hloušek, Vít, Lubomír Kopeček, and Petra Vodová. 2020. 'Two Tycoons and
+Their One-Man Shows'. In *The Rise of Entrepreneurial Parties in
+European Politics*, edited by Vít Hloušek, Lubomír Kopeček, and Petra
+Vodová, 93--117. Palgrave Studies in European Political Sociology. Cham:
+Springer International Publishing.
+https://doi.org/10.1007/978-3-030-41916-5_4.
+
+Höbelt, Lothar. 2003. *Defiant Populist: Jörg Haider and the Politics of
+Austria*. Purdue University Press.
+
+Hockenos, Paul. 1995. 'Jörg Haider: Austria's Far Right Wunderkind'.
+*World Policy Journal* 12 (3): 75--80.
+
+Luther, Kurt Richard. 2014. 'Austrian Populism and the Not-so-Great
+Recession. The Primacy of Politics'. KEPRU Working Paper 38.
+
+McGann, Anthony J., and Herbert Kitschelt. 2005. 'The Radical Right in
+the Alps: Evolution of Support for the Swiss SVP and Austrian FPÖ'.
+*Party Politics* 11 (2): 147--71.
+
+Murphy, Anthony. 2004. 'The Rise of the Austrian Freedom Party in the
+1990s: A Culturalist Approach'. *Österreichische Zeitschrift Für
+Politikwissenschaft* 33 (3): 297--307.
+
+Rathgeb, Philip. 2021. 'Makers against Takers: The Socio-Economic
+Ideology and Policy of the Austrian Freedom Party'. *West European
+Politics* 44 (3): 635--60.
+https://doi.org/10.1080/01402382.2020.1720400.
+
+Schmuck, Desirée, Jörg Matthes, and Hajo Boomgaarden. 2016. 'Austria:
+Candidate-Centered and Anti-Immigrant Right-Wing Populism'. In *Populist
+Political Communication in Europe*, edited by Toril Aalberg, Frank
+Esser, Carsten Reinemann, Jesper Stromback, and Claes De Vreese,
+85--102. New York: Routledge.
+
+Turner-Graham, Emily. 2008. 'Austria First: HC Strache, Austrian
+Identity and the Current Politics of Austria's Freedom Party''. *Studies
+in Language & Capitalism* 3 (4): 181--98.
+
+Van Kessel, Stijn. 2015. *Populist Parties in Europe: Agents of
+Discontent?* Springer.
+
+Wodak, Ruth. 2013. '"Anything Goes!"--The Haiderization of Europe'. In
+*Right-Wing Populism in Europe: Politics and Discourse*, edited by Ruth
+Wodak, Majid KhosraviNik, and Brigitte Mral, 23--37. London and New
+York: Bloomsbury Academic.
+
+Wodak, Ruth, and Bernhard Forchtner. 2014. 'Embattled Vienna 1683/2010:
+Right-Wing Populism, Collective Memory and the Fictionalisation of
+Politics'. *Visual Communication* 13 (2): 231--55.
+

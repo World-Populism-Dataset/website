@@ -1,0 +1,397 @@
+---
+title: India
+---
+
+
+The case of India is difficult for several reasons. First, the sheer
+size of the country and its fragmented party system obscures some of the
+dynamics we're searching for. The Indian National Congress (INC) and the
+Bharatiya Janata Party (BJP) are the only truly national parties in
+recent decades, but many state-based parties have mobilised on populist
+bases in individual areas which has shown up as only a fraction of the
+national electorate (Dravidian parties in Tamil Nadu and the Biju Janata
+Dal in Odisha are good examples of this). The fact that the major
+parties have formed alliances with these would suggest a case for coding
+the coalitions. But there is simply too much variation within these
+coalitions to justify this. The scale of national politics (and the
+diversity of issue-based mobilisation) also makes it difficult to say
+that any party relies on a single set of narratives and strategies, as
+these may vary from state to state. Second, the caste system and caste
+politics is a mixture of class, religion, and ethnicity, meaning that
+caste-based political mobilisation is difficult to categorise along out
+OTH\_ variables. We have considered caste-based appeals to be 'ethnic\'
+for the purposes for our study, noting that we should return to this
+characterisation.
+
+The INC was the dominant party in India for several decades after
+independence, and was led by Nehru with a centre-left non-populist
+platform. When his daughter Indira Ghandi tool over the party in 1966
+she took control from decentralised party bosses by building a more
+personalist leadership with direct communication to the masses and
+constructed a brand of left wing agrarian populism against local
+political elites (Kenny 2017). This was well established by the early
+1970s, but according to most sources (Subramanian 2007) she toned this
+down in her second stint in power 1980-84 (only the 1980 election would
+fall within our time frame). That said, it may be the case that her 1980
+election campaign should be considered in more detail.
+
+## Bharatiya Janata Party
+
+The Bharatiya Janata Party (BJP) is India's largest right-wing party. As
+the successor to the Jana Sangh party, it has long been the national
+flagship party of "Hindutva" (Hindu nationalism) movement, and it is in
+many ways the political wing of the Rashtriya Swayamsevak Sangh (RSS)
+volunteers movement (a Hindu nationalist paramilitary of sorts).
+However, the party leadership has oscillated between its more liberal
+and radical wings -- initially led by Atal Bihari Vajpayee and Lal
+Krishna Advani respectively -- each presenting somewhat different
+degrees of populism and ethnocentrism (Basu 2001; McGuire and Reeves
+2003). The party's first stint in government (1998-04, led by Vajpayee)
+is generally seen to have come duing one of its more moderate phases,
+and did not include radical policy changes on the key Hindutva issues
+such as the Ram temple dispute, Kashmir's constitutional autonomy, or a
+uniform civil code. As with other major Indian parties, the party has
+rarely run true national campaigns, but rather tailored its message to
+individual states (Palshikar 2015, 725). Narendra Modi became the
+party's candidate for Prime Minister for the 2014 election and led it to
+its most successful period to-date, capturing a majority in the Lok Saba
+and growing it in the subsequent 2019 election. The BJP has frequently
+been described as populist (see McDonnell and Cabrera 2019; Saleem 2021;
+McGuire and Reeves 2003), especially under Modi's leadership.
+
+The party has always attempted to cast the Congress-led political class
+as a corrupt ruling elite estranged form the people (Jaffrelot
+1993:317). In its 1984 manifesto it claimed that "an unholy nexus has
+developed between the corrupt politicians, the corrupt bureaucrats and
+the corrupt businessmen" (cited in Malik and Singh 1994, 68). The BJP
+characterisations of the elite naturally focussed on the Congress Party,
+which it described as an irredeemably corrupt entity in service of the
+Gandhi family rather than the Indian people (McDonnell and Cabrera 2019,
+489). Its conception of the "elite" also extended to Judges, NGO leaders
+and other established political parties who were accused of monopolising
+power and pandering to non-Hindu minorities (McDonnell and Cabrera 2019;
+Chacko 2018, 543; Sajjanhar 2021, 2). The damage done by this elite to
+ordinary Indian people was considered by the BJP as intentional and self
+serving. "\[A\]ll pervasive" corruption, according to the party, was not
+just the work of bad apples, but "reflect\[ed\] the bad intentions of
+those in power" (Chacko 2018, 554). In Modi's own words (in 2014) "This
+country is not poor. The people of this rich country have been kept poor
+because of politics" (Jaffrelot 2015, 153). On multiple policy issues,
+Modi contrasted the will of the people with politicians. He declared
+that foreign policy, for example "should be decided by the people and
+not by some politicians sitting in Delhi" (Wojczewski 2020, 406). As
+with other variables, there is a case for OTH_POLCLASS to be coded 3 for
+at least parts of the BJP's inclusion I the dataset. However as the
+scale and diversity for the party message is so significant, we've left
+this at 2 for now.
+
+The party's representation of Hindutva cultural majoritarianism has long
+associated it with political hostility to non-Hindu minorities,
+especially Muslims. While the party's official rhetoric has often been
+careful to not declare an open hostility to Muslims in violation of the
+secular constitution (McDonnell and Cabrera 2019, 491), Muslims have
+always been accused by the BJP of receiving the favour of Congress for
+its own interests, and were generally constructed as a default "other"
+to the Hindu majority (Nielsen and Nilsen 2021, 92; McGuire and Reeves
+2003, 97; Kaul 2017, 525). In the context of India's geopolitical
+tensions with Pakistan, Muslims were often cast as a security threat.
+While the party has avoided the harshest anti-Muslim rhetoric from the
+top, various incidents by key leaders have indelibly linked its identity
+with anti-Muslim hostility. Advani's made himself and the BJP the face
+of the Ayodhya dispute in the 1990s, which essentially drummed up an
+anti-Muslim pogrom in the name of rectifying the alleged destruction of
+the Ram Janmabhoomi Temple ccenturies earlier. There is an argument
+(Jaffrelot 2013) that the party radicalised in the 1989-1996 period
+under Advani's leadership, during which it abandoned an attempt to woo
+coalition parties and mobilised heavily on the Ram Temple issue. However
+we don't think this quite elevates the party to a 3 on OTH_ETHNIC. As
+leader, Modi talked almost exclusively about the economy in his first
+election and relied on others to make the Hindutva case (McDonnell and
+Cabrera 2019, 492). His image as a Hindutva hardliner was enabled more
+by his controversial handling of communal violence in the 2002 Gujarat
+riots as Chief Minister of that state. A number of the party's actions
+in government bolstered its anti-Muslim image. For example it attempted
+to pass a controversial amendment to the Citizenship Act which would
+have granted citizenship to migrants as long as they were not Muslim (G.
+Singh 2019, 316). Given the varying strains of ethnocentric rhetoric
+across the enormous party, we have kept it at 2 on OTH_ETHNIC for the
+duration.
+
+The BJP's policies and rhetoric under Modi have been described as
+"business friendly" (Chacko 2018, 554; see also Kaul 2017), and apart
+from occasionally accusing the Congress party of being linked with
+corrupt businesses (see above), the party's rhetoric could not be
+considered against financial elites in any significant way. This is in
+tune with Modi's market based "Gujarat Model" of development and growth.
+Texts on the pre-Modi BJP don't suggest that the party was fundamentally
+hostile to financial elites, the wealthy or big businesses then either.
+According to Kaul ( 2017, 525), the party was perceived in the early
+1990s as a "party of middle-class commercial traders". It is therefore
+coded OTH_FINANCIAL = 1 for the full period of its inclusion in the
+dataset. In the Modi era anti-Muslim rhetoric often overlapped with
+anti-immigrant rhetoric (McDonnell and Cabrera 2019, 491), particularly
+relating to Bangladeshi migrants who were considered the latest attempt
+by Congress to build a "vote bank" to keep them in power (Wojczewski
+2020, 406). We've not found references to immigrants in the pre-Modi
+BJP, so OTH_IMMIGRANTS are coded 1 until 2014 and 2 after (this could be
+investigated further).
+
+In conventional nationalist terms, Pakistan and China featured in BJP
+campaigns when portrayed as a beneficiary of Congress's policies, and
+the party has generally benefited from military flare ups with Pakistan
+in Kashmir. This has often taken the form of collaborationist
+allegations against Congress: in one speech Modi asserted that if the
+government was "patriotic" they would put a stop to the violence on the
+disputed Chinese and Pakistani borders (Wojczewski 2020, 407). The BJP
+and its affiliates in the Modi era have also equated the Congress led
+elite of inheriting the British colonial mission to divide and weaken
+India, and continuing to do their work under the guise of secularism
+(Wojczewski 2020, 406). Enemies like NGOs and student activists were
+often portrayed as betraying India's national sovereignty due to their
+foreign values and links (McDonnell and Cabrera 2019). None of this
+quite reaches the level of 3 on OTH_FOREIGN, so it has been coded 2. The
+BJP has always been a very pro-military party (OTH_MILITARY = 1).
+
+The party's consistent association with RSS and Ker Sevak militants and
+acts of communal violence against Muslims are the strongest evidence on
+the LIBDEMNORMS variable. Although the relationship between the Modi's
+BJP and the RSS is arguably more distant than earlier (Palshikar 2015,
+721), the attachment is still an important feature of the party. There
+have also been attacks on Dalit protesters under the BJP's rule which
+the party has been silent on (McDonnell and Cabrera 2019, 494). Modi and
+his campaign have also demonised the mainstream (particularly English
+language) media, portraying him as a victim of their conspiracy, and in
+government Modi weakened the Supreme Court's independence (Chakravartty
+and Roy 2015, 316; McDonnell and Cabrera 2019, 493). In Kaul's words,
+Modi's government delivered an "increase in political and economic
+violence and overt intimidation at all levels of society accompanied by
+plummeting levels of media freedom, a consolidation and centralization
+of power, and an openly hostile attitude to secularism and democratic
+principles" (Kaul 2017, 529)*.* We have coded the party 2 on LIBDEMNORMS
+for the entire period, although this could be revisited.
+
+The party has consistently been described as right-wing (Nielsen and
+Nilsen 2021, 92), and in the Modi era economically neo-liberal. R on
+LRPOSITION seems appropriate. Given the established institutions and
+identity of the BJP, it is not evident that the party has ever owed its
+existence to its serving leader. This is true even for the charismatic
+Modi -- as McDonnel and Cabera (2019, 485) state, "\[h\]owever popular
+or powerful Modi is, the party will survive him." Numerous accounts of
+Modi's two elections, however, state that his persona was immensely
+important to the BJP's collective meaning and performance to a degree
+unprecedented in recent Indian elections (Jaffrelot 2015; Wojczewski
+2020, 405; Kaul 2017, 528). His personal image and strategy presented
+him with an "direct and institutionally unmediated relationship to his
+followers" (Subedi and Scott 2021, 497). For this reason we have coded 1
+on CHARISMA until 2014 and 2 for Modi's two elections.
+
+## Bahujan Samaj Party
+
+The Bahujan Samaj Party (BSP) was founded in 1984 by Dalit activist
+Kanshi Ram, and led since 2003 by his appointed successor Mayawati. Both
+Ram and Mayawati are followers B.R. Ambedkar's tradition of lower caste
+politics and critique of the Hindu system. The party has its roots in
+Uttar Pradesh (UP), but has also been present in other states in
+northern India. The BSP is dedicated to providing a political voice to
+those at the lower end of the caste system (The name Bahujan Samaj means
+"majority community"). It peaked in performance around the 1990s and
+2000s, when Mayawati served as UPs Chief Minister four times for short
+stints. Due to its rhetoric against the upper castes the BSP has
+frequently been considered populist (Subramanian 2007; Lerche 1999).
+This is another party whose significance is understated by the scale of
+national politics, given its relatively small national footprint belies
+its success as a mass movement.
+
+The party has attempted to win the support of lower caste (especially
+Dalit) constituencies who have hitherto traditionally supported the
+Congress Party. While this was initially limited to a few specific
+castes in the party's early years, it grew to include a broader
+coalition of Scheduled Castes and Scheduled Tribes (SC/STs), Other
+Backward Castes (OBCs), and religious minorities in the 1990s (Guha
+2013, 6; Sarkar 2021, 73). The BSP accused Congress of treating lower
+castes as "vote banks", providing token benefits to excluded groups but
+acting as vehicles for the upper caste elite that usually led the party
+(Guha 2011, 1--2; Pai 2009, 339; S. Kumar 2017). While Congress was the
+principle object of the BSPs critique, Kanshi Ram made it clear that
+their tactics were shared by the other major parties, such as the BJP
+and the communist parties, all of which "uphold consciously the
+degrading character of the social and political system" (Sarkar 2021,
+67). In Guha's words *"*The BSP's depiction of the Bahujan Samaj ('the
+community of the majority') turned on a binary that pitted it against
+Hindu upper castes, who were portrayed as constituting both its
+political and ideological 'other' " (Guha 2013, 1; see also Gundimeda
+2014, 26).
+
+Both Ram and Mayawati have relied on very provocative and exclusionary
+discourse against the upper castes to mobilise its base. For example Ram
+often began his speeches by inviting any upper caste attendees to leave
+the venue, and Mayawati has called Gandhi the 'son of Satan' (Jaffrelot
+1998, 38, 46). According to Singh (2019, 48--49), one of the party's
+"signature slogan\[s\]" was "we have the votes, you have the power, this
+will not last, this will not last". In UP, other "deeply offensive"
+slogans were chanted in public BSP processions in public areas to
+antagonise upper castes (Duncan 1999, 45; see also Gundimeda 2014,
+27--28). A study in Punjab noted that the party recruited voters by
+insisting that various material compensations by the Congress government
+do not compensate for the humiliation of the Hindu caste system, the
+elite of which still governs them in the political class (Chandra 2000).
+The BSP generally softened its rhetoric against the upper casts in the
+late 1990s and early 2000s, to the extant that Mayawati tried
+extensively to recruit upper caste members into the party (V. Kumar
+2007; Pai 2009, 345; N. Singh 2019, 49; Gundimeda 2014, 28). However, it
+still emphasised that upper castes were generally untrustworthy and
+maintained its general posture of hostility towards them. Owing to this
+shift, we've coded BSP as 3 on OTH_ETHNIC in the elections up to 1999,
+and 2 from the 2004 general election on, though this could be revisited.
+Given that the BSP essentially linked upper caste ethnicity with
+political power, we've taken this as OTH_POLCLASS rhetoric as well.
+However given that the OTH_POLCLASS dimension of this did not soften as
+the party tried to bring in upper caste members (on the contrary, it
+alleged that upper castes too had been abandoned by the elites), we have
+kept OTH_POLCLASS at 3 for the duration of BSP's inclusion in the
+dataset.
+
+Given the overlap between political and economic dimensions of the
+castes system, one might expect there to be a degree of hostility
+towards economic "others" like businesses and the wealthy. However this
+appears not to be the case, as several scholars have noted that the
+party does not actually campaign on economic issues relating to
+classed-based material redistribution, but rather caste exclusion in
+strictly social, cultural, and political contexts (Duncan 1999, 36;
+Chandra 2000). According to Singh (writing on Punjab), the BSP had no
+social or political programme, relying instead on identity (N. Singh
+2019, 51). In Duncan's words "it's appeal and campaigning appear to be
+far more caste based than class oriented and it has been primarily
+concerned with issues of social oppression and exclusion than with those
+relating to economic exploitation" (Duncan 1999, 36). For this reason,
+we've coded it 1 on OTH_FINANCIAL. The literature similarly presents no
+evidence of a significant hostility to the military, immigrants, or
+foreign powers in the BSP's discourse (OTH_MILITARY = 1, OTH+FOERIGN =
+1, OTH_IMMIGRANTS = 1).
+
+Despite being an "ethnic party", the BSP in government or opposition has
+not been affiliated with communal violence in the same way as the BJP
+has (N. Singh 2019), and there is little evidence that is poses a threat
+to established liberal democratic norms (LIBDEMNORMS = 1). The party's
+heavy association with Ram and now Mayawati (257) earn it a consistent 2
+on CHARISMA.
+
+**References**
+
+Basu, Amrita. 2001. "The Dialectics of Hindu Nationalism." In *The
+Success of India's Democracy*, 163--89. Cambridge University Press.
+
+Chacko, Priya. 2018. "The Right Turn in India: Authoritarianism,
+Populism and Neoliberalisation." *Journal of Contemporary Asia* 48 (4):
+541--65. https://doi.org/10.1080/00472336.2018.1446546.
+
+Chakravartty, Paula, and Srirupa Roy. 2015. "Mr. Modi Goes to Delhi:
+Mediated Populism and the 2014 Indian Elections." *Television & New
+Media* 16 (4): 311--22. https://doi.org/10.1177/1527476415573957.
+
+Chandra, Kanchan. 2000. "The Transformation of Ethnic Politics in India:
+The Decline of Congress and the Rise of the Bahujan Samaj Party in
+Hoshiarpur." *The Journal of Asian Studies* 59 (1): 26--61.
+
+Duncan, Ian. 1999. "Dalits and Politics in Rural North India: The
+Bahujan Samaj Party in Uttar Pradesh." *The Journal of Peasant Studies*
+27 (1): 35--60. https://doi.org/10.1080/03066159908438724.
+
+Guha, Sohini. 2011. "Ethnic Parties, Material Politics and the Ethnic
+Poor: The Bahujan Samaj Party in North India." ProQuest Dissertations
+Publishing.
+https://search.proquest.com/docview/762490065?pq-origsite=primo.
+
+---------. 2013. "From Ethnic to Multiethnic: The Transformation of the
+Bahujan Samaj Party in North India." *Ethnopolitics* 12 (1): 1--29.
+https://doi.org/10.1080/17449057.2011.601850.
+
+Gundimeda, Sambaiah. 2014. "The Bahujan Samaj Party: Between Social
+Justice and Political Practice." *Social Change (New Delhi)* 44 (1):
+21--38. https://doi.org/10.1177/0049085713514819.
+
+Jaffrelot, Christophe. 1998. "The Bahujan Samaj Party in North India: No
+Longer Just a Dalit Party?" *Comparative Studies of South Asia, Africa
+and the Middle East* 18 (1): 35--51.
+
+---------. 2015. "The Modi-Centric BJP 2014 Election Campaign: New
+Techniques and Old Tactics." *Contemporary South Asia* 23 (2): 151--66.
+https://doi.org/10.1080/09584935.2015.1027662.
+
+Kaul, Nitasha. 2017. "Rise of the Political Right in India:
+Hindutva-Development Mix, Modi Myth, and Dualities." *Journal of Labor
+and Society* 20 (4): 523--48. https://doi.org/10.1111/wusa.12318.
+
+Kenny, Paul D. 2017. *Populism and Patronage: Why Populists Win
+Elections in India, Asia, and Beyond*. Oxford University Press.
+
+Kumar, Satendra. 2017. "After Silent Revolution: Most Marginalized
+Dalits and Local Democracy in Uttar Pradesh, North India." *Studies in
+Indian Politics* 5 (1): 18--31.
+https://doi.org/10.1177/2321023017698256.
+
+Kumar, Vivek. 2007. "When the Marginalised Mobilise: A Case of the
+Bahujan Samaj Party." *INDIAN JOURNAL OF SOCIAL WORK* 68 (1): 88.
+
+Lerche, Jens. 1999. "Politics of the Poor: Agricultural Labourers and
+Political Transformations in Uttar Pradesh." *The Journal of Peasant
+Studies* 26 (2--3): 182--241.
+
+Malik, Yogendra K., and V. B. Singh. 1994. "Hindu Nationalist in India:
+The Rise of the BJP." Westview Press, USA.
+
+McDonnell, Duncan, and Luis Cabrera. 2019. "The Right-Wing Populism of
+India's Bharatiya Janata Party (and Why Comparativists Should Care)."
+*Democratization* 26 (3): 484--501.
+https://doi.org/10.1080/13510347.2018.1551885.
+
+McGuire, John, and Geoffrey Reeves. 2003. "The Bharatiya Janata Party,
+Ayodhya, and the Rise of Populist." In *The Media and Neo-Populism: A
+Contemporary Comparative Analysis*, edited by Gianpietro Mazzoleni,
+Julianne Stewart, and Bruce Horsfield, 95--121. Westport, CT.: Praeger.
+
+Nielsen, Kenneth Bo, and Alf Gunvald Nilsen. 2021. "Hindu Nationalist
+Statecraft and Modi's Authoritarian Populism." In *Routledge Handbook of
+Autocratization in South Asia*, 92--100. Routledge.
+https://doi.org/10.4324/9781003042211-10.
+
+Pai, Sudha. 2009. "New Social Engineering Agenda of the Bahujan Samaj
+Party: Implications for State and National Politics." *South Asia* 32
+(3): 338--53. https://doi.org/10.1080/00856400903374277.
+
+Palshikar, Suhas. 2015. "The BJP and Hindu Nationalism: Centrist
+Politics and Majoritarian Impulses." *South Asia: Journal of South Asian
+Studies* 38 (4): 719--35.
+
+Sajjanhar, Anuradha. 2021. "The New Experts: Populism, Technocracy and
+Politics of Expertise in Contemporary India." *Journal of Contemporary
+Asia* 0 (0): 1--25. https://doi.org/10.1080/00472336.2021.1934889.
+
+Saleem, Raja M. Ali. 2021. "Hinduism, Hindutva and Hindu Populism in
+India: An Analysis of Party Manifestos of Indian Rightwing Parties."
+*Religions* 12 (10): 803. https://doi.org/10.3390/rel12100803.
+
+Sarkar, Jayabrata. 2021. *Politics As Social Text in India: The Bahujan
+Samaj Party in Uttar Pradesh.* Milton: Taylor & Francis Group.
+
+Singh, Gurharpal. 2019. "Hindu Nationalism in Power: Making Sense of
+Modi and the BJP-Led National Democratic Alliance Government, 2014--19."
+*Sikh Formations* 15 (3--4): 314--31.
+
+Singh, Nirmal. 2019. "Dalits, Their Support Base and the Bahujan Samaj
+Party: A Case Study of the Doaba Region." *Contemporary Voice of Dalit*
+11 (1): 44--54. https://doi.org/10.1177/2455328X18821453.
+
+Subedi, D. B., and Alan Scott. 2021. "Populism, Authoritarianism, and
+Charismatic-Plebiscitary Leadership in Contemporary Asia: A Comparative
+Perspective from India and Myanmar." *Contemporary Politics* 27 (5):
+487--507. https://doi.org/10.1080/13569775.2021.1917162.
+
+Subramanian, Narendra. 2007. "Populism in India." *The SAIS Review of
+International Affairs* 27 (1): 81--91.
+
+Wojczewski, Thorsten. 2020. "Populism, Hindu Nationalism, and Foreign
+Policy in India: The Politics of Representing 'the People.'"
+*International Studies Review* 22 (3): 396--422.
+https://doi.org/10.1093/isr/viz007.
+

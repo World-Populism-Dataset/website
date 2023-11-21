@@ -1,0 +1,112 @@
+---
+title: Norway
+---
+
+
+-   Date range: 1980-2020.
+
+-   Elections included:
+
+    -   Legislative: 1981, 1985, 1989, 1993, 1997, 2001, 2005, 2009,
+        2013, 2017.
+
+## Progress Party
+
+The Progress Party (*Fremskrittspartiet*, FrP) is the successor to
+Anders Lange's Anders Lange's Party for a Strong Reduction in Taxes,
+Duties and Public Intervention founded by Anders Lange. in the 1970s.
+Following Lange's death the party was renamed the Progress Party and led
+by Carl Hagen for 28 years until 2006. The party was initially a
+neo-liberal anti-tax party, but came to focus more on immigration in the
+1980s. Progress's populism has always been seen as somewhat questionable
+by regional scholars (Jupskas 2013, 205). In particular, the Progress
+Party invites problematic comparison with its Danish namesake, in part
+because the two parties have had a very similar chronology and
+ideological history in their early years. Unlike Danish Progress, under
+Hagen's leadership the Progress Party gradually increased its vote share
+throughout the 1980s and 1990s, and has become a major party in Norway
+and a member of government since the 2013 elections. After Hagen stepped
+down from its leadership in favour of Siv Jensen in 2006 Progress became
+a much more staid part of the party system -- a blander and less
+confrontational liberal party (Bjerkem 2016, 237) -- and we don't
+consider it populist by our definition from this point.
+
+In its early years Progress was concerned mainly with shrinking the
+state, especially reducing tax rates. Higher rates of immigration in the
+mid-1980s saw more nativist anti-immigration politics creep into the
+party platform (causing significant factional conflict) such that this
+was a core element of the party by the early 1990s (Jupskas 2013, 214;
+Widfeldt 2000, 491; Bjerkem 2016, 235). According to Hagelund, this
+began as a kind of welfare chauvinism in line with the party's dominant
+neo-liberalism, but gradually morphed into a more sociocultural and
+nativist form around 1993 (Hagelund 2003, 53). Since the 1990s the party
+has consistently argued for lower levels of immigration (Jupskas 2013),
+and housed several controversial anti-immigration politicians from the
+1993 election until before the 2001 election, when a group of them were
+expelled (Hagelund 2003). Hagen himself campaigned on the threat of a
+Muslim invasion of Norway as early as the 1980s (Betz n.d., 120).
+However the primacy and position of this kind of socio-cultural politics
+in the party is debated. Hagen has attempted to distance Progress from
+other far-right parties in Europe, describing Jean-Marie Le Pen for
+example as "disgusting, and a pure racist" (Jungar and Jupskås 2014,
+228). Given this ambiguity, we have coded OTH_ETHNIC at 2, and
+OTH_IMMIGRANTS also 2 except for the 1993-1997 elections, when it
+escalates to 3 on the latter (see Hagelund 2003 for details of this
+shift). Further research may refine the dates and degrees of this
+movement.
+
+Opposition to political elites has always been an important part of
+Progress' appeal (Andersen and Bjørklund 1990, 201; Jungar and Jupskås
+2014), embodied by slogans like "the party for ordinary people" (Jupskas
+2013, 206). The party has been considered equally anti-establishment as
+other right-wing populist parties in the region (Bjerkem 2016, 236).
+However it seems that under Hagen's leadership this was somewhat more
+tempered than other right-wing populist parties, and I have not found
+many anti-establishment statements on par with genuine 3s in this
+category (OTH_POLCLASS = 2). Further research should confirm this.
+Progress is market-friendly (Jupskas 2013, 216), and does not criticise
+economic elites (OTH_FINANCIAL = 1), nor does it have a consistent
+Eurosceptic stance (the party is actually highly divided on the EU
+question) (OTH_FOREIGN =0).
+
+Hagen's leadership was evidently important to the party's political
+meaning (Widfeldt 2000, 490), however the fact that there have always
+been factions opposed to him within a fairly robust party organisation
+make it less personality dominated than other similar parties (Jupskas
+2013, 221) (CHARISMA = 2). There is no evidence of any violation of
+liberal democratic norms (LIBDEMNORMS = 1) and the party was never in
+government in the period included in this dataset (INSIDER = 1).
+
+**References**
+
+Andersen, Jørgen Goul, and Tor Bjørklund. 1990. 'Structural Change and
+New Cleavages: The Progress Parties in Denmark and Norway'. *Acta
+Sociologica* 33 (3): 195--217.
+
+Betz, Hans-Georg. n.d. *Radical Right-Wing Populism in Western Europe*.
+Palgrave Macmillan. Accessed 6 July 2019.
+https://www.palgrave.com/gp/book/9780312083908.
+
+Bjerkem, Johan. 2016. 'The Norwegian Progress Party: An Established
+Populist Party'. *European View* 15 (2): 233--43.
+https://doi.org/10.1007/s12290-016-0404-8.
+
+Hagelund, Anniken. 2003. 'A Matter of Decency? The Progress Party in
+Norwegian Immigration Politics'. *Journal of Ethnic and Migration
+Studies* 29 (1): 47--65. https://doi.org/10.1080/1369183032000076713.
+
+Jungar, Ann-Cathrine, and Anders Ravik Jupskås. 2014. 'Populist Radical
+Right Parties in the Nordic Region: A New and Distinct Party Family?'
+*Scandinavian Political Studies* 37 (3): 215--38.
+https://doi.org/10.1111/1467-9477.12024.
+
+Jupskas, Anders Ravik. 2013. 'The Progress Party: A Farily Integrated
+Part of the Norwegian Party System?' In *Exposing the Demagogues: Right
+Wing and National Populist Parties in Europe.*, edited by Karsten Grabow
+and Florian Hartleb, 205--36. Brussels and Berlin, Centre for European
+Studies and the Konrad Adenauer Stiftung.
+
+Widfeldt, A. 2000. 'Scandinavia: Mixed Success for the Populist Right'.
+*Parliamentary Affairs* 53 (3): 486--500.
+https://doi.org/10.1093/pa/53.3.486.
+

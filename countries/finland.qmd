@@ -1,0 +1,208 @@
+---
+title: Finland
+---
+
+
+-   Date range: 1980-2020
+
+-   Elections included:
+
+    -   Legislative: 1983, 1987, 1991, 1995, 1999, 2003, 2007, 2011,
+        2015, 2019
+
+    -   Presidential:1982, 1988, 1994, 2000, 2006, 2012, 2018
+
+## Finnish Rural Party
+
+Finnish Rural Party (*Suomen maaseudun puolue,* SMP) was a populist
+agrarian protest party founded around Veikko Vannamo that mobilised
+mainly on corruption, and the general context of urban
+industrialisation/rural decline (Sänkiaho 1971; Arter 2012, 816). SMP
+formed as a splinter faction of the Agrarian League in 1959.
+
+The party espoused an anti-establishment populist line aimed at rallying
+"forgotten" rural voters, frustrated with the "urban elite" (Lahti and
+Palonen 2023, 130), and losing out in the rapid period of urbanisation
+and industrialisation (Norocel 2016, 43; Arter 2012, 813). In
+particular, the party took aim at the long serving government of
+President Urho Kekkonen, the ruling group of political parties, and
+Russian influence especially (Arter 2010, 486) (OTH_POLCLASS = 3,
+OTH_FOREIGN = 2). As Ylä-Anttila put it: "The enemy was the political
+and economic elite in the cities, 'the money power', which Vennamo
+famously referred to as 'crime lords'" (Ylä-Anttila 2017, 25). This
+opposition to corrupt business interests -- particularly its opposition
+to "monopoly capitalism" (Sänkiaho 1971, 40) -- seems strong enough to
+warrant 2 on OTH_FINANCIAL. We cannot see any evidence that the party
+was nativist in the sense of OTH_ETHNIC or OTH_IMMIGRANT (1).
+
+It was reliant on the leadership of Vennamo (Ylä-Anttila 2017, 25) even
+after his son formally took over in (it was a "family business" in this
+sense, (Arter 2012, 813)) (CHARISMA = 3). The party joined government
+after the 1983 election (INSIDER = 2 1987-) against the objections of
+the elder Vennamo.
+
+## The Finns/ True Finns 
+
+The Finns (*Perussuomalaiset*, PS), sometimes called the "True Finns",
+is a nativist anti-immigration and anti-EU party, built largely on the
+legacy of the SMP (Raunio 2013, 133; Arter 2012) and led by Timo Soini
+for most of its life. Its breakout election came in 2011, when it was
+the only anti-EU party in parliament and therefore positioned to
+capitalise on the widespread anger at Finland's participation in the
+bailout of southern European countries. After Jussi Halla-aho took the
+leadership in a "hardliner coup" in 2017, the party's more moderate wing
+split off to form the Blue Reform group in th e2019 election. The
+Halla-aho led Finns however maintained their vote share, receiving
+17.5%.
+
+PS self identifies as "populist" and criticises the "old
+parties"/"cartel parties" in its championing of "forgotten" (a term
+popularised by the SMP) ordinary people (Raunio 2013, 139; Norocel 2016;
+Arter 2010, 488--89). The "elite" also constitute the broad yolk of
+peripheral influences on the political system, as encompassed by Soini's
+statement: "book-learned theoreticians, arrogant bureaucrats,
+cold-hearted technocrats, uncomprehending centralizers, big-money
+worshippers and smooth avant-garde thinkers do not trust the people.
+They do not value the people's views because they believe the people are
+stupid and indifferent and that all wisdom rests with the experts and an
+elite that is divorced from everyday life" (cited in Arter 2010, 489).
+Halla-aho has maintained this anti-elite hostility towards the "old
+parties" (Raunio 2019, 179) (OTH_POLCLASS = 3).
+
+PS is also explicitly ethno-centric in its identification of the
+"people", more so than the SMP (Arter 2012, 817). While this related to
+touchstone issues like the teaching of Swedish in schools as a second
+language and opposition to American television on public airwaves, its
+primary manifestation was the party's opposition to immigrants and
+asylum seekers, against whom the party deployed nativist and welfare
+chauvinist attitudes (Arter 2010, 499; 2012, 815; Pyrhönen 2013).
+According to several authors however (Arter 2010, 485; Raunio 2013,
+146), the party's approach to immigration and ethnocentrism is not as
+extreme as other far-right parties in Europe, and political
+establishment and EU elites have formed a more important "other" (Niemi
+2013). According to Wahlbeck, ethnocentrism in the party's rhetoric
+takes the form of defense of the majority more than opposition to a
+minority (Wahlbeck 2016). Norocel (2016:45) suggests that the precise
+identity of the party on these matters is complicated by divisions
+between its agrarian/conservative faction (including former SMP members,
+and leader Soini) and a more xenophobic, anti-immigrant and far-right
+one led by Jussi Halla-aho and several of the more controversial members
+(Norocel 2017, 45; see also Kuisma 2013). There is also some evidence
+that the party's stance on these issues has hardened over time (Arter
+2010, 498). Under Halla-aho, the party was seen to take a more hard-line
+anti-immigration views (Borg 2019, 187; Raunio 2019, 176; Arter 2010).
+While its precise profile is therefore debatable and ambiguous, we've
+coded it 2 on OTH_IMMIGRANTS and 2 on OTH_ETHNIC. Under Soini, and
+increased OTH_IMMIGRANTS to 3 under Halla-aho's leadership in 2019.
+
+PS has been consistently opposed to the EU and builds this opposition
+into its populist approach (Lähdesmäki 2015). As the party programme
+once stated: "The EU is a project for filthy rich capitalists which
+tries to fill the pockets of major owners of capital while creating a
+valueless Europe where only money matters" (cited in Raunio 2013, 143).
+Soini dubbed the 2011 election "a referendum on the EU" (Arter 2012,
+816). Given the primacy of the EU in the parties identity (especially
+since the post-bailout 2011 election), this warrants 3 on OTH_FOREIGN.
+
+PS has a somewhat confusing economic ideology (Kuisma 2013, 94), in that
+it opposes the bureaucratic red tape of government regulation, yet calls
+for a strong, interventionist welfare state to safeguard the common
+citizen against big business and multinationals (OTH_FINANCIAL = 3)
+(Raunio 2013, 139; see also Arter 2010, 496; 2012, 815). While this
+could be debated, we have concluded that the party's ethno-nationalism
+qualifies it as essentially right-wing (LRPOSITION = R)
+(Kestilä-Kekkonen and Söderlund 2014, 643). While they call for reforms
+of democracy, this entails an increase in transparency, and the party
+does not oppose liberal democratic norms as we are measuring them
+(Raunio 2013, 140; Arter 2010, 490) (LIBDEMNORMS = 1). The party has
+been led by Timo Soini until he left in 2017, and was quite dependent on
+his leadership (Kestilä-Kekkonen and Söderlund 2014; Niemi 2012; 2013).
+According to Arter, Soini's presidential candidacy in 2006 was a key
+source of early publicity for the party, and he acted as its 'trump
+card' ever since (Arter 2010, 488). According to Raunio, Halla-aho was
+able to keep this leader-centrism going in the 2019 vote (Raunio 2019,
+180) (CHARISMA = 3). As the party joined government in 2015, we have
+labelled it 2 on INSIDER for these elections.
+
+**References**
+
+Arter, David. 2010. 'The Breakthrough of Another West European Populist
+Radical Right Party? The Case of the True Finns'. *Government and
+Opposition* 45 (4): 484--504.
+https://doi.org/10.1111/j.1477-7053.2010.01321.x.
+
+---------. 2012. 'Analysing 'Successor Parties': The Case of the True
+Finns'. *West European Politics - WEST EUR POLIT* 35 (July): 803--25.
+https://doi.org/10.1080/01402382.2012.682346.
+
+Borg, Sami. 2019. 'The Finnish Parliamentary Election of 2019: Results
+and Voting Patterns'. *Scandinavian Political Studies* 42 (3--4):
+182--92. https://doi.org/10.1111/1467-9477.12150.
+
+Kestilä-Kekkonen, Elina, and Peter Söderlund. 2014. 'Party, Leader or
+Candidate? Dissecting the Right-Wing Populist Vote in Finland'.
+*European Political Science Review* 6 (4): 641--62.
+https://doi.org/10.1017/S1755773913000283.
+
+Kuisma, Mikko. 2013. '"Good" and "Bad" Immigrants: The Economic
+Nationalism of the True Finns' Immigration Discourse'. In *The
+Discourses and Politics of Migration in Europe*, edited by Umut Korkut,
+Gregg Bucken-Knapp, Aidan McGarry, Jonas Hinnfors, and Helen Drake,
+93--108. Europe in Transition: The NYU European Studies Series. New
+York: Palgrave Macmillan US. https://doi.org/10.1057/9781137310903_6.
+
+Lähdesmäki, Tuuli. 2015. 'The Ambiguity of Europe and European Identity
+in Finnish Populist Political Discourse'. *Identities* 22 (1): 71--87.
+https://doi.org/10.1080/1070289X.2014.950585.
+
+Lahti, Yannick, and Emilia Palonen. 2023. 'The Impact of the
+Russia--Ukraine War on Right-Wing Populism in Finland'. In *The Impacts
+of the Russian Invasion of Ukraine on Right-Wing Populism in Europe*,
+edited by Gilles Ivaldi and Emilia Zankina, 126--38. Brussels: European
+Center for Populism Studies (ECPS).
+
+Niemi, Mari K. 2012. 'Messenger and Defender -- Timo Soini's Populist
+Leadership and Media Strategies in Winning the Elections of 2011'.
+*Research on Finnish Society* 5: 7--17.
+
+---------. 2013. 'The True Finns Identity Politics and Populist
+Leadership on the Threshold of the Party's Electoral Triumph'.
+*Javnost - The Public* 20 (3): 77--91.
+https://doi.org/10.1080/13183222.2013.11009121.
+
+Norocel, Ov Cristian. 2016. 'Populist Radical Right Protectors of the
+Folkhem: Welfare Chauvinism in Sweden'. *Critical Social Policy* 36 (3):
+371--90. https://doi.org/10.1177/0261018315621991.
+
+---------. 2017. 'Finland: From Agrarian to Right Wing Populism'. In
+*Populist Political Communication in Europe*, edited by Toril Aalberg,
+Frank Esser, Carsten Reinemann, Jesper Strömbäck, and Claes Holger
+Vreese, 42--53. New York: Routledge.
+
+Pyrhönen, Niko Johannes. 2013. '"This Welfare of Ours": Justifying
+Public Advocacy for Anti-Immigration Politics in Finland during the Late
+2000's'. *Migrations and Welfare States: Policies, Discourses and
+Institutions*, 90--137.
+
+Raunio, Tapio. 2013. 'The Finns: Filling a Gap in the Party System'. In
+*Exposing the Demagogues: Right Wing and National Populist Parties in
+Europe.*, edited by Karsten Grabow and Florian Hartleb, 105-131.
+Bruessels and Berlin, Centre for European Studies and the Konrad
+Adenauer Stiftung.
+
+---------. 2019. 'The Campaign'. *Scandinavian Political Studies* 42
+(3--4): 175--81. https://doi.org/10.1111/1467-9477.12149.
+
+Sänkiaho, Risto. 1971. 'A Model of the Rise of Populism and Support for
+the Finnish Rural Party'. *Scandinavian Political Studies*, January.
+https://tidsskrift.dk/scandinavian_political_studies/article/view/32082.
+
+Wahlbeck, Östen. 2016. 'True Finns and Non-True Finns: The Minority
+Rights Discourse of Populist Politics in Finland'. *Journal of
+Intercultural Studies* 37 (6): 574--88.
+https://doi.org/10.1080/07256868.2016.1235020.
+
+Ylä-Anttila, Tuukka. 2017. 'The Populist Toolkit : Finnish Populism in
+Action 2007--2016', October.
+https://helda.helsinki.fi/handle/10138/224199.
+
