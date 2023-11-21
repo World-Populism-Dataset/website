@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.475">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>World Populism Dataset - Case notes</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-title"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">World Populism Dataset</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html">
+ <span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./data.html">
+ <span class="menu-text">Data</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./notes.html" aria-current="page">
+ <span class="menu-text">Case notes</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-downloads" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+      <i class="bi bi-download" role="img">
+</i> 
+ <span class="menu-text">Downloads</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-downloads">    
+        <li>
+    <a class="dropdown-item" href="./#">
+ <span class="dropdown-text">All data</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./license.html"><i class="bi bi-file-certificate" role="img">
+</i> 
+ <span class="menu-text">License</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/World-Populism-Dataset/"><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Case notes</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title-sort" data-direction="asc">
+          Title
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-file-modified-sort="1700572574275" data-listing-reading-time-sort="4.57" data-listing-title-sort="Albania" data-listing-filename-sort="albania.qmd">
+<td class="listing-title">
+<a href="./countries/albania.html" class="title">Albania</a>
+</td>
+</tr>
+<tr data-index="1" data-listing-file-modified-sort="1700572574287" data-listing-reading-time-sort="9.68" data-listing-title-sort="Argentina" data-listing-filename-sort="argentina.qmd">
+<td class="listing-title">
+<a href="./countries/argentina.html" class="title">Argentina</a>
+</td>
+</tr>
+<tr data-index="2" data-listing-file-modified-sort="1700572574287" data-listing-reading-time-sort="9.41" data-listing-title-sort="Australia" data-listing-filename-sort="australia.qmd">
+<td class="listing-title">
+<a href="./countries/australia.html" class="title">Australia</a>
+</td>
+</tr>
+<tr data-index="3" data-listing-file-modified-sort="1700572574287" data-listing-reading-time-sort="10.465" data-listing-title-sort="Austria" data-listing-filename-sort="austria.qmd">
+<td class="listing-title">
+<a href="./countries/austria.html" class="title">Austria</a>
+</td>
+</tr>
+<tr data-index="4" data-listing-file-modified-sort="1700572574287" data-listing-reading-time-sort="4.895" data-listing-title-sort="Belgium" data-listing-filename-sort="belgium.qmd">
+<td class="listing-title">
+<a href="./countries/belgium.html" class="title">Belgium</a>
+</td>
+</tr>
+<tr data-index="5" data-listing-file-modified-sort="1700572574291" data-listing-reading-time-sort="16.79" data-listing-title-sort="Bolivia" data-listing-filename-sort="bolivia.qmd">
+<td class="listing-title">
+<a href="./countries/bolivia.html" class="title">Bolivia</a>
+</td>
+</tr>
+<tr data-index="6" data-listing-file-modified-sort="1700572574287" data-listing-reading-time-sort="17.66" data-listing-title-sort="Brazil" data-listing-filename-sort="brazil.qmd">
+<td class="listing-title">
+<a href="./countries/brazil.html" class="title">Brazil</a>
+</td>
+</tr>
+<tr data-index="7" data-listing-file-modified-sort="1700572574291" data-listing-reading-time-sort="10.425" data-listing-title-sort="Bulgaria" data-listing-filename-sort="bulgaria.qmd">
+<td class="listing-title">
+<a href="./countries/bulgaria.html" class="title">Bulgaria</a>
+</td>
+</tr>
+<tr data-index="8" data-listing-file-modified-sort="1700572574291" data-listing-reading-time-sort="9.815" data-listing-title-sort="Canada" data-listing-filename-sort="canada.qmd">
+<td class="listing-title">
+<a href="./countries/canada.html" class="title">Canada</a>
+</td>
+</tr>
+<tr data-index="9" data-listing-file-modified-sort="1700572574291" data-listing-reading-time-sort="17.05" data-listing-title-sort="Chile" data-listing-filename-sort="chile.qmd">
+<td class="listing-title">
+<a href="./countries/chile.html" class="title">Chile</a>
+</td>
+</tr>
+<tr data-index="10" data-listing-file-modified-sort="1700572574291" data-listing-reading-time-sort="11.595" data-listing-title-sort="Colombia" data-listing-filename-sort="colombia.qmd">
+<td class="listing-title">
+<a href="./countries/colombia.html" class="title">Colombia</a>
+</td>
+</tr>
+<tr data-index="11" data-listing-file-modified-sort="1700572574291" data-listing-reading-time-sort="27.705" data-listing-title-sort="Czechia" data-listing-filename-sort="czechia.qmd">
+<td class="listing-title">
+<a href="./countries/czechia.html" class="title">Czechia</a>
+</td>
+</tr>
+<tr data-index="12" data-listing-file-modified-sort="1700572574295" data-listing-reading-time-sort="6.06" data-listing-title-sort="Denmark" data-listing-filename-sort="denmark.qmd">
+<td class="listing-title">
+<a href="./countries/denmark.html" class="title">Denmark</a>
+</td>
+</tr>
+<tr data-index="13" data-listing-file-modified-sort="1700572574295" data-listing-reading-time-sort="19.095" data-listing-title-sort="Ecuador" data-listing-filename-sort="ecuador.qmd">
+<td class="listing-title">
+<a href="./countries/ecuador.html" class="title">Ecuador</a>
+</td>
+</tr>
+<tr data-index="14" data-listing-file-modified-sort="1700572574295" data-listing-reading-time-sort="7.24" data-listing-title-sort="El Salvador" data-listing-filename-sort="el-salvador.qmd">
+<td class="listing-title">
+<a href="./countries/el-salvador.html" class="title">El Salvador</a>
+</td>
+</tr>
+<tr data-index="15" data-listing-file-modified-sort="1700572574295" data-listing-reading-time-sort="13.415" data-listing-title-sort="Estonia" data-listing-filename-sort="estonia.qmd">
+<td class="listing-title">
+<a href="./countries/estonia.html" class="title">Estonia</a>
+</td>
+</tr>
+<tr data-index="16" data-listing-file-modified-sort="1700572574295" data-listing-reading-time-sort="6.995" data-listing-title-sort="Finland" data-listing-filename-sort="finland.qmd">
+<td class="listing-title">
+<a href="./countries/finland.html" class="title">Finland</a>
+</td>
+</tr>
+<tr data-index="17" data-listing-file-modified-sort="1700572574295" data-listing-reading-time-sort="10.585" data-listing-title-sort="France" data-listing-filename-sort="france.qmd">
+<td class="listing-title">
+<a href="./countries/france.html" class="title">France</a>
+</td>
+</tr>
+<tr data-index="18" data-listing-file-modified-sort="1700572574299" data-listing-reading-time-sort="7.165" data-listing-title-sort="Germany" data-listing-filename-sort="germany.qmd">
+<td class="listing-title">
+<a href="./countries/germany.html" class="title">Germany</a>
+</td>
+</tr>
+<tr data-index="19" data-listing-file-modified-sort="1700572574299" data-listing-reading-time-sort="21.33" data-listing-title-sort="Greece" data-listing-filename-sort="greece.qmd">
+<td class="listing-title">
+<a href="./countries/greece.html" class="title">Greece</a>
+</td>
+</tr>
+<tr data-index="20" data-listing-file-modified-sort="1700572574299" data-listing-reading-time-sort="49.15" data-listing-title-sort="Hungary" data-listing-filename-sort="hungary.qmd">
+<td class="listing-title">
+<a href="./countries/hungary.html" class="title">Hungary</a>
+</td>
+</tr>
+<tr data-index="21" data-listing-file-modified-sort="1700572574299" data-listing-reading-time-sort="7.505" data-listing-title-sort="Iceland" data-listing-filename-sort="iceland.qmd">
+<td class="listing-title">
+<a href="./countries/iceland.html" class="title">Iceland</a>
+</td>
+</tr>
+<tr data-index="22" data-listing-file-modified-sort="1700572574299" data-listing-reading-time-sort="15.685" data-listing-title-sort="India" data-listing-filename-sort="india.qmd">
+<td class="listing-title">
+<a href="./countries/india.html" class="title">India</a>
+</td>
+</tr>
+<tr data-index="23" data-listing-file-modified-sort="1700572574303" data-listing-reading-time-sort="17.35" data-listing-title-sort="Indonesia" data-listing-filename-sort="indonesia.qmd">
+<td class="listing-title">
+<a href="./countries/indonesia.html" class="title">Indonesia</a>
+</td>
+</tr>
+<tr data-index="24" data-listing-file-modified-sort="1700572574303" data-listing-reading-time-sort="12.09" data-listing-title-sort="Ireland" data-listing-filename-sort="ireland.qmd">
+<td class="listing-title">
+<a href="./countries/ireland.html" class="title">Ireland</a>
+</td>
+</tr>
+<tr data-index="25" data-listing-file-modified-sort="1700572574303" data-listing-reading-time-sort="26.28" data-listing-title-sort="Italy" data-listing-filename-sort="italy.qmd">
+<td class="listing-title">
+<a href="./countries/italy.html" class="title">Italy</a>
+</td>
+</tr>
+<tr data-index="26" data-listing-file-modified-sort="1700572574303" data-listing-reading-time-sort="9.815" data-listing-title-sort="Japan" data-listing-filename-sort="japan.qmd">
+<td class="listing-title">
+<a href="./countries/japan.html" class="title">Japan</a>
+</td>
+</tr>
+<tr data-index="27" data-listing-file-modified-sort="1700572574303" data-listing-reading-time-sort="15.515" data-listing-title-sort="Latvia" data-listing-filename-sort="latvia.qmd">
+<td class="listing-title">
+<a href="./countries/latvia.html" class="title">Latvia</a>
+</td>
+</tr>
+<tr data-index="28" data-listing-file-modified-sort="1700572574303" data-listing-reading-time-sort="10.34" data-listing-title-sort="Mexico" data-listing-filename-sort="mexico.qmd">
+<td class="listing-title">
+<a href="./countries/mexico.html" class="title">Mexico</a>
+</td>
+</tr>
+<tr data-index="29" data-listing-file-modified-sort="1700572574307" data-listing-reading-time-sort="6.865" data-listing-title-sort="Netherlands" data-listing-filename-sort="netherlands.qmd">
+<td class="listing-title">
+<a href="./countries/netherlands.html" class="title">Netherlands</a>
+</td>
+</tr>
+<tr data-index="30" data-listing-file-modified-sort="1700572574307" data-listing-reading-time-sort="11.45" data-listing-title-sort="New Zealand" data-listing-filename-sort="new-zealand.qmd">
+<td class="listing-title">
+<a href="./countries/new-zealand.html" class="title">New Zealand</a>
+</td>
+</tr>
+<tr data-index="31" data-listing-file-modified-sort="1700572574307" data-listing-reading-time-sort="3.845" data-listing-title-sort="Norway" data-listing-filename-sort="norway.qmd">
+<td class="listing-title">
+<a href="./countries/norway.html" class="title">Norway</a>
+</td>
+</tr>
+<tr data-index="32" data-listing-file-modified-sort="1700572574307" data-listing-reading-time-sort="17.645" data-listing-title-sort="Pakistan" data-listing-filename-sort="pakistan.qmd">
+<td class="listing-title">
+<a href="./countries/pakistan.html" class="title">Pakistan</a>
+</td>
+</tr>
+<tr data-index="33" data-listing-file-modified-sort="1700572574307" data-listing-reading-time-sort="13.135" data-listing-title-sort="Peru" data-listing-filename-sort="peru.qmd">
+<td class="listing-title">
+<a href="./countries/peru.html" class="title">Peru</a>
+</td>
+</tr>
+<tr data-index="34" data-listing-file-modified-sort="1700572574307" data-listing-reading-time-sort="23.935" data-listing-title-sort="Philippines" data-listing-filename-sort="philippines.qmd">
+<td class="listing-title">
+<a href="./countries/philippines.html" class="title">Philippines</a>
+</td>
+</tr>
+<tr data-index="35" data-listing-file-modified-sort="1700572574307" data-listing-reading-time-sort="23.905" data-listing-title-sort="Poland" data-listing-filename-sort="poland.qmd">
+<td class="listing-title">
+<a href="./countries/poland.html" class="title">Poland</a>
+</td>
+</tr>
+<tr data-index="36" data-listing-file-modified-sort="1700572574307" data-listing-reading-time-sort="5.555" data-listing-title-sort="Portugal" data-listing-filename-sort="portugal.qmd">
+<td class="listing-title">
+<a href="./countries/portugal.html" class="title">Portugal</a>
+</td>
+</tr>
+<tr data-index="37" data-listing-file-modified-sort="1700572574311" data-listing-reading-time-sort="8.365" data-listing-title-sort="Romania" data-listing-filename-sort="romania.qmd">
+<td class="listing-title">
+<a href="./countries/romania.html" class="title">Romania</a>
+</td>
+</tr>
+<tr data-index="38" data-listing-file-modified-sort="1700572574311" data-listing-reading-time-sort="8.525" data-listing-title-sort="Russia" data-listing-filename-sort="russia.qmd">
+<td class="listing-title">
+<a href="./countries/russia.html" class="title">Russia</a>
+</td>
+</tr>
+<tr data-index="39" data-listing-file-modified-sort="1700572574311" data-listing-reading-time-sort="39.565" data-listing-title-sort="Slovakia" data-listing-filename-sort="slovakia.qmd">
+<td class="listing-title">
+<a href="./countries/slovakia.html" class="title">Slovakia</a>
+</td>
+</tr>
+<tr data-index="40" data-listing-file-modified-sort="1700572574311" data-listing-reading-time-sort="19.505" data-listing-title-sort="South Africa" data-listing-filename-sort="south-africa.qmd">
+<td class="listing-title">
+<a href="./countries/south-africa.html" class="title">South Africa</a>
+</td>
+</tr>
+<tr data-index="41" data-listing-file-modified-sort="1700572574311" data-listing-reading-time-sort="13.145" data-listing-title-sort="Spain" data-listing-filename-sort="spain.qmd">
+<td class="listing-title">
+<a href="./countries/spain.html" class="title">Spain</a>
+</td>
+</tr>
+<tr data-index="42" data-listing-file-modified-sort="1700572574311" data-listing-reading-time-sort="4.745" data-listing-title-sort="Sweden" data-listing-filename-sort="sweden.qmd">
+<td class="listing-title">
+<a href="./countries/sweden.html" class="title">Sweden</a>
+</td>
+</tr>
+<tr data-index="43" data-listing-file-modified-sort="1700572574315" data-listing-reading-time-sort="8.735" data-listing-title-sort="Switzerland" data-listing-filename-sort="switzerland.qmd">
+<td class="listing-title">
+<a href="./countries/switzerland.html" class="title">Switzerland</a>
+</td>
+</tr>
+<tr data-index="44" data-listing-file-modified-sort="1700572574315" data-listing-reading-time-sort="14.76" data-listing-title-sort="Thailand" data-listing-filename-sort="thailand.qmd">
+<td class="listing-title">
+<a href="./countries/thailand.html" class="title">Thailand</a>
+</td>
+</tr>
+<tr data-index="45" data-listing-file-modified-sort="1700572574315" data-listing-reading-time-sort="14.85" data-listing-title-sort="Türkiye" data-listing-filename-sort="turkiye.qmd">
+<td class="listing-title">
+<a href="./countries/turkiye.html" class="title">Türkiye</a>
+</td>
+</tr>
+<tr data-index="46" data-listing-file-modified-sort="1700572574315" data-listing-reading-time-sort="8.405" data-listing-title-sort="United Kingdom" data-listing-filename-sort="united-kingdom.qmd">
+<td class="listing-title">
+<a href="./countries/united-kingdom.html" class="title">United Kingdom</a>
+</td>
+</tr>
+<tr data-index="47" data-listing-file-modified-sort="1700572574315" data-listing-reading-time-sort="10.465" data-listing-title-sort="United States" data-listing-filename-sort="united-states.qmd">
+<td class="listing-title">
+<a href="./countries/united-states.html" class="title">United States</a>
+</td>
+</tr>
+<tr data-index="48" data-listing-file-modified-sort="1700572574315" data-listing-reading-time-sort="10.49" data-listing-title-sort="Venezuela" data-listing-filename-sort="venezuela.qmd">
+<td class="listing-title">
+<a href="./countries/venezuela.html" class="title">Venezuela</a>
+</td>
+</tr>
+<tr data-index="49" data-listing-file-modified-sort="1700572574315" data-listing-reading-time-sort="7.915" data-listing-title-sort="Zambia" data-listing-filename-sort="zambia.qmd">
+<td class="listing-title">
+<a href="./countries/zambia.html" class="title">Zambia</a>
+</td>
+</tr>
+</tbody>
+
+</table>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>
