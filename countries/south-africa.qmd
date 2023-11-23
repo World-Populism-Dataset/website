@@ -1,7 +1,11 @@
 ---
 title: South Africa
+subtitle: 'Date range: 1994-2020'
+title-block-banner: yes
+
 ---
 
+# Case notes
 
 ## African National Congress (Jacob Zuma)
 
@@ -38,7 +42,7 @@ Classing Zuma and the ANC as populist for the 2014 election is somewhat
 more difficult than in 2009. According to some sources the president's
 persona and rhetoric after the election changed quickly, ("he can call
 the mobs off... he has no further need for their service," (Glaser 2009,
-11), and in government he seemed to abandon any tactic of visibly
+11)), and in government he seemed to abandon any tactic of visibly
 fighting the elite -- on the contrary making alliances with key business
 figures and continuing Mbeki-era policies (Glaser 2011, 68). Most
 significantly, in 2010 he moved against Malema and other "left
@@ -52,17 +56,17 @@ cf. Horwitz 2016). Because of this, we've kept the ANC in the dataset
 for the 2014 elections, though this should be reviewed.
 
 At the time of his ascendancy, Zuma's appeal was considered by most
-observers to have been based in his "anti-elitist" crudentials (Nyandera
+observers to have been based in his "anti-elitist" credentials (Nyandera
 and Agwanda 2019, 82; Resnick 2010, 21; Vincent 2011, 4). The context
 for this was the aloof and intellectual image of Mbeki, which seemed to
-many of Zuma's supporters to personify the betrayal of ordinary peasants
+many of Zuma's supporters to personify the betrayal of ordinary members
 and workers by the ANC (Ndlovu-Gatsheni 2008, 77). Zuma, by contrast,
 played up his credentials as a non-educated foot soldier in the ANC's
 struggle, remote from the self-serving elites who had taken over the
 party (Hart 2007, 98; Tshabangu 2022, 46). His being sacked by Mbeki and
 subject to numerous criminal and corruption cases allowed him to embody
 a sense of victimhood at the hands of that elite (Southall 2009, 319).
-In Glaser's words: Zuma's coalition was mobilised
+In Glaser's words, Zuma's coalition was mobilised
 
 > against a range of 'insider' elites, first and foremost the leadership
 > cadres and businessmen around Thabo Mbeki but encompassing, if often
@@ -74,20 +78,22 @@ In Glaser's words: Zuma's coalition was mobilised
 In doing so Zuma and the ANC consistently portrayed their political
 rivals as nefarious conspirators against the him and average people,
 calling them "witches" (Melber 2018, 683), "clever Blacks" (Shain 2017,
-6), and \"bright people" (media, opposition politicians) who think they
+6), and "bright people" (media, opposition politicians) who think they
 know better (Melber 2014, 645). The sense of antagonism against this
 elite in Zuma's discourse is tied up in his "trademark" song, *Umshini
 Wami* ("My Machine Gun"), sung so frequently by him that it became "part
 of \[his\] skin" (Gunner 2009, 27). The song had very few lyrics, but
 with its call-to-arms-message "drew boundaries between those perceived
 as insiders and those seen as outsiders" (Gunner 2009, 32; see also
-Resnick 2010, 22), and recalled a time when the ANC's core narrative was
+Resnick 2010, 22), and recalled a time when the ANC's core project was
 not governance but "struggle" (Melber 2018, 683). As mentioned, much of
 the party's rhetoric against the political class was outsourced to
 Malema, who for example, warned the party's enemies "acting against the
 youth and the workers you are acting against the people who brought down
 the apartheid regime . . . they too can bring you down" (Vincent 2011,
-4--5)
+4--5). While this is clearly evidence of hostility to the political
+class, we find that it is somewhat shy of a 3 on the OTH_POLCLASS
+variable, and we're therefore coded 2.
 
 The populist turn under Zuma had elements of race/ethnocentrism and
 hostility to business and capital -- often tied together.
@@ -101,7 +107,7 @@ derogatory comments about Whites (Plaut 2010) and Indians (Shain 2017,
 (Glaser 2011, 74). Relatedly, Zuma engaged in an "unabashed promotion of
 his Zulu identity" (Resnick 2010, 23; see also Sitas 2008; Glaser 2011,
 87). This is partially relevant in populist terms because the ANC had
-previously been dominated by Xhosa elites (Tshabangu 2022, 46), causing
+previously been dominated by Xhosa leaders (Tshabangu 2022, 46), causing
 a sense of marginalisation among Zulu (Nyandera and Agwanda 2019, 83).
 However, this embrace may have been more an attempt to court votes in
 KwaZuku Natal (Paret 2018, 476) (a province where the ANC had
@@ -116,13 +122,11 @@ the presidency (Southall 2009, 324). Given the presence of nativist
 rhetoric in Zuma's coalition, but the avoidance of full-throated
 ethnocentrism, we've coded the party 2 on OTH_ETHNIC. Likewise, there
 are clear strands of hostility to financial powerbrokers within this
-discourse, yet not to the highest extent. Hence we've coded
-OTH_FINANCIAL 2. Despite overseeing a crisis of anti-immigrant violence
-during his tenure, we've seen no sources claim that anti-immigrant
-discourse was a apart of Zuma or the ANC's rhetoric (OTH_IMMIGRANT = 1).
-Similarly absent is hostility to the military (OTH_MILITARY = 1), nor
-any connection between domestic elites and foreign powers (OTH_FORIEGN =
-1).
+discourse, yet not to the highest extent. Hence we've coded OTH_ECONOMIC
+2. Despite overseeing a crisis of anti-immigrant violence during his
+tenure, we've seen no sources claim that anti-immigrant discourse was a
+apart of Zuma or the ANC's rhetoric (OTH_IMMIGRANT = 1). Similarly
+absent is hostility to the military (OTH_MILITARY = 1).
 
 Zuma's rise has also been considered by many to have threatened
 democratic and constitutional norms in South Africa (Southall 2009,
@@ -152,25 +156,15 @@ we've coded the part 2 for CHARISMA under his leadership. Given that he
 was a former deputy president at the time of his 2009 election, we've
 labelled the ANC 2 on INSIDER in 2009 and 3 in 2014.
 
-OTH_FOREIGN
-
-Zuma is universally considered to have been a "charismatic" figure
-(Nyandera and Agwanda 2019, 82; Resnick 2010, 21), who commanded a
-strong personal following among supporters. To Glaser, this became a
-"popular cult of Zuma -- the belief in Zuma's almost Jesus-like powers"
-(Glaser 2009, 11). Given the embeddedness of the ANC at the time of his
-ascension, we've coded the part 2 for CHARISMA under his leadership.
-
 Zuma and his ANC are difficult to categorise ideologically. He has been
 called a "post-ideological" leader (Glaser 2009, 10), whose political
 appeal was "not a matter of left-right" (Nyandera and Agwanda 2019, 83).
 At the time of his ascension, though, he was considered a part of a
 leftward shift away from the pro-market policies of his predecessors
 (Chipkin 2018, 104; Gumede 2008, 267), hence the strong support he
-received from the left factions of the party. Giventhis, and the ANC's
+received from the left factions of the party. Given this, and the ANC's
 general left leaning profile, we've positioned the party as L on
-LRPOSITION. Zuma was already president by the time of his 2009 election,
-hence we've coded the party 3 on INSIDER in both elections.
+LRPOSITION.
 
 ## Economic Freedom Fighters
 
@@ -195,7 +189,7 @@ working class constituency (Horwitz 2016, 548; Fölscher, de Jager, and
 Nyenhuis 2021, 448), for which it had "sheer disregard" (Adams 2018,
 115). In Everatt's words "voting ANC was equated with voting for more of
 the same -- white economic control, white racism, 'neoliberalism', black
-elite sell-outs and little or nothing for ordinary black citizens."
+elite sell-outs and little or nothing for ordinary black citizens"
 (Everatt 2016, 58). Much of this critique originally centred on Zuma,
 who was mired in corruption scandals at the time. Malema and the EFF
 called the president a "thief" in 2013 (Cooper 2015, 153), and pledged
@@ -253,7 +247,7 @@ itself as "anti-capitalist", and states the party's goal to
 > \[unemployed\] (cited in Phadi 2020, 420).
 
 The party called a minister "a dog of white monopoly capital" (Phadi
-2020, 425). For this we have coded them 3 on OTH_FINANCIAL.
+2020, 425). For this we have coded them 3 on OTH_ECONOMIC.
 
 Not a lot is written about the EFF and immigration, but some scholars
 have noted that it has avoided xenophobic attacks on immigrants in South
@@ -265,10 +259,11 @@ notable voice of opposition, claiming that he "did not want a vote of
 xenophobes" (Asuelime 2020, 14622), and criticising black South
 African's who championed the global Black Lives Matter movement while
 not caring about violence against African migrants (Ruzungunde and Zhou
-2021, 7). Though they were highly critical of the police, we've seen no
-evidence that they were hostile to the military (OTH_MILITARY = 1). The
-party's manifesto mentions its "anti-imperialism", but not that the
-domestic elite represents foreign powers (OTH_FOREIGN = 1)
+2021, 7) (OTH_IMMIGRANTS = 1). Though they were highly critical of the
+police, we've seen no evidence that they were hostile to the military
+(OTH_MILITARY = 1). The party's manifesto mentions its
+"anti-imperialism", but not that the domestic elite represents foreign
+powers (OTH_FOREIGN = 1)
 
 EFF policy is considered by Fakir to have been a "hodge-podge of
 different ideological and political strains melding the incendiary
@@ -366,7 +361,7 @@ African Studies* 42 (1): 49--64.
 
 Fakir, Ebrahim. 2014. "Fragmentation and Fracture -- The Loss of Trust
 and Confidence in Political Parties." In *SA Elections 2014: Political
-Opposition - Cohesion, Fracture or Fragmentation?*, 8--12. South Africa
+Opposition - Cohesion, Fracture or Fragmentation?*, 3--7. South Africa
 2014 Election Updates EISA Election Update Four. Johannesburg: Electoral
 Institute for Sustainable Democracy in Africa.
 
@@ -524,3 +519,4 @@ Yende, Nsizwazonke E. 2021. "The Economic Freedom Fighters (EFF) as a
 Organised Disruptive Chaos." *African Journal of Development Studies* 11
 (4): 53.
 
+.

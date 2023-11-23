@@ -1,232 +1,234 @@
 ---
 title: Russia
+subtitle: |-
+  Date range: 1991-2020
+  <br>
+  Electoral competition has not been free in Russia in the Putin era, and
+  there are numerous candidates who have not been allowed to stand, some
+  of whom are arguably populists. Corresponding election boycotts should
+  also be taken into consideration when looking at trends. This makes
+  Russia a difficult case to include in this dataset, and further research
+  may determine that it should be included.
+title-block-banner: yes
+
 ---
 
-
-Electoral competition has not been free in Russia in the Putin era, and
-there are numerous candidates who have not been allowed to stand, some
-of whom are arguably populists (Alexei Navalny for example).
-Corresponding election boycotts should also be taken into consideration
-when looking at trends.
+# Case notes
 
 ## Vladirim Zhirinovsky / Liberal Democratic Party
 
-The Liberal Democratic Party of Vladmir Zhirinovsky has been a feature
-of Russian politics since the end of the USSR. Having been a critic of
-the ruling Communist Party in its last decade in power, Zhirinovsky was
-a candidate in the first democratic elections in 1991, where he was a
-notably flamboyant "common folk" opposition to the standard boring
-communist politician (Eatwell, 2002:6). His campaign featured populist
-measures about fighting crime, cutting the price of vodka, and finding
-husbands for unmarried women (Kipp, 1994:74; Eatwell, 2002:6). He also
-developed a radically ethno-nationalist stance (Kipp, 1994:77),
-advoating re-conquering the former imperial lands of the old Russian
-Empire (and even more by conquering Iran and Afghanistan) (Koman, 1996)
-and praises of Hitler (Eatwell, 2002:7), combined with a chauvinistic
-measure of racism, anti-semitism, anti-Islam and sexism (Alexeev,
-2006:211). He measured 3 on the OTH_FOREIGN for his opinions of the
-West, post-soviet successor states in the CIS, neighbouring Islamic
-states (Turkey and Iran in particular), and China (Koman, 1996; Alexeev,
-2006:212). I've seen no evidence that his politics has exhibited any
-OTH_FINANCIAL elements, and according to Eatwell (2002:7) business
-elites were a source of support for the LDP in its early years. The
-LDP's economic platform has been characterised as a kind of
-state-capitalism supportive of privatisation (Kipp, 1994:79).
+The Liberal Democratic Party (*Liberal'no-demokraticheskaya partiya*,
+LDP) of Vladmir Zhirinovsky has been a feature of Russian politics since
+the end of the USSR. Having been a critic of the ruling Communist Party
+in its last decade in power, Zhirinovsky was a candidate in the first
+democratic elections in 1991, where he was a notably flamboyant "common
+folk" opposition to the standard communist politician (Eatwell 2002, 6).
+His campaign featured folksy measures about fighting crime, cutting the
+price of vodka, and finding husbands for unmarried women (Kipp 1994, 74;
+Eatwell 2002, 6). He also developed a radically ethno-nationalist stance
+(Kipp 1994, 77), advocating re-conquering the former imperial lands of
+the old Russian Empire (and even more by conquering Iran and
+Afghanistan) (Koman 1996) and praise of Hitler (Eatwell 2002, 7),
+combined with a chauvinistic measure of racism, anti-semitism,
+anti-Islam and sexism (Alexseev 2006, 211). His opposition to foreign
+states including the West, post-soviet successor states in the CIS,
+neighbouring Islamic states (Turkey and Iran in particular), and China
+(Koman 1996; Alexseev 2006, 212) warrants a 3 on OTH_FOREIGN. We've seen
+no evidence that his politics has exhibited any OTH_ECONOMIC elements,
+and according to Eatwell business elites were a source of support for
+the LDP in its early years (Eatwell 2002, 7). The LDP's economic
+platform has been characterised as a kind of state-capitalism supportive
+of privatisation (Kipp 1994, 79).
 
 While the party has well-defined ideological foundations, the
 flamboyant, controversial, and media-savy personality of Zhirinovsky has
-clearly been paramount in holding the party together (CHARISMA = 3)
-(Kipp, 1994:86; Eatwell, 2002:7), especially considering that it has
-rivals on the far right. I've labelled his OTH_POLCLASS score as high in
-initial elections but receding from around the 1995 election, as it
-seemed that this peaked in the initial post-communist era. Over the
-years he's become so stable and unthreatening in the party system that
-he could hardly the anti-establishment figure that he used to be. Behind
+clearly been paramount in holding the party together (Kipp 1994, 86;
+Eatwell 2002, 7) (CHARISMA = 3). We've labelled his OTH_POLCLASS score
+as high in initial elections but receding from around the 1995 election,
+as it seemed that this peaked in the initial post-communist era. Behind
 the scenes he seems to have worked reasonably closely with both Yeltsin
-(Eatwell, 2002:9) and Putin (Colton & Hale 2014). Colton and Hale even
+(Eatwell 2002, 9) and Putin (Colton and Hale 2014). Colton and Hale even
 suggest that Zhirinovski is Putin's "officially tolerated nationalist",
-given that the absorbes some protest votes while remaining cooperative
-(2014:7). He is somewhat difficult to characterise on LIBDEMNORMS given
-the fragile state of these norms in Russia. In spite of this, I've
-labelled him 3 throughout his career given his vocal suggestions that
-his desired reconstituted Russian Empire requires centralised political
-control with no separation of powers (Kipp, 1994:77).
+given that he absorbs some protest votes while remaining cooperative
+(Colton and Hale 2014, 7). He is somewhat difficult to characterise on
+LIBDEMNORMS given the fragile state of these norms in Russia. In spite
+of this, we've labelled him 3 throughout his career given his vocal
+suggestions that his desired reconstituted Russian Empire requires
+centralised political control with no separation of powers (Kipp 1994,
+77).
 
 ## Alexander Lebed
 
 Alexander Lebed, a former general who ran for president in 1996 under
-the **Congress of Russian Communities** party, is a tricky one to
+the Congress of Russian Communities party, is a tricky one to
 characterise. He ran a generally centre-right campaign with a common-man
 "outsider" appeal grounded in general sense of Russian nationalism
 linked to his military service (particularly in Moldova, where he
 favoured the ethnic Russians in Transnistria in defiance of more
-moderate orders from Moscow) (Phillips, 1997). However his populist
-appeal was based on his incorruptable image, rather than that of a
-controversial firebrand figure like Zhirinovsky (Phillips, 1997; Hale,
-2006:75). This was bult in part on his open criticism of the corruption
-of superiors ("thieves") in the military and defence bureaucracy
-(Simonsen, 1995:538). He also accused the political class of selling out
-to the west -- unlike former corrupt statesmen who looted from imperial
-territories and brought it back to Russia, "our contempporarys in the
-other hand do their robberies at home and bring the loot abroad. Here
-heads have to roll, mercilessly" (Simonsen, 1995:543). While this is
-clearly evidence of OTH_POLCLASS rhetoric, this seems not to have
-escalated beyond a 2 on our scale. His political platform was based on a
-strong nationalist streak critical of the West's treatment of
-post-soviet Russia (Simonsen, 1995:540), although his opposition to
-OTH_FOREIGN did not reach the scale of Zhirinovski or Putin (2).
-
-While Lebed seems like a supporter of democratic institutions, his
-controversial praise for the military dictatorship of Augusto Pinochet
-in Chile, and the fact that he defended the comment by praising Rissian
-dictatorships from Peter the Great to Stalin, (Simonsen, 1995:542)
-suggest that he was a mild threat to LIBDEMNORMS (2). His candidacy was
-clearly centred no his personal saviour image (CHARISMA=3), and I have
-not seen evidence of any significant OTH_IMMIGRANTS or OTH_ETHNIC
-discourse. I have not seen evidence for any OTH_FINANCIAL populist
-politics, although further research should confirm this. After serving
-in Yeltsin's cabinet after the 1996 election (from which he was fired),
-he served as governor of Krasnoyarsk Krai, and elected not to run for
+moderate orders from Moscow) (PHILLIPS 1997). After serving in Boris
+Yeltsin's cabinet after the 1996 election (from which he was fired), he
+served as governor of Krasnoyarsk Krai, and elected not to run for
 president against Putin in 2000 despite expectations that he would. He
-died in a plane crash in 2002
+died in a plane crash in 2002.
+
+Lebed's populist appeal was based on his incorruptable image (PHILLIPS
+1997; Hale 2005, 75). This was bult in part on his open criticism of the
+corruption of superiors ("thieves") in the military and defence
+bureaucracy (Simonsen 1995, 538). He also accused the political class of
+selling out to the west -- unlike former corrupt statesmen who looted
+from imperial territories and brought it back to Russia, "our
+contemporaries in the other hand do their robberies at home and bring
+the loot abroad. Here heads have to roll, mercilessly" (Simonsen 1995,
+543). This appears to be evidence of OTH_POLCLASS rhetoric (= 3). His
+political platform was based on a strong nationalist streak critical of
+the West's treatment of post-soviet Russia (Simonsen 1995, 540),
+although his opposition to OTH_FOREIGN did not reach the scale of
+accusing domestic rivals of loyalty to these foreign enemies (= 2).
+
+While Lebed appears to be a supporter of democratic institutions, his
+controversial praise for the military dictatorship of Augusto Pinochet
+in Chile, and the fact that he defended the comment by praising Russian
+dictatorships from Peter the Great to Stalin (Simonsen 1995, 542),
+suggest that he was a mild threat to liberal democratic norms
+(LIBDEMNORMS = 2). His candidacy was clearly centred on his personal
+saviour image (CHARISMA=3), and we have not seen evidence of any
+significant OTH_IMMIGRANTS, OTH_ETHNIC, or OTH_ECONOMIC discourse. As a
+former cabinet minister we have coded him 2 on INSIDER.
 
 ## Vladimir Putin / Unity / United Russia
 
 Vladimir Putin's form of populism (and that of his Unity and United
 Russia party) is tricky to explain. By some accounts he did not run as a
 populist in his initial election in 2000, but introduced populist
-rhetoric gradually in the mid-2000s (following the 'colour' revolutions
-in the CIS and the Iraq War) and especially after the 2011-12 election
-cycle (when Putin's economic narrative was hit by the 2008 econoomic
+rhetoric gradually in the mid-2000s and especially after the 2011-12
+election cycle (when his economic narrative was hit by the 2008 economic
 crisis) (Robinson 2017; Robinson and Milne 2017). Around the time of his
 first re-election in 2004, he started to develop a "sovereign democracy"
 rhetoric that defined Russian nationalism as distinct from the western
 world, and Putin as the undisputed savoir preventing the return of
 Yeltsen-era instability, incompetance and weakness (Casula 2013;
-Robinson and Milne 2017:). When Putin returned to the presidency in
-after a one-term hiatus 2012, this rhetoric of anti-western nationalism
-in was ramped up and combined with a 'cultural turn' (anti-LGBT laws,
+Robinson and Milne 2017). When Putin returned to the presidency after a
+one-term hiatus in 2012, this rhetoric of anti-western nationalism in
+was ramped up and combined with a 'cultural turn' (anti-LGBT laws,
 strengthened ties to the Orthodox Church, etc.) (Robinson 2017) that
-have created what many consider to be an official 'strongman' populism
-today.
+have created what many consider to be an official "strongman" populism
+today. We've included Putin and his parties from 2004 onward, but this
+could be reviewed.
 
 There is a common argument that Putin's portrayal of the political elite
 and the state bureaucracy constitutes what we would register as
 OTH_POLCLASS populism. There is some evidence of this kind of populism:
 Unity, for example, denied that it was even a party, saying instead that
 it was merely an association of people fed up with seeing others decide
-their fate (Eatwell, 2002:10). Likewise, UR has stated that it
+their fate (Eatwell 2002, 10). Likewise, UR has stated that it
 represents merely "common sense" and that it "transcends ideological
 myths" associated with other politicians and corrupt lethargy of
-bureaucrats (Casula 2013:5, 7). These are all examples of distancing the
-part and its leaders from other politicians. On the other hand, some
+bureaucrats (Casula 2013, 7). These are all examples of distancing the
+party and its leaders from other politicians. On the other hand, some
 claim that Putin's origins as an insider run contrary to his portrayal
-as a true populist. Lassila (2018) goes as far as arguing that Russia's
+as a true populist. Lassila goes as far as arguing that Russia's
 historical experience has produced a unique distrust in "the people" as
 a political agent, and suggests instead that Putin be considered a
-non-populist autocrat. At a minimum, it is not clear that Putin has
-engaged in any explicit OTH_POLCLASS rhetoric, and hence for now this is
-left at 1 throughout his tenure. This should be reviewed.
+non-populist autocrat (Lassila 2018). At a minimum, it is not clear that
+Putin has engaged in any explicit OTH_POLCLASS rhetoric, and hence for
+now this is left at 1 throughout his tenure. This should be reviewed.
 
-Putin has never envoked any OTH_FINANCIAL, OTH_IMMIGRANT, OTH_ETHNIC or
-OTH_MILITARY populist rhetoric to registers on our variables. His most
-important "other" is clearly OTH_FOREIGN, which I have labelled as 1
+Putin has never envoked any OTH_ECONOMIC, OTH_IMMIGRANT, OTH_ETHNIC or
+OTH_MILITARY populist rhetoric to register on our variables. His most
+important "other" is clearly OTH_FOREIGN, which we have coded as 1
 initially, escalating to 2 by the 2003-4 election period, and reaching 3
 by the 2011-12 election period. Putin was obviously an INSIDER from the
 beginning, just as Unity was created as a party of power. LIBDEMNORMS
-are somewhat tricky given that these were never particularlystrnog t
+are somewhat tricky given that these were never particularly strong to
 begin with in Russia. However it seems fitting to label Putin/UR 2 from
 his beginnings and escalate this to 3 by the 2011-12 period given its
 increasingly authoritarian and autocratic nature. The most difficult of
 all the variables here is CHARISMA. Unity was clearly built around the
 ambitions of Putin and were dependent on his personality, and many have
 argued that Putin has acted as the "empty signifier" of his and his
-party's brand of populism (Casula 2013:7). However it is debatable that
+party's brand of populism (Casula 2013, 7). However it is debatable that
 Putin's populism was a personality-dependent form during his rise in
 2000. An argument could be made that Putin was simply popular based on
-his political skills and image as a relatively competent manager. I've
-labelled the party 3 from its inception, but this should be reviewed.
+his political skills and image as a relatively competent manager. We
+have labelled the party 3 from its inception, but this should be
+reviewed.
 
 ## Rodina
 
 Rodina ("motherland") was allegedly created by the Kremlin to syphon
-votes from the Communist Party in 2003 (Varga, 2004; Hale 2006), but
-soon showed an independent direction. Its original message was left wing
-and nationalist (OTH_FINANCIAL=3), campaigning to reverse privatisations
-from the 1990s and nationalise other assets. However it became better
-known for its radical anti-immigrant advertising that included
-suggestions that ethnic Russians needed to clean "garbage" from their
-cities (Varga, 2008:570) (OTH_IMMIGRANT=3, OTH_ETHNIC=3). For this
-reason it has been characterised mainly as a far right party even though
-it had solid left credentials. This ideological position should be
-investigated further. Authorities took the unprecedented step of banning
-the party for this rhetoric in 2005. Little is written about the group
-in English, so these codings need to be reviewed. The party merged
-withseveral others to create the "Just Russia" Party, another more
-consistently left-wing party with ties to the Kremlin. March (2009:518)
-considers this party to alo be populist (against local bureaucrats but
-not Putin), but more research should confirm this, for now it is not
-included.
+votes from the Communist Party in 2003 (Varga 2004; Hale 2005), but soon
+showed an independent direction. Its original message was left-wing and
+nationalist (OTH_ECONOMIC=3), campaigning to reverse privatisations from
+the 1990s and nationalise other assets. However it became better known
+for its radical anti-immigrant advertising that included suggestions
+that ethnic Russians needed to clean "garbage" from their cities (Varga
+2008, 570) (OTH_IMMIGRANT=3, OTH_ETHNIC=3). For this reason it has been
+characterised mainly as a far right party even though it had left
+leaning policies. This ideological position should be investigated
+further. Authorities took the unprecedented step of banning the party
+for this rhetoric in 2005. Little is written about the group in English,
+so these codings need to be reviewed. The party merged with several
+others to create the "Just Russia" Party, another more consistently
+left-wing party with ties to the Kremlin. March considers this party to
+also be populist (against local bureaucrats but not Putin), but more
+research should confirm this, for now it is not included (March 2009,
+518).
 
 **References**
 
-Alan Koman, \"The last surge to the south: the new enemies of Russia in
-the rhetoric of Vladimir Zhirinovski\" in Studies in conflict and
-terrorism, 19, 1996, 279-327
+Alexseev, Mikhail A. 2006. 'Ballot-Box Vigilantism? Ethnic Population
+Shifts and Xenophobic Voting in Post-Soviet Russia'. *Political
+Behavior* 28 (3): 211--40.
 
-Roger Eatwell, \"The Rebirth of Right Wing Charisma? he Cases of
-ean-Marie Le Pen and Valadimir Zhirinovsky\" in Totalitarian Movements
-and Political Religions, 3 (3) 2002, pp.1-23
+Casula, Philipp. 2013. 'Sovereign Democracy, Populism, and
+Depoliticization in Russia'. *Problems of Post-Communism* 60 (3): 3--15.
+https://doi.org/10.2753/PPC1075-8216600301.
 
-Mickhail Alexeev, \"Ballot-Box Vigilantism? Ethnic Population Shifts and
-Xenophobic Voting in post-Soviet Russia\" in Political Behavior, 28,
-2006, pp.211-240
+Colton, Timothy J., and Henry E. Hale. 2014. 'Putin's Uneasy Return and
+Hybrid Regime Stability'. *Problems of Post-Communism* 61 (2): 3--22.
+https://doi.org/10.2753/PPC1075-8216610201.
 
-Stuart Phillips, \"Alexandr Lebed: Soldier, Statesman, President?\" in
-World Affairs, 159 (3) 1997, 109-112
+Eatwell, Roger. 2002. 'The Rebirth of Right-Wing Charisma? The Cases of
+Jean-Marie Le Pen and Vladimir Zhirinovsky'. *Totalitarian Movements and
+Political Religions* 3 (3): 1--23. https://doi.org/10.1080/714005489.
 
-Neil Robinson and Sarah Milne \"Populism and political development in
-hybrid regimes: Russia and the development of official populism\" in
-International Political Science Review, 38 (4) 2017 412-425
+Hale, Henry E. 2005. *Why Not Parties in Russia? Democracy, Federalism,
+and the State*. Cambridge and New York: Cambridge University Press.
 
-Neil Robinson, Russian Neo-Patrimonialism and Putin\'s \'Cultural Turn\'
-\" in Europe Asia Studies, 69 (2) 2017, pp.348-366
+Kipp, Jacob W. 1994. 'The Zhirinovsky Threat'. *Foreign Affairs*,
+72--86.
 
-Richard Sakwa, \"Can Putinism solve its contradictions?\"
-Opendemocracy.com, 2013,
-https://www.opendemocracy.net/od-russia/richard-sakwa/can-putinism-solve-its-contradictions
+Koman, Alan J. 1996. 'The Last Surge to the South: The New Enemies of
+Russia in the Rhetoric of Zhirinovsky'. *Studies in Conflict &
+Terrorism* 19 (3): 279--327. https://doi.org/10.1080/10576109608436010.
 
-Jussi Lassila, \"Aleksei Naval\'nyi and Populist Re-ordering of Putin\'s
-Stability\" in Europe-Asia Studies, 68 (1) 2016, pp.118-137.
+Lassila, Jussi. 2018. 'Putin as a Non-Populist Autocrat'. *Russian
+Politics* 3 (2): 175--95. https://doi.org/10.1163/2451-8921-00302002.
 
-Jussi Lassila, "Putin as a non-populist autocrat" in *Russian Politics*,
-3 (2) 2018
+March, Luke. 2009. 'Managing Opposition in a Hybrid Regime: Just Russia
+and Parastatal Opposition'. *Slavic Review* 68 (3): 504--27.
+https://doi.org/10.1017/S0037677900019707.
 
-Mihai Varga, \"How Political Opportunities Strengthen the Far Right:
-Understanding the Rise in Far-Right Militancy in Russia\" in Europe-Asia
-Studies, 60 (4) 2008, pp.561-579.
+PHILLIPS, R. STUART. 1997. 'Aleksandr Lebed: Soldier, Statesman,
+President?' *World Affairs* 159 (3): 109--12.
 
-Mihai Varga, "Putin Running the Duma: A Quest for Stability, Regardless
-of Democratization" in *Romanian Journal of Political Science*, 4(2),
-2004, pp.47-70
+Robinson, Neil. 2017. 'Russian Neo-Patrimonialism and Putin's "Cultural
+Turn"'. *Europe-Asia Studies* 69 (2): 348--66.
+https://doi.org/10.1080/09668136.2016.1265916.
 
-Jacob Kipp, "The Zhirinovsky Threat" *Foreign Affairs*, 73 (3) 1994,
-pp.72-86.
+Robinson, Neil, and Sarah Milne. 2017. 'Populism and Political
+Development in Hybrid Regimes: Russia and the Development of Official
+Populism'. *International Political Science Review* 38 (4): 412--25.
+https://doi.org/10.1177/0192512117697705.
 
-Timothy J. Colton & Henry E. Hale, "Putin\'s Uneasy Return and Hybrid
-Regime Stability", *Problems of Post-Communism*, 61 (2) 2014, pp.3-22
+Simonsen, S. G. 1995. 'Going His Own Way: A Profile of General Aleksandr
+Lebed'. *The Journal of Slavic Military Studies* 8 (3): 528--46.
+https://doi.org/10.1080/13518049508430202.
 
-S. G. Simonsen "Going his own way: A profile of General Aleksandr Lebed,
-*Journal of Slavic Military Studies* 8 (3), (1995) pp.528-546
+Varga, Mihai. 2004. 'Putin Running the Duma: A Quest for Stability,
+Regardless of Democratization'. *Romanian Journal of Political
+Sciences*, no. 02: 47--70.
 
-Luke March, "Managing Opposition in a Hybrid Regime: Just Russia and
-Parastatal Opposition"
-
-Slavic Review, 68(3) 2009, pp.504-527
-
-Philipp Casula, "Sovereign Democracy, Populism, and Depoliticization in
-Russia", *Problems of Post-Communism*, 60 (3) 2013, pp.3-15
-
-Henry Hale, *Why not parties in Russia? Democray, Federalism, and the
-State* (Cambridge and New York, Cambridge University Press: 2006)
-
+---------. 2008. 'How Political Opportunities Strengthen the Far Right:
+Understanding the Rise in Far-Right Militancy in Russia'. *Europe-Asia
+Studies* 60 (4): 561--79. https://doi.org/10.1080/09668130801999854.

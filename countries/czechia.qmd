@@ -1,12 +1,11 @@
 ---
 title: Czechia
+subtitle: 'Date range: 1990-2020'
+title-block-banner: yes
+
 ---
 
-
--   Date range: 1990-2020
-
--   Elections included: 1990, 1992, 1996, 1998, 2002, 2006, 2010, 2013,
-    2017
+# Case notes
 
 ## Association for the Republic - Republican Party of Czechoslovakia
 
@@ -14,13 +13,13 @@ The Association for the Republic -- Republican Party of Czechoslovakia
 (*Sdružení pro republiku- Republikánská strana Československa* SPR-RSČ),
 also called "Coalition for the Republic" or often just the
 "Republicans", was a far-right nationalist party formed by Miroslav
-Sládek in 1989, formally registering as a party in 1990 (Hanley 2012,
-68). It contested with negligible success in the election that year but
-increased its vote to 6% in 1992 and 8% in 1996. The party was never in
-government and collapsed due to infighting and splits after the 1998
-election.
+Sládek in 1989 (although formally registering as a party in 1990)
+(Hanley 2012, 68). It contested with negligible success in the election
+that year but increased its vote to 6% in 1992 and 8% in 1996. The party
+was never in government and collapsed due to infighting and splits after
+the 1998 election.
 
-Sládek practices an "aggressive" populism (Mareš 2011, 285) that has
+Sládek practiced an "aggressive" populism (Mareš 2011, 285) that has
 been called "anti-establishment" (Kopeckỳ 1995, 148; Kopecky and Mudde
 1999, 418; Dočekalová 2006, 12), "anti-system" (Vlachová 1997, 47; Balík
 and Hloušek 2016, 108; Hloušek 2010, 98) and stylistically "eccentric"
@@ -33,20 +32,21 @@ in Sládek's words, pretending to champion programmatic causes only to
 citizens" (cited in Hanley 2012, 74). Sládek once alleged that this
 political class had "committed high treason, for this they will hang\...
 after our victory, the privileges of the parasites will be abolished and
-their property confiscated" (Ulč 1996, 93). The party viewed the
-material problems of the post-communist transition were therefore not a
-consequence of marketisation, but a deliberate plot by the elite to
-control the people (Hanley 2012, 76). A part of this argument was the
-allegation that the Velvet revolution was a sham, and that former
-communists and dissidents were in fact part of the same network (Hanley
-2012, 69). The post-1989 muti-party system was therefore merely a façade
-(Hanley 2012, 75), as all other parties (referred to by the party as the
-"Gang of Five", Dočekalová 2006, 12) were essentially the same. (Hanley
-2012, 78). Against this political class Sládek contrasted the "ordinary
-people" who had been hitherto forced to "merely to watch passively as
-power is taken over" (cited in Hanley 2012, 74), claiming that only the
-SPR-RSČ could save the nation on their behalf (Dočekalová 2006, 11).
-This is clearly sufficient to code the party 3 on OTH_POLCLASS.
+their property confiscated" (cited in Ulč 1996, 93). The party claimed
+that the material problems of the post-communist transition were
+therefore not a consequence of marketisation, but a deliberate plot by
+the elite to control the people (Hanley 2012, 76). A part of this
+argument was the allegation that the Velvet Revolution was a sham, and
+that former communists and dissidents were in fact part of the same
+network (Hanley 2012, 69). The post-1989 muti-party system was therefore
+merely a façade (Hanley 2012, 75), as all other parties (referred to by
+the SPR-RSČ as the "Gang of Five", Dočekalová 2006, 12) were essentially
+the same. (Hanley 2012, 78). Against this political class Sládek
+contrasted the "ordinary people" who had been hitherto forced "merely to
+watch passively as power is taken over" (cited in Hanley 2012, 74),
+claiming that only the SPR-RSČ could save the nation on their behalf
+(Dočekalová 2006, 11). This is sufficient to code the party 3 on
+OTH_POLCLASS.
 
 The SPR-RSČ has frequently been described as "racist" (Vlachová 1997,
 50; Hanley 2012, 69), "nativist" (Stojarová 2018a, 36), and "xenophobic"
@@ -55,26 +55,26 @@ The SPR-RSČ has frequently been described as "racist" (Vlachová 1997,
 2011, 103). This ethnocentrism was primarily due to its consistent
 hostility toward-Roma people (Dočekalová 2006, 12; Hanley 2012, 69;
 Mareš 2011, 285; Stroehlein 1999), whom it directly linked to crime
-(Císař and Štětka 2016, 290). Sládek once said, for example, "If we want
-to lower the crime rate and clean our cities, first we have to solve the
-Gypsy problem" (Dočekalová 2006, 12). According to Ulč this reached the
-point of calling for ethnic cleansing against the Roma population (Ulč
-1996, 94). Sládek was also hostile to ethnic Germans and Vietnamese
-(Stojarová 2018a, 36), and was once charged with race-hatred offences
-for comments suggesting regret that more Germans had not been killed in
-World War II (Hanley 2012, 71; Stroehlein 1999) (OTH_ETHNIC = 3). This
-overlapped with Sládek's anti-immigration rhetoric (Mareš 2011, 285; Ulč
-1996, 94), including his "hostility to African and Vietnamese guest
-workers" (Hanley 2012, 69) and rhetorical linkages between immigrants
-and crime or other social problems (Smolík 2011, 103) (OTH_IMMIGRANTS =
-3).
+(Císař and Štětka 2016, 290). Sládek once said, for example, that "If we
+want to lower the crime rate and clean our cities, first we have to
+solve the Gypsy problem" (Dočekalová 2006, 12). According to Ulč this
+reached the point of calling for ethnic cleansing against the Roma
+population (Ulč 1996, 94). Sládek was also hostile to ethnic Germans and
+Vietnamese (Stojarová 2018a, 36), and was once charged with race-hatred
+offences for comments suggesting regret that more Germans had not been
+killed in World War II (Hanley 2012, 71; Stroehlein 1999) (OTH_ETHNIC =
+3). This overlapped with Sládek's anti-immigration rhetoric (Mareš 2011,
+285; Ulč 1996, 94), including his "hostility to African and Vietnamese
+guest workers" (Hanley 2012, 69) and rhetorical linkages between
+immigrants and crime or other social problems (Smolík 2011, 103)
+(OTH_IMMIGRANTS = 3).
 
 Regarding economic elites, Hanley mentions that Sládek criticised "the
 dictatorship of money" (Hanley 2012, 73), and that the privatisation
 process had been used by the elite to enrich themselves 2012, 75),
 however this appears to relate more to the corrupt riches of the
 political class more than the rich or big business *per se,* and hence
-we've coded the party 1 on OTH_FINANCIAL. Numerous sources claim that
+we've coded the party 1 on OTH_ECONOMIC. Numerous sources claim that
 foreign states and entities were key "others" in the party's populism,
 specifically Germany (Dočekalová 2006, 12; Hanley 2012, 75) and later
 NATO (Kopecky and Mudde 1999, 418). In Hanley's words the party
@@ -94,8 +94,7 @@ calls for less state intervention (Hanley 2012, 70). On the whole
 however it did not focus very much on economic issues (Vlachová 1997,
 50), and its agenda therein lacked, in Hanley's words, "intellectual and
 programmatic sophistication" (Hanley 2012, 82). Owing to the salience of
-its radical cultural nationalism, we've therefore coded it FR on
-LRPOSITION.
+its radical cultural nationalism, we've coded it FR on LRPOSITION.
 
 Sládek has been considered in the literature a "charismatic" figure
 (Mareš 2011, 285) and "a skilled and provocative public speaker" (Císař
@@ -105,72 +104,69 @@ outspoken statements" (Hanley 2012, 69). Internally Sládek had an
 "authoritarian style" (Mareš 2011, 286), and the party lacked formal
 structures that could hold it together in the absence of his dominant
 leadership beyond his inner circle of close friends and family (Hanley
-2012, 72) (CHARISMA = 3).
-
-SPR-RSČ and Sládek had "authoritarian elements" from the beginning
-(Hanley 2012, 69), and have threatened the norms of liberal democracy in
-several ways. Sládek has incited violence (Stojarová 2018a, 41),
-maintained alliances with various skinhead groups (Ulč 1996, 94), and
-defended the use of violence against "illegitimate authorities" (Hanley
-2012, 79). When he was charged with hate speech in 1997 he avoided
-courts, only to be tracked down by the police (Stroehlein 1999).
-Regarding the party's acceptance of the democratic system, Vlachová
-claimed that the party did not accept the "game" of parliamentary
-democracy, as displayed by members' politically motivated criminal acts
-(Vlachová 1997, 47). Hanley on the other had claims that the party was
-not ideologically opposed to liberal democracy (as compared to other
-Czech fascist and neo-Nazi groups, but by our standards it does appear
-to deserve 3 on LIBDEMNORMS. SPR-RSČ and Sládek never served in
-government (INSIDER = 1).
+2012, 72) (CHARISMA = 3). SPR-RSČ and Sládek had "authoritarian
+elements" from the beginning (Hanley 2012, 69), and have threatened the
+norms of liberal democracy in several ways. Sládek has incited violence
+(Stojarová 2018a, 41), maintained alliances with various skinhead groups
+(Ulč 1996, 94), and defended the use of violence against "illegitimate
+authorities" (Hanley 2012, 79). When he was charged with hate speech in
+1997 he avoided courts, only to be tracked down by the police
+(Stroehlein 1999). Regarding the party's acceptance of the democratic
+system, Vlachová claimed that the party did not accept the "game" of
+parliamentary democracy, as displayed by members' politically motivated
+criminal acts (Vlachová 1997, 47). Hanley on the other had claims that
+the party was not ideologically opposed to liberal democracy (as
+compared to other Czech fascist and neo-Nazi groups), but by our
+standards it does appear to deserve 3 on LIBDEMNORMS. Neither SPR-RSČ
+nor Sládek ever participated in a national government (INSIDER = 1).
 
 ## Public Affairs
 
 Public Affairs, (*Věci Veřejne*, VV) also called "Public Action" was
 created in 2002 as a citizen's initiative in Prague focusing on local
-issues including like services for families (Havlík and Hloušek 2014,
-556; Just and Chárvat 2016, 93). In the lead up to the 2010 election it
-emerged as a populist contender with a protest vote narrative, claiming
-almost 11%. Its emergence from obscurity is largely due to both the
-investment of businessman Vít Bárta and the role of investigative
-journalist Radek John (Mareš 2011, 292), who became the party's chairman
-and leader in 2009 and gave credibility to its anti-corruption message.
-VV was a coalition partner of the government after the 2010 elections
-(Mareš 2011, 292), but was riven by internal scandals and splits that
-saw it collapse in 2012 (Císař and Štětka 2016, 288), with both the
-original and breakaway entities receding into irrelevance soon after.
-The main reason for its collapse was the revelation that Bárta had
-developed the party mainly to aid his business interests (Havlík and
-Hloušek 2014, 553; Roberts 2019, 437), an attribute which has led VV to
-be labelled a "business-firm party" in the secondary literature (Just
-and Chárvat 2016).
+issues like improving services available to families (Havlík and Hloušek
+2014, 556; Just and Chárvat 2016, 93). In the lead up to the 2010
+election it emerged as a populist contender with a protest vote
+narrative, claiming almost 11%. Its emergence from obscurity is largely
+due to both the investment of businessman Vít Bárta and the role of
+investigative journalist Radek John (Mareš 2011, 292), who became the
+party's chairman and leader in 2009 and gave credibility to its
+anti-corruption message. VV was a coalition partner of the government
+after the 2010 elections (Mareš 2011, 292), but was riven by internal
+scandals and splits that saw it collapse in 2012 (Císař and Štětka 2016,
+288), with both the original and breakaway entities receding into
+irrelevance soon after. The main reason for its collapse was the
+revelation that Bárta had developed the party mainly to aid his business
+interests (Havlík and Hloušek 2014, 553; Roberts 2019, 437), an
+attribute which has led VV to be labelled a "business-firm party" in the
+secondary literature (Just and Chárvat 2016).
 
-Public Affairs, (*Věci Veřejne*, VV) also called "Public Action" was
-initially created in VV's core message was an "anti-establishment"
-(Havlík and Hloušek 2014, 558; Kopeček 2016, 730; Havlík and Voda 2016,
-124) and "anti-corruption" (Císař and Štětka 2016, 287) platform
-targeting all existing parties of the left and right (Haughton, Novotná,
-and Deegan-Krause 2011, 397; Kim 2020, 625), claiming at one point to be
-"against everyone" (Dostálová 2021, 293). The party styled itself, in
-Maškarinec and Bláha's words, as "pest control squad in top-level
-politics" (Maškarinec and Bláha 2014, 708), representing ordinary people
-against the corrupt establishment (Havlík and Hloušek 2014, 557; Kaniok
-2014, 10). The core refrain of the party against the political class was
-that it was full of "dinosaurs" left over from the post-communist era
-who did not represent the people (Císař and Štětka 2016, 288; Havlík and
-Hloušek 2014, 557). Gaging the ferocity of this attack is somewhat
-difficult: at times John suggested that VVs claim was "not a personal
-attack against dinosaurs. They carried out their work and should step
-down," suggesting a somewhat mild populist hostility to the political
-elite. However at other times John and party leaders were a lot harsher,
-claiming that "Thieves (politicians) need darkness so no one sees what
-they steal...(politicians) play games with public funds" or that (in
-Bárta's words) the established parties had "led to a democracy of robber
-barons" (cited in Havlík and Hloušek 2014, 557). The party also launched
-its 2010 campaign by symbolically firing a cannon at that Czech
-government headquarters (Naxera 2018, 35). Other secondary sources have
-emphasised the corruption accusation that VV levelled against the
-"dinosaurs" (see Kim 2020, 626; Kaniok 2014, 10). We've therefore coded
-the party's OTH_POLCLASS rhetoric as 3.
+VV's core message was an "anti-establishment" (Havlík and Hloušek 2014,
+558; Kopeček 2016, 730; Havlík and Voda 2016, 124) and "anti-corruption"
+(Císař and Štětka 2016, 287) platform targeting all existing parties of
+the left and right (Haughton, Novotná, and Deegan-Krause 2011, 397; Kim
+2020, 625), with the party claiming at one point to be "against
+everyone" (Dostálová 2021, 293). The party styled itself, in Maškarinec
+and Bláha's words, as a "pest control squad in top-level politics"
+(Maškarinec and Bláha 2014, 708), representing ordinary people against
+the corrupt establishment (Havlík and Hloušek 2014, 557; Kaniok 2014,
+10). The core refrain of the party against the political class was that
+it was full of "dinosaurs" left over from the post-communist era who did
+not represent the people (Císař and Štětka 2016, 288; Havlík and Hloušek
+2014, 557). Gaging the ferocity of this attack is somewhat difficult: at
+times John suggested that VVs claim was "not a personal attack against
+dinosaurs. They carried out their work and should step down," suggesting
+a somewhat mild populist hostility to the political elite. However at
+other times John and party leaders were a lot harsher, claiming that
+"Thieves (politicians) need darkness so no one sees what they
+steal...(politicians) play games with public funds" or that (in Bárta's
+words) the established parties had "led to a democracy of robber barons"
+(cited in Havlík and Hloušek 2014, 557). The party also launched its
+2010 campaign by symbolically firing a cannon at that Czech government
+headquarters (Naxera 2018, 35). Other secondary sources have emphasised
+the corruption accusation that VV levelled against the "dinosaurs" (see
+Kim 2020, 626; Kaniok 2014, 10). We've therefore coded the party's
+OTH_POLCLASS rhetoric as 3.
 
 VV was not essentially a nativist party, and according to Mareš it
 "refuse\[d\] extremism and racism" (Mareš 2011, 292). However according
@@ -178,15 +174,15 @@ to others it did have an anti-Roma and anti-minority theme in its
 welfare chauvinism, referring to them in somewhat veiled terms as
 "unadaptable minorities" (Kim 2020, 626; Maškarinec and Bláha 2014,
 708). We've therefore coded it 2 on OTH_ETHNIC. Major studies of the
-party do not talk about its position non immigration. One exception is
-Kim (Kim 2020, 619), who claims that it was anti-immigrant also on
-welfare chauvinism terms. We've therefore coded it 2 on OTH_IMMIGRANTS
-but this could be corroborated. As a party that was set up in the
-interests of a business and managed like one (Havlík and Hloušek 2014,
-560), unsurprisingly sources do not suggest that VV targeted major
-business or the wealthy (OTH_FINANCIAL = 1). Mareš claims that it was
-pro NATO and pro-EU (Mareš 2011, 292), and we've seen no evidence for
-any OTH_FOREIGN rhetoric (= 1), or OTH_MILITARY rhetoric (= 1).
+party do not talk about its position on immigration. One exception is
+Kim, who claims that it was anti-immigrant on welfare chauvinism terms
+(Kim 2020, 619). We've therefore coded it 2 on OTH_IMMIGRANTS but this
+could be corroborated. As a party that was set up in the interests of a
+business and managed like one (Havlík and Hloušek 2014, 560),
+unsurprisingly sources do not suggest that VV targeted major business or
+the wealthy (OTH_ECONOMIC = 1). Mareš claims that it was pro NATO and
+pro-EU (Mareš 2011, 292), and we've seen no evidence for any OTH_FOREIGN
+rhetoric (= 1), or OTH_MILITARY rhetoric (= 1).
 
 The party has been considered largely eclectic and non-ideological in
 terms of its policy programme (Císař and Štětka 2016, 291; Havlík and
@@ -206,13 +202,15 @@ this to determine candidate selection (Havlík and Hloušek 2014, 563;
 Just and Chárvat 2016, 94; Hloušek and Kopeček 2018, 6). For its public
 reliance on John's leadership we've coded it 3 on CHARISMA, but there
 are some accounts that Bárta was also presented as a leader to the
-public (Havlík and Hloušek 2014, 566). Bárta had rival politicians and
-activists followed by private security (Havlík and Hloušek 2014, 563),
-and organised so-called "social-intervention patrols" of uniformed
-members supposedly acting as vigilantes aiding the police (Mareš 2011,
-292). The latter were shut down after criticism, for this we've coded
-the party 2 on LIBDEMNORMS. The party leadership had not served in
-government at the time of the 2010 election campaign (INISIDER = 1).
+public (Havlík and Hloušek 2014, 566).
+
+Bárta had rival politicians and activists followed by private security
+(Havlík and Hloušek 2014, 563), and organised so-called
+"social-intervention patrols" of uniformed members supposedly acting as
+vigilantes aiding the police (Mareš 2011, 292). The latter were shut
+down after criticism, for this we've coded the party 2 on LIBDEMNORMS.
+The party leadership had not served in government at the time of the
+2010 election campaign (INISIDER = 1).
 
 ## ANO 2011
 
@@ -223,7 +221,7 @@ agro-conglomerate Agrofert and one of the country's richest men. In some
 ways ANO picked up where VV left off (Naxera 2018, 39), and it has also
 been considered a "business-firm party" (Kopeček 2016). After failing in
 the 2012 senate elections, a major investment in political marketing
-paid dividends the following year where it won 18.65% of the vote and 47
+paid dividends the following year where it won 18.7% of the vote and 47
 seats and joining a coalition government with established parties
 (Havlík 2019, 373). It then won the 2017 elections with 29.6% of the
 vote and 74 seats, with Babiš initially leading a minority government
@@ -238,14 +236,14 @@ called the political establishment of politicians, parties and other
 "forces" a "matrix" that was trying to silence him (Hanley and Vachudova
 2018, 281). Established parties and politicians were not differentiated
 in this claim (Kim 2020, 626), but grouped together as a homogenous bloc
-of "traditional political parties" who only pretend to be different from
-one another (Havlík 2019, 376, 378). These forces are irredeemably
-corrupt in his eyes (Naxera 2018, 32; Just and Chárvat 2016, 96; Kuba,
+of "traditional political parties" who only pretended to be different
+from one another (Havlík 2019, 376, 378). These forces were irredeemably
+corrupt in Babiš'eyes (Naxera 2018, 32; Just and Chárvat 2016, 96; Kuba,
 Hudec, and Stejskal 2022, 3), having "watched over the embezzlement of
 the country" and "privatized politics for themselves and their pals"
 (cited in Havlík 2019, 376; Maškarinec and Bláha 2014, 708). He has also
 called the political establishment the "Czech Palermo" (Kopeček 2016,
-732). In 2017 election ANO broadened its perception of the political
+732). In the 2017 election ANO broadened its perception of the political
 class to include "power groups" operating behind the scenes (Kim 2020,
 628). This elite was morally contrasted to the hard working and
 industrious Czech people (Císař and Štětka 2016, 287--88), exemplified
@@ -259,40 +257,41 @@ OTH_POLCLASS in both 2013 and 2017.
 
 ANO did not define the people or elite in ethnic or religious terms
 (Havlík 2019, 375), and "lacks a powerful narrative of Czech
-nationalism" (Hanley and Vachudova 2018, 278), in part because Babiš'
-himself is Slovak-born (OTH_ETHNIC =1). It did however campaign to stop
-immigration in 2017, even though he rejected Okamura's nativist
-anti-immigrant populism as fearmongering due to the fact that
-immigration into the country is extremely low (Kim 2020, 629). We've
+nationalism" (Hanley and Vachudova 2018, 278), perhaps in part because
+Babiš' himself is Slovak-born (OTH_ETHNIC =1). It did however campaign
+to stop immigration in 2017, even though Babiš rejected Tomio Okamura's
+nativist anti-immigrant populism as fearmongering due to the fact that
+immigration into the country was extremely low (Kim 2020, 629). We've
 coded the party 1 on OTH_IMMIGRANT in 2013 and 2 in 2017, after the 2015
 migrant crisis. The party revered business, and claimed that the
 solutions and practices of the business world could be effectively
 applied to the political system (Havlík 2019, 376; Maškarinec and Bláha
-2014, 708). We've found no other evidence of OTH_FINANCIAL rhetoric (=
-1).
+2014, 708). We've found no other evidence of OTH_ECONOMIC rhetoric (=
+1). The party was not Eurosceptic (Kaniok and Havlik 2016, 28), and
+we've seen no evidence for any other OTH_FOREIGN rhetoric (= 1), nor any
+OTH_MILITARY rhetoric (= 1).
 
 While the party avoided identifying on the left-right scale (Havlík and
 Voda 2014, 9) and maintained a degree of ideological vagueness
-(Brunnerová 2018, 33; Just and Chárvat 2016, 99), the party is generally
+(Brunnerová 2018, 33; Just and Chárvat 2016, 99), it is generally
 described as "centrist" (Dostálová 2021, 288; Kuba, Hudec, and Stejskal
 2022, 3), as confirmed by a study of votes by ANO deputies (Hájek 2017).
 It has been called economically "liberal" (Hanley and Vachudova 2018,
 281) and "neo-liberal" (Kim 2020, 619), and Babis has occasionally
 identified as centre-right (Havlík and Voda 2014, 9). There may be a
-case to code it CR but for now we've coded it C on LRPOSITION.
-
-Babiš' charisma has been central to the ANO project (Kubát and
-Hartliński 2019, 112; Kopeček 2016, 732), to the extent that he
-"represents the image of the whole party" (Brunnerová 2018, 33), and the
-party is seen as fundamentally connected to and dependent on him (Just
-and Chárvat 2016, 96; Kubát and Hartliński 2019, 108; 2019, 109). ANO
-has been called a "personal project" (Kopeček and Svačinová 2016, 135),
-and even Babiš himself has claimed the "The party is connected to my
-person. The party is me" (Hájek 2017, 280). Babiš had total control of
-the party organisatio, and provided lots of its funds (Hloušek and
-Kopeček 2019, 41; Just and Chárvat 2016, 97). At one meeting with
-deputies over the direction of the party, he simply asserted "I pay, I
-decide" (Hloušek and Kopeček 2019, 41).
+case to code it CR but for now we've coded it C on LRPOSITION. Babiš'
+charisma has been central to the ANO project (Kubát and Hartliński 2019,
+112; Kopeček 2016, 732), to the extent that he "represents the image of
+the whole party" (Brunnerová 2018, 33), and the party is seen as
+fundamentally connected to and dependent on him (Just and Chárvat 2016,
+96; Kubát and Hartliński 2019, 108; 2019, 109). ANO has been called a
+"personal project" (Kopeček and Svačinová 2016, 135), and even Babiš
+himself has claimed the "The party is connected to my person. The party
+is me" (Hájek 2017, 280). Babiš had total control of the party
+organisation, and provided much of its funding (Hloušek and Kopeček
+2019, 41; Just and Chárvat 2016, 97). At one meeting with deputies over
+the direction of the party, he simply asserted "I pay, I decide"
+(Hloušek and Kopeček 2019, 41).
 
 Babiš and ANO wanted a more centralised political system with less
 limitations on the executive, including strengthened state influence on
@@ -316,18 +315,18 @@ Dawn of Direct Democracy (*Úsvit přímé demokracie*, often just called
 Okamura had previously been a prolific commentator and author (Císař and
 Štětka 2016, 288). The group entered parliament after polling 6.8% but
 split in early 2015 due to an internal crisis when ten of the party's 14
-MPs opposed Omakura's leadership (Cirhan and Kopeckỳ 2017, 119). After
-being ejected from Úsvit', Okamura founded "Freedom and Direct
-Democracy" (*Svoboda a přímá demokracie*, SPD) in 2015 on basically the
-same themes as Úsvit (Kubát and Hartliński 2019, 110). In the 2017
-elections SPD polled 10.6% of the vote, while Úsvit' failed to return to
-Parliament. Given that both parties revolved around Okamura's persona
-and rhetoric, we've not seen any reason to code them differently in the
-2013 and 2017 elections.
+MPs opposed Okamura's leadership (Cirhan and Kopeckỳ 2017, 119). After
+being ejected from Úsvit, Okamura founded "Freedom and Direct Democracy"
+(*Svoboda a přímá demokracie*, SPD) in 2015 on basically the same themes
+as Úsvit (Kubát and Hartliński 2019, 110). In the 2017 elections SPD
+polled 10.6% of the vote, while Úsvit' failed to return to Parliament.
+Given that both parties revolved around Okamura's persona and rhetoric,
+we've not seen any reason to code them differently in the 2013 and 2017
+elections.
 
-Both Úsvit' and SPD have been classed as "anti-establishment" (Kaniok
-and Havlik 2016, 28) and "anti-system" (Kuba, Hudec, and Stejskal 2022,
-3) parties due to their hostility toward the political class and
+Both Úsvit and SPD have been classed as "anti-establishment" (Kaniok and
+Havlik 2016, 28) and "anti-system" (Kuba, Hudec, and Stejskal 2022, 3)
+parties due to their hostility toward the political class and
 all-encompassing accusations of corruption (Havlík and Voda 2014, 9).
 Okamura disputed the existence of democracy in the Czech Republic,
 instead claiming that "it's a government of the big mega-firms, the
@@ -356,23 +355,23 @@ have also called Muslims an "invasive species" in Europe (Kazharski
 
 This ethnocentrism overlapped with a sharp hostility toward immigrants
 (Kazharski 2022, 85; Císař and Štětka 2016, 295; Maškarinec and Bláha
-2014, 709; Havlík 2014, 46), who were placed in contrast to the needs of
-the Czech people. This can be seen in election slogans like "Support to
-families, not to unadaptables. Work to our \[people\], not to
-immigrants" (Kim 2020, 627). While this increased significantly due to
-the 2015 immigration crisis, scholarship preceding this still points to
-the centrality of immigration in the party's program (Havlík 2014, 46;
-Maškarinec and Bláha 2014, 709), which is somewhat ironic as Okamura
-himself is the son of a Japanese-Korean migrant father (Kazharski 2022,
-85). We've therefore coded the parties 3 on OTH_IMMIGRANTS in both 2013
-and 2017. Okamura has been described as "soft-Eurosceptic" (Kaniok and
-Havlik 2016, 28), but we've not seen evidence that it considers foreign
-forces or states to be the enemy of the people (OTH_FOREIGN = 1).
-Likewise, we've seen no evidence of OTH_FINANCIAL or OTH_MILITARY
-rhetoric (both = 1).
+2014, 709; Havlík 2014, 46), whom Okamura considered a threat to the
+interests and needs of the Czech people. This can be seen in election
+slogans like "Support to families, not to unadaptables. Work to our
+\[people\], not to immigrants" (Kim 2020, 627). While this increased
+significantly due to the 2015 immigration crisis, scholarship preceding
+this still points to the centrality of immigration in the party's
+program (Havlík 2014, 46; Maškarinec and Bláha 2014, 709), which is
+somewhat ironic as Okamura himself is the son of a Japanese-Korean
+migrant father (Kazharski 2022, 85). We've therefore coded the parties 3
+on OTH_IMMIGRANTS in both 2013 and 2017.
 
-Though Okamura has distanced the party from left-right labels (Voda and
-Havlík 2021, 282), and has been described as ideologically vacant by
+Okamura has been described as "soft-Eurosceptic" (Kaniok and Havlik
+2016, 28), but we've not seen evidence that it considers foreign forces
+or states to be the enemy of the people (OTH_FOREIGN = 1). Likewise,
+we've seen no evidence of OTH_ECONOMIC or OTH_MILITARY rhetoric (both =
+1). Though Okamura has distanced the party from left-right labels (Voda
+and Havlík 2021, 282), and has been described as ideologically vacant by
 some (Vít 2015, 99), both parties are universally considered either far
 right (Dostálová 2021, 288; Kazharski 2022, 84) or extreme right (Naxera
 2018, 46). While this is most apparent in its ethno-nationalism, it also
@@ -403,7 +402,7 @@ elites" could not be relied on to ensure internet freedom anymore after
 the Swedish Pirate Bay case (Šárovec 2019, 4). By the 2017 election it
 was led by Ivan Bartoš, and surprised many by polling 10.8% and entering
 parliament for the first time. With 22 seats in the legislature it
-became the most successful Pirate party to date.
+became the world's most successful Pirate Party to date.
 
 Whether Pirate Parties should be considered populist has been subject to
 much debate. Like other Pirate Parties, the Czech Pirates based their
@@ -444,16 +443,16 @@ parliament in 2017 (Naxera 2021, 11).
 We've seen no evidence for any rhetoric on the OTH_ETHNIC,
 OTH_IMMIGRANTS, OTH_FOREIGN or OTH_MILITARY variables (all = 1). The
 only "other" relevant to the party's anti-establishment populism is
-OTH_FINANCIAL. In its initial digital privacy and freedom narrative,
+OTH_ECONOMIC. In its initial digital privacy and freedom narrative,
 copyright and tech monopolies were a key threat to the freedom of
 ordinary people (Šárovec 2019, 5), and the party developed a stance
 against tax avoidance by multinationals (Pink and Folvarčný 2021, 181).
 It's debatable whether this quite reaches a 3 by our definition, so
 we've coded it 2.
 
-The Pirates eschewed left-right labels (Šárovec 2019, 5), and their
-official socio-economic policy was vague and ambivalent (Pink and
-Folvarčný 2021, 182). It could however be considered new left or
+The Pirates eschewed left-right ideological labels (Šárovec 2019, 5),
+and their official socio-economic policy was vague and ambivalent (Pink
+and Folvarčný 2021, 182). It could however be considered new left or
 left-libertarian in a similar vein to other Pirate parties (Lucarelli,
 Fuschillo, and Chytkova 2020, 1141), and some have considered the party
 economically centrist (Bakke 2022, 6). We've coded them CL on LRPOSITION
@@ -491,7 +490,7 @@ as populist have identified only "partial traces of populism" (Pitrová
 of populism" (Císař and Kubát 2021, 7). Frič and Gyárfášová, for
 example, note the KSČM's "above average levels of populism" regarding
 anti-elite and ant-establishment rhetoric in the 2010s, but note that
-this is significantly less so than the SPD, ANO2011 and Pirates (Frič
+this is significantly less so than the SPD, ANO and the Pirates (Frič
 and Gyárfášová 2019, 231). Likewise, even its anti-system opposition to
 liberal democratic rule needs to be qualified, as Vlachová has concluded
 that the party "works within the system and behaves according to its
@@ -717,4 +716,3 @@ Review*, 39--56.
 Voda, Petr, and Vlastimil Havlík. 2021. "The Rise of Populists and
 Decline of Others: Explanation of Changes in Party Support in the Czech
 Republic." *Problems of Post-Communism* 68 (4): 279--91.
-

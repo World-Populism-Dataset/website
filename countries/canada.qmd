@@ -1,12 +1,11 @@
 ---
 title: Canada
+subtitle: 'Date range: 1980-2020'
+title-block-banner: yes
+
 ---
 
-
--   Date range: 1980-2020
-
--   Elections included: 1980, 1984, 1988, 1993, 1997, 2000, 2004, 2006,
-    2008, 2011, 2015, 2019.
+# Case notes
 
 ## Reform Party/ Canadian Reform Conservative Alliance
 
@@ -19,17 +18,17 @@ opposition to the Charlottetown Accord constitutional referendum
 (Laycock 2005, 179), which attempted to give greater rights to
 minorities, especially Quebec. The referendum was defeated, and
 disillusioned supporters of the centre-right Progressive Conservative
-Party (CPC) (which supported the constitutional reform) flooded to
+Party (PC) (which supported the constitutional reform) flooded to
 Reform, which was the only major party in Anglophone Canada to oppose it
 (Laycock 2005, 179). Reform's 19% in that election made it one of the
 largest parties in the Parliament. It maintained its vote share in the
-1997 election before merging with the CPC to form the
-Reform-Conservative Alliance in 2000.
+1997 election before merging with the PC to form the Reform-Conservative
+Alliance in 2000.
 
 Reform campaigned on a narrative that the Canadian state had been
 infiltrated and co-opted by a collection of "special interests" (Patten
 1999, 29), comprising of self-serving bureaucrats, unaccountable
-"old-line\' parties (Barney and Laycock 1999, 323), and representatives
+"old-line" parties (Barney and Laycock 1999, 323), and representatives
 of minorities, all of which were opposed to "ordinary Canadians"
 (Laycock 2019, 171). In doing so, Reform capitalised on widespread
 distrust of established political parties (Sigurdson 1994, 651) to
@@ -49,19 +48,19 @@ Canadians", and "So you don't trust politicians? Neither do we."
 > Their populism turned on depicting special interest/elites as actors,
 > organizations and groups who promoted or benefited from state
 > intervention in the market distribution of social and economic goods,
-> all at the people's expense. (Laycock 2019, 172)
+> all at the people's expense (Laycock 2019, 172).
 
-In opposition to this, Manning's stressed that his party was essentially
-beyond ideology, and instead embodied the "common sense of the people"
-(Budd 2021, 160; Kwak 2020, 1176). While there may be a case that
-Manning's and Reform's rhetoric against established politicians was less
-hostile than other populist parties, on the available evidence we've
-coded it 3 on OTH_POLCLASS.
+In opposition to this status quo, Manning's stressed that his party was
+essentially beyond ideology, and instead embodied the "common sense of
+the people" (Budd 2021, 160; Kwak 2020, 1176). While there may be a case
+that Manning's and Reform's rhetoric against established politicians was
+less hostile than other populist parties, on the available evidence
+we've coded it 3 on OTH_POLCLASS.
 
 While the party styled itself as race-blind, its vision of the "people"
 and their "others" were clearly racialized (Kwak 2020), and the party
 has been defined as "antipluralistic" (Sigurdson 1994, 267) and opposed
-to multiculturalism (Erickson 1995, 136). It defines its community as
+to multiculturalism (Erickson 1995, 136). It defined its community as
 the "broad Anglo-Canadian nation" (Mayer, Kaymak, and Justice 2000, 89),
 the enemies of which in the "special interests" were representatives of
 various ethnic out-groups (Sigurdson 1994, 261). In Pattens' words, this
@@ -77,8 +76,8 @@ Sigurdson 1994, 265). While this is clearly evidence of ethnocentric
 rhetoric, a number of sources stress that the party was not as
 explicitly ethnocentric as other nativist populist parties (Mayer,
 Kaymak, and Justice 2000, 84; Budd 2021, 163), so we have coded it 2 on
-OTH_EHTNIC. Relatedly, the party considered immigration in similarly
-racialized and populist terms, claiming that "Canada\'s multiculturalism
+OTH_ETHNIC. Relatedly, the party considered immigration in similarly
+racialized and populist terms, claiming that "Canada's multiculturalism
 and immigration policies have been designed in response to the demands
 of an elite of powerful special interests" (Patten 1999, 35). Its 1988
 policy platform stated that immigration "should \[not\] be explicitly
@@ -88,10 +87,10 @@ for a crackdown on "false refugees" alleged to be abusing the system
 (Kwak 2020, 1177; 2020). As with its ethnocentrism, numerous sources
 claim that Reform was "not crudely anti-immigrant" (Mayer, Kaymak, and
 Justice 2000, 84), and that Manning tried to distance himself from its
-most xenophobic factions (Budd 2021, 163), such that we've coded it 2 on
-OTH_IMMIGRANT.
+most xenophobic factions (Budd 2021, 163), due to which we have coded it
+2 on OTH_IMMIGRANT.
 
-The party is somewhat difficult to code on the OTH_FINANCIAL variable.
+The party is somewhat difficult to code on the OTH_ECONOMIC variable.
 Some sources emphasise that it maintained the anti-business attitudes of
 earlier Western populist parties (Mayer, Kaymak, and Justice 2000),
 campaigning against "plutocratic conspirators of eastern banking
@@ -103,8 +102,8 @@ However others claim that banks are not the party's chief antagonist
 sponsored it and its clearly neo-liberal and anti-welfare ideology
 (Laycock 2005, 187; Kwak 2020, 1175). Most sources on Reform don't
 mention business or financial elites at all. Due to this mixed evidence,
-we've coded it 2 on OTH_FINANCIAL. We've seen no evidence to of rhetoric
-on the OTH_FOREIGN or OTH_MILITARY variables (both = 1).
+we've coded it 2 on OTH_ECONOMIC. We've seen no evidence of rhetoric on
+the OTH_FOREIGN or OTH_MILITARY variables (both = 1).
 
 Reform is also somewhat difficult to code on the CHARISMA scale. Manning
 is considered by some a "dynamic populist leader" (Erl 2021, 113), and
@@ -112,16 +111,16 @@ personally defined the party's branding to the electorate (Sigurdson
 1994, 276). Yet, Reform also built heavily on prior traditions of
 Western populism, and Manning has been called a somewhat dull and
 non-inspiring figure compared to other more conventionally charismatic
-populist leaders (Moffitt 2016, 62). We've coded Reform 2 on CHARISMA in
-1993 and 1997. Ideologically, while the party claimed to transcend the
-left-tight spectrum, its policies fit rather neatly in the neo-liberal
-wave of its time, advocating lower taxes, reductions in welfare and
-deregulation of the private sector (Laycock 2005, 180; Kwak 2020, 1175),
-and as a result of this and the higher salience of its non-economic
-cultural conservatism it is universally considered right wing (Sigurdson
-1994, 265; Budd 2021, 160) (LRPOSITION = R). We've seen no evidence that
-Reform threated any liberal democratic norms (Knopff 1998, 702)
-(LIBDEMNORMS = 1.
+populist leaders (Moffitt 2016, 62). We have therefore coded Reform 2 on
+CHARISMA in 1993 and 1997. Ideologically, while the party claimed to
+transcend the left-tight spectrum, its policies fit rather neatly in the
+neo-liberal wave of its time, advocating lower taxes, reductions in
+welfare and deregulation of the private sector (Laycock 2005, 180; Kwak
+2020, 1175), and as a result of this and the higher salience of its
+non-economic cultural conservatism it is universally considered right
+wing (Sigurdson 1994, 265; Budd 2021, 160) (LRPOSITION = R). We've seen
+no evidence that Reform threated any liberal democratic norms (Knopff
+1998, 702) (LIBDEMNORMS = 1.
 
 For the 2000 election, Manning and Reform attempted to merge with the
 fledgling Progressive Conservative Party to prevent the vote-splitting
@@ -144,19 +143,19 @@ the core ideas and meaning of Reform and the Alliance.
 
 The *Bloc Quebecois* (BQ) started as a parliamentary caucus of major
 party MPs sympathetic to Quebecois identity and interest. It became a
-fully fledged political party under the leadership of Lucien Bouchard in
-YEAR, after the failure of the Meech Lake accord in 1991. As with
-Reform, BQ enjoyed break-out success in the 1993 on the failure of the
-Meech Lake accords (Erickson 1995, 135), in which it won 13.5% of the
-national vote and became the official opposition in Parliament after the
-collapse of the Progressive Conservative Party (PCP). It steadily lost
-support in subsequent elections, dropping to 4.7% in 2015, before rising
-to 7.6% in 2019. BQ is a difficult inclusion in the dataset. Separatist
-nationalism is not by definition populism, even if all such parties
-campaign in strong opposition to the existing political centre. We
-include BQ here because available evidence suggests that its rhetoric
-conformed to a general people/elite framework in which the (Quebecois)
-people's interests were deliberately ignored by that elite.
+fully-fledged political party under the leadership of Lucien Bouchard in
+1991. As with Reform, BQ enjoyed break-out success in the 1993 on the
+failure of the Meech Lake accords (Erickson 1995, 135), in which it won
+13.5% of the national vote and became the official opposition in
+Parliament after the collapse of the Progressive Conservative Party
+(PCP). It steadily lost support in subsequent elections, dropping to
+4.7% in 2015, before rising to 7.6% in 2019. BQ is a difficult inclusion
+in the dataset. Separatist nationalism is not by definition populism,
+even if all such parties campaign in strong opposition to the existing
+political centre. We include BQ here because available evidence suggests
+that its rhetoric conformed to a general people/elite framework in which
+the (Quebecois) people's interests were deliberately ignored by that
+elite.
 
 The OTH_POLCLASS variable is tricky with BQ. While the party clearly
 showed distain for the mainly Anglophone establishment in Ottawa, it is
@@ -170,14 +169,14 @@ governments in Ottowa have been estranged from Quebacois interests
 (Mayer et al, 2000: 80). There is some debate about whether the term
 "Quebecois" is an ethnic (French Canadian) moniker or geographic demonym
 (people from the province of Quebec, some of whom are not French
-Canadian). Some Canadians use the term Quebecker/ Quebecer to denote the
+Canadian). Some Canadians use the term Quebecker/Quebecer to denote the
 latter (Mayer, Kaymak, and Justice 2000, 86) and consider the former an
 explicitly ethnocentric term, something disputed by leaders of QB. We've
 labelled the party 2 on OTH_ETHNIC given that the Francophone-Anglophone
 political narrative is clearly the essence of its populist character,
 yet not to the extent that ethnic others are defined as enemies in
 extreme terms. We've seen no evidence for anything above 1 on
-OTH_IMMIGRANT, OTH_FINANCIAL, OTH_MILITARY, or OTH_FOREIGN.
+OTH_IMMIGRANT, OTH_ECONOMIC, OTH_MILITARY, or OTH_FOREIGN.
 
 Positioning the party on a LRPOSITION scale is very difficult, given
 that it is culturally conservative in its advocacy of sovereignty but
@@ -207,10 +206,6 @@ https://doi.org/10.1007/978-3-030-04621-7_6.
 Structures and Right-Wing Populist Ideology in Canada." *Journal of
 Canadian Studies* 55 (1): 152--76.
 https://doi.org/10.3138/jcs.2019-0046.
-
-Carty, R. Kenneth, William Cross, and Lisa Young. 2000. "Canadian Party
-Politics in the New Century." *Journal of Canadian Studies* 35 (4):
-23--39. https://doi.org/10.3138/jcs.35.4.23.
 
 Cross, William, and Lisa Young. 2002. "Policy Attitudes of Party Members
 in Canada: Evidence of Ideological Politics." *Canadian Journal of
@@ -268,4 +263,3 @@ https://doi.org/10.1017/S0008423900017352.
 Snow, Dave, and Benjamin Moffitt. 2012. "Straddling the Divide:
 Mainstream Populism and Conservatism in Howard's Australia and Harper's
 Canada." *Commonwealth & Comparative Politics* 50 (3): 271--92.
-

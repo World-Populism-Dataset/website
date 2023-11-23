@@ -1,31 +1,28 @@
 ---
 title: Netherlands
+subtitle: 'Date range: 1980-2020'
+title-block-banner: yes
+
 ---
 
-
--   Date range: 1980-2020
-
--   Elections included:
-
-    -   Legislative: 1981, 1982, 1986, 1989, 1994, 1998, 2002, 2003,
-        2006, 2010, 2012, 2017.
+# Case notes
 
 ## List Pim Fortuyn
 
 Wilhelmus 'Pim' Fortuyn was a sociologist who emerged as a leader of a
-small and new party, *Leefbaar Nederland* (LD) ("Liveable Netherlands"),
+small new party, *Leefbaar Nederland* (LD) ("Liveable Netherlands"),
 before the 2002 elections. The previous year he had written a book
 called "against the Islamization of our culture", asserting that Muslim
 influence was a threat to liberal Dutch values. After breaking with LD
 and forming his own party, *List Pim Fortuyn* (LPF), Fortuyn was shot
-and killed while campaigning three months before the elections. Although
-LPF did surprisingly well in those elections with 17%, infighting led to
+and killed while campaigning three months before the elections. LPF did
+surprisingly well in those elections with 17%, before infighting led to
 its collapse soon afterward.
 
 Lucardie describes Fortuyn's politics as "an eclectic -- but not
 necessarily incoherent -- mixture of liberalism, nationalism,
 communitarianism and populism" (Lucardie 2008, 158). Fortuyn campaigned
-on the idea that bureaucrats, managers and 'partycrats' ran the country
+on the idea that bureaucrats, managers, and "partycrats" ran the country
 without considering the needs of average citizens (Lucardie 2008, 159;
 Van Kessel 2015, 102) (OTH_POLCLASS = 3). By far his biggest platform
 was his intolerance towards Muslims, including asylum seekers. In a
@@ -44,8 +41,8 @@ manifesto spoke called for restrictions in immigration (Van Kessel 2015,
 104). This clearly warrants a 3 for OTH_ETHNIC and OTH_IMMIGRANTS.
 Despite being anti-EU, it is not clear that hostility to the EU in the
 form of OTH_FOREIGN populist rhetoric is relevant here (= 1). Likewise,
-Fortuyn's liberal rhetoric did not use any OTH_FINANCIAL rhetoric
-(despite being a former Marxist).
+Fortuyn's liberal rhetoric appears not to have incorporated any
+OTH_ECONOMIC rhetoric (despite being a former Marxist).
 
 Fortuyn himself was a flamboyant and outspoken figure, and as the name
 of the party suggests, he dominated it (Lucardie 2008, 158; Koopmans and
@@ -61,7 +58,7 @@ election.
 
 ## Party for Freedom 
 
-Geert Wilders was an MP who fell out with hie Liberal Party over the
+Geert Wilders was an MP who fell out with the Liberal Party over the
 question of Turkey's EU membership in 2004. He went on to form his own
 party, the Freedom Party (*Partij voor de Vrijheid*, PVV) on the eve of
 the 2006 election. After success in this and the subsequent 2010
@@ -77,15 +74,15 @@ the latter's hostility towards the political elite" (Van Kessel 2015,
 104). This included the allegation that "cowardly and frightened" elites
 of all major parties had "hijacked" the country from "ordinary citizens"
 (Van Kessel 2015, 104; Vossen 2011, 183) (OTH_POLCLASS = 3). Frequently,
-this elite is alleged to be the political left -- or the "Church of the
-Left" (Coffé and Van Den Berg 2017, 878). In one expression, Wildesr
+this elite was alleged to be the political left -- or the "Church of the
+Left" (Coffé and Van Den Berg 2017, 878). In one expression, Wilders
 argued for a more direct democracy: "Not the political elite, but the
 people should have the opportunity to express more often their will,
 because together the people know better than that left-wing clique"
-(Vossen 2011, 185).
+(cited in Vossen 2011, 185).
 
-The PVV's central message lay in its opposition to Islam, with the party
-seeing Islam as a political ideology more than a religion (Lucardie and
+The PVV's central message lay in its opposition to Islam, which the
+party saw as a political ideology more than a religion (Lucardie and
 Voerman 2013, 193; Vossen 2011, 183). From 2006, Wilders began
 propagating radical conspiracy theories of the Islamification of Europe,
 suggesting a deliberate plot on the part of all Muslims to mask their
@@ -104,7 +101,7 @@ atypical of the European far-right in this regard should not reduce it
 from a 3 on both the OTH_ETHNIC and OTH_IMMIGRANT variables --
 especially the latter as Wilders increasingly targeted other migrants
 from Poland, Bulgaria, Romania and other locations (Vossen 2011, 185).
-With a somewhat mixed approach to economic policy, OTH_FNIANCIAL has not
+With a somewhat mixed approach to economic policy, OTH_ECONOMIC has not
 been a relevant factor for the PVV (the party's economic platform has
 generally been quite liberal, albeit increasingly opposed to spending
 cuts) (Lucardie and Voerman 2013, 192; Vossen 2011, 186).
@@ -116,18 +113,18 @@ the Dutch people. This rhetoric hit a new level in the 2012 election (in
 the peak of the Eurozone crisis) (Van Kessel 2015, 106; Coffé and Van
 Den Berg 2017, 878), when the party started advocating for a full exit
 from the Union and a return to the guilder (the old currency) (Lucardie
-and Voerman 2013, 193). As a consequence we have coded the party 2 on
+and Voerman 2013, 193). As a consequence, we have coded the party 2 on
 OTH_FOREIGN in 2006 and 2010, and 3 since 2012.
 
 The dominance of Wilders' personality in the meaning of the party and
-his domination of its (barely existent) organisation (Vossen 2011, 180;
+his control of its (barely existent) organisation (Vossen 2011, 180;
 Pas, Vries, and Brug 2013; Coffé and Van Den Berg 2017, 8; De Lange and
 Art 2011, 1240) warrants a 3 on CHARISMA, even if there is some debate
 about whether he fits the brief of a typically charismatic populist
 (Vossen 2010, 28--29). INSIDER is coded 2 since the PVV's time in
 coalition government 2010-12 and 1 before. We see no evidence that the
 party condoned threats to liberal democratic norms sufficient to
-register on the LIBDEMNORMS scale.
+register on the LIBDEMNORMS scale (= 1).
 
 **References**
 
@@ -177,4 +174,3 @@ and Society* 11 (1): 22--38. https://doi.org/10.1080/15705850903553521.
 
 ---------. 2011. 'Classifying Wilders: The Ideological Development of
 Geert Wilders and His Party for Freedom'. *Politics* 31 (3): 179--89.
-

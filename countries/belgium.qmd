@@ -1,9 +1,11 @@
 ---
 title: Belgium
+subtitle: 'Date range: 1980-2020'
+title-block-banner: yes
+
 ---
 
-
-Date range: 1980-2020
+# Case notes
 
 ## Flemish Bloc/ Flemish Interest 
 
@@ -137,4 +139,3 @@ https://blogs.lse.ac.uk/europpblog/2017/01/11/tensions-inside-vlaams-belang-belg
 
 Van Kessel, Stijn. 2015. *Populist Parties in Europe: Agents of
 Discontent?* Springer.
-

@@ -1,16 +1,11 @@
 ---
 title: Romania
+subtitle: 'Date range: 1990-2020'
+title-block-banner: yes
+
 ---
 
-
--   Date range: 1990-2020
-
--   Elections included:
-
-    -   Legislative: 1990, 1992, 1996, 2000, 2004, 2008, 2012, 2016,
-        2020.
-
-    -   Presidential: 1990, 1992, 1996, 2000, 2004, 2009, 2014, 2019.
+# Case notes
 
 ## Greater Romania Party
 
@@ -45,7 +40,7 @@ Tudor was also sharply hostile to a number of foreign powers: for
 example decrying the "ever more violent interference of foreign
 diplomats accredited to Bucharest in the state of affairs in Romania"
 (Gallagher 1995, 207). Hungary, the EU, the IMF, and the United States
-(He once accused the US ambassador of assisting in the rigging of EU
+(he once accused the US ambassador of assisting in the rigging of EU
 elections) (Shafir 2008, 457) were frequent enemies of the Romanian
 people (OTH_FOREIGN = 3). For a time the PRM was also the only
 significant anti-EU party in the Romanian parliament (Sum 2010, 19).
@@ -63,7 +58,7 @@ the nationalisation of industry and robust welfare spending (to ethnic
 Romanians) (Smrčková 2012, 214). While the party should still be
 classified as FR on LRPOSITION, it does exhibit some opposition to
 economic elites, particularly relating to foreign capital (Smrčková
-2012, 214) (OTH_FINANCIAL = 2). Further research should confirm the
+2012, 214) (OTH_ECONOMIC = 2). Further research should confirm the
 degree of this.
 
 Shafir considers the PRM to be an anti-system party aimed at maintaining
@@ -106,12 +101,12 @@ law in majority Hungarian areas of Cluj (Gallagher 1995, 213)
 (LIBDEMNORMS = 3). Funer repeatedly denied foreign investment in Cluj on
 the reasoning that "we don't sell our country to foreigners," (Petrovici
 2011, 69) (OTH_FOREIGN = 3). Note that this does not seem to be an
-indication of OTH_FINANCIAL rhetoric (= 1).
+indication of OTH_ECONOMIC rhetoric (= 1).
 
 The picture on OTH_POLCLASS is less clear, however several sources point
-Funar's general position that Bucharest did not appreciate the needs of
-Romanians in the North (Gallagher 2005, 103), and that it had become a
-"city of filth and corruption" that did not deserve to be the Romanian
+to Funar's general position that Bucharest did not appreciate the needs
+of Romanians in the North (Gallagher 2005, 103), and that it had become
+a "city of filth and corruption" that did not deserve to be the Romanian
 capital (Gallagher 1995, 203; see also Petrovici 2011, 70--71). While
 evidence for this rhetoric is not as clear as for Tudor, it does warrant
 at least a 2 on OTH_POLCLASS. Funar was "a believer in one-man
@@ -120,14 +115,14 @@ the PUNR (CHARISMA = 3).
 
 ## People's Party Dan Diaconescu
 
-People's Party - Dan Diaconescu (*Partidul Poporului -- Dan Diaconescu*,
-PP-DD) was a left wing nationalist party that emerged in 2010. Its
-founder and leader, Dan Diaconescu, is a former investigative journalist
-with a large audience, known for revealing sensational stories about
-corruption and political scandals (Gherghina and Miscoiu 2014, 187).
-After stunning success in the 2012 parliamentary elections, the party
-soon faced a downfall after Diaconescu was imprisoned on extortion
-charges (Busuioc 2016, 43).
+People's Party -- Dan Diaconescu (*Partidul Poporului -- Dan
+Diaconescu*, PP-DD) was a left wing nationalist party that emerged in
+2010. Its founder and leader, Dan Diaconescu, is a former investigative
+journalist with a large audience, known for revealing sensational
+stories about corruption and political scandals (Gherghina and Miscoiu
+2014, 187). After stunning success in the 2012 parliamentary elections,
+the party soon faced a downfall after Diaconescu was imprisoned on
+extortion charges (Busuioc 2016, 43).
 
 The PP-DD has a somewhat confusing ideological profile, but has
 generally been called left-wing (Busuioc 2016, 43). Its programme was a
@@ -136,7 +131,7 @@ Euros per citizen, free tractors, and jobs for everyone, with little
 detail on how it would be paid for (it also advocated cutting taxes)
 (Lavinia 2013, 22; Gherghina and Miscoiu 2014, 189). The party was
 generally critical of state privatisations and promised the confiscation
-of unjustified wealth (Lavinia 2013, 22) (OTH_FINANCIAL = 2).
+of unjustified wealth (Lavinia 2013, 22) (OTH_ECONOMIC = 2).
 Diaconescu's was a highly performative populism, as displayed by his
 spectacle of trying to buy the state-owned chemical firm Oltchim "in the
 name of the people and for the people" (Busuioc 2016, 43) in 2012.
@@ -237,4 +232,3 @@ https://doi.org/10.1016/j.postcomstud.2010.01.005.
 Democracies: Romania'. Paper for the workshop of the Friedrich Ebert
 Foundation on "Right-wing extremism and its impact on young democracies
 in the CEE countries".
-

@@ -1,9 +1,11 @@
 ---
 title: Australia
+subtitle: 'Date range: 1980-2020'
+title-block-banner: yes
+
 ---
 
-
-Date range: 1980-2020
+# Case notes
 
 ## One Nation Party
 
@@ -249,4 +251,3 @@ Ward, 23--41. St Lucia: Univ. of Queensland Press.
 Watson, Ian. 2014. "Are the PUPs Pauline's Progeny? Populism and
 Political Alienation among Australian Voters." In *Murray Goot
 Festschrift, Macquarie University, Sydney*.
-

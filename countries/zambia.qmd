@@ -1,15 +1,13 @@
 ---
 title: Zambia
+subtitle: |-
+  Date range: 1991-2020
+  <br>
+title-block-banner: yes
+
 ---
 
-
--   Date range: 1991-2020
-
--   Elections included:
-
-    -   Legislative: 1991, 1996, 2001, 2006, 2011, 2016.
-
-    -   Presidential: 1991, 1996, 2001, 2006, 2008, 2011, 2015, 2016.
+# Case notes
 
 ## Patriotic Front
 
@@ -31,14 +29,14 @@ Edgar Lungu to succeed him. Lungu won re-election in 2015.
 Sata and the PF are frequently considered populist in the Zambia
 literature. While a lot of this relates to policy stances, there is
 enough analysis to suggest that Sata's early elections (2001 and 2006)
-practiced a version of populism that is compatible with our minimum
-definition. This revolved around linking the economic grievances of his
-target audience with the corruption of the government (Paget 2014;
-Larmer and Fraser 2007, 613). In Sichuwa's words, he "presented his
-political competitors, represented by the incumbents Mwanawasa and
-subsequently Banda, as colluding with mining companies to exploit
-ordinary workers" (Sishuwa 2021, 1064) (OTH_POLCLASS). Sata also
-employed a "highly emotional" (Hamusokwe and Mambwe 2021, 5) and
+practiced a version of populist discourse that is compatible with our
+minimum definition. This revolved around linking the economic grievances
+experienced by his target audience with the corruption of the government
+(Paget 2014; Larmer and Fraser 2007, 613). In Sichuwa's words, he
+"presented his political competitors, represented by the incumbents
+Mwanawasa and subsequently Banda, as colluding with mining companies to
+exploit ordinary workers" (Sishuwa 2021, 1064) (OTH_POLCLASS = 3). Sata
+also employed a "highly emotional" (Hamusokwe and Mambwe 2021, 5) and
 "confrontational" style (Cheeseman and Hinfelaar 2010, 64), that
 deployed "sheer rudeness" towards people in power to construct a radical
 and subversive counternarrative (Larmer and Fraser 2007, 613).
@@ -102,26 +100,29 @@ Long before forming the PF, Sata had an established association with
 vigilantes (Larmer and Fraser 2007, 624), and he threated to bring back
 the "militancy" of the colonial past against contemporary rivals in the
 2005 (Uzar 2017, 297). According to Larmer and Fraser, during the 2006
-campaign pro-Sata minibuses in urban areas "represented a threatening,
-lawless presence... When MMD cadres attempted to increase their
-visibility in cities they were soundly chased from the streets. Indeed,
-on one occasion the President was unable to travel through the capital
-as PF cadres blocked various routes with minibuses and threatened to
-stone his motorcade" (Larmer and Fraser 2007, 629). Sata also rejected
-the results of elections (Sishuwa 2023, 432), and threated to set up a
-"parallel government" that would make governance impossible (Cheeseman
-and Hinfelaar 2010, 65). While more research could confirm how much this
-differs from the common practices in Zambian politics, but for now we
-have coded Sata and the PF as 3 on LIBDEMNORMS on the basis of this
-evidence.
+campaign pro-Sata minibuses in urban areas
 
-**Not included**
+> represented a threatening, lawless presence... When MMD cadres
+> attempted to increase their visibility in cities they were soundly
+> chased from the streets. Indeed, on one occasion the President was
+> unable to travel through the capital as PF cadres blocked various
+> routes with minibuses and threatened to stone his motorcade. (Larmer
+> and Fraser 2007, 629)
+
+Sata also rejected the results of elections (Sishuwa 2023, 432), and
+threated to set up a "parallel government" that would make governance
+impossible (Cheeseman and Hinfelaar 2010, 65). While more research could
+confirm how much this differs from the common practices in Zambian
+politics, but for now we have coded Sata and the PF as 3 on LIBDEMNORMS
+on the basis of this evidence.
+
+## Not included 
 
 The **Movement for Multi-Party Democracy** (MMD) was a broad movement
 that opposed the single party United National Independence Party (UNIP)
 government and long-term president Kenneth Kaunda in the 1991 elections.
 The MMD was initially led by the chairman of the Zambia Congress of
-Trade Union Frederick Chiluba, who defeated Kaunda in a landslide and
+Trade Unions Frederick Chiluba, who defeated Kaunda in a landslide and
 went on to win the 1996 election too. Chiluba's 1991 campaign has
 occasionally been classified as populist in the literature (See for
 example Makulilo 2013, 75; Vaughan 1999, 253; Larmer and Fraser 2007,
@@ -215,7 +216,13 @@ In *IESE/CMI Conference on Election Processes, Liberation Movements and
 Democratic Change in Africa, Maputo*, 9--11.
 https://www.iese.ac.mz/lib/publication/proelit/Neo_Simutanyi.pdf.
 
-Sishuwa, Sishuwa. 2021. 'Roots of Contemporary Political Strategies:
+Sishuwa, Sishuwa. 2020. '"Join Me to Get Rid of This President": The
+Opposition, Civil Society and Zambia's 2011 Election'. In *Democracy and
+Electoral Politics in Zambia*, edited by Tinenenji Banda, O'Brien Kaaba,
+Marja Hinfelaar, and Muna Ndulo, 11--33. Brill.
+https://brill.com/display/book/edcoll/9789004430440/BP000003.xml?body=contentSummary-38296.
+
+---------. 2021. 'Roots of Contemporary Political Strategies:
 Ethno-Populism in Zambia during the Late Colonial Era and Early 2000s'.
 *Journal of Southern African Studies* 47 (6): 1061--81.
 https://doi.org/10.1080/03057070.2021.1940602.
@@ -232,4 +239,3 @@ African Political Economy* 44 (152): 292--311.
 https://doi.org/10.1080/03056244.2017.1345731.
 
 Vaughan, Femi. 1999. 'Africa's Second Democratic Transition'. *Journal
-of Third World Studies* 16 (1): 251--55.

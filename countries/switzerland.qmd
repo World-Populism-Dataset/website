@@ -1,20 +1,17 @@
 ---
 title: Switzerland
+subtitle: 'Date range: 1980-2020'
+title-block-banner: yes
+
 ---
 
-
--   Date range: 1980-2020
-
--   Elections included:
-
-    -   Legislative: 1983, 1987, 1991, 1995, 1999, 2003, 2007, 2011,
-        2015, 2019.
+# Case notes
 
 ## Swiss Auto Party
 
 The Swiss Auto Party (*Autopartei der Schweiz,* APS), was founded in
 1985 by economic consultant and lawyer Michael Dreher to oppose
-environmentally conscious state interventions in the ives of citizens
+environmentally conscious state interventions in the lives of citizens
 and the elite "do-gooders" who push them (Church 1989, 118). It soon
 expanded beyond its narrow focus on the interests of motorists to
 espouse a broad neo-liberalism and harsh opposition to immigration
@@ -44,18 +41,18 @@ policy platform was its opposition to immigration (Kobach 1993, 356).
 The party alleged that a "flood" of refugees were seeking asylum in
 Switzerland for economic reasons rather than persecution, and that they
 constituted a drain on state resources (Betz 1994, 121) (OTH_IMMIGRANTS
-= 3). The nature of these attacks have been considered xenophobic by
-many (Husbands 2000, 507; Skenderovic 2007, 170), as they particularly
+= 3). The nature of these attacks has been considered xenophobic by many
+(Husbands 2000, 507; Skenderovic 2007, 170), as they particularly
 targeted non-European migrants (Betz 1994, 121), who allegedly
 threatened to "makes us Swiss strangers in our own country" (Skenderovic
 2009, 111). We've coded APS 3 on OTH_ETHNIC, although there may be a
-case to leave it at 2. We've seen no evidence for OTH_FINACIAL or
+case to leave it at 2. We've seen no evidence for OTH_ECONOMIC or
 OTH_MILITARY (both = 1), and although the party opposed European
 integration, the literature does not emphasise that any OTH_FOREIGN
 rhetoric was a significant part of its discourse (= 1).
 
 Although the party was programmatically thin (Betz 1994, 108), its
-neo-liberalism and strong nativism make it clearly a part of the far
+neo-liberalism and strong nativism make it clearly a party of the far
 right (LRPOSITION = FR). Skenderovic claims that "The APS/FPS was not
 characterised by strong leadership, nor was the party led by an
 uncontested, charismatic leader" (Skenderovic 2009, 108) (CHARISMA = 1),
@@ -68,22 +65,22 @@ the party had served in government before the 1991 election (INSIDER =
 
 The Swiss People's Party (*Schweizerische Volkspartei*, SVP) traces its
 roots to various agrarian and conservative movements in the twentieth
-century. From the 1950s it and its predecessor have been one of the
-parties included in the "magic formula" of power sharing on the Swiss
-federal council (McGann and Kitschelt 2005, 153). Most scholarship
-considers the party to be mainstream conservative and non-populist for
-most of this time (Mazzoleni 2013, 237; Bernhard 2017, 514). The rise of
-Christoph Blocher and his Zurich-based wing of the party changed this
-(Marcus 2000, 36). Given the traditionally decentralised nature of Swiss
-parties it is difficult to pinpoint the exact moment that the party
-should be collectively characterised by Blocher's distinct populist
-rhetoric, but the best option seems to be the 1999 federal election
-(Rose 2000, 36), when Blocher's emergence as its undisputed figurehead
-saw it's vote increase dramatically to 22.5% from 14.9% in the previous
-election. The SVP has received approximately 25-30% in each subsequent
-election. We've therefore included he SVP from 1999 -- 2019.
+century. From the 1950s it and its predecessor have been included in the
+"magic formula" of power sharing on the Swiss federal council (McGann
+and Kitschelt 2005, 153). Most scholarship considers the party to be
+mainstream conservative and non-populist for most of this time
+(Mazzoleni 2013, 237; Bernhard 2017, 514). The rise of Christoph Blocher
+and his Zurich-based wing of the party changed this (Marcus 2000, 36).
+Given the traditionally decentralised nature of Swiss parties it is
+difficult to pinpoint the exact moment that the party should be
+collectively characterised by Blocher's distinct populist rhetoric, but
+the best option seems to be the 1999 federal election (Rose 2000, 36),
+when Blocher's emergence as its undisputed figurehead saw it's vote
+increase dramatically to 22.5% from 14.9% in the previous election. The
+SVP has received approximately 25-30% in each subsequent election. We
+have therefore included the SVP from 1999 -- 2019.
 
-Under Blicher's leadership, the SVP adopted "virulent" rhetoric against
+Under Blocher's leadership, the SVP adopted "virulent" rhetoric against
 its rivals which converted it into a party of protest against the
 broader political establishment (Church 1996b, 642; 2000, 224). Further
 to it being incompetent, the political class was described by Blocher to
@@ -115,19 +112,19 @@ while the SVP was a member of the governing coalition (Mazzoleni 2013,
 243).
 
 The SVP's anti-immigration attitude has been one of the main
-programmatic element of its success under Blocher (Antonuk 2000, 23). It
-accused asylum seekers of abusing the system and threating the security
-of citizens (Church 2000, 218; Mazzoleni 2013, 246) (OTH_IMMIGRANTS =
-3). In a number of ways this opposition to immigration has included
-xenophobic and racist components, as the party predominantly opposed
-non-European immigrants (Mazzoleni and Skenderovic 2007, 94). In the
-most notorious instance, the SVP's 2007 election campaign included
-posters of white sheep kicking black sheep out of the country under the
-slogan "For More Security" (Michel 2015, 410). The party has also
-launched a popular initiative against the construction of Islamic
-minarets in 2009, and included in its platform its stance against
-"growing Islamisation" in 2011 (Mazzoleni 2013, 249). Blocher has also
-been accused of trying to "harness Swiss resentment at Jewish
+programmatic elements of its success under Blocher (Antonuk 2000, 23).
+It accused asylum seekers of abusing the system and threating the
+security of citizens (Church 2000, 218; Mazzoleni 2013, 246)
+(OTH_IMMIGRANTS = 3). In a number of ways this opposition to immigration
+has included xenophobic and racist components, as the party
+predominantly opposed non-European immigrants (Mazzoleni and Skenderovic
+2007, 94). In the most notorious instance, the SVP's 2007 election
+campaign included posters of white sheep kicking black sheep out of the
+country under the slogan "For More Security" (Michel 2015, 410). The
+party has also launched a popular initiative against the construction of
+Islamic minarets in 2009, and included in its platform its stance
+against "growing Islamisation" in 2011 (Mazzoleni 2013, 249). Blocher
+has also been accused of trying to "harness Swiss resentment at Jewish
 organizations" attempting to seek reparations for Swiss Banks'
 activities during the Holocaust (Marcus 2000, 36). We've coded the party
 3 on OTH_ETHNIC.
@@ -141,7 +138,7 @@ last line of defence (Mazzoleni and Skenderovic 2007, 93; Bernhard,
 Kriesi, and Weber 2015, 125). This included an attack against domestic
 *heimatmiide Parteien* (parties tired of their home country) (Caramani
 1996, 132) (OTH_FOREIGN = 3). The party included no major economic
-component in its anti-elitism (Bernhard 2017, 514) (OTH_FINANCIAL = 1),
+component in its anti-elitism (Bernhard 2017, 514) (OTH_ECONOMIC = 1),
 nor any opposition to the military (OTH_MILITARY = 1).
 
 Owing to its strong economic neo-liberalism (Afonso and Papadopoulos
@@ -248,4 +245,3 @@ Prejudice* 41 (2): 155--76.
 
 ---------. 2009. *The Radical Right in Switzerland: Continuity and
 Change, 1945-2000*. New York: Berghahn Books.
-

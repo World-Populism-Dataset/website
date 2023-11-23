@@ -1,78 +1,84 @@
 ---
 title: United States
+subtitle: |-
+  Date range: 1980-2020
+  <br>
+  One challenge with the United States is that its clear history with
+  populism is slightly obscured by the embeddedness of its two-party
+  system. Both parties have traditionally varied greatly from one locality
+  to another, and ascribing either as fundamentally populist is difficult
+  -- even are led by presidential candidates who fit the label. Hence, we
+  have looked only at presidential candidates here.
+title-block-banner: yes
+
 ---
 
-
-One challenge with the United States is that its clear history with
-populism is slightly obscured by the embeddedness of its two-party
-system. Both parties have traditionally varied greatly from one locality
-to another, and ascribing either as fundamentally populist is difficult
--- even are led by presidential candidates who fit the label. Hence, we
-have looked only at presidential candidates here.
+# Case notes
 
 ## Donald Trump
 
 Celebrity businessman and real estate scion Donald Trump ran a populist
 campaign for the presidency in 2016, after first successfully seeking
-the Republican party's nomination. His campaign centred on a brash
+the Republican Party's nomination. His campaign centred on a brash
 hostility to the political class, an abrasive attitude to his opponents,
 an air of national economic and cultural crisis, and a loose ideological
 grounding of right-wing nativism and nationalism. Throughout the
 campaign Trump built off his well-established brand to court media
-attention through controversial statements (Jacobson, 2017:15), and his
+attention through controversial statements (Jacobson 2017, 15), and his
 clinching of the nomination and presidency -- although neither included
-majorities of the vote -- surprised most observers. While Trump can be
-placed in a long tradition of American populism (see: Savage, 2019), he
-is generally considered to be a departure from the norms of presidential
-campaigning in recent generations (Appel, 2018:157). As with some others
-in the literature (Fenger, 2018:193; Schneiker, 2020:2) we've elected
-not to categorise the whole Republican party as populist in the same
-ways as Trump was.
+majorities of the vote -- surprised most observers. He went on to lose
+re-election in 2020 to Democrat Joe Biden. While Trump can be placed in
+a long tradition of American populism (see Savage 2019), he is generally
+considered to be a departure from the norms of presidential campaigning
+in recent generations (Appel 2018, 157). As with some others in the
+literature (Fenger 2018, 193; Schneiker 2020, 2) we've elected not to
+categorise the whole Republican party as populist in the same way Trump
+was.
 
 Trump distinguished himself with an uncompromisingly *ad hominin*
-rhetoric against his political opponents (Mendes, 2016:65; Appel, 2018;
-Nai & Maier, 2018:82) whom he collectivised as a broader "elite"
-political "establishment" (Oliver and Rahn, 2016:193; Jensen & Bang,
-2017:355). Throughout the 2016 campaign he used the slogan "drain the
+rhetoric against his political opponents (Mendes 2016, 65; Appel 2018;
+Nai and Maier 2018, 82) whom he collectivised as a broader "elite" and
+political "establishment" (Oliver and Rahn 2016, 193; Jensen and Bang
+2018, 355). Throughout the 2016 campaign he used the slogan "drain the
 swamp" to suggest that the corruption of Washington D.C. had become
-entrenched and systemic (Rudolph, 2019:1), suggested that the "system is
-rigged against our citizens" in favour of the powerful (Jamieson &
-Taussig, 2017:624), and claimed in typically populist terms that on
-"every major issue affecting this country, the people are rights and the
-governing elite are wrong" (Oliver and Rahn, 2016:189). He pledged to be
+entrenched and systemic (Rudolph 2021, 33), suggested that the "system
+is rigged against our citizens" in favour of the powerful (Jamieson and
+Taussig 2017, 624), and claimed in typically populist terms that on
+"every major issue affecting this country, the people are right and the
+governing elite are wrong" (Oliver and Rahn 2016, 189). He pledged to be
 the "voice" of the "American people" against this establishment (Ostiguy
-& Roberts, 2016:43). In the 2016 election, this antipathy to the
+and Roberts 2016, 43). In the 2016 election, this antipathy to the
 governing elite was trained most directly on opponent Hilary Clinton
-(whom he said should be put in prison for corruption, Biegon, 2019:527),
-but also against high profile members of his own party, the media and
-the state, suggesting a holistically anti-political class discourse
-(OTH_POLCLASS = 3).
+(whom he said should be put in prison for corruption, (Biegon 2019,
+527)), but also against high profile members of his own Republican
+Party, the media and the state, suggesting a holistically anti-political
+class discourse (OTH_POLCLASS = 3).
 
 Antipathy toward immigration on cultural, economic and security grounds
-formed a key component of the Trump campaign (Mendes, 2016:65), and was
+formed a key component of the Trump campaign (Mendes 2016, 65), and was
 manifested in his policy to build a wall along the Mexican border and
 force Mexico to pay for it. This anti-immigrant sentiment applied to
-asylum seekers from Syria, whom he promised to deport if he won (Mendes,
-2016:65). He also repeatedly linked the control of immigration with
-terrorism (Hall, 2020:5) (OTH_IMMIGRANTS = 3). This anti-immigrant
-stance correlated with an ethnocentric rhetoric that demonised Muslims,
-Mexicans (seemingly by extension, Latinxs), and other minorities
-(Jacobson, 2017:20; Biegon, 2019:523; Savage, 2019:409). A few notable
+asylum seekers from Syria, whom he promised to deport if he won (Mendes
+2016, 65). He also repeatedly linked the control of immigration with
+terrorism (Hall 2021) (OTH_IMMIGRANTS = 3). This anti-immigrant stance
+correlated with an ethnocentric rhetoric that demonised Muslims,
+Mexicans (seemingly by extension, Hispanics), and other minorities
+(Jacobson 2017, 20; Biegon 2019, 523; Savage 2019, 409). A few notable
 examples of this discourse were: his claim that the immigrants being
 "sent" by Mexico were "bringing crime, they're rapists" at his campaign
-commencement speech (Edwards, 2018:185); proposing a ban on Muslims from
+commencement speech (Edwards 2018, 185); proposing a ban on Muslims from
 entering the country; questioning the qualification of an American-born
 judge to preside over his affairs on the basis that "he's a Mexican";
 and asserting without evidence the conspiracy theory that Muslim's
 cheered when the World Trade Centre was attacked on September 11, 2001
-(see: Jamieson & Taussig, 2017; Hall, 2020; Savage, 2019:402). Of
+(see Jamieson and Taussig 2017; Hall 2021; Savage 2019, 402). Of
 relevance here is his intense media campaign years earlier alleging that
 incumbent President Barack Obama (2009-17) was born in Kenya and
 ineligible for the presidency -- something many scholars consider a
-racist dog whistle given that Obama is African American (Kellner,
-2017:81). More broadly, many scholars have also considered Trump
-campaign rhetoric to tap into deeper anxieties among white voters (Bobo,
-2017; Ostiguy & Roberts, 2016:44). It is debatable whether all of this
+racist dog whistle given that Obama is African American (Kellner 2022,
+81). More broadly, many scholars have also considered Trump campaign
+rhetoric to tap into deeper anxieties among white voters (Bobo 2017;
+Ostiguy and Roberts 2016, 44). It is debatable whether all of this
 should earn Trump a 2 or 3 on our OTH_ETHNIC coding, given that his
 ethnocentrism was still somewhat implicit and more opaque than more
 outright ethnic majoritarian populist candidates in Europe and
@@ -80,75 +86,81 @@ elsewhere. While this could be further discussed, we've coded Trump 2 on
 this scale.
 
 Trump is often considered to have upended the Republican party's prior
-association with economic liberalism and free trade orthodoxy (Ostiguy &
-Roberts, 2016:41), and taken a sharper stance against major American
-businesses that sent jobs offshore (Edwards, 2018:182; Schneiker,
-2020:3-4). While this is some truth to this, it would be a stretch to
-register this rhetoric on the OTH_FINANCIAL variable as he did not
-really portray the country's wealthy and business class as the core of
-the problem. Claiming to be a billionaire himself, he often praised
-loyal businesses and repeated neoliberal mantras about the intrusiveness
-of government regulations. In his acceptance speech for the Republican
+association with economic liberalism and free trade orthodoxy (Ostiguy
+and Roberts 2016, 41), and taken a sharper stance against major American
+businesses that sent jobs offshore (Edwards 2018, 182; Schneiker 2020,
+3--4). While this is some truth to this, it would be a stretch to
+register this rhetoric on the OTH_ECONOMIC variable as he did not really
+portray the country's wealthy and business class as the core of the
+problem. Claiming to be a billionaire himself, he often praised loyal
+businesses and repeated neoliberal mantras about the intrusiveness of
+government regulations. In his acceptance speech for the Republican
 nomination for example he pledged to make America "rich again using the
-greatest business people in the world" (cited in Ostiguy & Roberts,
-2016:43). Hence while high profile businesses and wealthy figures may
+greatest business people in the world" (cited in Ostiguy and Roberts
+2016, 43). Hence while high profile businesses and wealthy figures may
 have occasionally been on Trump's 2016 enemies list, the wealthy did not
 constitute a core "other" to the people in his populist discourse. This
-remained the case during the first term of the Trump presidency, when
-feuds with the likes of Jeff Bezos or the Koch brothers (Boucher and
-Thies, 2019:714) (OTH_FINANCIAL=1). In office, Trump has pursued more
-neoliberal economic policies than his campaign suggested.
+remained the case during the first term of the Trump presidency, when he
+engaged in occasional feuds with the likes of Jeff Bezos or the Koch
+brothers (Boucher and Thies 2019, 714) (OTH_ECONOMIC =1). In office,
+Trump pursued more neoliberal economic policies than his campaign
+suggested.
 
 Foreign states played an important role in the Trump campaign's
 conceptualisation of the American People's opponents. Trump routinely
 claimed that other countries were ripping America off and free-riding on
-its generosity (Ostiguy & Roberts, 2016:44). This extended from military
-alliances like NATO to trade imbalances with Mexico and China and asylum
-seeker resettlement arrangements. At times this formed a general
-anti-globalization agenda that pushed back not only on free trade, but
-on global institutions and rules (Biegon, 2019:529; Edwards, 2018).
-While these foreign and "global" powers were clearly relevant "others"
-to Trump's American people, this doesn't quite extend to the point of
-local leaders acting on their behalf, and therefore OTH_FOREIGN is coded
-2. The military did not feature as an "other" in Trump's rhetoric
-(OTH_MILITARY = 1).
+its generosity (Ostiguy and Roberts 2016, 44). This extended from
+military alliances like NATO to trade imbalances with Mexico and China
+and asylum seeker resettlement arrangements. At times this formed a
+general anti-globalization agenda that pushed back not only on free
+trade, but on global institutions and rules (Biegon 2019, 529; Edwards
+2018). While these foreign and "global" powers were clearly relevant
+"others" to Trump's American people, this doesn't quite extend to the
+point of local leaders acting on their behalf, and therefore OTH_FOREIGN
+is coded 2. The military did not feature as an "other" in Trump's
+rhetoric (OTH_MILITARY = 1).
 
 While the 2016 campaign pushed back on some economic policies of the
 American right (see above), Trump's cultural nativism, nationalism and
 underlying neo-liberalism clearly make his campaign right wing
 (LRPOSITION = R). Trump's brash persona has undoubtedly been central to
-his campaign's appeal (Schneiker, 2020). A key component of this image
+his campaign's appeal (Schneiker 2020). A key component of this image
 has been Trump's willingness to provide an official interpretation of
 seemingly every news story and event, often on direct channels like
 Twitter and call-ins to news programs, creating a personalised and
 centralised source of political information to his supporters. This
 occasionally reached comical level when he claimed, for example, that he
-knew more about ISIS than "the generals" (Hall, 2020:6). By claiming of
+knew more about ISIS than "the generals" (Hall 2021). By claiming of
 America's crisis that "I alone can fix it" his campaign built a saviour
-complex around his personality and leadership (Lieberman *et al*,
-2019:2). However as Trump was the nominee of the well-established
-Republican Party, he should be coded 2 by the definition of our CHARISMA
-variable. While Trump had occasionally donated to politicians of both
-parties, he had never served in government in any capacity, and is
-therefore coded 1 for INSIDER.
+complex around his personality and leadership (Lieberman et al. 2019,
+2). However as Trump was the nominee of the well-established Republican
+Party, he should be coded 2 by the definition of our CHARISMA variable.
+While Trump had occasionally donated to politicians of both parties, he
+had never served in government in any capacity, and is therefore coded 1
+for INSIDER.
 
 The Trump campaign and presidency have pushed significantly against
-liberal democratic norms in several ways (see Lieberman *et al*, 2019).
-As a candidate he questioned the integrity of democratic and judicial
+liberal democratic norms in several ways (see Lieberman et al. 2019). As
+a candidate he questioned the integrity of democratic and judicial
 institutions, official government statistics on matters areas like
 labour and immigration, and the impartiality of federal law enforcement
-organisations (Jamieson & Taussig, 2017:620, 627). At several of his
-campaign rallies he encouraged supporters to assault protesters (Mendes,
-2016:66; Ostiguy & Roberts, 2016:44), and in the words of Mendes
-(2016:66) "\[h\]e seems perfectly willing to countenance illegal acts
-and abandon due process to combat the threats he invokes." He has been
-extremely hostile to media criticism, and declared that the media was
-the "enemy of the American people" (Jamieson & Taussig, 2017:638). As
-with OTH_ETHNIC, the LDNORMS scale is difficult with Trump, because
-there's a good case for him to be coded either 2 or 3. While this could
-be further debated, we've concluded that the above actions shouldn't
-quite reach the point of "threatening the democratic order", and hence
-he is coded 2.
+organisations (Jamieson and Taussig 2017, 620, 627). At several of his
+campaign rallies he encouraged supporters to assault protesters (Mendes
+2016, 66; Ostiguy and Roberts 2016, 44), and in the words of Mendes
+"\[h\]e seems perfectly willing to countenance illegal acts and abandon
+due process to combat the threats he invokes" (Mendes 2016, 66). He has
+been extremely hostile to media criticism, and declared that the media
+was the "enemy of the American people" (Jamieson and Taussig 2017, 638).
+As with OTH_ETHNIC, the LIBDEMNORMS scale is difficult with Trump,
+because there's a good case for him to be coded either 2 or 3. While
+this could be further debated, we've concluded that the above actions
+shouldn't quite reach the point of "threatening the democratic order",
+and hence he is coded 2. Note that after the 2020 election, whcn Trump
+supporters violently stormed the Capitol Building (where his election
+loss was being formalised by Congress) seemingly with Trump's
+acquiescence, would be enough to code 3 on this variable. However, as it
+happened before the 2020 campaign we have not considered it in the
+coding for either the 2016 or 2020 elections.
 
 ## Not Included
 
@@ -160,18 +172,18 @@ claimed that ordinary people had been left out of politics, and
 contrasted this problem with his own campaign which was driven more by
 voluntary engagement rather than the backing of major parties. Take for
 example his call to "go back to what this country is supposed to be
-about. The voters own this country" (Prendergast, 2008:29). Second,
+about. The voters own this country" (Prendergast 2019, 29). Second,
 Perot styled himself as a true outsider to American political incumbents
 of both parties, and claimed that his mission as "cleaning out the
-political barn" (Prinz, 1994; Broussard, 1995:62). This was coupled with
-an anti-politics (Brown, 1997) characterisation Washington as "the
+political barn" (Prinz 1994; Broussard 1995, 62). This was coupled with
+an anti-politics (Brown 1997) characterisation Washington as "the
 system" without significant differences between the major parties
-(Schulte-Sasse, 1993), and hence one with a political class in control.
+(Schulte-Sasse 1993), and hence one with a political class in control.
 Third, his appeal (although his campaign was based on highly
 programmatic policy proposals about the budget and inequality) was
 highly charisma based, and his plain -spoken and folksy persona was
 billed as an antidote to a general crisis facing the county's economic
-management (Owen & Dennis, 1996:384; Tonn & Endress, 2001:281).
+management (Owen and Dennis 1996, 384; Tonn and Endress 2001, 281).
 
 While there is a claim that this constitutes a kind of populism, we find
 that his characterisation of the incumbent political order was not
@@ -180,110 +192,122 @@ actually populist by our definition, and fits more within the norms of
 albeit in a more concentrated form. Perot claimed that he was fighting
 the "system" but said the failings of this systems to be flawed ideas,
 estrangement from the real issues of everyday people, and dominated by
-"paid professionals" (Prendergast, 2008:27). Lacking in this
+"paid professionals" (Prendergast 2019, 27). Lacking in this
 characterisation of the incumbent order was any accusatory anti-elitism
 that suggested the elite was of any kind of ill-character or corruption,
 of that the problems of ordinary people were benefiting those
 incumbents. In fact, Perot claimed that there was too much negativity in
-political campaigning (Prendergast, 2008:27), and suggested that many of
-his antagonists in the system were "fine people" (Schulte-Sasse,
-1993:95).
+political campaigning (Prendergast 2019, 27), and suggested that many of
+his antagonists in the system were "fine people" (Schulte-Sasse 1993,
+95).
 
 **References**
 
-Edward C. Appel, "Burlesque, Tragedy, and a (Potentially) 'Yuuuge'
-'Breaking of a Frame': Donald Trump's Rhetoric as 'Early Warning'?"
-*Communication Quarterly*, Vol.66, No.2 (2018) pp.157-175
+Appel, Edward C. 2018. 'Burlesque, Tragedy, and a (Potentially) "Yuuuge"
+"Breaking of a Frame": Donald Trump's Rhetoric as "Early Warning"?'
+*Communication Quarterly* 66 (2): 157--75.
+https://doi.org/10.1080/01463373.2018.1439515.
 
-Rubrick Biegon, "A populist grand strategy? Trump and the framing of
-American decline" *International Relations*," Vol.33, No.4 (2019)
-pp.517--539
+Biegon, Rubrick. 2019. 'A Populist Grand Strategy? Trump and the Framing
+of American Decline'. *International Relations* 33 (4): 517--39.
+https://doi.org/10.1177/0047117819852399.
 
-Lawrence D. Bobo, "Racism in Trump's America: Reflections on culture,
-sociology, and the 2016 US presidential election," *The British Journal
-of Sociology*, Vol.68, No.S1 (2017) pp.S85-S104.
+Bobo, Lawrence D. 2017. 'Racism in Trump's America: Reflections on
+Culture, Sociology, and the 2016 US Presidential Election'. *The British
+Journal of Sociology* 68 (S1). https://doi.org/10.1111/1468-4446.12324.
 
-Jean-Christophe Boucher and Cameron G. Thies, "'I Am a Tariff Man': The
-Power of Populist Foreign Policy Rhetoric under President Trump" *The
-Journal of Politics*, Vol.81, No.2. (2019) pp.
+Boucher, Jean-Christophe, and Cameron G. Thies. 2019. '"I Am a Tariff
+Man": The Power of Populist Foreign Policy Rhetoric under President
+Trump'. *The Journal of Politics* 81 (2): 712--22.
+https://doi.org/10.1086/702229.
 
-Broussard, James Allen, *A Champion for the Disaffected: Ross Perot's
-1992 Presidential Crusade*, PhD Thesis, University of Arizona, 1995.
+Broussard, James Allen. 1995. 'A Champion for the Disaffected: Ross
+Perot's 1992 Presidential Crusade'. The University of Arizona.
 
-Brown, Gwen, "Deliberation and its Discontents: H. Ross Perot's
-Antipolitical Populism" in Andreas Schedler (ed.), *The End of
-Politics?* (London: Palgrave Macmillan, 1997) pp.115-148.
+Brown, Gwen. 1997. 'Deliberation and Its Discontents: H. Ross Perot's
+Antipolitical Populism'. In *The End of Politics?: Explorations into
+Modern Antipolitics*, edited by Andreas Schedler, 115--48. London:
+Palgrave Macmillan.
 
-Jason A. Edwards, "Make America Great Again: Donald Trump and Redefining
-the U.S. Role in the World" *Communication Quarterly*, Vol.66 No.2
-(2018) pp.176-195.
+Edwards, Jason A. 2018. 'Make America Great Again: Donald Trump and
+Redefining the U.S. Role in the World'. *Communication Quarterly* 66
+(2): 176--95. https://doi.org/10.1080/01463373.2018.1438485.
 
-Jonny Hall, "In search of enemies: Donald Trump's populist foreign
-policy rhetoric" *Politics*, (online version) (2020), pp.1-16.
+Fenger, Menno. 2018. 'The Social Policy Agendas of Populist Radical
+Right Parties in Comparative Perspective'. *Journal of International and
+Comparative Social Policy* 34 (3): 188--209.
 
-Jacobson, Gary C., "The Triumph of polarized partisanship in 2016:
-Donald Trump\'s improbable victory" *Political Science Quarterly* 132
-(1) (2017): pp.9-42
+Hall, Jonny. 2021. 'In Search of Enemies: Donald Trump's Populist
+Foreign Policy Rhetoric'. *Politics* 41 (1): 48--63.
+https://doi.org/10.1177/0263395720935377.
 
-Jamieson, Kathleen Hall, and Doron Taussig. \"Disruption, demonization,
-deliverance, and norm destruction: The rhetorical signature of Donald J.
-Trump.\" *Political Science Quarterly* 132, no. 4 (2017): 619-651.
+Jacobson, Gary C. 2017. 'The Triumph of Polarized Partisanship in 2016:
+Donald Trump's Improbable Victory'. *Political Science Quarterly* 132
+(1): 9--41.
 
-Douglas Kellner, "Donald Trump, Media Spectacle, and Authoritarian
-Populism" *Fast Capitalism*, Vol.14, No.1 (2017) pp.75-87.
+Jamieson, Kathleen Hall, and Doron Taussig. 2017. 'Disruption,
+Demonization, Deliverance, and Norm Destruction: The Rhetorical
+Signature of Donald J. Trump'. *Political Science Quarterly* 132 (4):
+619--50.
 
-Lieberman, R. C., Mettler, S., Pepinsky, T. B., Roberts, K. M., &
-Valelly, R., "The Trump presidency and American democracy: a historical
-and comparative analysis" *Perspectives on Politics*, Vol.17, No.2
-(2019) pp.470-479.
+Jensen, Michael J., and Henrik P. Bang. 2018. 'Populism and
+Connectivism: An Analysis of the Sanders and Trump Nomination
+Campaigns'. In *Social Media, Political Marketing and the 2016 US
+Election*, 137--58. Routledge.
 
-Jensen, Michael J., and Henrik P. Bang "Populism and Connectivism: An
-Analysis of the Sanders and Trump Nomination Campaigns", *Journal of
-Political Marketing*, Vol.16, No.3-4 (2017) pp.343-364.
+Kellner, Douglas. 2022. 'Donald Trump, Media Spectacle, and
+Authoritarian Populism'. In *Die Wiederkehr des autoritären Charakters*,
+edited by Manuel Clemens, Thorben Päthe, and Marc Petersdorff, 155--85.
+Kritische Theorien in der globalen Moderne. Wiesbaden: Springer
+Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-658-36203-4_8.
 
-Amy E. Mendes, "Digital Demagogue: The Critical Candidacy of Donald J.
-Trump," *Journal of Contemporary Rhetoric*, Vol.6, No.3/4, (2016),
-pp.62-73.
+Lieberman, Robert C., Suzanne Mettler, Thomas B. Pepinsky, Kenneth M.
+Roberts, and Richard Valelly. 2019. 'The Trump Presidency and American
+Democracy: A Historical and Comparative Analysis'. *Perspectives on
+Politics* 17 (2): 470--79.
 
-Nai, Alessandro, and Jürgen Maier, "Perceived personality and campaign
-style of Hillary Clinton and Donald Trump" *Personality and Individual
-Differences* Vol.121 (2018) pp.80-83.
+Mendes, Amy E. 2016. 'Digital Demagogue: The Critical Candidacy of
+Donald J. Trump.' *Journal of Contemporary Rhetoric* 6.
 
-Oliver, J.Eric. and Wendy. M. Rahn, "Rise of the Trumpenvolk: Populism
-in the 2016 Election" The ANNALS of the American Academy of Political
-and Social Science, 667(1), (2016) pp.189-206.
+Nai, Alessandro, and Jürgen Maier. 2018. 'Perceived Personality and
+Campaign Style of Hillary Clinton and Donald Trump'. *Personality and
+Individual Differences* 121: 80--83.
 
-Ostiguy, Pierre, and Kenneth M. Roberts, \"Putting Trump in Comparative
-Perspective: Populism and the Politicization of the Sociocultural Law.\"
-*Brown Journal of World Affairs*, vol.23, no.1 (2016) pp.25-50.
+Oliver, J. Eric, and Wendy M. Rahn. 2016. 'Rise of the *Trumpenvolk*:
+Populism in the 2016 Election'. *The ANNALS of the American Academy of
+Political and Social Science* 667 (1): 189--206.
+https://doi.org/10.1177/0002716216662639.
 
-Diana Owen and Jack Dennis, "Anti-partyism in the USA and support for
-Ross Perot" *European Journal of Political Research*, Vol.29 (1996)
-pp.383-400.
+Ostiguy, Pierre, and Kenneth M. Roberts. 2016. 'Putting Trump in
+Comparative Perspective: Populism and the Politicization of the
+Sociocultural Law'. *Brown J. World Aff.* 23: 25.
 
-Prendergast, Kevin "An Outsider\'s Campaign: Ross Perot\'s Impact on
-Presidential Politics," *The Histories* Vol.8 Iss.1 (2008) pp.27-35.
+Owen, Diana, and Jack Dennis. 1996. 'Anti‐partyism in the USA and
+Support for Ross Perot'. *European Journal of Political Research* 29
+(3): 383--400. https://doi.org/10.1111/j.1475-6765.1996.tb00658.x.
 
-Timothy S. Prinz, "Moving From the Outside In? Ross Perot and
-Anti-Incumbency in the 1992 Congressional Races" *Journal of Political
-Science*, Vol.22, No.1 (1994) pp.51-75.
+Prendergast, Kevin. 2019. 'An Outsider's Campaign: Ross Perot's Impact
+on Presidential Politics'. *The Histories* 8 (1): 6.
 
-Thomas Rudolph, "Populist anger, Donald Trump, and the 2016 election,
-*Journal of Elections, Public Opinion and Parties* preprint, (2019),
-pp.1-26.
+Prinz, Timothy S. 1994. 'Moving From the Outside In? Ross Perot and
+Anti-Incumbency in the 1992 Congressional Races'. *Journal of Political
+Science* 22 (1): 3.
 
-Linda Schulte-Sasse, "Meet Ross Perot: The Lasting Legacy of Capraesque
-Populism," *Cultural Critique*, No.25 (1993)pp. 91-119.
+Rudolph, Thomas. 2021. 'Populist Anger, Donald Trump, and the 2016
+Election'. *Journal of Elections, Public Opinion and Parties* 31 (1):
+33--58. https://doi.org/10.1080/17457289.2019.1582532.
 
-Savage, Ritchie, "Populism in the U.S." in Carlos d la Torre, (ed.)
-*Routledge Handbook of Global Populism* (Routledge, Abingdon: 2019)
-pp.402-415.
+Savage, Ritchie. 2019. 'Populism in the U.S.' In *Routledge Handbook of
+Global Populism*, edited by Carlos De la Torre, 402--15. London:
+Routledge.
 
-Schneiker, Andrea, "Populist Leadership: The Superhero Donald Trump as
-Savior in Times of Crisis" *Political Studies* Preprint edition (2020),
-pp.1-18.
+Schneiker, Andrea. 2020. 'Populist Leadership: The Superhero Donald
+Trump as Savior in Times of Crisis'. *Political Studies* 68 (4):
+857--74. https://doi.org/10.1177/0032321720916604.
 
-Mari Boor Tonn, Valerie A. Endress, "Looking Under the Hood and
-Tinkering with Voter Cynicism: Ross Perot and \"Perspective by
-Incongruity" *Rhetoric & Public Affairs*, Vol.4, No.2 (2001) pp.281-308.
+Schulte-Sasse, Linda. 1993. 'Meet Ross Perot: The Lasting Legacy of
+Capraesque Populism'. *Cultural Critique*, no. 25: 91--119.
 
+Tonn, Mari Boor, and Valerie A. Endress. 2001. 'Looking Under the Hood
+and Tinkering with Voter Cynicism: Ross Perot and\" Perspective by
+Incongruity\"'. *Rhetoric & Public Affairs* 4 (2): 281--308.

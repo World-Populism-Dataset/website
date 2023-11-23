@@ -1,21 +1,17 @@
 ---
 title: Estonia
+subtitle: 'Date range: 1992-2020'
+title-block-banner: yes
+
 ---
 
-
--   Date range: 1992-2020
-
--   Elections included:
-
-    -   Legislative: 1992, 1995, 1999, 2003, 2007, 2011, 2015, 2019.
-
-    -   Presidential: 1992.
+# Case notes
 
 ## Estonian National Independence Party 
 
 The Estonian National Independence Party (*Eesti Rahvusliku Sõltumatuse
 Partei*, ERSP, or occasionally ENIP) was founded in 1988 as a movement
-to oppose the communist state and remained the vehicle of radical
+to oppose the communist regime and remained the vehicle of radical
 nationalism through the 1992 elections. Despite possessing the biggest
 party organisation at the time, it polled a disappointing 8.7% and
 disappeared soon after as the independence question receded (Arter 1995,
@@ -33,16 +29,16 @@ According to Mäe (Mäe 1995, 211), the party saw Estonian statehood as
 the only mechanism by which the Estonian people can survive the
 geopolitical threat of their neighbours.
 
-We have not seen evidence that it campaigned against the domestic
-(OTH_POLCLASS = 1). Available evidence suggests that it was generally
-free-market (Mäe 1995, 212), despite being, in Fitzmaurice's words,
-"less interested in economic issues" than nationalist ones (Fitzmaurice
-1993, 173)(OTH_FINANCIAL = 1). Despite being a well-organised party it
-had not participated in government by the time of the 1992 elections
-(INSIDER = 1), and its leadership is not often considered significant to
-its identity (CHARISMA = 1). Further research should probe whether the
-party violated LIBDEMNORMS -- for now we have seen no clear evidence
-that it did so (= 1).
+We have not seen evidence that it employed populist rhetoric against the
+domestic political class (OTH_POLCLASS = 1). Available evidence suggests
+that it was generally free-market (Mäe 1995, 212), despite being, in
+Fitzmaurice's words, "less interested in economic issues" than
+nationalist ones (Fitzmaurice 1993, 173)(OTH_ECONOMIC = 1). Despite
+being a well-organised party it had not participated in government by
+the time of the 1992 elections (INSIDER = 1), and its leadership is not
+often considered significant to its identity (CHARISMA = 1). Further
+research should probe whether the party violated LIBDEMNORMS -- for now
+we have seen no clear evidence that it did so (= 1).
 
 ## Estonian Citizen
 
@@ -86,7 +82,7 @@ own), and the party even decided some votes in parliament by coin toss
 (Clemens 1994, 399). we've therefore labelled them N/A on LRPOSITION.
 There is no evidence that the party was a threat to democracy
 (LIBDEMNORMS = 1), nor any hostility to OTH_ETHNIC, OTH_FOREIGN or
-OTH_FINANCIAL. However the Royalists are universally considered to be an
+OTH_ECONOMIC. However the Royalists are universally considered to be an
 "anti-party protest" party (Kivirahk 1993, 157; see also Wilder 1993,
 76; Arter 1995, 266; Rosimannus 1995, 33) (OTH_POLCLASS = 3). The
 picture on CHARISMA is less clear: while Kulbok was clearly the leader
@@ -111,9 +107,9 @@ mainstream party (although this could be confirmed by further research).
 Numerous texts consider the party populist (Millard 2004, 112; Saarts
 2015, 214; Sikk 2004, 9; Jakobson et al. 2012, 59; Ehin 2002, 99), with
 reference to Savisaar's hostility to other parties. However we have not
-found much specific detail on this, and for now we have left the
+found much specific detail on this, and for now we have left
 OTH_POLCLASS at 2. We have also not seen any evidence of OTH_FORIEGN,
-OTH_ETHNIC, OTH_IMMIGRANT or OTH_FINANCIAL, all of which are left at 1.
+OTH_ETHNIC, OTH_IMMIGRANT or OTH_ECONOMIC, all of which are left at 1.
 
 Savisaar's personality is considered by many to be "authoritarian"
 (Arter 1995, 255), but we have not found any evidence of actual
@@ -143,7 +139,7 @@ like Simeon II in Bulgaria (Taagepera 2006, 84--85). For this reason,
 we've left it as 2 on OTH_POLCLASS. It did not take a stance on
 Estonia's ethnic political issues (Saarts 2015, 217) (OTH_ETHNIC = 1),
 or, to our knowledge, anything that would register on the OTH_FOREIGN,
-OTH_IMMIGRANT, or OTH_FINANCIAL variables.
+OTH_IMMIGRANT, or OTH_ECONOMIC variables.
 
 The party had a vague and ambiguous ideological standing (Sikk 2004, 10;
 Saarts 2015, 217), but is usually considered centre-right (Učeň 2007,
@@ -155,7 +151,7 @@ Taagepera 2006, 84) (CHARISMA = 1), did not violate any LIBDEMNORMS (=
 1), and could not be considered INSIDER prior to its initial victory in
 2003 (Taagepera 2006).
 
-## Estonian People\'s Union
+## Estonian People's Union
 
 The Estonian People's Union (*Eestimaa Rahvaliit*, ER) was an agrarian
 party formed in 2000 through a merger of smaller agrarian parties
@@ -173,8 +169,8 @@ al. 2012, 59). Appealing almost exclusively to rural voters, ER featured
 which it portrayed itself as the protector of the "people" (OTH_POLCLASS
 = 2). Jakobson *et al* claim that it engaged in some degree of
 ethnocentric rhetoric against non-white immigrants (Jakobson et al.
-2012, 73). However, Saarts (Saarts 2015, FN 224) states explicitly that
-the party avoided a "far right" outlook in contrast with the EKRE, and
+2012, 73). However, Saarts states explicitly that the party avoided a
+"far right" outlook in contrast with the EKRE (Saarts 2015, FN 224), and
 we have coded these variables more moderately (OTH_IMMIGRANTS = 2,
 OTH_ETHNIC = 2, OTH_FOREIGN = 2).
 
@@ -191,7 +187,7 @@ INSIDER until the 2007 election (= 3 from 2007 on).
 ## Conservative People's Party of Estonia
 
 The Conservative People's Party of Estonia (EKRE) formed after the
-merging of the Estonian People's Union and the far right (and much
+merger of the Estonian People's Union and the far right (and much
 smaller) pressure group Estonian Patriotic Movement in 2012. It achieved
 break-out success of 8.1% in the 2015 elections, performing far better
 than any far-right party in Estonia since the early 1990s. This surged
@@ -227,30 +223,30 @@ is also critical of the EU for taking away Estonia's sovereignty
 (Wierenga 2017, 8), imposing its cultural liberalism and enforcing
 bailout packages for southern European states (Braghiroli and Petsinis
 2019, 6; Braghiroli and Makarychev 2022, 132). In the words of its 2018
-programme, ""the sovereign nation state has been transformed into a
+programme, "the sovereign nation state has been transformed into a
 vassal state representing the interests of the European Union, of
 foreign capital and of parasitic elites" (Braghiroli and Makarychev
-2022, 135). For both of these stances it is coded 3 on OTH_FOREIGN. The
-party does make some reference to taxing foreign capital (Braghiroli and
+2022, 135). For these stances it is coded 3 on OTH_FOREIGN. The party
+does make some reference to taxing foreign capital (Braghiroli and
 Makarychev 2022, 135), but generally does not place the same
 significance on economic issues as other ones (Braghiroli and Petsinis
-2019, 5). We have coded it 2 on OTH_FINANCIAL.
+2019, 5). We have coded it 2 on OTH_ECONOMIC.
 
 The party is very closely associated with its charismatic leader Mart
 Helme (Trumm 2018, 334), and his son Martin Helme, who, according to
 Auers and Kasekamp, have injected "dynamism and energy... into the
 moribund radical right" (Auers and Kasekamp 2015, 145) (CHARISMA = 3).
-EKRE has a very different membership, leadership and ideology to the
-People's Union (Saarts 2015, 214), and thus should not register on
-INSIDER (= 1) even though the latter had been in power (Petsinis 2019,
-215). Wierenga claims that the party "does not espouse anti-democratic
-rhetoric" (Wierenga 2017, 6), and that the party does not have a
-militant wing such as, for example, Jobbik in Hungary. The party
-possesses a lively youth wing ("Blue Awakening") that organises
-militarised "patrols" and rallies (Kazharski and Makarychev 2020, 173).
-It has also floated plans to regulate the media, which it considered
-part of the "establishment" (Kasekamp, Madisson, and Wierenga 2019, 20).
-Given Wierenga's analysis, we have left EKRE's LIBDEMNORMS coding at 2.
+EKRE has a very different membership, leadership, and ideology to the
+People's Union (Saarts 2015, 214), even though the latter had been in
+power (Petsinis 2019, 215). Melme was once a high ranking diplomat, but
+we don't think this quite reaches the point of serving in government
+(INSIDER = 1). Wierenga claims that the party "does not espouse
+anti-democratic rhetoric" (Wierenga 2017, 6), however it does possess a
+lively youth wing ("Blue Awakening") that organises militarised
+"patrols" and rallies (Kazharski and Makarychev 2020, 173). It has also
+floated plans to regulate the media, which it considered part of the
+"establishment" (Kasekamp, Madisson, and Wierenga 2019, 20). We have
+left EKRE's LIBDEMNORMS coding at 2.
 
 ## Not included
 
@@ -385,4 +381,3 @@ http://www.uptake.ut.ee/wp-content/uploads/2017/06/06_wierenga.pdf.
 Wilder, Paul. 1993. 'The Estonian Elections of 1992: Proportionality and
 Party Organisation in a New Democracy'. *Representation* 31 (116):
 72--76.
-

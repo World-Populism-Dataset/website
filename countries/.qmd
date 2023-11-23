@@ -1,8 +1,9 @@
 ---
-title: Spain
-subtitle: |-
+title: 'Case notes: '
+subtitle: |2
+
   Date range: 1980-2020
-  <br>
+
   Spain transitioned to democracy after dictator Francisco Franco's death
   in 1975. Since the 1980's the party system has been dominated by two
   parties: the Socialist Party (PSOE) and the right-wing Popular Party
@@ -15,7 +16,6 @@ title-block-banner: yes
 
 ---
 
-# Case notes
 
 ## Podemos/ We Can
 

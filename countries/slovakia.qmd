@@ -1,9 +1,13 @@
 ---
 title: Slovakia
+subtitle: 'Date range: 1990-2020'
+title-block-banner: yes
+
 ---
 
+# Case notes
 
-## Movement for a Democratic Slovakia 
+## Movement for a Democratic Slovakia
 
 The Movement for a Democratic Slovakia (*Hnutie za demokratické
 Slovensko*, HZDS) split off from the major Slovakian anti-communist
@@ -17,8 +21,8 @@ Party (SNS) and the Union of Slovak Workers (ZRS). This government was
 defeated in 1998. The party added the words "People's Party" to the end
 of its name (HZDS-ĽS) in 2000, but its support steadily declined in
 subsequent elections. Still under Mečiar's leadership, HZDS joined the
-new Smer government after the 2006 elections (where it polled 8.79%),
-but its vote dropped below 5% in the subsequent 2010 elections and it
+new Smer government after the 2006 election (where it polled 8.79%), but
+its vote dropped below 5% in the subsequent 2010 election and it
 formally dissolved in 2014.
 
 Despite the fact that HZDS was always a core part of the political
@@ -66,7 +70,7 @@ Hungarian meddling, as Roma were linked to the influence of the European
 Union (Deegan-Krause 2012, 186). The United States and the Czech
 Republic were also linked to domestic rivals in this way (Deegan-Krause
 2012, 188) (OTH_FOREIGN = 3). We've seen no evidence of any OTH_MILITARY
-(= 1) or OTH_FINANCIAL (= 1) rhetoric.
+(= 1) or OTH_ECONOMIC (= 1) rhetoric.
 
 HZDS's ideology is generally considered nationalist, (Deegan-Krause
 2012; Kim 2021, 224; Menzies 2004; Carpenter 1997), although it also
@@ -110,7 +114,7 @@ purged the state bureaucracy and intelligence services of non-allied
 employees (Bútora and Bútorová 1993, 81; Carpenter 1997, 215--16;
 Ferencei 2020, 168), kicked the opposition off powerful committees in
 parliament and other oversight institutions (Deegan-Krause 2012, 194;
-Żarna 2018, 105), called the Constitutional Course a "diseased element"
+Żarna 2018, 105), called the Constitutional Court a "diseased element"
 (Ferencei 2020, 168), and sought to weaken the power of the president
 (Ferencei 2020, 168; Deegan-Krause 2012, 194). The government also
 curtailed the freedom of the press by shutting down opposition
@@ -129,9 +133,9 @@ it 3 on INSIDER.
 
 The Slovak National Party (*Slovenská národná strana*, SNS), was founded
 in 1990, at which point it was organised primarily around the demand for
-independence from the Czechoslovak union (Pytlas 2013, 168). The party
-claimed successorship to the original SNS active between 1870 and 1938
-(Walter 2017, 176). Though the party was regarded by some as an "extreme
+independence from the Czechoslovak union (Pytlas 2013, 168). It claimed
+successorship to the original SNS active between 1870 and 1938 (Walter
+2017, 176). Though the party was regarded by some as an "extreme
 nationalist party" from its foundation in 1990 (see Żarna 2018, 74),
 others claim that under the leadership of Ľudovit Černák it espoused
 more of a "liberal conservative pragmatism" in its early years
@@ -149,13 +153,12 @@ Both entities fared poorly and reunited under Slota's leadership before
 the 2006 election, in which it won 11.7% and entered a coalition with
 Smer. It's vote then declined and it failed to make the 5% threshold to
 enter Parliament in 2012, leading Slota to step down. His replacement
-Andrej Danko the party condemned Slota's leadership and expelled him
-from the party (Rybář and Spáč 2017, 154), and made other changes to
-abandon radical nationalism and extremism (Školkay 2021, 11; Struhár
-2016, 27) such that "the party may be considered a traditional
-right-wing party" from this point on (Karabová and Filipec 2018, 6). We
-have therefore not included the party in the dataset under Danko's
-leadership.
+Andrej Danko condemned Slota's leadership and expelled him from the
+party (Rybář and Spáč 2017, 154), and made other changes to abandon
+radical nationalism and extremism (Školkay 2021, 11; Struhár 2016, 27)
+such that "the party may be considered a traditional right-wing party"
+from this point on (Karabová and Filipec 2018, 6). We have therefore not
+included the party in the dataset under Danko's leadership.
 
 Slota and the SNS engaged in "populist anti-establishment rhetoric"
 (Pytlas 2013, 168) against the Slovak political elite whom it accused of
@@ -199,7 +202,7 @@ neighbouring Hungary but also against NATO (Evans and Whitefield 1998,
 alleging that the political elite was wholly controlled by foreign
 powers (although it did think this about the ethnic Hungarian parties in
 Slovakia), we've coded it 2 on OTH_FOREIGN. We've seen no evidence for
-anything on the OTH_FINANCIAL or OTH_MILITARY variables (= 0).
+anything on the OTH_ECONOMIC or OTH_MILITARY variables (= 1).
 
 The party is considered "far-right" by most scholars (Struhár 2016, 27;
 Stojarová 2018, 38), and ideologically nationalist and conservative
@@ -207,9 +210,9 @@ Stojarová 2018, 38), and ideologically nationalist and conservative
 either centrist (Hloušek and Kopeček 2008, 543--44) or right of centre
 (Pinterič and Žúborová 2014, 360), and at the time of its foundation it
 advocated for pro-market reforms (Barański 2020, 38). However its
-economic policy were "not important parts of the party's platform"
+economic policies were "not important parts of the party's platform"
 (Hloušek and Kopeček 2008, 543--44), and on the basis of its evident
-ethno-nationalism we've coded it FR. While the SNS was a highly
+ethno-nationalism we've coded it FR. While the SNS had a highly
 leader-centric structure and communication strategy (Haughton, Rybář,
 and Deegan-Krause 2021, 334), and was clearly attached to Slota's
 "boorish behaviour" under his leadership (Haughton, Rybář, and
@@ -218,21 +221,21 @@ relatively strong base that evidently withstood a number of leadership
 changes since its creation (Rybář and Spáč 2020, 643--44). We've
 therefore coded it 2 on CHARISMA.
 
-The SNS is somewhat difficult on the subject of liberal democratic
-norms. The best reason to code it above 1 on this register is its
-occasional celebration of the fascist World War II era Sovak President
-Jozef Tiso (Slota proposed a commemorative plaque to Tiso in 2000,
-Haughton 2001, 752). Aside from that, Slota has used violent language in
-is solutions to Roma related problems (see above) (Haughton 2001, 753).
-On more philosophical grounds, Abrahám claims that the SNS was hostile
-to the principle of individual human rights (Abrahám 1995, 98). While
-this is grounds to elevate the party beyond 1, we've not seen a lot of
-evidence of other violations of liberal democratic norms such as actual
-practices of violence or hostility to electoral or judicial democratic
-institutions that would put it on per with other parties coded 3, and
-hence we've coded the SNS 2 on LIBDEMNORMS for its time in the dataset.
-Due to the SNS's role in the coalition government after the 1994
-election, we've coded it 2 on INSIDER from 1998 onward.
+The SNS is somewhat difficult to define on the subject of liberal
+democratic norms. The best reason to code it above 1 on this register is
+its occasional celebration of the fascist World War II era Sovak
+President Jozef Tiso (Slota proposed a commemorative plaque to Tiso in
+2000, Haughton 2001, 752). Aside from that, Slota has used violent
+language in his solutions to Roma related problems (see above) (Haughton
+2001, 753). On more philosophical grounds, Abrahám claims that the SNS
+was hostile to the principle of individual human rights (Abrahám 1995,
+98). While this is grounds to elevate the party beyond 1, we've not seen
+a lot of evidence of other violations of liberal democratic norms such
+as actual practices of violence or hostility to electoral or judicial
+democratic institutions that would put it on per with other parties
+coded 3, and hence we've coded the SNS 2 on LIBDEMNORMS for its time in
+the dataset. Due to the SNS's role in the coalition government after the
+1994 election, we've coded it 2 on INSIDER from 1998 onward.
 
 ## The Slovak Workers' Association
 
@@ -273,19 +276,16 @@ establishment focused specifically on the sale of state assets (Abrahám
 7) politics in a "demagogic" style (Żarna 2018, 105), at one point
 demanding the "resignation of all deputies who have publicly humiliated
 workers" (Ulč 1996, 348). On this evidence we've coded the party 3 on
-OTH_POLCLASS.
-
-Aside from the political class, the ZRS focused attacks on the emerging
-economic elite that benefited from state privatisations (Nemčok and Spáč
-2019, 767; Abrahám 1995, 90). According to Ulč, Ľupták was "an advocate
-of class hatred" who claimed that he could "respect only those people
-who built a house with their own hands" (Ulč 1996, 348) (OTH_FINANCIAL =
-3). He was also critical of NATO, the EU and IMF (Bútora 1994, 53), and
-alleged that the west would convert Slovakia into its colony (Ulč 1996,
-348). However we've not seen evidence that this related in any way to
-the party's domestic rivals, so we've labelled it 1 on OTH_FOREIGN.
-We've seen no evidence of any discourse on the OTH_ETHNIC,
-OTH_IMMIGRANT, or OTH_MILITARY variables (all = 1).
+OTH_POLCLASS. Aside from the political class, the ZRS focused attacks on
+the emerging economic elite that benefited from state privatisations
+(Nemčok and Spáč 2019, 767; Abrahám 1995, 90). According to Ulč, Ľupták
+was "an advocate of class hatred" who claimed that he could "respect
+only those people who built a house with their own hands" (Ulč 1996,
+348) (OTH_ECONOMIC = 3). He was also critical of NATO, the EU and IMF
+(Bútora 1994, 53), and alleged that the west would convert Slovakia into
+its colony (Ulč 1996, 348). However we've not seen evidence that this
+related in any way to the party's domestic rivals, so we've labelled it
+2 on OTH_FOREIGN.
 
 The literature considers the party "extreme left" (Wightman and
 Szomolänyi 1995, 612), "far left" (Nemčok and Spáč 2019, 760), "radical
@@ -327,7 +327,7 @@ election, which we have included. He lost in the second round to
 independent Anrej Kiska with 40.6%.
 
 There is no doubt that Fico and Smer were populist actors in the 2002
-election, where it was "an avowedly anti-elite force" (Stanley 2011,
+election, where they were "an avowedly anti-elite force" (Stanley 2011,
 260), exercising "vitriolic personal attacks" on the incumbent
 government and established parties (Haughton 2003b, 78; Spáč 2012,
 236--37). This campaign considered the political elite to be fundamental
@@ -348,11 +348,11 @@ classify from the 2006 election onward. Aside from its ideological shift
 toward the left (see below), several sources claim that Fico and Smer
 toned down personal attacks in the 2006 campaign (Haughton and Rybář
 2008, 240), and even departed from a populist tone altogether (Stanley
-2017, 247), especially after it was in power after 2006 (Spáč and Havlík
+2017, 247), especially after it was in power from 2006 (Spáč and Havlík
 2015, 8; Školkay 2021, 7; Frič and Gyárfášová 2019, 237). However many
 of these claims appear to be linked to the fact that Smer moved its
 ideological profile from a "pure" populist force to a social-democratic
-one by 2006 (which doesn't' disqualify or alter their anti-political
+one by 2006 (which doesn't disqualify or alter their anti-political
 class populism by our definition), and other sources claim that Fico
 maintained a populist discursive stance after Smer's post-2002 shift
 (Učeň, Gyárfášová, and Krivý 2005, 44), and continued to do so while in
@@ -385,7 +385,7 @@ left leaning economic policy alongside its anti-elite populism from
 were targeted as "others" of the ordinary people in Smer's populist
 rhetoric. In fact, according to Učeň (Učeň 2007, 56) Fico expressed an
 admiration for private sector management, which he advocated for the
-state (OTH_FINANCIAL = 1). We have also found no reference to the
+state (OTH_ECONOMIC = 1). We have also found no reference to the
 military (OTH_MILITARY = 1).
 
 Smer's ideological profile has been the subject of much discussion in
@@ -403,7 +403,7 @@ onward (Stojarová 2018, 38; Hloušek and Kopeček 2008, 543; Gyárfášová
 and Hlatky 2023, 4). From the available evidence it seems that its'
 socio-economic policy was relatively mild (see Lang 2005, 11; Učeň 2007,
 58), and hence we've coded it CL on LRPOSITION from 2006 onward, and C
-in 2002
+in 2002.
 
 The literature clearly sees Fico as a dominant figure in the public
 images and internal organisation of Smer (Gyárfášová and Hlatky 2023, 4;
@@ -418,7 +418,7 @@ committee, however overshadowed by the party leader" (Spáč and Havlík
 under Pellegrini during the 2020 election, given that Fico remained the
 party leader while Pellegrini was Prime Minister (Marušiak 2021). Even
 with this shift, Fico played a "supportive role" (Haughton, Rybář, and
-Deegan-Krause 2022, 742), and we've considered it hard to pain the party
+Deegan-Krause 2022, 742), and we've considered it hard to code the party
 as either 1 or 3 on CHARISMA in 2020 for this reason (= 2).
 
 There are a number of reasons to claim that Fico and Smer threatened
@@ -438,7 +438,164 @@ the dataset. We've also coded it 3 on INSIDER from 2010 on, after Fico's
 first stint as Prime Minister 2009-2010 (note that Pellegrini was
 incumbent Prime Minister in 2020).
 
-## Ordinary People and Independent Personalities
+## People's Party - Our Slovakia
+
+People's Party -- Our Slovakia (*Ľudová Strana Naše Slovensko*, ĽSNS)
+formed as a political party in 2010 under the leadership of Marian
+Kotleba, a far right activist with a history of membership in neo-Nazi
+movements (Harris 2019, 540). The party made a breakthrough in 2016 on
+the back of the 2015 migrant crisis (Kazharski and Makarychev 2020,
+177), when its vote escalated to 8% and it won 14 seats in parliament.
+It maintained this level of support in 2020, though soon afterward
+Kotleba was convicted of extremism and the party fell into disarray
+(Kevický 2022, 7).
+
+The ĽSNS has consistently represented the political elite as a corrupt
+"system" distinct from the "decent people" (Kazharski and Makarychev
+2020, 180; see also Mihálik 2017; Struhár 2016, 28; Harris 2019, 541;
+Cirner and Dudinská 2020, 185), and on this basis it has frequently been
+considered anti-establishment (Engler, Pytlas, and Deegan-Krause 2019,
+1323) and anti-elitist (Just 2022, 163) in the literature. Its central
+campaign slogan in 2016, for example was "With Courage Against the
+System" (Filipec 2017, 24). The party considered the political elite to
+be essentially homogenous (Drábik 2022, 426) and to have "betrayed" the
+people (Stefancik, Némethová, and Seresová 2021, 739; Mihálik 2017, 13),
+by deliberately serving its own interests at the expense of the people
+(Řádek 2019, 47). Its campaigns claimed therefore that it was "trying to
+prevent further theft of Slovakia by politicians and parasites" (Řádek
+2019, 48) (OTH_POLCLASS = 3).
+
+ĽSNS was a fundamentally ethnonationalist party (Kim 2021, 223) that
+viewed the people and their "others" in largely racial and ethnic terms
+(Kazharski and Makarychev 2020, 180; Filipec 2017, 25). Its original
+target for this rhetoric were Roma (Drábik 2022, 422; Kazharski 2019,
+1), whom the party called "social parasites" (Struhár 2016, 28) and
+practitioners of "Gypsy extremism" (Kazharski 2019, 1), who should be
+subjected to "discipline" (Škobla and Filčák 2020, 786--87) or even
+"cleansing" (Buzalka 2021, 1669). The party has also consistently
+espoused anti-Semitism (Just 2022, 163; Harris 2019, 542; Kazharski
+2019, 7), and since the migrant crisis it has developed discourse
+harshly critical of "inhuman" Islam (Kevický 2022, 7), and "violent
+Africans, Turks and Asians" (Stefancik, Némethová, and Seresová 2021,
+738) (OTH_ETHNIC = 3). ĽSNS has discussed the threat of immigration as
+"occupation" (Filipec 2017, 25), or potentially "national suicide"
+(Stojarová 2018, 36). One campaign document said that "Europe is
+inundated by an invasion of dangerous immigrants from Africa and Asia.
+They attack, rob, rape and murder the indigenous people of European
+countries every day" (Drábik 2022, 426) (OTH_IMMIGRANT = 3).
+
+Alongside its ethno-nationalism, ĽSNS considered economic elites inside
+and outside of the country to be an enemy of the people (Filipec 2017,
+24; Buzalka 2021, 1669). The party's campaign discourse repeatedly
+considered "oligarch's" as a part of the "system" (Kazharski 2019, 8)
+who had "stolen" businesses in the privatisation process (Řádek 2019,
+49). For example, one billboard stated "We will take from the oligarchs
+and mafia and give to mothers, fathers, and pensioners!" (Buzalka 2021,
+1671). Though perhaps not as salient as the party's opposition to ethnic
+others and immigrants, this appears to be strong enough to code the
+party 3 on OTH_ECONOMIC. Another aspect of the party's populism is its
+opposition to the foreign influence of the West (Mesežnikov and
+Gyárfášová 2018, 85), whom it accuses of attempting to control and
+subordinate Slovakia. It has called NATO a terrorist organisation (Řádek
+2019, 48) and a "criminal pact" (Filipec 2017, 24--25), and considered
+Slovakia's membership in the EU akin to colonisation (Kazharski 2019, 8)
+due to the latter's plan to "destroy us not only economically but also
+socially" (Stefancik, Némethová, and Seresová 2021, 739; see also
+Kazharski 2019, 8; Buzalka 2021, 1671). It also considered the political
+class to be controlled by outside forces such as Zionists and
+international financiers, who insert multiculturalism as part of a plot
+to replace nation states with a single world government (see Kazharski
+2019, 7--8; Řádek 2019, 48) (OTH_FOREIGN = 3). We've seen no evidence of
+OTH_MILITARY discourse (= 1).
+
+Owing to the salience of ethno-nationalism in its ideological outlook,
+ĽSNS has been universally classed as a "far right" (Stojarová 2018, 38),
+or "neo-fascist" (Haughton, Rybář, and Deegan-Krause 2021, 331; Cirner
+and Dudinská 2020; Gyárfášová and Hlatky 2023, 4; Frič and Gyárfášová
+2019, 238), and "neo-Nazi" (Drábik 2022, 417) party. While its economic
+program was clearly redistributionist, these or any other conventional
+policy issues were barely mentioned in its campaign materials (Drábik
+2022, 424) (LRPOSITION = FR). There is relatively little written about
+the position of Kotleba in the party, but he has clearly played a
+dominant role it its functioning and representation (Gyárfášová and
+Hlatky 2023, 4). The party also added the name "Kotleba" to its official
+title in 2015 to indicate this. While there is a case that the ĽSNS's
+populism is less leader-centric than other parties, given Kotleba's
+position in and control of the party we've coded it 3 on CHARISMA.
+
+According to numerous analysts, in words and actions ĽSNS has mounted a
+"denial of the fundamental principles and values of liberal democracy"
+(Frič and Gyárfášová 2019, 238; see also Kazharski 2019, 2; Harris 2019,
+538). The most notorious examples of this are the party's use of
+uniformed "security patrols" on trains (Harris 2019, 542; Kazharski and
+Makarychev 2020, 179), protecting, in its words, "decent" people from
+"Gypsy extremists" (Struhár 2016, 28). According to Kazharski and
+Makarychev, these guards deliberately wore uniforms similar to those of
+the nationalist militia active in Slovakia during the fascist wartime
+regime of Josef Tiso (Kazharski and Makarychev 2020, 179). The party has
+also pledged its affinity to the Tiso regime by parroting its slogans
+(Harris 2019, 538) (LIBDEMNORMS = 3). As the party has never been a
+member of a governing coalition, we've coded it 1 on INSIDER.
+
+## We Are Family
+
+We Are Family (*Sme Rodina*, SR) was created by *Boris Kollár, a
+controversial businessman with a "*tabloid celebrity profile*" in 2015*
+(Frič and Gyárfášová 2019, 238)*. It won 6.6% of the vote in the
+subsequent 2016 elections, which increased to 8.24 in 2020. Kollár and
+SR maintained an anti-establishment* (Rybář and Spáč 2017, 155) *and
+anti-elite narrative that emphasised the untrustworthiness of the
+political system* (Mihálik 2017, 17)*, which he accused of endemic
+corruption* (Školkay and Žúborová 2019, 8; Stojarová 2018, 38). SR
+conceived of politicians as a distinct and unified class who stood
+against the ordinary people's interests, as is well-captured in its most
+memorable slogan form 2016: "I *don't vote for politicians, I vote for
+Boris"* (Marušiak 2017, 193) (OTH_POLCLASS = 3).
+
+Aside from its antagonism to the political elite, SR's main campaign
+issue was its opposition to immigrants (Školkay and Žúborová 2019, 8),
+particularly Muslims, whom the party considered a danger to "our
+culture, religion and freedom, including our homes and families"
+(Mihálik 2017, 14; Marušiak 2017, 193)*. We have therefore coded it 3
+for both OTH_ETHNIC and OTH_IMMIGRANT.* SR was also strongly opposed to
+the European Union (Stojarová 2018, 38), which Kollár called
+"Euro-rubbish" and the "Brussels elite" (Školkay and Žúborová 2019,
+13--15). While this foreign "other" was clearly an enemy of the people
+in SR's rhetoric, it does not seem to be the case that it was considered
+to control the domestic elite (OTH_FOREIGN = 2). Despite Kollár's own
+history as a businessperson, he and SR campaigned against financial
+interests and "oligarchs" influencing the political system (Mihálik
+2017, 14; Stojarová 2018, 38). In one video he accused the political
+elite of "sponsoring grand capital with cheap labour" (Školkay and
+Žúborová 2019, 16). We've therefore coded SR 3 on OTH_ECONOMIC. We've
+seen no evidence of any opposition to the military (OTH_MILITARY = 1).
+
+SR is somewhat difficult to define ideologically (Frič and Gyárfášová
+2019, 238). On face value, it campaigned without any clear ideology
+(Mihálik 2017, 13), and Kollár frequently emphasised his aversion to any
+ideological label (Marušiak 2017, 193). The policies of the party are
+somewhat eclectic (Školkay and Žúborová 2019, 13). On the one hand its
+opposition to oligarchs and embrace of support for low-income people
+(Rybář and Spáč 2017, 155; Engler, Pytlas, and Deegan-Krause 2019, 1324)
+suggest a left-leaning position. On the other, the party is more
+frequently associated with the right owing to the centrality of its
+anti-immigrant nativism (Kim 2021, 223), its social conservativism
+(Marušiak 2017, 193; Gyárfášová and Hlatky 2023, 4), and its national
+conservativism (Just 2022, 167). Owing to the perceived salience of the
+latter issues in its campaigns we've coded it R on LRPOSITION, but this
+could be revisited.
+
+SR was built around Kollár's image, to the extent that it has been
+classed as an "entrepreneurial" party (Frič and Gyárfášová 2019, 238),
+and an "electoral vehicle" for its leader (Gyárfášová and Hlatky 2023,
+4). The literature suggests that the party depended totally on Kollár's
+charisma (Marušiak 2017, 193; Učeň and Gyárfášová 2021, 290; Školkay and
+Žúborová 2019, 8) (CHARISMA = 3). The literature does not suggest that
+SR threatened liberal democratic norms in Slovakia (Školkay and Žúborová
+2019, 16) (LIBDEMNORMS = 1), and Kollár had not featured in government
+prior to the 2016 or 2020 elections (INSIDER = 1).
+
+## Ordinary People and Independent Personalities 
 
 Ordinary People and Independent Personalities (*Obyčajní ľudia a
 nezávislé osobnosti*, OĽaNO) started off as civic association founded by
@@ -501,7 +658,7 @@ Slovakia had degenerated into an "oligarchic state" (Učeň and Gyárfášová
 "no oligarch's stand behind us" (Učeň and Gyárfášová 2021, 293). This
 however doesn't appear to have been as salient a part of the party's
 rhetoric as its opposition to political elites, and we've coded OĽaNO 2
-for OTH_FINANCIAL.
+for OTH_ECONOMIC.
 
 The initial literature on OĽaNO universally considers it to be a
 non-ideological party (Rybář and Spáč 2020, 651; Kohutova and Horvat
@@ -528,175 +685,17 @@ organisation beneath Matovič (Školkay 2021, 13), and it has been called
 an "owner party" (Marušiak 2017, 193), a "personalist" party (Weyland
 2022, 37), and a "one man show" (Hloušek, Kopeček, and Vodová 2020).
 This means that Matovič has been unrivalled within the party for
-leadership (Rybář and Spáč 2020, 646). (CHARISMA = 3). We've seen no
-evidence that OĽaNO as violated liberal democratic norms (on the
-contrary, OĽaNO made point of distancing itself from anti-democratic
-nature of more extreme populist parties, see: Kohutova and Horvat 2018,
-23). Given that Matovič and was briefly a member of the governing
-coalition 2010-12, we've coded OĽaNO 2 on INSIDER for each subsequent
-election.
+leadership (Rybář and Spáč 2020, 646). (CHARISMA = 3).
 
-## People\'s Party - Our Slovakia (L'SNS)
-
-People's Party -- Our Slovakia (*Ľudová Strana Naše Slovensko*, ĽSNS)
-formed as a political party in 2010 under the leadership of Marian
-Kotleba, a far right activist with a history of membership in neo-Nazi
-movements (Harris 2019, 540). The party made breakthrough in 2016 on the
-back of the 2015 migrant crisis (Kazharski and Makarychev 2020, 177),
-when its vote escalated to 8% and it won 14 seats in parliament. It
-maintained this level of support in 2020, though soon afterward Kotleba
-was convicted of extremism and the party fell into disarray (Kevický
-2022, 7).
-
-The ĽSNS has consistently represented the political elite as a corrupt
-"system" distinct from the "decent people" (Kazharski and Makarychev
-2020, 180; see also Mihálik 2017; Struhár 2016, 28; Harris 2019, 541;
-Cirner and Dudinská 2020, 185), and on this basis it has frequently been
-considered anti-establishment (Engler, Pytlas, and Deegan-Krause 2019,
-1323) and anti-elitist (Just 2022, 163) in the literature. Its central
-campaign slogan in 2016, for example was "With Courage Against the
-System" (Filipec 2017, 24). The party considered the political elite to
-be essentially homogenous (Drábik 2022, 426) and to have "betrayed" the
-people (Stefancik, Némethová, and Seresová 2021, 739; Mihálik 2017, 13),
-by deliberately serving its own interests at the expense of the people
-(Řádek 2019, 47). Its campaigns claimed therefore that it was "trying to
-prevent further theft of Slovakia by politicians and parasites" (Řádek
-2019, 48) (OTH_POLCLASS = 3).
-
-ĽSNS was a fundamentally ethnonationalist party (Kim 2021, 223) that
-viewed the people and their "others" in largely racial and ethnic terms
-(Kazharski and Makarychev 2020, 180; Filipec 2017, 25). Its original
-target for this rhetoric were Roma (Drábik 2022, 422; Kazharski 2019,
-1), whom the party called "social parasites" (Struhár 2016, 28) and
-practitioners of "Gypsy extremism" (Kazharski 2019, 1), who should be
-subjected to "discipline" (Škobla and Filčák 2020, 786--87) or even
-"cleansing" (Buzalka 2021, 1669). The party has also consistently
-espoused anti-Semitism (Just 2022, 163; Harris 2019, 542; Kazharski
-2019, 7), and since the migrant crisis has developed discourse harshly
-critical of "inhuman" Islam (Kevický 2022, 7), and "violent Africans,
-Turks and Asians" (Stefancik, Némethová, and Seresová 2021, 738)
-(OTH_ETHNIC = 3). ĽSNS has discussed the threat of immigration as
-"occupation" (Filipec 2017, 25), or potentially "national suicide"
-(Stojarová 2018, 36). One campaign document said that "Europe is
-inundated by an invasion of dangerous immigrants from Africa and Asia.
-They attack, rob, rape and murder the indigenous people of European
-countries every day" (Drábik 2022, 426) (OTH_IMMIGRANT = 3).
-
-Alongside its ethno-nationalism, ĽSNS considered economic elites inside
-and outside of the country to be an enemy of the people (Filipec 2017,
-24; Buzalka 2021, 1669). The party's campaign discourse repeatedly
-considered "oligarch's" as a part of the "system" (Kazharski 2019, 8)
-who had "stolen" businesses in the privatisation process (Řádek 2019,
-49). For example, one billboard stated "We will take from the oligarchs
-and mafia and give to mothers, fathers, and pensioners!" (Buzalka 2021,
-1671). Though perhaps not as salient as the party's opposition to ethnic
-others and immigrants, this appears to be strong enough to code the
-party 3 on OTH_FINANCIAL. Another aspect of the party's populism is its
-opposition to Western foreign forces (Mesežnikov and Gyárfášová 2018,
-85), whom it accuses of attempting to control and subordinate Slovakia.
-It has called NATO a terrorist organisation (Řádek 2019, 48) and a
-"criminal pact" (Filipec 2017, 24--25), and considered Slovakia's
-membership in the EU akin to colonisation (Kazharski 2019, 8) due to the
-latter's plan to "destroy us not only economically but also socially"
-(Stefancik, Némethová, and Seresová 2021, 739; see also Kazharski 2019,
-8; Buzalka 2021, 1671). It also considered the political class to be
-controlled by outside forces such as, Zionists and international
-financiers, who insert multiculturalism as part of a plot to replace
-nation states with a single world government (see Kazharski 2019, 7--8;
-Řádek 2019, 48) (OTH_FOREIGN = 3). We've seen no evidence of
-OTH_MILITARY discourse (= 1).
-
-Owing to the salience of ethno-nationalism in its ideological outlook,
-ĽSNS has been universally classed as a "far right" (Stojarová 2018, 38),
-or "neo-fascist" (Haughton, Rybář, and Deegan-Krause 2021, 331; Cirner
-and Dudinská 2020; Gyárfášová and Hlatky 2023, 4; Frič and Gyárfášová
-2019, 238), and "neo-Nazi" (Drábik 2022, 417) party. While its economic
-program was clearly redistributionist, these or any other conventional
-policy issues were barely mentioned in its campaign materials (Drábik
-2022, 424) (LRPOSITION = FR). There is relatively little written about
-the position of Kotleba in the party, but he has clearly played a
-dominant role it its functioning and representation (Gyárfášová and
-Hlatky 2023, 4). The party also added the name "Kotleba" to its official
-title in 2015 to indicate this. While there is a case that the ĽSNS's
-populism is less leader-centric than other parties, given Kotleba's
-position in and control of the party we've coded it 3 on CHARISMA.
-
-According to numerous analysts, in words and actions ĽSNS has mounted a
-"denial of the fundamental principles and values of liberal democracy"
-(Frič and Gyárfášová 2019, 238; see also Kazharski 2019, 2; Harris 2019,
-538). The most notorious examples of this are the party's use of
-uniformed "security patrols" on trains (Harris 2019, 542; Kazharski and
-Makarychev 2020, 179), protecting "decent" people from "Gypsy
-extremists" (Struhár 2016, 28). According to Kazharski and Makarychev,
-these guards deliberately wore uniforms similar to those of the
-nationalist militia active in Slovakia during the fascist wartime regime
-of Josef Tiso (Kazharski and Makarychev 2020, 179). The party has also
-pledged its affinity to the Tiso regime by parroting its slogans (Harris
-2019, 538). As the party has never been a member of a governing
-coalition, we've coded it 1 on INSIDER.
-
-## We Are Family/Sme Rodina
-
-We Are Family (*Sme Rodina*, SR) was created by *Boris Kollár, a
-controversial businessman with a "*tabloid celebrity profile*" in 2015*
-(Frič and Gyárfášová 2019, 238)*. It won 6.6% of the vote in the
-subsequent 2016 elections, which increased to 8.24 in 2020. Kollár and
-SR maintained an anti-establishment* (Rybář and Spáč 2017, 155) *and
-anti-elite narrative that emphasised the untrustworthiness of the
-political system* (Mihálik 2017, 17)*, which he accused of endemic
-corruption* (Školkay and Žúborová 2019, 8; Stojarová 2018, 38). SR
-conceived of politicians as a distinct and unified class who stood
-against the ordinary people's interests, as is well-captured in its most
-memorable slogan form 2016: "I *don't vote for politicians, I vote for
-Boris"* (Marušiak 2017, 193) (OTH_POLCLASS = 3).
-
-Aside from its antagonism to the political elite, SR's main campaign
-issue was its opposition to immigrants (Školkay and Žúborová 2019, 8),
-particularly Muslims, whom the party considered a danger to "our
-culture, religion and freedom, including our homes and families"
-(Mihálik 2017, 14; Marušiak 2017, 193)*. We've therefore coded it 3 for
-both OTH_ETHNIC and OTH_IMMIGRANT.* SR was also strongly opposed to the
-European Union (Stojarová 2018, 38), which Kollár called "Euro-rubbish"
-and the "Brussels elite" (Školkay and Žúborová 2019, 13--15). While this
-foreign "other" was clearly an enemy of the people in SR's rhetoric, it
-does not seem to be the case that it was considered to control the
-domestic elite (OTH_FOREIGN = 2). Despite Kollár's own history as a
-businessperson, he and SR campaigned against financial interests and
-"oligarchs" influencing the political system (Mihálik 2017, 14;
-Stojarová 2018, 38). In one video he accused the political elite of
-"sponsoring grand capital with cheap labour" (Školkay and Žúborová 2019,
-16). We've therefore coded SR 3 on OTH_FINANCIAL. We've seen no evidence
-of any opposition to the military (OTH_MILITARY = 1).
-
-SR is somewhat difficult to define ideologically (Frič and Gyárfášová
-2019, 238). On face value, it campaigned without any clear ideology
-(Mihálik 2017, 13), and Kollár frequently emphasised his aversion to any
-ideological label (Marušiak 2017, 193). The policies of the party are
-somewhat eclectic (Školkay and Žúborová 2019, 13). On the one hand its
-opposition to oligarchs and embrace of support for low-income people
-(Rybář and Spáč 2017, 155; Engler, Pytlas, and Deegan-Krause 2019, 1324)
-suggest a left-leaning position. On the other, the party is more
-frequently associated with the right owing to the centrality of its
-anti-immigrant nativism (Kim 2021, 223), its social conservativism
-(Marušiak 2017, 193; Gyárfášová and Hlatky 2023, 4), and its national
-conservativism (Just 2022, 167). Owing to the perceived salience of the
-latter issues in its campaigns we've coded it R on LRPOSITION, but this
-could be revisited.
-
-SR was built around Kollár's image, to the extent that it has been
-classed as an "entrepreneurial" party (Frič and Gyárfášová 2019, 238),
-and an "electoral vehicle" for its leader (Gyárfášová and Hlatky 2023,
-4). The literature suggests that the party depended totally on Kollár's
-charisma (Marušiak 2017, 193; Učeň and Gyárfášová 2021, 290; Školkay and
-Žúborová 2019, 8) (CHARISMA = 3). The literature does not suggest that
-SR threatened liberal democratic norms in Slovakia (Školkay and Žúborová
-2019, 16) (LIBDEMNORMS = 1), and Kollár had not featured in government
-prior to the 2016 or 2020 elections (INSIDER = 1).
+We've seen no evidence that OĽaNO as violated liberal democratic norms
+(on the contrary, OĽaNO made point of distancing itself from
+anti-democratic nature of more extreme populist parties, see: Kohutova
+and Horvat 2018, 23) (LIBDEMNORMS = 1). Given that Matovič and was
+briefly a member of the governing coalition 2010-12, we've coded OĽaNO 2
+on INSIDER for each subsequent election.
 
 ## Not Included
 
-There are several parties that have been occasionally considered
-populist in the literature which we have not included in the dataset.
 **The Party of Civic Understanding (*Strana občianskeho porozumenia*,
 SOP)** emerged before the 1998 elections under the leadership of Rudolf
 Schuster. It also offered a broad critique of the political class
@@ -706,10 +705,9 @@ criticism of the elite was less about moral failures and more about its
 inability to work together (Marušiak 2017, 184), and it based its
 campaigns on the proposition of a "national understanding" to bring all
 parties together (Učeň, Gyárfášová, and Krivý 2005, 32). Any element of
-anti-elite populism was also lost after it joined formed the coalition
+anti-elite populism was also lost after it joined the coalition
 government in 1998 (Deegan-Krause and Haughton 2009, 830--31). On the
 available evidence we've not considered SOP populist by our definition.
-
 **New Citizens Alliance (ANO)** was a personal vehicle of powerful media
 mogul Pavol Rusko, who launched the party to advocate for liberalisation
 of the economy before the 2002 elections. ANO has occasionally been
@@ -723,16 +721,15 @@ according to most literature that we've seen there is not quite enough
 rhetoric in line with our definition to warrant its including in the
 dataset. For example, according to Učeň, ANO "focused on criticizing
 incompetence rather than chastising the elite for its moral failings"
-(Učeň 2004, 59--60).
+(Učeň 2004, 59--60). **Freedom and Solidarity (*Sloboda a Solidarita*,
+SaS)** was a sort lived anti-immigrant and anti-EU party led by Richard
+Sulík that has also been included in the broad discussions of Slovak
+populism. There are some sources that claim SaS practiced an
+"anti-establishment rhetoric" (Marušiak 2017, 191), but this is not
+consistent enough in the literature to consider them populist by our
+standards.
 
-**Freedom and Solidarity (*Sloboda a Solidarita*, SaS)** was a sort
-lived anti-immigrant and anti-EU party led by Richard Sulík that has
-also been included in the broad discussions of Slovak populism. There
-are some sources that claim SaS practiced an "anti-establishment
-rhetoric" (Marušiak 2017, 191), but this is not consistent enough in the
-literature to consider them populist by our standards.
-
-## References
+**References**
 
 Abrahám, Samuel. 1995. "Early Elections in Slovakia: A State of
 Deadlock." *Government and Opposition* 30 (1): 86--100.
@@ -1029,4 +1026,3 @@ Slovakia." *Party Politics* 1 (4): 609--18.
 Żarna, Krzysztof. 2018. "Towards Authoritarianism. Internal Situation in
 the Slovak Republic (1994-1998)." *Przegląd Politologiczny*, no. 4:
 103--15.
-

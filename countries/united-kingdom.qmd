@@ -1,12 +1,11 @@
 ---
 title: United Kingdom
+subtitle: 'Date range: 1980-2020'
+title-block-banner: yes
+
 ---
 
-
--   Date range: 1980-2020
-
--   Elections included: 1983, 1987, 1992, 1997, 2001, 2005, 2010, 2015,
-    2017, 2019.
+# Case notes
 
 ## United Kingdom Independence Party
 
@@ -15,28 +14,28 @@ group of academics, and only emerged politically in the European
 elections of 2004 and 2009 (Ross and Bhatia 2021, 189). Initially it was
 a "single-issue" party exclusively focused on opposition to the European
 Union (Usherwood 2008), but under the leadership of Nigel Farage from
-2006 it began to champion other right-wing issues such as immigration
-and climate change denial (Bale 2018, 267). Traditionally the party did
-a lot better at European elections than general elections (Crines and
-Heppell 2017, 232), though this changed dramatically under the
-Conservative-Liberal Democrat coalition government period (2010-15) when
-the party surged to 12.6% in the 2015 election. By threatening the seats
-of Conservative MPs in the Cameron government, UKIP is widely regarded
-to have triggered the 2016 referendum on EU membership (Evans and Mellon
-2019, 76), the (successful) campaign for which was led by Farage. After
-this however the party's fortunes declined dramatically, probably
-because its more "strategic" supporters considered its job done on the
-EU. Farage left the party to form the 'Brexit Party" in 2019, but this
-only scored 2.1% in the general elections of that year.
+2006 it began to champion other issues such as immigration, and climate
+change denial (Bale 2018, 267). Traditionally the party did a lot better
+at European elections than general elections (Crines and Heppell 2017,
+232), though this changed dramatically under the Conservative-Liberal
+Democrat coalition government period (2010-15) when the party surged to
+12.6% in the 2015 election. By pressuring conservative MPs in the
+Cameron government, UKIP is widely regarded to have triggered the 2016
+referendum on EU membership (Evans and Mellon 2019, 76), the
+(successful) campaign for which Farage led. After this however the
+party's fortunes declined dramatically, probably because its more
+"strategic" supporters considered its job done on the EU. Farage left
+the party to form the "Brexit Party" in 2019, but this only scored 2.1%
+in the general elections of that year.
 
 By the time of the 2015 election, UKIP was campaigning on a notably
-populist opposition to the political class and the major parties
-(Gifford 2014, 521), for which it has routinely been labelled
+populist opposition to the political class and its major parties
+(Gifford 2014, 521), for which is has routinely been labelled
 "anti-elite" (Ross and Bhatia 2021, 191; Hughes 2019) and
 "anti-establishment" (Ford and Goodwin 2014, 282; Gifford 2014, 513;
 Crines and Heppell 2017, 233). Farage and UKIP claimed politicians --
-variously referred to as "our political class" (Crines and Heppell 2017,
-241), "our ruling elite" (Tournier-Sol 2015, 149) or "establishment
+variously called "our political class" (Crines and Heppell 2017, 241),
+"our ruling elite" (Tournier-Sol 2015, 149) or "establishment
 politicians" -- consistently put their own interests above the people
 (Breeze 2019, 96; Ford and Goodwin 2014, 98), whom they had deliberately
 "betrayed" (Crines and Heppell 2017, 238), "failed" (cited in Ford and
@@ -49,49 +48,49 @@ careers first'" (cited in Crines and Heppell 2017, 238). In doing so,
 Farage and UKIP did not discern any difference between the three major
 parties (Labour, Conservative and Liberal-Democrat), whom it lumped
 together as "the legacy parties," (Breeze 2019, 96), and as a
-"LibLabCon-sensus" (Tournier-Sol 2015, 141). The wide spread public
-outrage at the expenses scandal several years earlier laid the
+"LibLabCon-sensus" (Tournier-Sol 2015, 141). The widespread public
+outrage at the expenses scandal several years earlier may have laid the
 groundwork for this catch-all opposition to the "political class" (Bale
 2018, 268). This is all clear evidence for 3 on OTH_POLCLASS.
 
 UKIP's main argument against this domestic elite was that it was in
-cahoots with a foreign elite, the EU, which it described in similarly
-populist terms as a ruling elite opposed to the interests of the
-ordinary people (Ross and Bhatia 2021, 203), and "hell-bent on causing
-as much trouble for the UK as it possibly can" (Breeze 2019, 97).
-According to Thorleifsson's, in Farage's speeches the "EU is framed as
-the external enemy, responsible for uncontrolled migration that in turn
-threaten jobs, exhausts public benefits and challenges the British and
-English way of life." (Thorleifsson 2021, 192). It framed EU question as
-one of "invasion and oppression," with posters titled "Ruled Britannia"
-(a play on the imperial slogan "Rule Britania) suggesting that the UK's
-sovereignty had been essentially seized by Brussels (Ross and Bhatia
-2021, 188), and that the domestic elite had a "surrendered" the people's
-sovereignty this "an alien bureaucracy" (Tournier-Sol 2015, 142).
-According Tournier-Sol, "Farage presents European integration as
-resulting from a deliberate plot conceived by its founding fathers in
-opposition to 'the people'" (Tournier-Sol 2015, 143). Given the
-conflation of the domestic elite with this foreign one, we've coded the
-party 3 on OTH_FOREIGN.
+cahoots with another, foreign elite, the EU, which it described in
+similarly populist terms as a ruling elite opposed to the interests of
+the ordinary people (Ross and Bhatia 2021, 203) and "hell-bent on
+causing as much trouble for the UK as it possibly can" (Breeze 2019,
+97). According to Thorleifsson, in Farage's speeches the "EU is framed
+as the external enemy, responsible for uncontrolled migration that in
+turn threaten jobs, exhausts public benefits and challenges the British
+and English way of life." (Thorleifsson 2021, 192). It framed EU
+question as one of "invasion and oppression," with posters titled "Ruled
+Britannia" (a play on the imperial slogan "Rule Britannia") suggesting
+that the UK's sovereignty had been essentially seized by the Brussels
+(Ross and Bhatia 2021, 188), such that the domestic elite had a
+"surrendered" the people's sovereignty to "an alien bureaucracy"
+(Tournier-Sol 2015, 142). According Tournier-Sol, "Farage presents
+European integration as resulting from a deliberate plot conceived by
+its founding fathers in opposition to 'the people'" (Tournier-Sol 2015,
+143). Given the conflation of the domestic elite with this foreign one,
+we've coded the party 3 on OTH_FOREIGN.
 
 Under Farage's leadership UKIP moved from a single issue party (focusing
 on Europe) to one that included other issues, especially immigration
-(Dennison and Goodwin 2015; Geddes 2014, 294). UKIP initially fused the
-issues of EU membership and immigration, particularly in relation to
-immigrants from Eastern Europe (Tournier-Sol 2015, 146). The party used
-the 2015 EU refugee crisis to suggest that the UK, were it to stay in
-the EU, would have no choice but to accept more asylum seekers than it
-could handle (Bale 2018, 270). However as the party grew its focus on
+(Dennison and Goodwin 2015; Geddes 2014, 294). UKIP initially connected
+the issues of EU membership and immigration, particularly in relation to
+the immigrants from Eastern Europe (Tournier-Sol 2015, 146). The party
+used the 2015 EU refugee crisis to suggest that the UK, were it to stay
+in the EU, would have no choice but to accept more asylum seekers than
+it could handle (Bale 2018, 270). However as the party grew its focus on
 opposing immigration grew beyond just a facet of its opposition to
 Europe (Gifford 2014, 522), claiming that immigrants both within and
-beyond the EU were a threat to the people for economic, ethno-cultural
-and security reasons (Thorleifsson 2021, 191). Economically, migrants
-from Eastern Europe were classed as a threat to British jobs (Bale 2018,
-273), with posters depicting British construction workers begging on the
-side of the road because "British workers are hit hard by unlimited
-cheap labour" (Ross and Bhatia 2021, 203). Culturally, immigrants from
+beyond the EU as a threat in economic, ethno-cultural and security terms
+(Thorleifsson 2021, 191). Economically, migrants from Eastern Europe
+were classed as a threat to British jobs (Bale 2018, 273), and it ran
+posters depicting British construction workers begging on the side of
+the road because "British workers are hit hard by unlimited cheap
+labour" (Ross and Bhatia 2021, 203). Culturally, immigrants from
 non-western backgrounds were classed as an existential threat to the
-western way of life (Thorleifsson 2021, 188), with Farage lamenting that
+western way of life (Thorleifsson 2021, 188), and Farage lamented that
 immigration had made parts of the UK seem "like a foreign land" (Bale
 2018, 273). Immigrants were also considered a threat to public safety
 (Thorleifsson 2021, 193). This immigration crisis, according to the
@@ -100,10 +99,10 @@ government "with complete disregard for their traditional working class
 vote" (Breeze 2019, 97). (OTH_IMMIGRANTS = 3).
 
 As is clear in the above, the party's rhetoric regarding immigration had
-a clear ethno-nationalist dimension which was explicitly opposed to
-multi-culturalism (Breeze 2019, 94--99). For example, Farage claimed
-that "92 per cent of ATM crime is committed by Romanians" (Crines and
-Heppell 2017, 240), and that Muslims in the UK represented a "fifth
+a clear ethno-nationalist dimension which was opposed to
+mulitculturalism (Breeze 2019, 94--99). For example, Farage claimed that
+"92 per cent of ATM crime is committed by Romanians." (cited in Crines
+and Heppell 2017, 240), and that Muslims in the UK represented a "fifth
 column" (Saleem 2020, 465). In response to the Scottish Independence
 referendum, according to Ford and Goodwin, "Farage and his party have
 positioned themselves prominently as the voice of English nationalism"
@@ -114,11 +113,11 @@ in Europe (Thorleifsson 2021, 188). "UKIP," according to Hughes, "are
 careful to avoid accusations of racism or xenophobia, and therefore
 their othering is sometimes quite subtle." (Hughes 2019, 250). One of
 the reasons Farage gave for forming a new party for the 2019 vote was
-that UKIP had become "too extreme" in its ethnocentric nativism.
+that UKIP had become "too extreme" on its ethnocentric nativism.
 (Thorleifsson 2021, 189). Due to this, we don't think that UKIP in 2015
 quite deserves a 3 on OTH_ETHNIC, and hence we've coded it 2.
 
-The OTH_FINANCIAL variable is somewhat difficult for UKIP. Farage
+The OTH_ECONOMIC variable is somewhat difficult for UKIP. Farage
 generally steered clear of traditional economic policy questions like
 unemployment benefits or wages, and implied his business acumen
 (financial background) was a key credential for governing (Crines and
@@ -130,37 +129,38 @@ voters generally shared the anti-business scepticism of labour voters
 > I accept that open door immigration and mass cheap labour is good for
 > rich people because it means cheaper nannies and cheaper chauffeurs
 > and cheaper gardeners. And it is good for very big businesses and it
-> is good for big landowners because it keeps their wage bills down
-> (Ford and Goodwin 2014, 88).
+> is good for big landowners because it keeps their wage bills down.
+> (Ford and Goodwin 2014, 88)
 
 Likewise, some party material claimed that "Tories continue to \[support
 open immigration\] to suit big business." (Breeze 2019, 97). However the
 fact that very few secondary sources mention this probably speaks to the
 issue's relatively low salience compared to other "others" in the
-party's rhetoric, and hence we've coded UKIP as 2 on OTH_FINANCIAL.
-Despite some occasional criticism of the military's neglect of soldiers
-(Breeze 2019, 97), we've seen no evidence of substantial OTH_MILITARY
-rhetoric (= 1).
+party's populist rhetoric, and hence we've coded UKIP as 2 on
+OTH_ECONOMIC. Despite some occasional criticism of the military's
+neglect of soldiers (Breeze 2019, 97), we've seen no evidence of
+substantial OTH_MILITARY rhetoric (= 1).
 
-While the party had some conventionally left-leaning policies (like
-support for public health and housing) the higher salience of its
+While the party had some conventionally left leaning policies, like
+support for public health and housing, the higher salience of its
 nativism and nationalism has led it to be universally considered "right
 wing" (Hughes 2019, 249; Gifford 2014, 513; Tournier-Sol 2015, 147) or
 "radical right" (Ford and Goodwin 2014, 277). There may be an argument
 for it to be placed at R on the LR_POSITION given its distance from
-other extremist right parties, but we've coded it FR. While Farage was
-in charge most sources emphasise that he and the party were essentially
-synonymous" (Hughes 2019, 250), and that UKIP was a "one-man band"
-(Tournier-Sol 2015, 153). Even during the brief period in which Farage
-stepped down as leader (2009-10), he was mentioned more in UKIP press
-releases than the party's new leader (Hughes 2019, 257). The party's
-fortunes surged when Farage was re-elected leader in 2010 (Crines and
-Heppell 2017, 232), and according to Evans and Mellon he personally
-boosted his party's fortunes unlike any other party leader at the time
-(Evans and Mellon 2015, 10) (CHARISMA = 3). We've seen no evidence that
-UKIP was a threat to liberal democratic norms (LIBDEMNORMS = 1), nor
-that Farage was any kind of insider in previous governments (INSIDER =
-1).
+other extremist right parties, but we've coded it FR.
+
+While Farage was in charge most sources emphasise that he and the party
+"were essentially synonymous" (Hughes 2019, 250), and that UKIP was a
+"one-man band" (Tournier-Sol 2015, 153). Even during the brief period in
+which Farage stepped down as leader (2009-10), he was mentioned more in
+UKIP press releases than the party's new leader (Hughes 2019, 257). The
+party's fortunes surged when Farage was re-elected leader in 2010
+(Crines and Heppell 2017, 232), and according to Evans and Mellon he
+personally boosted his party's fortunes unlike any other party leader at
+the time (Evans and Mellon 2015, 10) (CHARISMA = 3). We've seen no
+evidence that UKIP was a threat to liberal democratic norms (LIBDEMNORMS
+= 1), nor that Farage was any kind of insider in previous governments
+(INSIDER = 1)
 
 **References**
 
@@ -219,4 +219,3 @@ Formula?" *JCMS: Journal of Common Market Studies* 53 (1): 140--56.
 
 Usherwood, Simon. 2008. "The Dilemmas of a Single-Issue Party--The UK
 Independence Party." *Representation* 44 (3): 255--64.
-

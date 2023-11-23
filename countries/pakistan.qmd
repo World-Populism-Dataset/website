@@ -1,7 +1,11 @@
 ---
 title: Pakistan
+subtitle: Date range 1988-1990
+title-block-banner: yes
+
 ---
 
+# Case notes
 
 ## Muhajir Qaumi Movement/ Muttahida Qaumi Movement
 
@@ -9,40 +13,39 @@ The Muhajir Qaumi Movement (MQM), which in 1997 changed its name to the
 Muttahida Quami Movement, represents the "Muhajirs" ("migrants" or
 "refugees") in Pakistan -- Urdu-speaking Muslim immigrants who moved to
 Pakistan (primarily to the Sindh province and Karachi in particular)
-from various "Muslim minority" parts of India after partition. With
-roots in the Muhajir student organisation from the 1970s, the party
-emerged as a political force out of the 1985-86 ethnic riots in Karachi
-under the charismatic leadership of Altaf Hussain, appealing primarily
-to second generation Muhajirs, more open to ethno-nationalism than their
-parents (Malik 1995, 51). Initially supported and armed by military
-ruler Zia ul-Huq in the 1980s as a spoiler to the Pakistan People's
-Party (PPP) in Sindhi (M. A. Shah 1998, 508), the MQM subsequently
-formed alliances with both major parties over its three decades. After
-it embraced violence against state and military officials in the early
-1990s, "Operation Clean-up" targeted its leadership forcing Hussain into
-exile in London from which he has never returned. The party has had
-several offshoots against Hussain's leadership, including the
-unsuccessful MQM-Haqiqi faction and more recently the so-called
-MQM-Pakistan, however the only MQM parties to poll over 5% in national
-elections are those that Hussain has led. After a heavily-criticised
-speech in 2016 in which he called Pakistan a "cancer for the whole
-world", Hussain's effectively lost control of the party and its fortunes
-plummeted in the subsequent 2018 elections.
+from various parts of India after partition. With roots in the Muhajir
+student organisation from the 1970s, the party emerged as a political
+force out of the 1985-86 ethnic riots in Karachi under the charismatic
+leadership of Altaf Hussain, appealing primarily to second generation
+Muhajirs, more open to ethno-nationalism than their parents (Malik 1995,
+51). Initially supported and armed by military ruler Zia ul-Huq in the
+1980s as a spoiler to the Pakistan People's Party (PPP) in Sindhi (M. A.
+Shah 1998, 508), the MQM subsequently formed alliances with both major
+parties over its three decades. After it embraced violence against state
+and military officials in the early 1990s, "Operation Clean-up" targeted
+its leadership forcing Hussain into exile in London from which he has
+never returned. The party has had several offshoots against Hussain's
+leadership, including the unsuccessful MQM-Haqiqi faction and more
+recently the so-called MQM-Pakistan, however the only MQM parties to
+poll over 5% in national elections are those that Hussain has led. After
+a heavily-criticised speech in 2016 in which he called Pakistan a
+"cancer for the whole world", Hussain effectively lost control of the
+party and its fortunes plummeted in the subsequent 2018 elections.
 
 The MQM claims that Muhajir's have been the victims of systematic
 oppression and disloyalty by successive Pakistani governments since
-independence. In Altaf Hussain's words: "What has been done in twenty
-years by the government? \[...\] The faces change, but the policies
-remain the same" (Baloch 2012, 6). And in another speech: "We are left
-with half-achieved independence. Muslims got the country, but we are
-still slaves. Before it was the foreigners, the colonialists and today
-we are slaves to our own people" (Baloch 2012, 7). The MQM claimed that
-it had diverged from traditional "drawing room politics" of the other
-major parties by truly representing the excluded poor (Waseem 1996,
-625). It also claims that a feudal "privileged class" runs Pakistan, and
-that the party sought to "end the rule of the 2%, and create the rule of
-the 98% (Richards 1994, 307--8; see also Schied 2001, 34). The policy
-background was the establishment of the quota system that sought to make
+independence. In Hussain's words: "What has been done in twenty years by
+the government? \[...\] The faces change, but the policies remain the
+same" (Baloch 2012, 6). And in another speech: "We are left with
+half-achieved independence. Muslims got the country, but we are still
+slaves. Before it was the foreigners, the colonialists and today we are
+slaves to our own people" (Baloch 2012, 7). The MQM claimed that it had
+diverged from traditional "drawing room politics" of the other major
+parties by truly representing the excluded poor (Waseem 1996, 625). It
+also claims that a feudal "privileged class" runs Pakistan, and that the
+party sought to "end the rule of the 2%, and create the rule of the 98%
+(Richards 1994, 307--8; see also Schied 2001, 34). The policy background
+was the establishment of the quota system that sought to make
 appointments to the civil service (in which Muhajir's had been highly
 overrepresented) more equally distributed. While Muhajirs were
 overrepresented in the state bureaucracy in the early decades after
@@ -57,7 +60,7 @@ election.
 
 MQM discourse emphasised (and arguably created) the concept of Muhajir
 as an ethnic identity, and positioned itself as the exclusive defender
-of that communities interests (Naqvi 2020; Shahzad 2013; M. A. Shah
+of that community's interests (Naqvi 2020; Shahzad 2013; M. A. Shah
 1998, 510). At its peak this included demands for a separate province to
 be carved out of Sindh as a formal homeland necessary "for their
 \[Muhajir's\] very survival" (Schied 2001, 36). In championing the
@@ -71,41 +74,41 @@ party attempted to moderate its ethnocentric image, including changing
 the meaning of "MQM" to *Mutahida* Qaumi Movement (United National
 Movement) (Haq 1995, 1001). By some accounts this was part of a
 significant strategy to shift from an ethnocentric party limited to
-Urban Sindh to a broader middle class movement. However the available
+Urban Sindh to a broader middle-class movement. However the available
 evidence suggests that this was not a substantial shift, as the party's
 demands, rhetoric and leadership remained essentially unchanged (Schied
 2001, 39), and it was ultimately "unable to transition to non-ethnic
 politics" (K. M. Shah and Sareen 2019, 14) (OTH_ETHNIC = 3).
 
 One of Hussain and the MQM's key political targets has been the
-Pakistani military, which it has accused the military of genocide
-against Muhajirs (Haq 1995, 1001). Hussain has also associated the
-higher ranks of the armed forces with the core of the corrupt political
-system: "we must not forget the Generals. Lest we forget, they remain
-the real oppressors today" (Baloch 2012, 7). In contrast to the
-sacrifice of the Muhajir migration, he portrays the military elite of
-being "wealthy but devoid of moral fibre and patriotism" (Waseem 1996,
-628; see also Schied 2001, 36). Hostility to the military became
-especially strong after the army's terror violent Operation Clean-up in
-1992 (Ahmar 1996, 1035). According to Baloch, it was only after this
-that Hussain started to directly criticise the military. For this
-reason, we've coded OTH_MILITARY 1 for the 1988 election and 3 from
-1993. Despite claiming to represent the poor, the MQM was "policy
-neutral" on key economic matters (Waseem 1996, 626), perhaps in part due
-to the fact that may Muhajirs were well established in the business
-community (OTH_FINANCIAL = 1). We've seen no evidence that OTH_FOREIGN
-sentiment features in the party's discourse (= 1).
+Pakistani military, which it has accused of genocide against Muhajirs
+(Haq 1995, 1001). Hussain has also associated the higher ranks of the
+armed forces with the core of the corrupt political system: "we must not
+forget the Generals. Lest we forget, they remain the real oppressors
+today" (Baloch 2012, 7). In contrast to the sacrifice of the Muhajir
+migration, he portrays the military elite of being "wealthy but devoid
+of moral fibre and patriotism" (Waseem 1996, 628; see also Schied 2001,
+36). Hostility to the military became especially strong after the army's
+violent Operation Clean-up in 1992 (Ahmar 1996, 1035). According to
+Baloch, it was only after this that Hussain started to directly
+criticise the military. For this reason, we've coded OTH_MILITARY 1 for
+the 1988 election and 3 from 1993. Despite claiming to represent the
+poor, the MQM was "policy neutral" on key economic matters (Waseem 1996,
+626), perhaps in part due to the fact that may Muhajirs were well
+established in the business community (OTH_ECONOMIC = 1). We've seen no
+evidence that OTH_FOREIGN sentiment features in the party's discourse (=
+1).
 
-Ironically, even though the MQM's mission is to represents migrants from
-outside of Pakistan, and has consistently advocated for the increased
-immigration of Muslim's from other parts of India and Bangladesh
+Ironically, even though the MQM's mission is to represent migrants from
+outside of Pakistan, and has consistently advocated for increased
+immigration of Muslims from other parts of India and Bangladesh
 ("stranded Pakistanis") (Shahzad 2013, 133), it has often engaged in
 nativist anti-immigrant politics targeting immigrants from other places
 (Waseem 1996, 626). This has focussed especially Pashtuns from
 Afghanistan and non-Muhajir Pakistanis into urban Karachi and Hyderabad
 (Schied 2001, 40). It's early charters demanded that only citizens (or
-"real Sindhis") be able to vote, own businesses and buy property
-(Shahzad 2013, 133), and that Afghan refugees be deported ack to
+"real Sindhis") be able to vote, own businesses, and buy property
+(Shahzad 2013, 133), and that Afghan refugees be deported back to
 Afghanistan (Haq 1995, 998). Later on, it claimed that the influx of
 Pashtuns into Karachi signified the Taliban's "taking over" the city (K.
 M. Shah and Sareen 2019, 14) (OTH_IMMIGRANTS = 3). The MQM is very
@@ -137,14 +140,14 @@ donating to the movement (Haq 1995, 1002--3), and violently clamped down
 on internal dissent against Hussain's leadership and non-MQM Muhajirs
 who were seen as a threat for not supporting the party (K. M. Shah and
 Sareen 2019, 9). Party workers have abducted and tortured military
-officers (Waseem 1996, 627), While these activities probably peaked
+officers (Waseem 1996, 627). While these activities probably peaked
 during the violent periods of the late 1980s and 1990s, the party's use
 of violence continued through the 2000s (Siddiqui 2022, 2), although
-Khan (N. Khan 2010, 75) claims that it has went somewhat "underground".
+Khan claims that it has went somewhat "underground" (N. Khan 2010, 75).
 For these reasons we have consistently coded the party 3 on LIBDEMNORMS.
-Given that the party was a part of a power sharing agreement with the PP
-after its first election in 1988, we have coded it 1 on INSIDER for that
-election, and 2 for subsequent elections.
+Given that the party was a part of a power sharing agreement with the
+PPP after its first election in 1988, we have coded it 1 on INSIDER for
+that election, and 2 for subsequent elections.
 
 Note that in 1988, MQM candidates officially participated as
 independents, and in 1990-97 they were officially called the "Haq Parast
@@ -189,7 +192,7 @@ engaging in a *muq muqa*, ("nefarious deal" in Punjabi slang), in which
 they acted as each other's faux opposition, taking turns in government
 and partaking in the same forms of corruption (T. M. Khan 2020, 60; Faiz
 2022b, 56). The Panama Papers leaks in 2016, which revealed the offshore
-holdings of Prime Minister Nawaz Sharif's family, gave this campaign a
+holdings of Prime Minister Nawaz Sharif's family, gave this narrative a
 significant boost before the 2018 election (Faiz 2022b, 59). Several
 scholars (T. M. Khan 2020; Javid and Mufti 2022, 78) have noted that
 that the party shifted away from its mass-party organisational approach
@@ -203,7 +206,7 @@ as 3 for the duration.
 The military relationship with PTI is somewhat complicated. In his early
 years of political engagement Khan was often critical of the military's
 actions, especially during the Musharraf regime. This included "severe
-criticism" Musharraf's (military) regime and strong opposition to the
+criticism" of Musharraf's (military) regime and strong opposition to the
 military's cooperation with the US War on Terror, positions which "did
 not endear him to the military establishment" (T. M. Khan 2020, 64). But
 in a deeper sense the PTI was always connected to the military
@@ -226,7 +229,7 @@ States (Evans 2012, 221; A. Shah 2019, 131; Mulla 2017, 4187; Yılmaz and
 Shakil 2021, 8). The American use of drones in the War on Terror, many
 instances of which occurred in northwest Pakistan and included high
 civilian casualties, drew fierce criticism from Khan. According to
-Shakil and Yilmaz, this reached a proportion in which " 'the West' and
+Shakil and Yilmaz, this reached a proportion in which "'the West' and
 its supporters were deemed the antagonistic and conspiring other"
 (Shakil and Yilmaz 2021, 7). India has also featured as a foreign power
 behind the status quo in Khan's rhetoric (Faiz 2022b, 60; Shakil and
@@ -239,8 +242,8 @@ may be some debate about whether this *consistently* reaches the highest
 level on the OTH_FOREIGN scale, but on the balance of evidence we've
 coded the party 3. The literature does not present any evidence that PTI
 or Khan engaged in an ethnocentric politics (OTH_ETHNIC = 1). Likewise,
-there is no evidence of any discourse against financial elites
-(OTH_FINANCIAL = 1) or immigrants (OTH_IMMIGRANTS = 1).
+there is no evidence of any discourse against economic elites
+(OTH_ECONOMIC = 1) or immigrants (OTH_IMMIGRANTS = 1).
 
 Almost all articles on the PTI's rise emphasis how Khan's charisma was
 essential to its meaning in the eyes of voters (see Javid and Mufti
@@ -250,7 +253,7 @@ synonymous with Khan (T. M. Khan 2020, 63; Yilmaz and Shakil 2021, 5).
 The party's use of social media was one of the factors that allowed
 Khan's personality to connect directly with voters in an unmediated way
 (Javid and Mufti 2022, 81; Mulla 2017; Faiz 2022b, 58). The literature
-does not suggest that there Khan and the PTI consistently espoused any
+does not suggest that Khan and the PTI consistently espoused any
 consistent economic ideology with political salience, but was rather an
 "amalgamation of piecemeal ideologies" (Yılmaz and Shakil 2021, 10; see
 also Khalid 2020). The reason why Khan and the PTI are usually
@@ -272,7 +275,7 @@ The Tehrik Taliban Pakistan even nominated Khan to be their
 representative in negotiations with the government 2014, which he
 declined (Faiz 2022b, 57). Evidence suggests that media freedoms were
 curtailed during the PTI's time in government (Hussain, Abbas, and
-Sheikh 2022; Mulla 2017), and Faiz contends that, Khan abused
+Sheikh 2022; Mulla 2017), and Faiz contends that Khan abused
 anti-corruption authorities to target opposition politicians (Faiz
 2022b, 56). After losing the 2013 election, Khan discredited electoral
 institutions, claiming that a number of state bodies (including the
@@ -283,36 +286,33 @@ Pakistani politics we find that this doesn't quite reach the threshold
 of 3 on LIBDEMNORMS (= 2). As Khan had not served in government prior to
 2018 PTI is coded 1 on INSIDER.
 
-**Not included**
+## Not included
 
-**Pakistan People's Party**
-
-The Pakistan People's Party (PPP) is often considered a populist party
-in its early years under the leadership of Zulifkar Ali Bhutto (Jones
-2020; Shafqat 2020, 25; Ayoob 1985, 157; Nasr 1996, 259). This includes
-its first period in government in the mid-1970s. Bhutto, a charismatic
-student leader and cabinet minister in the 1960s, led a mass movement to
-overthrow the military rule of Gen Ayub Khan in 1969, going on to
-institute a relatively reformist period in power before being overthrown
-by the military in 1977 and executed in 1979. The PPP has formed
-government several times since 1980, including two prime ministerial
-stints under Bhutto's daughter and successor Benazir Bhutto (1988-90,
-1993-96), and another between 2008 and 2013 under Yousaf Gillani and
-Raja Ashraf. Benazir's husband Asif Ali Zadari also served as president
-between 2008 and 2013, following the former's assassination in 2007.
-
-There is a strong case that the rhetoric of the elder Bhutto's campaigns
-in the 1970s constitute populist discourse by our definitions. However
-the available evidence suggest that following this period the PPP became
-a more mundane and patronage-based party (Jones 2020; Faiz 2022a).
-Benazir Bhutto's 1980s and 1990s campaigns saw her "court" military
-leadership rather than antagonising it (Newberg 1994, 168), and the
-extent of populist sentiment appears to be the evocation of the legacy
-of her father (Syed 1991), and reformist policy proscriptions were
-significantly softened (Rais 1989, 205). More recently the PPP has acted
-as a mainstream party, even when in opposition. In Faiz's
-interpretation, the it "largely operates as a conventional opposition
-party whose resistance to government does not include an anti-system
+The **Pakistan People's Party (PPP)** is often considered a populist
+party in its early years under the leadership of Zulifkar Ali Bhutto
+(Jones 2020; Shafqat 2020, 25; Ayoob 1985, 157; Nasr 1996, 259). This
+includes its first period in government in the mid-1970s. Bhutto, a
+charismatic student leader and cabinet minister in the 1960s, led a mass
+movement to overthrow the military rule of Gen Ayub Khan in 1969, going
+on to institute a relatively reformist period in power before being
+overthrown by the military in 1977 and executed in 1979. The PPP has
+formed government several times since 1980, including two prime
+ministerial stints under Bhutto's daughter and successor Benazir Bhutto
+(1988-90, 1993-96), and another between 2008 and 2013 under Yousaf
+Gillani and Raja Ashraf. Benazir's husband Asif Ali Zadari also served
+as president between 2008 and 2013, following the former's assassination
+in 2007. There is a strong case that the rhetoric of the elder Bhutto's
+campaigns in the 1970s constitute populist discourse by our definitions.
+However the available evidence suggests that following this period the
+PPP became a more mundane and patronage-based party (Jones 2020; Faiz
+2022a). Benazir Bhutto's 1980s and 1990s campaigns saw her "court"
+military leadership rather than antagonising it (Newberg 1994, 168), and
+the extent of populist sentiment appears to be the evocation of the
+legacy of her father (Syed 1991), and reformist policy proscriptions
+were significantly softened (Rais 1989, 205). More recently the PPP has
+acted as a mainstream party, even when in opposition. In Faiz's
+interpretation, it "largely operates as a conventional opposition party
+whose resistance to government does not include an anti-system
 narrative" (Faiz 2022a, 1).
 
 **References**
@@ -469,4 +469,3 @@ on 7 May 2021)*.
 
 Yılmaz, Ihsan, and Kainat Shakil. 2021. "Imran Khan: From Cricket
 Batsman to Populist Captain Tabdeli of Pakistan."
-

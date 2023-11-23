@@ -1,14 +1,11 @@
 ---
 title: Iceland
+subtitle: 'Date range: 1980-2020.'
+title-block-banner: yes
+
 ---
 
-
--   Date range: 1980-2020.
-
--   Elections included:
-
-    -   Legislative: 1983, 1987, 1991, 1995, 1999, 2003, 2007, 2009,
-        2013, 2016, 2017.
+# Case notes
 
 ## Progressive Party / Centre Party
 
@@ -25,7 +22,7 @@ the nation" by showing leniency to the UK, the Netherlands and the IMF
 increase in its electoral fortunes in 2013, when it surged to 24.43%
 (Önnudóttir et al. 2022, 40). It also campaigned against corruption in
 the banking sector as a whole (Hallgrímsdóttir and Brunet-Jailly 2016,
-112) (OTH_FINANCIAL = 3). The new party leadership also gradually
+112) (OTH_ECONOMIC = 3). The new party leadership also gradually
 developed a nativist opposition to immigrants, associating asylum
 seekers with crime, and standing against Muslims and the construction of
 Mosques (Eiríkur Bergmann 2015, 48; Holbrook 2014; Newhouse 2017).
@@ -53,7 +50,7 @@ Bergmann 2017, 94).
 
 ## Citizens' Movement 
 
-The Citizens\' Movement (*Borgarahreyfingin*, CM -- sometimes called the
+The Citizens' Movement (*Borgarahreyfingin*, CM -- sometimes called the
 "Civic Movement") was a direct offshoot of the "pots and pans"
 revolution that followed the financial crisis -- named after the kitchen
 utensils that protesters banged together on the streets outside
@@ -61,7 +58,7 @@ Parliament (Harðarson and Kristinsson 2010, 524; Bernburg and
 Víkingsdóttir 2016). This spontaneous set of protests brought down the
 Independence Party government that had overseen the neoliberal financial
 policies blamed for the crisis. CM polled 7.2% in the election, but
-disbanded son afterward due to infighting due to the conflicting
+disbanded soon afterward due to infighting following the conflicting
 priorities of its members (Ómarsdóttir and Valgarðsson 2020, 846).
 
 The party positioned itself as an agent of radical change (Ómarsdóttir
@@ -70,7 +67,7 @@ anti-establishment character (Önnudóttir et al. 2022, 23; Newhouse
 2017). In the 2009 election the party campaigned broadly against "the
 system, politicians and bankers" (Van Kessel 2015, 51) and according to
 Ólafsson possessed a streak of "militant radicalism" (Ólafsson 2019,
-127) (OTH_POLCLASS =3, OTH_FINANCIAL = 3). It thus formed a left-leaning
+127) (OTH_POLCLASS =3, OTH_ECONOMIC = 3). It thus formed a left-leaning
 protest narrative that contrasted with the PP's simultaneous nationalism
 (OTH_IMMGIRATNS = 1, OTH_ETHNIC = 1, LRPOSITION = L). The party won 4
 seats in that election on a platform of "Let\'s bring the people to
@@ -102,7 +99,7 @@ Pirate Parties should be considered populist in any way, and some have
 declared that Iceland's is not populist (see for example Van Kessel
 2015, 52). Iceland's Pirates appear to differ from others within this
 family by being more serious about policy beyond the internet freedom
-issues that 'Piratism' had depended on (Newhouse 2017; Dapin 2017), and
+issues that "Piratism" had depended on (Newhouse 2017; Dapin 2017), and
 given the context of the banking crisis (associated with failure of the
 political class as a whole), the party appears to have had a more
 pronounced "anti-system" character in its discourse (Önnudóttir et al.
@@ -113,12 +110,12 @@ revolution and continued through the CM, culminating in the 2016
 election campaign in which "the Pirates established themselves early on
 as the antithesis to the establishment politicians in power" (Newhouse
 2017). On this basis, we've included the Pirates in the dataset, and
-coded them 3 on OTH_POLCLASS 3. Given their leftist orientation and
-their legacy in the pots and pans revolution, it seems likely that the
-party was also opposed to OTH_FINANCIAL elites -- however we've not come
-across direct evidence of this, so we've labelled the party 1 for the
-time being. Likewise, we've seen no evidence regarding OTH_FOREIGN
-discourse (= 1).
+coded them 3 on OTH_POLCLASS. Given their leftist orientation and their
+legacy in the pots and pans revolution, it seems likely that the party
+was also opposed to OTH_ECONOMIC elites -- however we've not come across
+direct evidence of this, so we've labelled the party 1 for the time
+being. Likewise, we've seen no evidence regarding OTH_FOREIGN discourse
+(= 1).
 
 While the ideology of all Pirate parties is somewhat alien to the
 conventional left-right scale, the Icelandic Pirates appear to have
@@ -129,14 +126,14 @@ in government (INSIDER = 1), and does not attempt to violate the norms
 of liberal democracy according to available evidence (LIBDEMNORMS = 1).
 The party possessed a relatively strong organisational base (Ólafsson
 2019, 127), and as it formally has no official leader (Ómarsdóttir and
-Valgarðsson 2020, 847), I doesn't seem to rely on its leadership for its
-appeal (CHARISMA = 1).
+Valgarðsson 2020, 847), it doesn't seem to rely on its leadership for
+its appeal (CHARISMA = 1).
 
 ## Not included
 
 **Bright future** has links to an earlier populist party, the Best Party
 of comedian Jón Gnarr, who previously ran successfully in the Reykjavik
-mayoral election on an enti-estblishment and anti-politics narrative
+mayoral election on an anti-establishment and anti-politics narrative
 (Ómarsdóttir and Valgarðsson 2020, 846). While Gnarr joined Bright
 Future, available evidence suggests that this party charted a different
 direction to the Best Party (Önnudóttir et al. 2022, 119), and we have
@@ -216,4 +213,3 @@ Discontent?* Springer.
 Þórsson, Elías. 2017. 'From Iceland --- Flokkur Fólksins: The Populist
 Uprising?' The Reykjavik Grapevine. 15 August 2017.
 https://grapevine.is/mag/2017/08/15/flokkur-folksins-the-populist-uprising/.
-

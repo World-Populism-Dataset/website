@@ -1,9 +1,11 @@
 ---
 title: Austria
+subtitle: 'Date range: 1980-2020'
+title-block-banner: yes
+
 ---
 
-
-Date range: 1980-2020
+# Case notes
 
 ## Austrian Freedom Party
 
@@ -287,4 +289,3 @@ York: Bloomsbury Academic.
 Wodak, Ruth, and Bernhard Forchtner. 2014. 'Embattled Vienna 1683/2010:
 Right-Wing Populism, Collective Memory and the Fictionalisation of
 Politics'. *Visual Communication* 13 (2): 231--55.
-

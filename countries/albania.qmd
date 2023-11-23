@@ -1,9 +1,11 @@
 ---
 title: Albania
+subtitle: 'Date range: 1992-2020'
+title-block-banner: yes
+
 ---
 
-
-Date range: 1992-2020
+# Case notes
 
 ## Edi Rama, Socialist Party of Albania
 
@@ -132,4 +134,3 @@ Influences of Russia, Croatia, Serbia and Albania*. JSTOR.
 Triantis, Loukas. n.d. "Colour Politics and Urban Identities: A Critical
 Evluation of the Facade-Colouring Project, in Edi Rama's Tirana."
 https://www.academia.edu/download/35308323/Triantis_Painting_Tirana_2010.pdf.
-

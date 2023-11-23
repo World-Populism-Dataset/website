@@ -1,7 +1,11 @@
 ---
 title: France
+subtitle: 'Date range: 1980-2020'
+title-block-banner: yes
+
 ---
 
+# Case notes
 
 ## Front National
 
@@ -18,20 +22,20 @@ Marine in 2011, who recorded another second-round presidential
 appearance in 2017, also losing but with an increased 33.9%.
 
 In its criticism of elites and championing of "ordinary folk" (Balent
-2013, 177), the party has always anti-elite and anti-establishment motif
-(Van Kessel 2015, 45; Hainsworth 2004, 107; Rydgren 2008, 166) whom it
-denigrated with "highly hostile" rhetoric (Eatwell 2002, 14). According
-to Rydgren, this involved a strategy of depicting "all political parties
-as constituting a single, homogeneous political class" (Rydgren 2008,
-174). Le Pen claimed in 1995 for example that the "rotation \[of
-mainstream left and right parties in the fifth republic\] is false,
-since there are no differences between the two components of French
-politics" (cited in Rydgren 2008, 177). The party's core accusation
-against this political class was both corruption (Hainsworth 2004, 104),
-and national betrayal (Shields 1995, 24). This anti-establishment
-attitude was maintained by Marine Le Pen, whose campaigns considered
-established parties "crooked" (Stockemer and Barisione 2017, 104). We've
-therefore coded FN 3 for OTH_POLCLASS.
+2013, 177), the party has always had an anti-elite and
+anti-establishment motif (Van Kessel 2015, 45; Hainsworth 2004, 107;
+Rydgren 2008, 166), and it denigrated opponents with "highly hostile"
+rhetoric (Eatwell 2002, 14). According to Rydgren, this involved a
+strategy of depicting "all political parties as constituting a single,
+homogeneous political class" (Rydgren 2008, 174). Le Pen claimed in 1995
+for example that the "rotation \[of mainstream left and right parties in
+the fifth republic\] is false, since there are no differences between
+the two components of French politics" (cited in Rydgren 2008, 177). The
+party's core accusation against this political class has been both
+corruption (Hainsworth 2004, 104), and national betrayal (Shields 1995,
+24). This anti-establishment attitude was maintained by Marine Le Pen,
+whose campaigns considered established parties "crooked" (Stockemer and
+Barisione 2017, 104). We've therefore coded FN 3 for OTH_POLCLASS.
 
 However the central ideological principle of the party has always been
 its OTH_IMMIGRANT and OTH_ETHNIC focus (Marcus 1995; Hainsworth and
@@ -46,15 +50,15 @@ Islam (Balent 2013, 165; Hainsworth and Mitchell 2000, 445; Eatwell
 2002, 12). On both variables, while there is a difference between the
 radical proposals of the 1980s and the somewhat more moderate approaches
 of recent years (Hainsworth 2004, 106), this should not see the party
-decline from a 3 in both.
+decline from a 3.
 
-More complicated are the OTH_FINANCIAL and OTH_FOREIGN variables. In
+More complicated are the OTH_ECONOMIC and OTH_FOREIGN variables. In
 economic policy, the party originally claimed a neoliberal identity in
 the 1970s and 1980s, advocating privatisations, lower taxes and
 free-marketism (Bastow 1997, 64). While it did possess a general
 suspicion of big business common on the far right (Bastow 1997;
-Hainsworth and Mitchell 2000, 446) at this time, We've not seen evidence
-that financial elites themselves were an "other" to the party's
+Hainsworth and Mitchell 2000, 446), we've not seen evidence that
+financial elites themselves were an "other" or an "enemy" to the party's
 conception of ordinary people. The FN's economic policy began to veer
 toward protectionism in the 1990s, which was bound with its opposition
 to globalisation, and came in the form of opposing free trade and
@@ -65,7 +69,7 @@ how more leftward economic policy has become increasingly important to
 the FN search for working class voters, particularly in the post-GFC
 period, as (under Marine) the party portrayed the elite in economic
 terms. It does not appear that this has ever reached a 3 on the
-OTH_FIANNCIAL scale, as the party has still prioritised the cultural and
+OTH_ECONOMIC scale, as the party has still prioritised the cultural and
 ethnic dimensions of populism (Balent 2013, 163). We've increased this
 from 1 to 2 in 2012, further research should confirm the timing and
 degree of this.
@@ -110,7 +114,7 @@ party founded by Jean-Luc Mélenchon. Mélenchon, a former Socialist Party
 Minister between 2000 and 2002, left the party in 2008 over policy
 direction, initially founding The Left Party (*Parti de gauch*, PDG) and
 heading The Left Front (*Front de gauche*) coalition for the 2012
-elections where we tallied a surprising 11%. While the PDG faded after
+elections where he tallied a surprising 11%. While the PDG faded after
 that vote, Mélenchon's profile received a major boost by the 2016
 protests against labour reforms by the Socialist government (Damiani
 2017, 2), after which he founded LFI to face the 2017 presidential and
@@ -127,7 +131,7 @@ campaign trail (Marlière 2019, 96). This included parties on the left
 and right of the established party system (Clift and McDaniel 2017). The
 other (linked) enemy to Mélenchon's idea of the ordinary people was the
 "oligarchy", which he pledged to "sweep away" (Ivaldi 2019, 4)
-(OTH_FINANCIAL = 3). According to several scholars (Damiani 2017, 2;
+(OTH_ECONOMIC = 3). According to several scholars (Damiani 2017, 2;
 Marlière 2019, 100; Hamburger 2018, 103) Mélenchon and LFI are inspired
 directly by the Ernesto Laclau and Chantal Mouffe theory that broad and
 heterogenous opposition to neoliberalism should create new groups of
@@ -146,8 +150,9 @@ the right (Marliére 2017; Hamburger 2018, 106--7). However some who
 document this very shift still identify classically people/elite
 discourse in his earlier run (Marlière 2019), and most voices in the
 literature categorise FDG as populist in 2012 (Ivaldi 2019; Ducange
-2015, 65). We've therefore included the 2012 election and classified
-Melenchon as 2 on OTH_POLCLASS in 2012 (and 3 in 2017).
+2015, 65). Based on the presence of anti-elitism, we've included
+Mélenchon's 2012 campaign in the dataset and classified him as 2 on
+OTH_POLCLASS in 2012 and 3 in 2017.
 
 LFI is hostile to the European Union on economic grounds. It has accused
 the EU of imposing a "tyranny" on France via liberal economic orthodoxy
@@ -173,18 +178,10 @@ Marlière 2019, 95), and he is usually considered a "strong personality"
 and McDaniel 2017, 411) that anchors the party's image (CHARISMA = 3).
 As a "seasoned career politician" (Marlière 2019, 96) and a former
 cabinet minister, we've coded LFI 2 on INSIDER. The party is somewhat
-difficult to code on LIBDEMNORMS, but due to its general hostility to
-both media scrutiny and representative democratic institutions we've
-coded it 2 for now (Hamburger 2018, 100).
-
-**Not included**
-
-There is a case that **Emmanuel Macron's** movement (*En Marche*) is
-populist, given his opposition to the political party status-quo,
-appeals to common sense, presentation as a change agent, etc. - but
-populism itself is his "other". He has therefore been called the
-"anti-populist populist" (Bordignon 2017). For these reasons he doesn\'t
-merit inclusion in the dataset
+difficult to code on LIBDEMNORMS. It has been generally hostility to
+media scrutiny and representative democratic institutions (Hamburger
+2018, 100), but we've not seen quite enough evidence that this warrants
+coding above 1.
 
 **References**
 
@@ -205,10 +202,6 @@ Disarray of French Politics'. *Modern & Contemporary France* 25 (1):
 Bonansinga, Donatella. 2022. '"A Threat to Us": The Interplay of
 Insecurity and Enmity Narratives in Left-Wing Populism'. *The British
 Journal of Politics and International Relations* 24 (3): 511--25.
-
-Bordignon, Fabio. 2017. 'In and out: Emmanuel Macron's Anti-Populist
-Populism'. *EUROPP* (blog). 28 April 2017.
-https://blogs.lse.ac.uk/europpblog/2017/04/28/macron-anti-populist-populism/.
 
 Clift, Ben, and Sean McDaniel. 2017. 'Is This Crisis of French Socialism
 Different? Hollande, the Rise of Macron, and the Reconfiguration of the
@@ -267,7 +260,7 @@ Marcus, Jonathan. 1995. *The National Front and French Politics: The
 Resistible Rise of Jean-Marie Le Pen*. New York: NYU Press.
 
 Marliére, Philippe. 2017. 'Jean-Luc Mélenchon's Populist Gamble \|
-OpenDemocracy'. *Open Democracy* (blog). 27 October 2017.
+openDemocracy'. *Open Democracy* (blog). 27 October 2017.
 https://www.opendemocracy.net/en/can-europe-make-it/jean-luc-m-lenchon-s-populist-gamble/.
 
 Marlière, Philippe. 2019. 'Jean-Luc Mélenchon and France Insoumise: The
@@ -295,4 +288,3 @@ Front National under Marine Le Pen: A Slight Change with a Big Impact'.
 
 Van Kessel, Stijn. 2015. *Populist Parties in Europe: Agents of
 Discontent?* Springer.
-

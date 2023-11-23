@@ -1,31 +1,29 @@
 ---
 title: New Zealand
+subtitle: 'Date range: 1980-2020'
+title-block-banner: yes
+
 ---
 
-
--   Date range: 1980-2020
-
--   Elections included:
-
-    -   Legislative: 1981, 1984, 1987, 1990, 1993, 1996, 1999, 2002,
-        2005, 2008, 2011, 2014, 2017, 2020.
+# Case notes
 
 ## Social Credit
 
 Social Credit (sometimes called "Socred") evolved from the Social Credit
-Political League of the 1950s, and like its successful namesake Canada,
-was based on the social credit economic philosophy developed by C. H.
-Douglas. Social Credit went through many different phases as a party,
-but achieved its best result of 20.65% in 1981 under the leadership of
-Bruce Beetham. The party gradually declined after that, and by the 1987
-election it had changed its name to the Democratic Party.
+Political League of the 1950s, and like its successful Canadian
+namesake, was based on the social credit economic philosophy developed
+by C. H. Douglas. Social Credit went through many different phases as a
+party, but achieved its best result of 20.65% in 1981 under the
+leadership of Bruce Beetham. The party gradually declined after that,
+and by the 1987 election it had changed its name to the Democratic
+Party.
 
 Gustafson (Gustafson 2006, 61) and Miller (Miller 1997, 168) both
-suggest that under Beetham Social Credit Party was a fundamentally
+suggest that under Beetham the Social Credit Party was a fundamentally
 populist party given its conspiratorial hostility to financial elites.
 The party advocated financial reform and was built on a mainly rural and
 religious voter base. Its policies were a complicated balance of
-hostility to financial elites (OTH_FINANCIAL = 3) and a libertarian
+hostility to financial elites (OTH_ECONOMIC = 3) and a libertarian
 distrust in state bureaucrats (Davis 1980, 3). While there is some
 opposition to the political class in this, Beetham's stated conciliatory
 strategy of working with opponents (Davis 1980, 4) makes him difficult
@@ -70,14 +68,14 @@ correct busybodies, traffic officers and journalists in his life"
 "dictator" (Pugh 1984, 312). Given that this is less consistent than
 more conspiratorial narratives against the political class, we've coded
 NZP 2 on OTH_POLCLASS. We've seen no evidence for coding above 1 for
-OTH_ETHNIC, OTH_IMMIGRATS, OTH_FOREIGN, OTH_FINANCIAL, or OTH MILITARY.
+OTH_ETHNIC, OTH_IMMIGRATS, OTH_FOREIGN, OTH_ECONOMIC, or OTH MILITARY.
 
 The NZP's image was built around Jones' "explosive personality" (Martin
 1984, 394), such that soon after its launch it became known as the
 "Jones Party" (Aimer 1988, 3) (CHARISMA =3). The party included some
 left-libertarian positions, but it is broadly considered right wing due
 to the primacy of its neo-liberal economic positions (Martin 1984, 394)
-(LRPOSITION = R). Jones had not held any position in government before
+(LRPOSITION = CR). Jones had not held any position in government before
 his campaign, even though he and Muldoon were "old mates" (Simpson 1986,
 266). Jones famously punched a journalist the year after the election
 and was notably hostile to the media on the campaign trail, but we don't
@@ -154,15 +152,14 @@ be coded at 3 consistently.
 Peters' discourse has also targeted the business elite (Barker and
 Vowles 2020, 21), whom he once accused of "hijacking" the government
 (Miller 1997, 169). We have not seen quite enough evidence that this
-reaches beyond 2 on OTH_FINANCIAL. He has also build a general antipathy
+reaches beyond 2 on OTH_ECONOMIC. He has also built a general antipathy
 to foreign entities and interests that threaten the people of New
-Zealand. In 1996, for example, Peters asked "whose country is it? A
-country fit for the families of ordinary New Zealanders, whose votes
-have placed the politicians in power, or a paradise for foreign
-take-over merchants looking for cheap gains at our expense?" (cited in
-Gustafson 2006, 63). Given he has not alleged that his domestic rivals
-are wholly controlled by and loyal to these interests, we've kept
-OTH_FOREIGN at 2.
+Zealand. In 1996, for example, he asked "whose country is it? A country
+fit for the families of ordinary New Zealanders, whose votes have placed
+the politicians in power, or a paradise for foreign take-over merchants
+looking for cheap gains at our expense?" (cited in Gustafson 2006, 63).
+Given he has not alleged that his domestic rivals are wholly controlled
+by and loyal to these interests, we've kept OTH_FOREIGN at 2.
 
 NZF is somewhat difficult to define on the left-right scale (see Donovan
 2020). Peters original reason for leaving National was his opposition to
@@ -183,6 +180,8 @@ above 1 on LIBDEMNORMS (this is backed up by Barker and Vowles 2020,
 launched NZP, we have labelled the party 2 on INSIDER from its
 inception.
 
+
+
 ## Not included
 
 Former Labour Party president Jim Anderton founded the breakaway
@@ -198,7 +197,7 @@ discussions about recruiting) started NZF (Jesson 1997, 159). The
 Alliance went on to form government with Labour after the 1999 election,
 after which their electoral fortunes declined. Gustafson claims that
 Anderton himself was "undeniably" a populist (Gustafson 2006), and the
-Alliance played heavily on the promise that they would not break their
+Alliance played heavily on the pledge that they would not break their
 promises like the other parties did, even pledging to resign if they
 did, giving them a "revivalist" and anti-politics appeal in the
 electorate (Jesson 1997, 162). However we have not seen enough evidence
@@ -313,4 +312,3 @@ Vowles, Jack. 1997. 'The New Zealand General Election of 1996'.
 ---------. 2020. 'Populism and the 2017 Election - The Background'. In
 *A Populist Exception?: The 2017 New Zealand General Election*, edited
 by Jack Vowles and Jennifer Curtin, 35--70. Acton: ANU Press.
-

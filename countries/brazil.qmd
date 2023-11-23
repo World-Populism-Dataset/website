@@ -1,111 +1,151 @@
 ---
 title: Brazil
+subtitle: |-
+  Date range: 1988-2020
+  <br>
+  Brazil was controlled by the military between 1964 and 1985. In 1985
+  José Sarney was elected to the presidency of Brazil and initiated the
+  democratic transition process. A new constitution was drafted in 1988
+  and the first direct presidential elections were held in 1989.
+title-block-banner: yes
+
 ---
 
-
--   Date range: 1980-2020
-
--   Elections included:
-
-    -   
-
--   Not included:
-
-Brazil was controlled by the military for more than twenty years, from
-1964 until 1985. In 1985 José Sarney was elected to the presidency of
-Brazil and initiated the transition process. A new constitution was
-drafted in 1988 and the first direct presidential elections were held in
-1989. Three populist candidates competed in those elections: Fernando
-Collor de Mello, Luis Inácio Lula da Silva and Leonel Brizola.
+# Case notes
 
 ## Fernando Collor de Mello
 
 Collor de Mello was a member of an important family in Brazil and had
 been elected as mayor of Maceió and governor of the province of Alagoas
 before running for president. He held no position of relevance in the
-previous regime and was little known to the public before 1989. Coming
-from a underdeveloped and impoverished region, Collor de Mello run a
-campaign as an outsider differentiating himself from traditional
-politicians (Panizza, 2000: 181). He engineered a modern communication's
-campaign based entirely on his personal figure (he ran for a small and
-not well-known political party). His campaign surpassed the traditional
-right-wing candidate and then defeated Lula's party in the second round.
-I have coded 1 for Insider Populism and 3 for Personality Dependent.
+previous regime and was little known to the public before 1989 (Moraes
+Valença 2002, 116) (INSIDER, INC_PARL, INC_PRES = 1). Coming from an
+underdeveloped and impoverished region, Collor de Mello ran a campaign
+as an outsider differentiating himself from traditional politicians
+(Panizza, 2000: 181). He engineered a modern communication campaign
+based entirely on his personal figure (he ran for a small and not
+well-known political party) (CHARISMA = 3). His campaign surpassed the
+traditional right-wing candidate and then defeated Lula da Silva's party
+in the second round.
 
-Callor de Mello based his campaign in fighting against corruption,
-criticizing in particular the "marajás" (high ranked civil servants)
-(Noielli, 2008). As Panizza puts it, "he was uncompromising in his
-attacks against the state's bureaucracy, the political establishment
-and, particularly, against President Sarney" (Panizza, 2000: 182). He
-viewed the restoration of social order as a moral crusade against the
-"privileged political and economic elite that had become rich at the
-expense of the poor" (Panizza, 2000: 182). Collor de Mello claimed that
-he aimed "to make the right indignant and leave the left perplexed" and
-he even rejected endorsement by business groups (Panizza, 2000:
-182-183). He defended the need to implement neoliberal policies in order
-to reduce the hyperinflation that the country suffered at the moment
-(Noielli, 2008) and he liberalized and opened the economy by drastically
-lowering the import tariffs (Panizza, 2000: 185). Collor de Mello was
-supported by important TV companies and right-wing groups of Brazil
-which wished to stop the rise of Lula (Ortiz de Zárate, 2016). I
-labelled 3 for Political Class and Financial Elite, "Right" for ideology
-and, given his desire to liberalize and open the economy against the
-wishes of a fraction of Brazil's industrial elite, 1 in Foreign
-Interests.
+Collor de Mello is classical example of the neoliberal populist branch
+that was so successful in the 90's in Latin America (Cammack 2000, 158).
+He based his campaign in fighting against corruption, criticizing
+particularly the "marajás" (high-ranked civil servants) (Noielli, 2008)
+(Moraes Valença 2002, 116). As Panizza puts it, "he was uncompromising
+in his attacks against the state's bureaucracy, the political
+establishment and, particularly, against President Sarney" (Panizza,
+2000: 182). He viewed the restoration of social order as a moral crusade
+against the "privileged political and economic elite that had become
+rich at the expense of the poor" and were "self-serving and corrupt"
+(Panizza, 2000: 182) and stated that "All elites are my enemies"(Moraes
+Valença 2002, 119) (OTH_POLCLASS = 3).
 
-Collor de Mello implemented a number of shock policies designed to
-liberalize the country, reduce hyperinflation and break with the
-previous statist model of economic development (Panizza, 2000: 185). In
-line with his populist and personalist style, he also attempted to run
-with the support of the public opinion but without the backing of a
-stable party alliance. Panizza describes it in the following way: "Once
-in office, Collor faced two options: he could either radicalize the
-'politics of anti-politics' campaign and refuse to acknowledge the
-legitimacy of the existing political establishment or, alternatively,
-become immersed in the political game, thus losing his status as
-political outsider. Eventually, Collor fell between two stools"
-(Panizza, 2000: 187-188). When his economic policies failed and he was
-accused of corruption by his own brother, the congress decided to
-impeach him. He resigned just before the impeachment, but congress
-incapacitated him for office for 8 years. Therefore, although Collor de
-Mello did not take the authoritarian route of Fujimori in Peru, he
-engaged in extensive corruption and refused to collaborate with parties
-in the parliament. I believe this should deserve a 2 in Violation of LD
-norms. I have not been able to find any negative discourse of
-immigrants, the military or ethnic others.
+Collor de Mello claimed that he aimed "to make the right indignant and
+leave the left perplexed" (Panizza, 2000: 182-183) and proposed a "vague
+economic platform, a set of loosely arranged proposals, was designed not
+to alienate voters and supporters of different leanings or divide them
+along conflicting lines" (Moraes Valença 2002, 118). He was, however, an
+early adopter of neoliberal policies and rhetoric (Cammack 2000, 158)
+and proposed "the opening up of the economy, privatization, fiscal
+reforms, the end of established cartels and public corporation
+monopolies, and comprehensive administrative reform, including the
+elimination of public agencies and ministries as well as the dismissal
+of personnel" (Moraes Valença 2002, 118) (LRPOSITION = R).
+
+Political classes were the main target of Collor the Mello and had a
+more complex relationship with businesses, because while he considered
+them part of the elite, he was endorsed and financed by them because
+they saw him as the right-wing candidate (Panizza 2000, 183). Collor de
+Mello was supported by important TV companies and right-wing groups of
+Brazil which wished to stop the rise of Lula (Ortiz de Zárate, 2016). He
+did, however, famously rejected one endorsement by "the highly
+influential Federaçao das Industrias do Estado de Sao Paulo (FIESP)"
+(Weyland 1993, 9) claiming that
+
+> \[I\] have got here with you alone, without support from organised
+> groups, politicians or businessmen. They \[the business
+> organisations\] can claim that they are voting for me. At the end of
+> the day they are entitled to vote as they wish. But my public
+> commitment is to govern for the poorest among the poor. (Panizza 2000,
+> 183).
+
+We have decided to code OTH_ECONOMIC as 2 because his criticism of
+economic elites was tangential to his criticism of political elites.
+Collor de Mello used this ambiguity to his advantage to gain support
+from the businesses (his campaign manager received significant amounts
+of money from businesses that would be later discovered and became the
+reason for his impeachment) while avoiding being seen as a sell-out to
+the rest of the population.
+
+We've seen no reason to code above 1 for OTH_IMMIGRANTS, OTH_FOREIGN, or
+OTH_ETHNIC. He claimed to defend the poorest in the country, most of
+which are not white and promised to pay the foreign debts as opposed to
+what Lula and Brizola were claiming (Moraes Valença 2002, 118).
+
+Once in government, Collor de Mello implemented a number of shock
+policies designed to liberalize the country, reduce hyperinflation and
+break with the previous statist model of economic development (Panizza,
+2000: 185). He defended the need to implement neoliberal policies in
+order to reduce the hyperinflation that the country suffered at the
+moment (Noielli, 2008) and he liberalized and opened the economy by
+drastically lowering the import tariffs (Panizza, 2000: 185).
+
+In line with his populist and personalist style, he also attempted to
+run with the support of the public opinion but without the backing of a
+stable party alliance. Panizza describes it in the following way:
+
+> Once in office, Collor faced two options: he could either radicalize
+> the 'politics of anti-politics' campaign and refuse to acknowledge the
+> legitimacy of the existing political establishment or, alternatively,
+> become immersed in the political game, thus losing his status as
+> political outsider. Eventually, Collor fell between two stools
+> (Panizza, 2000: 187-188).
+
+When his economic policies failed and he was accused of corruption by
+his own brother, the congress decided to impeach him. He resigned just
+before the impeachment, but congress incapacitated him for office for 8
+years. Despite the corruption in his government, his campaign was meant
+to clean of corruption the Brazilian state, help the poor and modernise
+the country (Weyland 1993, 5). Therefore, we have not found any
+discursive or rhetorical break of established liberal democratic norms.
+To the contrary, his discurse promoting these norms ultimately backfired
+when he was shown to equally corrupt as previous leaders (LIBDEMNORMS =
+1).
+
+
 
 ## Workers' Party
 
-The Workers' Party is the most important party in Brazilian politics of
-the last decades. It was founded by a group of academics, intellectuals
-and union leaders led by Luis Inácio Lula da Silva, a popular union
-leader with no formal educational background. The party had a strong
-support base among labor unions and its organizational structure was
-that of a mass bureaucratic party (Hunter, 2010: 22). The party fits
-better in the classification of a socialist party than in a populist
-one, particularly when compared to a clear left-wing populist party such
-as Brizola's PDT. Conniff (1999: 59) stated that Lula "could not even
-remotely be called populist" but Zedillo (2002: 55) argued that Lula ran
-on a populist platform. Lula da Silva ran unsuccessfully as a
-presidential candidate in 1989, 1994, 1998 and finally won in 2002.
-During this time, the party went through an important transformation in
-its discourse moderating its radicalism with every electoral bid
-(Hunter, 2010: 60).
+The Workers' Party (*Partido dos Trabalhadores*. PT) is the most
+prominent party in Brazilian politics of the last decades. It was
+founded in 1980 by a group of academics, intellectuals and union leaders
+led by Luis Inácio Lula da Silva, a popular union leader with no formal
+educational background (French y Fortes 2005, 18). Lula ran unsuccessful
+presidential campaigns in 1989, 1994, 1998 before finally winning in
+2002. During this period, the party went through an important
+transformation in its discourse, moderating its radicalism with every
+electoral bid (Hunter, 2010: 60). Whether or not Lula should be
+considered populist has been the subject of considerable debate. Conniff
+(1999: 59), for example has stated that he "could not even remotely be
+called populist," while Zedillo (2002: 55) argues that Lula ran on a
+populist platform.
 
-The party's platform was rooted in achieving socialism and in an
-opposition to trade liberalization, labor 'flexibilization' and
-neoliberal reforms (Hunter, 2010: 26). Moreover, "the PT adopted a
-pro-labor and anti-foreign capital positions in its Constituent
-Assembly" (Hunter, 2010: 26). It even proposed the nationalization of
-the financial sector in 1989. The 1989 campaign was very much based on
-populist rhetoric. It was depicted as a struggle between "rich versus
-poor, exploiters versus exploited" and the solution was a radical
-rupture with the previous system (Hunter, 2010: 110). The PT fiercely
-criticized the status quo and rejected privatizations because they were
-seen as "delivering the national patrimony over to greedy domestic and
-foreign interests" (Hunter, 2010: 111). Additionally, Lula da Silva's
-image, as an uncompromising "bearded labor leader in rolled-up sleeves"
-(Hunter, 2010: 111) signaled his opposition to traditional politicians.
+PT's platform was rooted in achieving socialism and in an opposition to
+trade liberalization, labor 'flexibilization' and neoliberal reforms
+(Hunter 2010, 26). Moreover, "the PT adopted a pro-labor and
+anti-foreign capital positions in its Constituent Assembly" (Hunter,
+2010: 26). It even proposed the nationalization of the financial sector
+in 1989. The 1989 campaign was very much based on populist rhetoric. It
+was depicted as a struggle between "rich versus poor, exploiters versus
+exploited" and the solution was a radical rupture with the previous
+system (Hunter, 2010: 110). The PT fiercely criticized the status quo
+and rejected privatizations because they were seen as "delivering the
+national patrimony over to greedy domestic and foreign interests"
+(Hunter, 2010: 111). Additionally, Lula da Silva's image, as an
+uncompromising "bearded labor leader in rolled-up sleeves" (Hunter,
+2010: 111) signalled his stylistic opposition to traditional
+politicians.
 
 Collor de Mello's corruption and the economic hardship of the time
 encouraged the PT to continue with its oppositional politics and to
@@ -119,24 +159,31 @@ language of 1989 (e.g., the poor can only gain at the expense of the
 rich) gave way to the concept of 'citizenship'" as a way of
 "guaranteeing basic rights to the population as a whole". Although the
 possibility of a "third way" was rejected Lula, himself more moderate
-than the party, threatened to call off his candidacy if the radical
+than the party, he threatened to call off his candidacy if the radical
 trend the party was taken continued (Hunter, 2010: 121). In order to
 further his moderation, Lula chose Aloizio Mercandante as vice-president
 because of his links to the business world and to the military (Hunter,
-2010: 121). I have coded 3 in Political Class, Financial Elite and
-Foreign Interest and Far Left in Ideology in 1994 and in all elections
-before.
+2010: 121). We have coded 3 in OTH_POL_CLASS, OTH_FINANCIAL, and
+OTH_FOREIGN and FL in LRPOSITION in 1994 and in all elections before.
+
+Lula strongly rejected the military dictatorship which made it very
+difficult for his party to be legally recognized in the 80s (Ortiz de
+Zarate, 2018). However, the military was not the main target of his
+discourse and he included the son of a military leader, Aloizio
+Mercandante, as his vice-president in 1994. Thus, we have coded
+OTH_MILITARY as 2 in all elections.
 
 In 1998, although Leonel Brizola ran with him as vice-president, Lula
 made an important change to the party's rhetoric. The PT criticized
-Cardoso's policies for exacerbating unemployment, but it did not propose
-any alternative model, nor did it question the need for privatizations
-beyond specific problems with the way they were being done (Hunter,
-2010: 131). In addition, the PT abandoned the idea of the land reform
-and minimized the language around class struggle and dominant classes
-(Hunter, 2010: 132). Lula stressed its poor origins in order to connect
-with the people while downplaying his role as a labor leader (Hunter,
-2010: 133). I have coded Left for Ideology in this election.
+incumbent Fernando Enrique Cardoso's policies for exacerbating
+unemployment, but it did not propose any alternative model, nor did it
+question the need for privatizations beyond specific problems with the
+way they were being done (Hunter, 2010: 131). In addition, the PT
+abandoned the idea of the land reform and minimized the language around
+class struggle and dominant classes (Hunter, 2010: 132). Lula stressed
+his poor origins in order to connect with the people while downplaying
+his role as a labor leader (Hunter, 2010: 133). We have therefore coded
+L for LRPOSITION in this election.
 
 The biggest change, however, occurred with regards to the 2002 election.
 The words socialist or socialism did not appear in the 2002 manifesto
@@ -149,54 +196,60 @@ Furthermore, for the first time, the PT formed alliances with
 non-leftist parties. Jose Alencar, a businessman from the Liberal Party,
 was chosen to be Lula's vice-president. Lastly, the change was not only
 one of moderation of policies, but of a different construction of the
-political leader. Confrontational politics were left aside to highlight
-Lula's capacities as a competent, professional and experienced
-negotiator and politician (Hunter, 2010: 139). He was dressed in suits
-more often and one of the mottos of his campaign was "Lula, Peace and
-Love". It is difficult to continue considering Lula as a populist in
-2002. His campaign was ideological and rhetorically moderate and avoided
-the opposition between elites and the people that characterized his
-first campaigns. This does not mean that he was not committed to his
-leftist ideals, but that the discourse was not a populist one. I have
-decided, then, not to include the Workers Party in the database from
-2002. From this election onwards, it is more analogous to a European
-socialist party than to a Latin American populist one. This applies as
-well to Dilma Rousseff's time in government.
+political leader (Giaccaglia 2010, 98). Confrontational politics were
+left aside to highlight Lula's capacities as a competent, professional
+and experienced negotiator and politician (Hunter, 2010: 139). He was
+dressed in suits more often and one of the mottos of his campaign was
+"Lula, Peace and Love". It is difficult to continue considering Lula as
+a populist in 2002. His campaign was ideological and rhetorically
+moderate and avoided the opposition between elites and the people that
+characterized his first campaigns. This does not mean that he was not
+committed to his leftist ideals, but that the discourse was not a
+populist one. We have decided, then, not to include him or the Workers
+Party in the dataset from 2002 (including his successor Dilma Rousseff).
 
 Lula's popularity among the Brazilian electorate was PT's biggest asset.
-He dominated all the presidential elections and was the undisputed
-leader of the party. In his path to moderation, moreover, he struggled
-to gain autonomy and independence from the party constrains. I have
-coded 3 in Personality Dependent. As an uneducated industrial worker and
-labor leader, Lula held no political power before the creation of the
-PT. I have thus, coded 1 for Insider Populism.
-
-Lula strongly rejected the military dictatorship which made it very
-difficult for his party to be legally recognized in the 80s (Ortiz de
-Zarate, 2018). However, the military was not the main target of his
-discourse and he included the son of a military, Aloizio Mercandante, as
-his vice-president in 1994. Thus, I have coded 2 in all elections for
-Military.
+As an uneducated industrial worker and labor leader, Lula held no
+political power before the creation of the PT (INSIDER = 1). The PT
+emerged from the "New Unionism" movement in the end of the 70's and the
+80's and Lula was chosen because of his charismatic leadership and
+well-known participation in actions in strikes (French y Fortes 2005,
+18). He was the party's candidate for all the elections. In his path to
+moderation, moreover, he struggled to gain autonomy and independence
+from the party constrains. The party had a strong support base among
+labor unions and its organizational structure was that of a mass
+bureaucratic party (Hunter, 2010: 22). Thus, given that the party had a
+strong supporter base that was not totally controlled by Lula, that it
+would have existed without him, but that his leadership remained
+undisputed and his charisma played a significant role, we have coded 2
+for CHARISMA.
 
 Lula stressed the need to end corruption, rejected big business money
-and aimed at democratizing the market. Although his party become
-involved in several acts of corruption during his government which
-started in the 90s and he is now imprisoned for corruption as well, I
-have not found any explicit act aimed at violating LD norms throughout
-the 90s. I have labelled 1 for this category.
+and aimed at democratizing the market. We have not found any explicit
+act aimed at violating liberal democratic norms throughout the 90s
+(LIBDEMNORMS = 1). Lula was imprisoned in 2016 in relation to a
+corruption scandal that took place during his tenure, but he was later
+acquitted of all charges in what became a very polemic judicial process.
 
 ## Democratic Labor Party
 
-The PDT was founded by Leonel Brizola and participated in elections even
-before the restoration of civilian rule. Brizola is widely considered as
-an example of left-wing populist (Conniff, 1999). He had gained a
-reputation for aggressive and confrontational politics in 1961, when he
-organized a revolt to support João Goulart's, his brother-in-law,
-ascension to power (Conniff, 1999: 55). He was mayor of Porto Alegre and
-governor of Rio Grande do Sul, but he did not formally participate in
-the national government. Given his connections to the president of
-Brazil and his importance as a figure among the left-wing political
-elite, I have coded 2 in Insider Populism.
+Brizola was widely considered to be a left-wing populist party (Conniff,
+1999). He was a disciple of Gertúlio Vargas and governor of Rio Grande
+do Sul between 1959 and 1963. He had gained a reputation for aggressive
+and confrontational politics in 1961, when he organized a revolt to
+support João Goulart's (his brother-in-law) ascension to the presidency
+when it was threatened by the military (Conniff, 1999: 55). After the
+military coup of 1964, he fled to Uruguay and lived in exile. He
+returned in 1979 to Brazil after the military dictatorship allowed some
+regional elections to take place and he founded the The Democratic Labor
+Party (*Partido Democrático Trabalhista*, PDT) and became governor of
+Rio de Janeiro in 1983. Despite his positions as governor and closeness
+to former presidents, he never held any significant position within the
+national government (INSISDER = 1). Brizola was the undisputed
+charismatic leader of the PDT (Gugliano y Jerez Novara 2009, 78) and ran
+all its campaigns as the presidential candidate. He was said to create a
+"cult of personality" around him, which difficulted relationships with
+Lula da Silva (Bellos 2004) (CHARISMA = 3).
 
 He was well known for promoting land reform (Stédile, 2005), rent
 control and nationalization of utilities (Conniff, 1999: 55) and he
@@ -217,59 +270,57 @@ of corruption and inequality and criticism of the media (Brizola, 1992).
 Brizola did not change his discourse in later years: "His political
 views remained almost unchanged since the 1960\'s. Until his death, he
 advocated a militant form of economic nationalism, liberal benefits for
-government employees and a generous education policy." (Benson, 2004).
-In 1995, for example, he criticized Henrique Cardoso´s policies by
-saying that "if there is no civil reaction to privatization, there will
-be a military one" (Diamond et al., 2010: 49). Brizola ran for
-Vice-president with Lula in the 1994 elections and lost and later
-censured him for betraying his leftist politics. I have coded 3 in
-Political Class, Financial Elite and Foreign Interest, as well as 3 in
-Military due to his opposition to the dictatorship. Brizola was the
-undisputed leader of the PDT and ran as its candidate throughout the 90s
-(3 in Personality Dependent). Lastly, due to his insurrectional politics
-and harsh criticism of the media I have coded 2 in Violation of LD
-norms.
+government employees and a generous education policy" (Benson, 2004). In
+1995, for example, he criticized Henrique Cardoso´s policies by saying
+that "if there is no civil reaction to privatization, there will be a
+military one" (Diamond et al., 2010: 49). Brizola ran for Vice President
+with Lula in the 1994 elections and lost. He later censured Lula for
+betraying his leftist politics. We have coded Brizola and the DLP 3 for
+OTH_POLCLASS, OTH_FINANCIAL and OTH_FOREIGN.
 
-After Brizola's death in 2004, the party held internal debated between
+Brizola was extremely critic with the military dictatorship and as one
+of the few elected socialist governors, represented the democratic
+opposition to the regime. He "violently criticised the lack of
+legitimacy, in all fields, of the military regime." (Mir 1983)
+(OTH_MILITARY = 3). He supported democracy and the existence of a
+democratic regime. He argued against military options: "What happened in
+Argentina in the last decades is exactly what we must avoid. Peronism,
+for example, did not manage to transcend the frontiers of militarism.
+Perón himself came to power by the hand of a group of officers. The
+Brazilian people, at this moment, are giving an example of balance and
+lucidity. They are prepared for new times. Nobody wants to fight, we
+want to dialogue. I would not say the same of the Brazilian ruling
+classes." (Mir 1983). Thus, we have not found significant violation of
+liberal-democratic norms (LIBDEMNORMS = 1).
+
+After Brizola's death in 2004, the party held internal debates between
 those that defended continuity with Brizola's politics and those wishing
 to adopt a more pragmatic and centrist stance and engage in
 collaboration with other parties (Ortiz de Zárate, 2018: 23). The party
 was slowly directed towards the second tendency. This is exemplified by
 the fact that they supported Dilma Rousseff for the 2010 and 2014
 presidential elections. Moreover, in 2018, they chose Ciro Gomes, an
-experienced "center-left" politician (Sandy, 2018) that holds centrist
-macroeconomic policies (Schipani, 2018). I have not coded the party
-since the 2010 election because I do not believe it can still be
-considered populist.
+experienced "center-left" politician (Sandy, 2018) who held centrist
+macroeconomic policies (Schipani, 2018). We have not included the party
+since the 2010 election because we do not see evidence that its populist
+rhetoric was present at this point.
 
 ## PRONA
 
 The Party of the Reconstruction of the National Order was founded by
-Enéas Carneiro and defended a far-right populist ideology. Carneiro said
-that his electoral support indicated a "resounding and unmistakable
-repudiation of a political class that is rotten, dirty, repugnant and
-unpatriotic" (Rother, 2002). He ran for president unsuccessfully in
-1989, 1994 and 1998. He argued for the development of an atomic bomb
-(The Boston Globe, 2007) in order to secure Brazil's position in the
-world and "remind Great Powers that we are continental nation that needs
-to be respected" (Rother, 2002). He added that "the same is true of the
-Armed Forces, and if elected, I will triple its size, they are the armed
-wing of the people" (Revista Isto É, 1998).
+Enéas Carneiro and espoused a far-right populist ideology. He ran for
+president unsuccessfully in 1989, 1994 and 1998. He was a doctor with no
+previous political experience (INSIDER = 1).
 
-His political platform was clearly based on economic nationalism. He
-defended the industry and private initiative but opposed at the same
-time the neoliberal speculative model. In his own words: "One word only:
-nationalist. We defend private initiative; we want to give a huge boost
-to the national industry. We need our industrialist to survive and not
-become, little by little, a reseller of foreign product. I want our
-farmer to produce, and not, as now, to have to import beans. The old
-concept of the left is finished. But also, what there is on the right,
-which today is assimilated to the speculative neoliberal model, which we
-do not really want. Therefore, there is no way to define this new model:
-we are nationalists, we defend private initiative, industrial,
-agriculture, everyone who wants to produce" (Gomes, 1998). I believe
-this opposition to one version of the economic elite at the same time as
-it praises another deserves a 2 in Financial Elite.
+Carneiro said that his electoral support indicated a "resounding and
+unmistakable repudiation of a political class that is rotten, dirty,
+repugnant and unpatriotic" (Rother, 2002) (OTH_POLCLASS = 3). He argued
+for the development of an atomic bomb (The Boston Globe, 2007) in order
+to secure Brazil's position in the world and "remind Great Powers that
+we are continental nation that needs to be respected" (Rother, 2002). He
+added that "the same is true of the Armed Forces, and if elected, I will
+triple its size, they are the armed wing of the people" (Revista Isto É,
+1998) (OTH_MILITARY = 1).
 
 Although immigration or ethnic others were not central topics in
 Carneiro's discourse, his economic nationalist discourse linked the
@@ -280,89 +331,138 @@ let each country solve its problems, I would say to the great powers:
 giving a huge land, larger than Portugal, to half a dozen Indians.
 Let\'s end this internationalization story: the internationalized
 economy means, in other words: underdeveloped nations on their knees"
-(Carneiro, 1994). I have labelled 2 for immigrants and ethnic others and
-3 for Foreign Interests.
+(Carneiro, 1994). I have labelled 2 for OTH_IMIGRANTS and OTH_ETHNIC and
+3 for OTH_FOREIGN.
 
-Enéas attacked the media harshly by saying that "The government, the
+While Carneiro's platform was based on economic nationalism and
+opposition to the neoliberal speculative model, he defended domestic
+private industry. In his own words:
+
+> "One word only: nationalist. We defend private initiative; we want to
+> give a huge boost to the national industry. We need our industrialist
+> to survive and not become, little by little, a reseller of foreign
+> product. I want our farmer to produce, and not, as now, to have to
+> import beans. The old concept of the left is finished. But also, what
+> there is on the right, which today is assimilated to the speculative
+> neoliberal model, which we do not really want. Therefore, there is no
+> way to define this new model: we are nationalists, we defend private
+> initiative, industrial, agriculture, everyone who wants to produce"
+> (Gomes, 1998).
+
+This stance indicates a lack of populist hostility to economic elites
+(OTH_FINANCIAL = 1). While this suggests a left leaning economic stance,
+owing to the salience of Carneiro's cultural nationalism we've coded
+PRONA FR on LRPOSITION.
+
+Carneiro attacked the media harshly by saying that "The government, the
 media, and the research institutes lie, lie sordidly. This tripod forms
 a great power. Terrible power. Malignant. And it suffocates the
 population" (Carneiro, 1994). Furthermore, he was strongly opposed to
-LGBT rights (Roda Vida, 1994). I have coded Violation of LD norms as a
-3.
+LGBT rights (Roda Vida, 1994). We have coded him 3 for LIBDEMNORMS.
 
-The party relied heavily on his persona. Carneiro had a long and
-distinctive beard and was famous for energetically shouting "My name is
-Enéas" at the end of his political ads. It was all part of the
-construction of a political character easily recognizable as distinct
-from the political elites. The party did not fare well in legislative
-elections where Enéas was not the candidate (3 in Personality
-Dependent).
+The party relied heavily on Carneiro'a persona. He had a long and
+distinctive beard and was famous for his histrionic discourse and for
+energetically shouting "My name is Enéas" at the end of his political
+ads (Meu nome é Enéas, 56 2014). It was all part of the construction of
+a political character easily recognizable as distinct from the political
+elites. The party did not fare well in legislative elections where Enéas
+was not the candidate (CHARISMA = 3).
 
 ## Jair Bolsonaro 
 
 Jair Bolsonaro won the 2018 presidential election on a right-wing
-populist platform. He has been called the "Trump of the Tropics"
-(Phillips, 2018) due to its nationalist, homophobic, pro-gun and far
-right discourse.
+populist platform. He was an army captain who later entered into the
+National Congress. He was a member of the congress for more than 25
+years and belonged to seven different parties before running for
+president.
 
-Bolsonaro was an army captain which later entered into the National
-Congress. He was a member of the congress for more than 25 years and
-belonged to seven different parties before running for president.
-Although he is an experienced parliamentarian, he never held any
-position in government (1 in Insider Populism). In 2018, he joined the
-Social Liberal Party and ran for president. Given this constant movement
-between parties, it is clear that it is Bolsonaro's figure what
-attracted voters (3 in Personality Dependent).
+Bolsonaro is universally considered a far-right populist candidate in
+the literature (Araújo y Prior 2021; Feres Júnior y Gagliardi 2021;
+Mendonça y Caetano 2021; Ricci y Venturelli 2023). Bolsonaro's
+presidential campaign criticized politicians such as Lula and Dilma for
+their corruption and defended the need to restore the country to its
+former glory. "Taking inspiration from the campaign rhetoric of US
+President Donald Trump, Bolsonaro framed his right-wing populism as
+relatable, authentic, and honest in contrast to his "corrupt,
+pro-establishment" opponents in the Workers' Party (PT)" (Specht 2020).
+"Antiparty rhetoric, however, is not his only concern. He also attacks
+the Brazilian government system" (Ricci y Venturelli 2023, 1066).
+Bolsonaro claimed that "We are indeed different from those who ruled
+over us over the past 20 years -- PT and PSDB. With us, you will be in
+the first place; you will be our bosses! Together we can change Brazil;
+we won't have another opportunity!" (Tamaki y Fuks 2020, 113). The PT,
+representing socialism and communism, was the main political other of
+Bolsonaro, which expressed it in very clear terms: "right now is
+polarized: it's us and PT; it's the Brazil green and yellow, and them,
+that represent Cuba, represent the Venezuelan government, with its flag
+that is red with a hammer and sickle on top of it. Let's change Brazil!
+\[...\] We don't want that kind of people back on the Palácio do
+Planalto \[The Presidential Palace\]" (Tamaki y Fuks 2020, 116)
+(OTH_POLCLASS = 3, LRPOSITION = FR).
 
-Bolsonaro has criticized politicians such as Lula and Dilma for their
-corruption and defended the need to restore the country to its former
-glory. On economic issues, Bolsonaro has been a defender of free-market
+Bolsonaro has repeatedly made comments against non-white ethnic
+communities. He claimed, for example, that "people living in
+reservations were parasites', that 'quilombolas' (black community
+members, descendants of runaway slaves) 'weren\'t even fit for breeding"
+(Henrique Leal, 2017). Furthermore, he stated that the Funai (the
+National Indigenous Foundation) deliberately chose the "richest and most
+fertile" lands to "give away" to "Indians and blacks", while stealing
+land from whites who had been "living there for centuries" (Henrique
+Leal, 2017). Bolsonaro is also famous for his religious nationalism. His
+campaign slogan was "Brazil above everything, God above everyone" (The
+Economist, 2017). Previously, he had made remarks on the Christian
+identity of Brazil which Henrique Leal (2017) describes in the following
+way: "According to Bolsonaro, since Brazil is 'a Christian country',
+non-Christians should stay out of political life - as they are not 'true
+citizens'. Islam and African religions should be banned, as they are
+antithetical to the 'national faith' and operate as an 'open door to
+terrorists'". (OTH_ETHNIC = 3).
+
+Bolsonaro exposed a similar discourse regarding migrants. He "had
+referred to immigrants from Haiti, Senegal, Bolivians, and Syrians as
+the 'scum of the world'. In contrast, other recent immigrants from
+Portugal and Spain were not reprimanded by Bolsonaro" (Filomeno y Vicino
+2021, 605). Moreover, he claimed that immigrant's "behavior, their
+culture, is completely different from ours" (Filomeno y Vicino 2021,
+605). He also claimed that "minorities have to bend down to the majority
+\[ \... \] the minorities \[should\] either adapt or simply vanish"
+(Filomeno y Vicino 2021, 606) (OTH_IMMIGRANTS = 3).
+
+On economic issues, Bolsonaro has been a defender of free-market
 policies and open borders: "He set out a pro-market direction as he
 promised to lower the tax burden on business and make the country more
 open to foreign trade" (Financial Times, 2019). Additionally, he has
 pushed for a business-friendly agenda by putting in place well-known
 investors like Paulo Guedes and a former Treasury secretary and World
 Bank economist Joaquim Levy in key positions in his government (Rapoza,
-2019). On foreign policy, Bolsonaro "has repeatedly said he wants to
-bring closer Brazil to the United States and Israel 'The Americans
-played an extraordinary role in our history, preventing us from turning
-to Cuba in 1964'" (Manchikoni, 2018). However, he also bashed China,
-arguing that the Asian country did not just buy in Brazil but was, in
-fact, buying Brazil itself (Jingtao, 2019). Additionally, he has
-censored international NGO's actions in his country: "This cowardly
-business of international NGOs like WWF and so many others from England
-sticking their noses into Brazil is going to end! This tomfoolery stops
-right here!" (Phillips, 2018a). I have coded 1 for Financial Elite and 2
-for Foreign Interests.
+2019). As some scholars have explained: "Bolsonaro offered little
+tangible proof of his professed commitment to open markets (much less
+his qualifications to preside over a major economy), Brazil's business
+community---at first dubious about the candidate's purported free-market
+conversion---later swung behind him when faced with the binary choice
+between Bolsonaro and the return of the statist PT" (Hunter y Power
+2019, 70) (OTH_FINANCIAL = 1).
 
-Bolsonaro has repeatedly made comments against non-white ethnic
-communities. He claimed, for example, that "people living in
-reservations were 'parasites', that 'quilombolas' (black community
-members, descendants of runaway slaves) 'weren\'t even fit for
-breeding', that NGOs and social movements were stealing the country\'s
-resources, and that the only way to fight crime was handing out guns to
-the population" (Henrique Leal, 2017). Furthermore, he stated that the
-Funai (the National Indigenous Foundation) deliberately chose the
-"richest and most fertile" lands to "give away" to "Indians and blacks",
-while stealing land from whites who had been "living there for
-centuries" (Henrique Leal, 2017). Bolsonaro is also famous for his
-religious nationalism. His campaign slogan was ""Brazil above
-everything, God above everyone" (The Economist, 2017). Previously, he
-had made remarks on the Christian identity of Brazil which Henrique Leal
-(2017) describes in the following way: "According to Bolsonaro, since
-Brazil is 'a Christian country', non-Christians should stay out of
-political life - as they are not 'true citizens'. Islam and African
-religions should be banned, as they are antithetical to the 'national
-faith' and operate as an 'open door to terrorists'". I have labelled 3
-for Immigrants and Ethnic Others.
+On foreign policy, Bolsonaro "has repeatedly said he wants to bring
+Brazil closer to the United States and Israel 'The Americans played an
+extraordinary role in our history, preventing us from turning to Cuba in
+1964'" (Manchikoni, 2018). However, he also bashed China, arguing that
+the Asian country did not just buy in Brazil but was, in fact, buying
+Brazil itself (Jingtao, 2019). Additionally, he has censored
+international NGO's actions in his country: "This cowardly business of
+international NGOs like WWF and so many others from England sticking
+their noses into Brazil is going to end! This tomfoolery stops right
+here!" (Phillips, 2018a). His campaign slogan was "Brazil first, God
+before all." (Araújo y Prior 2021, 234) (OTH_FOREIGN = 3).
 
-Sexism is also one of Bolsonao's trademarks. He famously said that "the
-only reason he didn't rape" a congresswoman was "because she didn't
-deserve it" because "she was too ugly" (Henrique Leal, 2017). Bolsonaro
-employs a similar marketing strategy to that of Donald Trump based on
-stating widely polemic comments to attract attention and an intensive
-use of social media to bypass traditional means of communication
-(considered by him as "fake news").
+Although he was an experienced parliamentarian, he had never held any
+position in government and cannot be considered an insider (Hunter y
+Power 2019, 75) (INSIDER = 1). In 2018, he joined the Social Liberal
+Party and ran for president. Given this constant movement between
+parties, it is clear that it is Bolsonaro's figure what attracted voters
+rather than his party. Moreover, he is associated with his personal
+style of politics: bolsonarismo (Lima-de-Sousa, Gómez-Iniesta, y
+Herranz-de-la-Casa 2023, 104) (CHARISMA = 3).
 
 Bolsonaro has a favorable stance towards Brazil's former military
 dictatorship. In 1996, he explicitly said he was "in favor of a
@@ -372,8 +472,23 @@ regime) to Carlos Alberto Brilhante Ustra, a famous torturer (The
 Economist, 2017). It is common to see him carrying guns and military
 symbolism is abundant in his rallies. In a rally shortly before the
 second round of the presidential election, he threatened to purge
-leftist outlaws and banish them from the country (Phillips, 2018b).
-Thus, I have coded 1 in Military and 3 in Violation of LD norms.
+leftist outlaws and banish them from the country (Phillips, 2018b)
+(OTH_MILITARY = 1).
+
+His authoritarian tendencies have been noted by several scholars (Hunter
+y Power 2019; Ricci y Venturelli 2023, 1059). This included employing a
+similar marketing strategy to that of Donald Trump based on stating
+widely polemic comments to attract attention and an intensive use of
+social media to bypass traditional means of communication (considered by
+him as "fake news"). He filed lawsuits against newspapers (Araújo y
+Prior 2021, 234) and claimed that "\[we have\] the wonderful people on
+our side and the freedom of social media, which brings you the truth,
+differently from a large part of the Brazilian media, the biggest fake
+news factory, a shame to the world" (Ricci y Venturelli 2023, 1066).
+Sexism is also one of Bolsonao's trademarks. He famously said that "the
+only reason he didn't rape" a congresswoman was "because she didn't
+deserve it" because "she was too ugly" (Henrique Leal, 2017)
+(LIBDEMNORMS = 3).
 
 **References**
 
@@ -479,7 +594,86 @@ The Economist (2017) "Jair Bolsonaro hopes to be Brazil's Donald Trump",
 9 November:
 <https://www.economist.com/the-americas/2017/11/09/jair-bolsonaro-hopes-to-be-brazils-donald-trump>
 
-[To Add:]{.mark}
+Araújo, Bruno, y Hélder Prior. 2021. «Framing Political Populism: The
+Role of Media in Framing the Election of Jair Bolsonaro». *Journalism
+Practice* 15(2): 226-42.
 
-[https://scholarworks.arcadia.edu/showcase/2020/is/4/]{.mark}
+Bellos, Alex. 2004. «Obituary: Leonel Brizola». *The Guardian*.
+https://www.theguardian.com/news/2004/jun/23/guardianobituaries.brazil
+(5 de octubre de 2023).
 
+Cammack, Paul. 2000. «The Resurgence of Populism in Latin America».
+*Bulletin of Latin American Research* 19(2): 149-61.
+
+Feres Júnior, João, y Juliana Gagliardi. 2021. «Populism and the Media
+in Brazil: The Case of Jair Bolsonaro». En *The Politics of Authenticity
+and Populist Discourses: Media and Education in Brazil, India and
+Ukraine*, Global Political Sociology, eds. Christoph Kohl, Barbara
+Christophe, Heike Liebau, y Achim Saupe. Cham: Springer International
+Publishing, 83-104. https://doi.org/10.1007/978-3-030-55474-3_5 (6 de
+octubre de 2023).
+
+Filomeno, Felipe A., y Thomas J. Vicino. 2021. «The Evolution of
+Authoritarianism and Restrictionism in Brazilian Immigration Policy:
+Jair Bolsonaro in Historical Perspective». *Bulletin of Latin American
+Research* 40(4): 598-612.
+
+French, John D., y Alexandre Fortes. 2005. «Another World Is Possible:
+The Rise of the Brazilian Workers' Party and the Prospects for Lula's
+Government». *Labor: Studies in Working-Class History of the Americas*
+2(3): 13-31.
+
+Giaccaglia, Clarisa. 2010. «La influencia de los actores domésticos en
+la polí- tica exterior brasileña durante el gobierno de Lula da Silva.»
+*CONfines de relaciones internacionales y ciencia política*: 95-121.
+
+Gugliano, Alfredo Alejandro, y Ariel Jerez Novara. 2009. «Las elecciones
+brasileñas de 1994: ¿continuidad o cambio?» *América Latina Hoy* 13:
+73-79.
+
+Hunter, Wendy. 2010. *The Transformation of the Workers' Party in
+Brazil, 1989--2009*. Cambridge and New York: Cambridge University Press.
+
+Hunter, Wendy, y Timothy J. Power. 2019. «Bolsonaro and Brazil's
+Illiberal Backlash». *Journal of Democracy* 30(1): 68-82.
+
+Lima-de-Sousa, Francisco-Sérgio, Pablo Gómez-Iniesta, y José-María
+Herranz-de-la-Casa. 2023. «Populism in the Communication Strategy of
+Lula and Bolsonaro: An Analysis of the Television Debates in Brazil's
+2022 General Election». *Communication & Society* 36(3): 103-18.
+
+Mendonça, Ricardo F., y Renato Duarte Caetano. 2021. «Populism as
+Parody: The Visual Self-Presentation of Jair Bolsonaro on Instagram».
+*The International Journal of Press/Politics* 26(1): 210-35.
+
+*Meu nome é Enéas, 56*. 2014.
+https://www.youtube.com/watch?v=WCEqN_E4f6o (6 de octubre de 2023).
+
+Mir, Luis. 1983. «Leonel Brizola: "La salida de la crisis brasileña está
+en la unidad dentro de un orden democrático"». *El País*.
+https://elpais.com/diario/1983/06/21/internacional/424994418_850215.html
+(6 de octubre de 2023).
+
+Moraes Valença, Márcio. 2002. «The Politics of Giving in Brazil: The
+Rise and Demise of Collor (1990-1992)». *Latin American Perspectives*
+29(1): 115-52.
+
+Panizza, Francisco. 2000. «Neopopulism and Its Limits in Collor's
+Brazil». *Bulletin of Latin American Research* 19(2): 177-92.
+
+Ricci, Paolo, y Gustavo Venturelli. 2023. «Connections between Populism
+and Nationalism: Evidence from Jair Bolsonaro's Speeches». *Nations and
+Nationalism* 29(3): 1057-75.
+
+Specht, Heidi. 2020. «Nicknaming Corruption: Jair Bolsonaro's Populist
+Rhetoric in the Social Media Construction of Ontologically Corrupt
+Social Types». *Capstone Showcase* 4.
+https://scholarworks.arcadia.edu/showcase/2020/is/4.
+
+Tamaki, Eduardo Ryo, y Mario Fuks. 2020. «Populism in Brasil's 2018
+General Elections: An Analysis of Bolsonaro's Campaign Speeches». *Lua
+Nova: Revista de Cultura e Política* (109): 103-27.
+
+Weyland, Kurt. 1993. «The Rise and Fall of President Collor and Its
+Impact on Brazilian Democracy». *Journal of Interamerican Studies and
+World Affairs* 35(1): 1-37.

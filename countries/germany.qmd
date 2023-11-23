@@ -1,7 +1,11 @@
 ---
 title: Germany
+subtitle: 'Date range: 1980-1990'
+title-block-banner: yes
+
 ---
 
+# Case notes
 
 ## Die Linke 
 
@@ -31,7 +35,7 @@ generally far left, has always been somewhat undefined and simplistic
 been a combination of a broad opposition to neoliberalism, advocacy of
 pacifism in foreign policy, and a populist opposition to "bad guys" --
 especially financial elites and big business (Hough and Koß 2009, 82;
-Thomeczek 2023, 5) (OTH_FINANCIAL = 3). Aside from economic elites of
+Thomeczek 2023, 5) (OTH_ECONOMIC = 3). Aside from economic elites of
 various stripe, the party opposes the threat of foreign imperial forces
 (the US and NATO) (OTH_FOREIGN = 2), and the political class of elite
 politicians supposedly owned by capital (Hough and Koß 2009, 85; Hough
@@ -50,7 +54,7 @@ been replicated by any leader since his departure in 2010 (Patton 2013,
 rethinking of German democracy, including more direct forms of
 participation and decision making (Hough and Koß 2009, 84; Olsen 2018,
 77). As it stated in 2017, "elections become a farce if those elected
-allow their decisinos to be dictated by big corporations and the wealthy
+allow their decisions to be dictated by big corporations and the wealthy
 and thus evade democratic scrutiny" (Hough and Keith 2019, 137). While
 this reflects a general criticism of the status quo of German liberal
 democracy, it is not clear that this constitutes a threat to LIBDEMNORMS
@@ -58,17 +62,17 @@ in any way that would register on our scale (= 1).
 
 ## **Alternative for Germany** 
 
-The Alternative for Gernamy (AfD) was formed with several minor members
-of the centre-right CDU-CSU before the 2013 election, driven principally
-by opposition to German bailout of debtor nations in the Eurozone. The
-party narrowly missed the federal electoral threshold of 5%, but grew
-rapidly in its early months and started to articulate clearer policy
-stances on matters other than the Eurozone issue (Arzheimer 2015, 541),
-causing some conflict among the various factions that had flocked to it
-as a general protest party of the right in 2013. The party entered
-Parliament in the next election (2017) with 12.6% of the vote, by which
-time it had moved many of its policies closer to the conventional
-European far-right.
+The Alternative for Gernamy (*Alternative für Deutschland*, AfD) was
+formed with several minor members of the centre-right CDU-CSU before the
+2013 election, driven principally by opposition to German bailout of
+debtor nations in the Eurozone. The party narrowly missed the federal
+electoral threshold of 5%, but grew rapidly in its early months and
+started to articulate clearer policy stances on matters other than the
+Eurozone issue (Arzheimer 2015, 541), causing some conflict among the
+various factions that had flocked to it as a general protest party of
+the right in 2013. The party entered Parliament in the following 2017
+election with 12.6% of the vote, by which time it had moved many of its
+policies closer to the conventional European far-right.
 
 According to many scholars (Arzheimer 2015; Arzheimer and Berning 2019,
 1; Dilling 2018), at the time of the 2013 election the party was not
@@ -77,17 +81,17 @@ avoiding German taboos about the radical right. In fact, Angela Merkel's
 move of the CDU/CSU to the centre, coupled with the fact that most of
 the new AfD had ties to that party's conservative wing, led some to
 consider the AfD a new centre right challenger to the CDU/CSU (Dilling
-2018) (note that the party is not coded for this election as it was
-under the 5% threshold). In 2015, a power struggle saw the departure of
-moderate party leader Bernd Lucke and his faction, leaving those in
-favour of more nativist and populist rhetoric in charge. Months later,
-Chancellor Angela Merkel's liberal response to the refugee crisis of
-2015-16 saw an rise in support for the party based on the hardline
+2018) (note that the party is not coded for this election in any case as
+it was under the 5% threshold). In 2015, a power struggle saw the
+departure of moderate party leader Bernd Lucke and his faction, leaving
+those in favour of more nativist and populist rhetoric in charge. Months
+later, Chancellor Angela Merkel's liberal response to the refugee crisis
+of 2015-16 saw a rise in support for the party based on the hardline
 anti-immigration and anti-Islam stances of its new leaders (Arzheimer
 and Berning 2019, 3).
 
 Since the fall of fascism, German politics is extremely hostile to
-radical nativism and abnormally pro-EU integration, making even small
+radical nativism and highly pro-EU integration, making even small
 movements on these scales seem relatively significant even when they do
 not match regional or global standards. While awareness of this fact
 should temper allegations of any party's radicalism, the AfD did employ
@@ -188,4 +192,3 @@ Thomeczek, Jan Philipp. 2023. 'Moderate in Power, Populist in
 Opposition? Die Linke's Populist Communication in the German States'.
 *Journal of Political Ideologies* 0 (0): 1--20.
 https://doi.org/10.1080/13569317.2023.2196516.
-

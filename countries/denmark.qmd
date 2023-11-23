@@ -1,14 +1,11 @@
 ---
 title: Denmark
+subtitle: 'Date range: 1980-2020.'
+title-block-banner: yes
+
 ---
 
-
--   Date range: 1980-2020.
-
--   Elections included:
-
-    -   Legislative: 1981, 1984, 1987, 1988, 1990, 1994, 1998, 2001,
-        2005, 2007, 2011, 2015, 2019.
+# Case notes
 
 ## Progress Party 
 
@@ -20,12 +17,12 @@ The party achieved success early on, winning 15.9% in 1973, but
 subsequently declined to 3.6% by 1984 when Glistrup was imprisoned for
 tax evasion (Klein 2013, 106). He was replaced by Pia Kjærgaard, whose
 star rose throughout the 1990s as a more pragmatic face of Glistrup's
-provocative positions (Klein 2013, 107). This coincided with a turn
+provocative politics (Klein 2013, 107). This coincided with a turn
 towards anti-immigration politics alongside the party's well established
-neoliberalism. After the Glistrup was released from prison, a factional
+neoliberalism. After Glistrup was released from prison, a factional
 battle ensued between anti-compromise hardliners (led by Glistrup) and
 relatively pro-compromise pragmatists (led by Kjærgaard), resulting in
-the latter faction breaking off to for the Danish People's Party (see
+the latter faction breaking off to form the Danish People's Party (see
 below) and the decline of Progress to irrelevance by 2000s (J. G.
 Andersen and Bjørklund 2000, 197).
 
@@ -42,11 +39,11 @@ Muslim girls to be "sold to Paraguay", and proudly declared "Of course
 I'm a racist -- all good Danes are. Either you're a racist or a traitor"
 (Widfeldt 2000, 490). Progress campaigned in 2001 for a "Mohammedan-free
 Denmark" (Rydgren 2004, 487). We have therefore increased OTH_ETHNIC
-form 1 to 3 simultaneous to OTH_IMMIGRANT.
+from 1 to 3 simultaneous to OTH_IMMIGRANT.
 
-Party leadership, initially by Glistrup and then by Kjærgaard has
+The party's leadership, initially by Glistrup and then by Kjærgaard, has
 clearly been a very important element of Progress' meaning and appeal.
-The former had a complicated role in the part after his return from
+The former had a complicated role in the party after his return from
 prison, acting as a kind of figurehead even when he was at odds with the
 official party leadership (Rydgren 2004, 480). Glistrup also tried
 actively to prevent the party from organising beneath him (J. G.
@@ -60,8 +57,8 @@ governments (INSIDER = 1).
 
 Founded after the split within Progress in 1995, the Danish People's
 Party (*Dansk Folkeparti*, DF) was less tax-focused and more dedicated
-to cultural issues, especially opposing Muslim immigration. From the
-outset, Kjærgaard positioned the party as a credible alternative to
+to cultural issues, especially opposition to Muslim immigration. From
+the outset, Kjærgaard positioned the party as a credible alternative to
 major parties and expelled more extreme members (Klein 2013, 108). DF
 participated in several governing coalitions with mainstream
 conservative parties from 2001-2011 and 2015-2019, making it one of the
@@ -95,7 +92,7 @@ occasionally expelled overtly racist members and groups, this does not
 mean that it should be coded less than 3 on either of these two
 registers. While the DF had dropped the neoliberalism of Progress,
 notably by defending aspects of the welfare state (J. Andersen 2004, 4;
-Siim and Meret 2016, 116), this has not led to an OTH_FINANCIAL populism
+Siim and Meret 2016, 116), this has not led to an OTH_ECONOMIC populism
 (= 1). The DF is against the EU, but only to the level of 2 on
 OTH_FOREIGN. The party's economic ideology has been considered centrist
 or centre left (Jordan 2022, 5; Nicolaisen 2023), however due to the
@@ -137,7 +134,7 @@ Party'. *Scandinavian Political Studies* 39 (4): 435--57.
 https://doi.org/10.1111/1467-9477.12075.
 
 Jordan, Jason. 2022. 'The Strategic Ambiguity of the Radical Right: A
-Study of the Danish People's Part'. *Party Politics*, 13540688221136820.
+Study of the Danish People's Part'. *Party Politics*, 13540688221136819.
 
 Klein, Andreas. 2013. 'The End of Solidarity? On the Developement of
 Right-Wing Populist Parties in Denmark and Sweden'. In *Exposing the
@@ -168,4 +165,3 @@ Rise of the Far Right in Europe: Populist Shifts and 'Othering'*, July,
 Widfeldt, A. 2000. 'Scandinavia: Mixed Success for the Populist Right'.
 *Parliamentary Affairs* 53 (3): 486--500.
 https://doi.org/10.1093/pa/53.3.486.
-

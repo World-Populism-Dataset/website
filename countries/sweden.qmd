@@ -1,14 +1,11 @@
 ---
 title: Sweden
+subtitle: 'Date range: 1980-2020'
+title-block-banner: yes
+
 ---
 
-
--   Date range: 1980-2020
-
--   Elections included:
-
-    -   Legislative: 1982, 1985, 1988, 1991, 1994, 1998, 2002, 2006,
-        2010, 2014, 2018.
+# Case notes
 
 ## New Democracy
 
@@ -29,16 +26,14 @@ While ND's ideology was somewhat ambiguous (leading to splits in its
 eventual caucus) it should generally be regarded as right wing during
 campaigns (A. Widfeldt 2000, 495; Klein 2013, 116) (LR_POSITION = R).
 This included campaigning against immigration and for liberal economic
-reforms (Rydgren 2002, 34). Notably it was pro-Europe. Several of its
-candidates gained media attention for saying racist things through the
-campaign, and the party platform linked immigration to crime (A.
-Widfeldt 2000, 495). However according to Betz, the party's immigration
-rhetoric was both moderate (in terms of policy proposals) and
-economically based (as opposed to culturally or racially based) (Betz
-n.d., 121). We've coded it 2 on OTH_IMMIGRANTS and 1 on OTH_ETHNIC.
-We've seen no evidence of anything on the OTH_FINANCIAL or OTH_ECONOMIC
-variables (both = 1).
-
+reforms (Rydgren 2002, 34). Several of its candidates gained media
+attention for saying racist things through the campaign, and the party
+platform linked immigration to crime (A. Widfeldt 2000, 495). However
+according to Betz, the party's immigration rhetoric was both moderate
+(in terms of policy proposals) and economically based (as opposed to
+culturally or racially based) (Betz n.d., 121). We've coded it 2 on
+OTH_IMMIGRANTS and 1 on OTH_ETHNIC. We've seen no evidence of anything
+on the OTH_ECONOMIC, OTH_FOREIGN or OTH_MILITARY variables (all = 1).
 Neither leader had been involved in previous governments (INSIDER = 1),
 and the party did not violate liberal democratic norms as far as we can
 tell (LIBDEMNORMS = 1).
@@ -53,16 +48,16 @@ founders being previous members of far-right parties (Anders Widfeldt
 image and associate itself with other populist right parties in Europe
 rather than the anti-democratic and violent fringe (Rydgren 2008, 146;
 Anders Widfeldt 2008; Klein 2013, 117) -- although not to the degree
-that is should be considered less than far-right on LRPOSITION. The
+that it should be considered less than far-right on LRPOSITION. The
 party first passed 5% of the vote in 2010 (5.7%) under the leadership of
-Jimmie Åkesson. It's vote share has consistently increased, peaking at
-17.5 in the 2017 election.
+Jimmie Åkesson. Its vote share has consistently increased since then,
+peaking at 17.5 in the 2017 election.
 
-SD;s stated aim is to protect Sweden's culture and welfare state from
+SD's stated aim is to protect Sweden's culture and welfare state from
 uncontrolled immigration, in particular from Muslim immigrants
 (Hellström and Hervik 2014). The party has a history of advocating
 repatriation of some immigrants (Anders Widfeldt 2008, 272), and in one
-2010 election advertisement, the party showed a Swedish pensioner being
+2010 election advertisement it showed a Swedish pensioner being
 overtaken by women in Burqas in the line to get to the social security
 office, with the tagline "Pensions or immigration: the choice is yours"
 (Klein 2013, 121) (OTH_IMMIGRANT = 3, OTH_ETHNIC = 3). In this sense,
@@ -80,8 +75,9 @@ system is bureaucratized and only serves the interests of the political
 elite" (Hellström, Nilsson, and Stoltz 2012, 201) (OTH_POLCLASS = 3).
 The SD is also hostile to the influence of the EU, and the cultural
 influence of the USA (Rydgren 2008, 147), although not quite to the
-point that these are principle 'others' of its populism (OTH_FOREIGN =
-2).
+point that these are principle "others" of its populism (OTH_FOREIGN =
+2). We've seen no evidence to code above 1 for OTH_ECONOMIC or
+OTH_MILITARY.
 
 Åkesson has led the party since 2005, and while he seems to have been an
 effective re-brander of the party in its continued moderation (Anders
@@ -143,4 +139,3 @@ https://doi.org/10.1080/00344890802237031.
 Wörlund, Ingemar. 1992. 'The Swedish Parliamentary Election of September
 1991'. *Scandinavian Political Studies* 15 (2): 135--43.
 https://doi.org/10.1111/j.1467-9477.1992.tb00135.x.
-

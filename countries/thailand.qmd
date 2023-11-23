@@ -1,442 +1,434 @@
 ---
 title: Thailand
+subtitle: |-
+  Date range: 1980-2020 (2006 and 2014 elections are not included, as both
+  were boycotted and annulled).
+  <br>
+  Thailand has had a patchy history of democratization, with numerous
+  democratic constitutions and elections overturned by military coups. The
+  1990s period of "semi-democracy" (in which the army controlled the
+  executive but allowed legislative elections) is a questionable inclusion
+  in the dataset, however we have concluded that these elections should be
+  included (although no party from this era seemed to be sufficiently
+  populist to warrant inclusion in the dataset).
+title-block-banner: yes
+
 ---
 
-
--   Date range: 1980-2020
-
--   Elections included: 1983, 1986, 1988, 1992 (march) 1992 (September),
-    1995, 1996, 2001, 2005, 2007, 2011, 2019.
-
--   Not included: 2006 (boycotted and annulled), 2014 (boycotted and
-    annulled).
-
-Thailand has had a patchy history of democratization, with numerous
-democratic constitutions and elections overturned by military coups.
-After reading some literature on the 1990s period of "semi-democracy"
-(in which the army controlled the executive but allowed legislative
-elections), it was concluded that these elections should be included --
-although no party from this era seemed to be sufficiently populist to
-warrant inclusion in the dataset.
+# Case notes
 
 ## Thaksin Shinawatra, Thai Rak Thai, Phak Phalang Prachachon, Pheu Thai
 
-Thai Rak Thai ("Thais Love Thailand", TRT) was the political party of
-Thaksin Shinawatra. A telecommunications entrepreneur from Chang Mai,
-Thaksin was the country's richest man in the 1990s when he served
-briefly in two governments as Foreign Minister (1994-95) and twice as
-Deputy Prime Minister (1996, 1997). Following the severe economic
-downturn following the 1997 Asian Financial Crisis, Thaksin founded TRT
-to contest in the 2001 election. After landslide victories in that
-election and again in 2005, a boycotted 2006 poll was overturned by the
-courts, leading to a crisis which ended up in Thaksin's overthrow by the
-military in September 2006 and the banning of TRT.
+Thai Rak Thai (Thais Love Thailand, TRT) was the original political
+party of Thaksin Shinawatra. A telecommunications entrepreneur from
+Chang Mai, Thaksin was the country's richest man in the 1990s when he
+served briefly in two governments as Foreign Minister (1994-95) and
+twice as Deputy Prime Minister (1996, 1997). Following the severe
+economic downturn following the 1997 Asian Financial Crisis, Thaksin
+founded TRT to contest in the 2001 election. After landslide victories
+in that election and again in 2005, a boycotted 2006 poll was overturned
+by the courts, leading to a crisis which ended up in Thaksin's overthrow
+by the military in September 2006 and the banning of TRT.
 
 After his ouster, the exiled Thaksin has been heavily involved in two
 successor parties that subsequently won national elections in 2007 and
-2011 -- the Phak Phalang Prachachon ("People's Power Party", PPP) and
-Pheu Thai ("People's Party", PT), respectively. Both parties were/are
+2011 -- the Phak Phalang Prachachon (People's Power Party, PPP) and Pheu
+Thai (People's Party, PT), respectively. Both parties were/are
 officially led by Thaksin's inner-circle loyalists and family members,
 leading both to be widely seen in the literature as TRT by another name
-(see: Pongsudhirak. 2008:49; McCargo, 2008:340; Chen, 2014a:157;
-Sawasdee, 2019:103). These parties are also seen to be closely related
-to the pro-Thaksin and anti-coup "red-shirt" movement (contra to the
+(see Pongsudhirak 2008, 49; McCargo 2008, 340; Chen 2014a; Sawasdee
+2019, 103). These parties are also seen to be closely related to the
+pro-Thaksin and anti-coup "red-shirt" movement (contra to the
 anti-Thaksin "yellow shirt" movement that had demonstrated in 2005-2008)
 that blossomed in Bangkok after the PPP government was ousted in a
-"judicial coup" of 2008 (Sinpeng & Kuhonta, 2012:397).
+"judicial coup" of 2008 (Sinpeng and Kuhonta 2012, 397).
 
-While Thaksin is universally called a populist in the Thai studies
-literature, this literature is challenging for two reasons. First the
-term "populism" is almost always used in the programmatic sense to
-describe social democratic policies "popular" among the rural poor --
-not populist political rhetoric *per se* (see Hewison, 2017; Hawkins &
-Selway, 2017). Hence the universal characterisation of TRT as a populist
-party in the 2001 election has more to do with its policies of
-subsidising health care, forgiving agricultural loans, and providing
-village level microfinance than any hostility to an "elite". TRT's 2001
-campaign was also the first in which this kind of national policy had
-been the centrepiece of a campaign, as opposed to elite
-alliance-building reliant on local political bosses to drive turnout in
-the countryside (Pasuk & Baker, 2002:3; Choi, 2005:51) -- something that
-is also probably relevant to its "populist" categorisation in the
-literature. Second, while there is literature that discusses the
-rhetorical form of the term, this tends to have an abstract evidence
-base that rarely quotes Thaksin, other party leaders, or campaign
-slogans.
+While Thaksin is universally called a populist in the Thailand
+literature, this is problematic for two reasons. First the term
+"populism" is almost always used in the programmatic sense to describe
+social democratic policies "popular" among the rural poor -- not
+populist political rhetoric (Hewison 2017; Hawkins and Selway 2017).
+Hence the universal characterisation of TRT as a populist party in the
+2001 election has more to do with its policies of subsidising health
+care, forgiving agricultural loans, and providing village level
+microfinance than any hostility to an "elite". TRT's 2001 campaign was
+also the first in which this kind of national policy had been the
+centrepiece of a campaign, as opposed to elite alliance-building reliant
+on local political bosses to drive turnout in the countryside (Pasuk and
+Baker 2002, 3; Choi 2005, 51) -- something that is also probably
+relevant to its "populist" categorisation in the literature. Second,
+while there is literature that discusses the rhetorical form of the
+term, this tends to have an abstract evidence base that rarely quotes
+Thaksin, other party leaders, or campaign slogans.
 
 Nonetheless, there are enough exceptions to this rule to study TRT's
 potential populism in sufficient detail. This evidence suggests that the
 party's initial election in 2001, while based on some anti-corruption
 platforms and a vaguely economic-nationalist (anti-IMF) reaction to the
 1997 crisis, did not include any fundamental anti-elite populist
-narratives and should not be included in this dataset (see Pasuk &
-Baker, 2008:65; Hewison, 2010:121; Hawkins and Selway, 2017:384;
-Hewison, 2017:432; Thompson, 2012:68). Exactly when TRT and successor
-parties transitioned to an anti-elite populist discourse is debated in
-the literature. Pasuk and Baker (2004) suggest Thaksin's reaction to the
-2001 constitutional court case in which he was accused of violating
-asset disclosure rules while a minister in the 1990s. When awaiting the
-verdict, he publicly described the court case as a conspiracy of the
-ruling elite against him and "the people" who elected him, and that he
-would chose loyalty to the people over loyalty to the court (Pasuk,
-2004:5; see also Case, 2007:632).
+narratives and should not be included in the dataset (see Pasuk and
+Baker 2008, 65; Hewison 2010, 121; Hawkins and Selway 2017, 384; Hewison
+2017, 432; Thompson 2012, 68). Exactly when TRT and successor parties
+transitioned to an anti-elite populist discourse is debated in the
+literature. Pasuk and Baker suggest Thaksin's reaction to the 2001
+constitutional court case in which he was accused of violating asset
+disclosure rules while a minister in the 1990s (Pasuk and Baker 2004).
+When awaiting the verdict, he publicly described the court case as a
+conspiracy of the ruling elite against him and "the people" who elected
+him, and that he would chose loyalty to the people over loyalty to the
+court (Pasuk and Baker 2004, 5; see also Case 2007, 632).
 
 In the years following, he further honed a discourse that (ubiquitously)
 valorised the people and (more rarely) contrasted them to an elite
-establishment of "old politics" (Pasuk & Baker, 2008:79-80; see also
-Markou and Phanuwat, 2015:5; Jayasuria & Hewison, 2004:585; Norton,
-2012:49; Pasuk & Baker, 2013:609-10). In one speech in 2002 Thaksin
+establishment of "old politics" (Pasuk and Baker 2008, 79--80; see also
+Markou and Lasote 2015, 5; Jayasuriya and Hewison 2004, 585; Norton
+2012, 49; Pasuk and Baker 2013, 609--10). In one speech in 2002 Thaksin
 claimed that the government authority in Thailand had been abused to
 "serve the interests of those in power... Governments have enacted laws
 to sustain their own power rather than to empower the people who put
-them in office" (Pasuk & Baker, 2004:8). In a typically populist
+them in office" (Pasuk and Baker 2004, 8). In a typically populist
 understanding of "the people", he continued that ideology should play no
 role in modern parties, who should simply decide what to do based on
-"the needs and desires of the people." (Pasuk & Baker, 2004:8).
-According to Hewison, (2017:434; see also Thompson, 2012:68) during the
-yellow-shirt demonstrations (after the 2005 election) Thaksin's speeches
-"increasingly linked himself to his supporters and declared them a
-democratic bedrock against elite-controlled authoritarianism. Thaksin
-had identified an 'other'; the Bangkok-centred elite."
+"the needs and desires of the people" (Pasuk and Baker 2004, 8).
+According to Hewison, (Hewison 2017, 434; see also Thompson 2012, 68)
+during the yellow-shirt demonstrations (after the 2005 election)
+Thaksin's speeches "increasingly linked himself to his supporters and
+declared them a democratic bedrock against elite-controlled
+authoritarianism. Thaksin had identified an 'other'; the Bangkok-centred
+elite."
 
 After the 2006 coup, any vagueness regarding the people's enemy
 disappeared in Thaksin's political discourse, as he adopted the "full
 throated populism" against his elite rivals that he had been hesitant to
-use earlier (Hewison, 2017:427). For example, in one speech he claimed
+use earlier (Hewison 2017, 427). For example, in one speech he claimed
 that "democracy was only for the elite. But now, people have filled
 their stomachs. And they want more. But the elite don't want change that
-will affect their already happy lives" (Hewison, 2017:436). This
+will affect their already happy lives" (Hewison 2017, 436). This
 anti-elite rhetoric has been evident in the red-shirt protests (UDD)
 that started in 2008 (note that it is generally accepted in the
 literature that red-shirts and pro-Thaksin parties -- particularly Pheu
-Thai -- are fused entities, see Sinpeng & Kuhonta, 2012; Sinpeng, 2014).
+Thai -- are fused entities (see Sinpeng and Kuhonta 2012; Sinpeng 2014).
 In one speech Thaksin referred to a "power beyond the constitution" and
-an "invisible hand" as responsible for his overthrough (Thongchai,
-2014:96, 104), following which the term "*ammat*" (or alternatively,
+an "invisible hand" as responsible for his over through (Winichakul
+2014, 96, 104), following which the term "*ammat*" (or alternatively,
 "*aphichon*") entered political discourse in reference to the
 aristocratic elite -- i.e. the military, privy councillors, the
 democratic party, yellow-shirt protest leaders, and arguably (and
-controversially) the monarchy (Sinpeng & Kuhonta, 2012: 411; Prapart,
-2011:2-3; Nelson, 2012:17; Chairat, 2013:206). *Ammat* is juxtaposed
-against the *prai/phrai* ("people") who back Thaksin and his parties.
+controversially) the monarchy (Sinpeng and Kuhonta 2012, 411; Pintobtan
+2011, 2--3; Nelson 2012, 17; Charoensin-o-larn 2013, 206). *Ammat* is
+juxtaposed against the *prai/phrai* ("people") who back Thaksin and his
+parties.
 
 Thaksin is therefore another case in which OTH_POLCLASS rhetoric clearly
 rose from a small base, but where it is difficult to pin this down to
-clear points in time. Following the literature, I've coded TRT 2 for the
-2005 election, and PPP & PT 3 after the 2006 coup (2007 and 2011
+clear points in time. Following the literature, we have coded TRT 2 for
+the 2005 election, and PPP & PT 3 after the 2006 coup (2007 and 2011
 elections), although there may be a case to code 3 in 2005. Likewise,
 there is no evidence of anti-military rhetoric from Thaksin until after
-the 2006 coup (Connors, 2005:366; Chairat, 2013:206), after which this
-became a sustained element of his populism (OTH_MILITARY = 1 in 2005, =3
-2007-11).
+the 2006 coup (Connors 2005, 366; Charoensin-o-larn 2013, 206), after
+which this became a sustained element of his populism (OTH_MILITARY = 1
+in 2005, =3 2007-11).
 
 It is often suggested that there were nationalistic elements to
 Thaksin's politics, particularly relating to the fallout from the Asian
-Financial Crisis and the counter-IMF common at the time (Glassman, 2004;
-Jayasuria & Hewison, 2004; McCargo & Pathmanand, U 2005:5; Somchai,
-2008:108; Pye & Schaffar, 2008:46). As PM he also occasionally clashed
-with foreign funded NGOs and the foreign press, considering them both to
-be threats to "Thai sovereignty" (Pasuk & Baker, 2004:17-18; see also
-Pasuk, 2004:4). This however only seems to be a mild form of OTH_FOREIGN
-rhetoric rather than a core element of Thaksin's populist discourse, and
-one that disappeared after the 2006 coup, when foreign powers do not
-seem very relevant to Thaksin/red shirt populist narrative (=2 in 2005,
-=1 2007- ). As the country's richest man, he also did not present any
-OTH_FINANCIAL populism -- on the contrary he promoted entrepreneurialism
-among the Thai population and claimed that his business expertise was
-the basis of his governing ability (=1).
+Financial Crisis and the counter-IMF common at the time (Glassman 2004;
+Jayasuriya and Hewison 2004; McCargo and Pathmanand 2005, 5;
+Phatharathananunth 2008, 108; Pye and Schaffar 2008, 46). As Prime
+Minister he also occasionally clashed with foreign funded NGOs and the
+foreign press, considering them both to be threats to "Thai sovereignty"
+(Pasuk and Baker 2004, 17--18; Pasuk 2004, 4). This however only seems
+to be a mild form of OTH_FOREIGN rhetoric rather than a core element of
+Thaksin's populist discourse, and one that disappeared after the 2006
+coup, when foreign powers do not seem very relevant to Thaksin/red shirt
+populist narrative (= 2 in 2005, = 1 2007- ). As the country's richest
+man, he also did not present any OTH_ECONOMIC populism -- on the
+contrary he promoted entrepreneurialism among the Thai population and
+claimed that his business expertise was the basis of his governing
+ability (=1).
 
 There is also no evidence of OTH_ETHNIC populism. In fact Thaksin and
 many members of his government were from the minority Chinese community
 -- an economically powerful community that had been somewhat political
 marginalised, and the TRT era is considered by some to have reduced this
 marginalisation and produced more acceptance of Chinese-Thai culture and
-politicians (Pasuk & Baker, 2004:11). In his first term included harsh
-policies toward refugees and migrants from Myanmar and Cambodia, but
-there is no evidence that this was a particularly important component of
-his populist discourse (OTH_IMMIGRANT =1) when it started.
+politicians (Pasuk and Baker 2004, 11). In his first term he enacted
+harsh policies toward refugees and migrants from Myanmar and Cambodia,
+but there is no evidence that this was a particularly important
+component of his populist discourse (OTH_IMMIGRANT =1) when it started.
 
 Thaksin is very difficult to categorise on a left-right ideological
-basis (see: Hewison 2010:120). His most well-known economic policies
+basis (see Hewison 2010, 120). His most well-known economic policies
 (see above) are generally socially democratic. However he clearly had a
 generally neo-liberal view of economic policy and was hostile to
-bureaucracy and state intervention in general (see Pasuk and Baker,
-2008:64). He occasionally claimed that he was applying a "dual track"
-economic policy of socialism and capitalism in equal measure (Ungpakorn,
-2007:16; Pasuk and Baker, 2004:10). Given his core economic philosophy
-was more neo-liberal than leftist, I've coded him CR on LRPOSITION here
--- but this could be disputed. There is less debate about the role of
-charisma in Thaksin's populism, given that he dominated the identity of
-his parties to the exclusion of all other senior members, and later
+bureaucracy and state intervention in general (Pasuk and Baker 2008,
+64). He occasionally claimed that he was applying a "dual track"
+economic policy of socialism and capitalism in equal measure (Ungpakorn
+2007, 16; Pasuk and Baker 2004, 10). Given his core economic philosophy
+was more neo-liberal than leftist, We have coded him CR on LRPOSITION
+here -- but this could be disputed. There is less debate about the role
+of charisma in Thaksin's populism, given that he dominated the identity
+of his parties to the exclusion of all other senior members, and later
 incarnations in particular are personality cults around his leadership
-(see Pasuk & Baker, 2008:69, 76, see also Bo Kyeong Seo, 2019:556;
-Sawasdee, 2019:112; Thompson, 2012:75; Pasuk and Baker, 2013:610)
-(CHARISMA = 3). As his first election coded in the dataset is 2005, his
-incumbency since 2001 gives him 3 on INSIDER. Incidentally, he would
-have been a 2 in 2001, given that he had served as deputy PM and cabinet
-minister in the 1990s, and relied on many state connections to develop
-his business career (Pasuk & Baker, 2002:3; MacCargo, 2002:115).
+(Pasuk and Baker 2008, 69, 76; see also Seo 2019, 556; Sawasdee 2019,
+112; Thompson 2012, 75; Pasuk and Baker 2013, 610) (CHARISMA = 3). As
+his first election coded in the dataset is 2005, his incumbency since
+2001 gives him 3 on INSIDER. Incidentally, he would have been a 2 in
+2001, given that he had served as deputy PM and cabinet minister in the
+1990s, and relied on many state connections to develop his business
+career (Pasuk and Baker 2002, 3; McCargo 2002, 115).
 
 In government, Thaksin opposed liberal democratic norms in numerous ways
-(Jayasuria & Hewison, 2004:572; Ferrara, 2015:361). He clashed with many
-of the oversight authorities which had been set up by the liberal 1997
-constitution: questioning the authority of courts and sending emissaries
-to pressure judges (McCargo & Pathmanand, 2005:16; Pongsudhirak.
-2008:54); clamping down on protest rights (Pasuk and Baker, 2004:19-20),
-taking personal control of the police (Funston 2002:313; Pasuk and
-Baker, 2004:20), and packing state institutions with family members and
-demoting politicians who clashed with them (Pasuk and Baker, 2004:12).
-On several occasions he likened himself to Thai dictators of previous
-eras (Pasuk and Baker, 2004:70) and articulated an authoritarian vision
-of centralised power which included no space for political debate --
-this being redundant given that serving the people was an obvious and
-uncontentious policy that required no ideological split (Pasuk & Baker,
-2004:15; Jayasuria & Hewison, 2004:585). He was particularly hostile to
-media freedom, using his state and financial power to supress critical
-coverage of his government (Lee 2014:180, McCargo & Pathmanand, U
-2005:193; Pasuk & Baker, 2004:15; Pasuk & Baker, 2008:70; Nelson,
-2007:22; Funston 2002:313) and suing individual journalists who provided
-negative coverage (Pye & Schaffar, 2008:51). Thaksin's war on drugs in
-the south of the country was also highly illiberal, including summary
-executions which he dismissed as "not an unusual fate for wicked people"
-(Mutebi, 2004:80; see also Connors, 2005:377; Pongsudhirak. 2008: 48).
-All of this clearly warrants a coding of 3 for LIBDEMNORMS.
+(Jayasuriya and Hewison 2004, 572; Ferrara 2015, 361). He clashed with
+many of the oversight authorities which had been set up by the liberal
+1997 constitution: questioning the authority of courts and sending
+emissaries to pressure judges (McCargo and Pathmanand 2005, 16;
+Pongsudhirak 2008, 54); clamping down on protest rights (Pasuk and Baker
+2004, 19--20); taking personal control of the police (Funston 2002, 313;
+Pasuk and Baker 2004, 20); and packing state institutions with family
+members and demoting politicians who clashed with them (Pasuk and Baker
+2004, 12). On several occasions he likened himself to Thai dictators of
+previous eras (Pasuk and Baker 2004, 70) and articulated an
+authoritarian vision of centralised power which included no space for
+political debate -- this being supposedly redundant given that serving
+the people was an obvious and uncontentious policy that required no
+ideological split (Pasuk and Baker 2004, 15; Jayasuriya and Hewison
+2004, 585). He was particularly hostile to media freedom, using his
+state power and financial resources to supress critical coverage of his
+government (Lee 2014, 180; McCargo and Pathmanand 2005, 1; Pasuk and
+Baker 2004; 2008, 70; Nelson 2007, 22; Funston 2002, 313) and suing
+individual journalists who provided negative coverage (Pye and Schaffar
+2008, 51). Thaksin's war on drugs in the south of the country was also
+highly illiberal, including summary executions which he dismissed as
+"not an unusual fate for wicked people" (Mutebi 2004; see also Connors
+2005, 377; Pongsudhirak 2008, 48). All of this clearly warrants a coding
+of 3 for LIBDEMNORMS.
 
 ## Future Forward
 
-The Future Forward (FF) party of young billionaire car parts mogul
-Thanathorn Juangroongruangkit appeared for the first time in the 2019
-election and beat all expectations by winning 18%, mainly among younger
-and urban voters around Bangkok (Siripan, 2020:65). FF was highly
-progressive on social issues, and became known for its leader's
-confrontational style and opposition to the military junta (McCargo &
-Saowanee, 2019: 95, 100; Prajak, 2019:164).
+The Future Forward (*Phak Anakhot Mai*, FF) party of young billionaire
+car parts mogul Thanathorn Juangroongruangkit appeared for the first
+time in the 2019 election and beat all expectations by winning 18%,
+mainly among younger and urban voters around Bangkok (Sawasdee 2020,
+65). FF was highly progressive on social issues, and became known for
+its leader's confrontational style and opposition to the military junta
+(McCargo and Alexander 2019, 95; Kongkirati 2019, 164).
 
 This is a debatable inclusion, but on the balance of evidence it does
 seem that Thanathorn's discourse against the military and the political
-establishment did reach the level of populism: In the words of McCargo
-(2019b:127) "his public criticisms of the military could be bold to the
-point of unthinkable", and party activists claimed that the party's
-mission was to "oppose hierarchism" (OTH_POLCLASS = 3, OTH_MILITARY =
-3). I've seen no other evidence of OTH_FINANCIAL, OTH_IMMIGRANT or
-OTH_ETHNIC (all = 1). All analysis emphasises the central role of
-Thanathorn's personality in the party's performance (McCargo & Saowanee,
-2019: 95, 100) (CHARISMA = 3) and there is no evidence of INSIDER (= 1)
-or LIBDEMNORMS (= 1). Given its characterisation as "progressive" on
-policy positions (McCargo, 2019a:156) I've coded FF CL on LRPOSITION.
+establishment did reach the level of populism by our definition. In the
+words of McCargo (McCargo 2019b, 127) "his public criticisms of the
+military could be bold to the point of unthinkable", and party activists
+claimed that the party's mission was to "oppose hierarchism"
+(OTH_POLCLASS = 3, OTH_MILITARY = 3). We have seen no other evidence of
+OTH_ECONOMIC, OTH_IMMIGRANT or OTH_ETHNIC (all = 1). All analysis
+emphasises the central role of Thanathorn's personality in the party's
+performance (McCargo and Alexander 2019, 95, 100) (CHARISMA = 3) and
+there is no evidence of INSIDER (= 1) or LIBDEMNORMS (= 1). Given its
+characterisation as "progressive" on policy positions (McCargo 2019a,
+156)(McCargo, 2019a:156) we have coded FF CL on LRPOSITION.
 
 ## Not included
 
 In the early 1990s a division opened up between the pro-and
 anti-military factions of the political establishment following the 1992
-Black May massacre. To figures in the anti-military camp are
+Black May massacre. Two figures in the anti-military camp are
 occasionally considered populist in the literature. General Chavalit
-Yongchaiyudh's National Aspiration Party was one of these, and was
+Yongchaiyudh's **National Aspiration Party** was one of these, and was
 briefly in power before being thrown out after the 1997 crisis. Chavalit
-does seem to have a history of anti-elite statements (Neher, 1988:193),
+does seem to have a history of anti-elite statements (Neher 1988, 193),
 but it seems that NAP's designation as "populist" is usually due to its
-policies rather than its rhetoric (Okey, 2005:742; Ungpakorn, 2007:112),
-and there is insufficient evidence that is should be included here. A
-somewhat stronger case could be made for General Chamlong Srimuang, a
-moral "puritan" (Chen, 2014b:195) of national politics who led the May
-1992 uprising. Chamlong is considered a "populist figure" by some for
-this reason (McCargo & Parhmanand, 2005:8), but as with Chavalit I've
-not seen enough evidence of genuine populist rhetoric. Chamlong's
-*Palang Dharma* was the party under which Thaksin first entered
-politics.
+policies rather than its rhetoric (Ockey 2005, 742; Ungpakorn 2007,
+112), and there is insufficient evidence that it should be included
+here. A somewhat stronger case could be made for General Chamlong
+Srimuang, a moral "puritan" (Chen 2014b, 195) of national politics who
+led the May 1992 uprising. Chamlong is considered a "populist figure" by
+some for this reason (McCargo and Pathmanand 2005, 8), but as with
+Chavalit we have not seen enough evidence of genuine populist rhetoric.
+Chamlong's ***Palang Dharma*** was the party under which Thaksin first
+entered politics.
 
 **References**
 
-Bo Kyeong Seo, "Populist Becoming: The Red Shirt Movement and Political
-Affliction in Thailand" *Cultural Anthropology* 34 (4) 2019, pp.555-579
+Case, William. 2007. 'Democracy's Quality and Breakdown: New Lessons
+from Thailand'. *Democratization* 14 (4): 622--42.
+https://doi.org/10.1080/13510340701449577.
 
-Case, William, 2007, Democracy's quality and breakdown: new lessons from
-Thailand, *Democratisation,* 14 (4): 622--642
+Charoensin-o-larn, Chairat. 2013. 'Redrawing Thai Political Space: The
+Red Shirt Movement'. In *Cleavage, Connection and Conflict in Rural,
+Urban and Contemporary Asia*, edited by Tim Bunnell, D. Parthasarathy,
+and Eric C. Thompson, 201--21. Dordrecht: Springer Netherlands.
+https://doi.org/10.1007/978-94-007-5482-9_12.
 
-Chachavalpongpun, Pavin (2011) "The Necessity of Enemies in Thailand's
-Troubled Politics." *Asian Survey* 51, no.6: pp.1019--41.
+Chen, Pei-Hsiu. 2014a. 'The Rise and Fall of Thaksin Shinawatra and the
+New Politics of Thailand'. In *Democracy or Alternative Political
+Systems in Asia: After the Strongmen*, edited by Hsin-Huang Michael
+Hsiao, 157--77. Abingdon: Routledge.
 
-Chairat Charoensin-o-larn, "Redrawing Thai Political Space: The Red
-Shirt Movement" in Tim Bunnell, D. Parthasarthy & Eric C. Thompson
-(eds.) *Cleavage, Connection and Conflict in Rural, Urban and
-Contemporary Asia*, (Heidelberg, New York and London, Springer: 2013)
-pp.201-221.
+---------. 2014b. 'The Vulnerability of Thai Democracy: Coups d'état and
+Political Changes in Modern Thailand'. In *Contemporary Socio-Cultural
+and Political Perspectives in Thailand*, edited by Pranee Liamputtong,
+185--207. Dordrecht: Springer Netherlands.
+https://doi.org/10.1007/978-94-007-7244-1_12.
 
-Chen, P. H., (2014a) "The rise and fall of Thaksin SHinawatra and the
-new politics of Thailand" in Hsiao, Hsin-Huang Michael, (ed.) *Democracy
-Or Alternative Political Systems in Asia: After the Strongmen*
-(Abingdon, UK. Routledge, 2014) pp.157-177
+Choi, Jungug. 2005. 'Economic Crisis, Poverty, and the Emergence of
+Populism in Thailand'. *Journal of International and Area Studies*,
+49--59.
 
-Chen, P. H.(2014b) The Vulnerability of Thai Democracy: Coups d'état and
-political changes in modern Thailand in Pranee Liamputtong (ed.)
-*Contemporary Socio-Cultural and Political Perspectives in Thailand*
-(Heidelberg, New York and London, Springer: 2014) pp.185-208.
+Connors, Michael Kelly. 2005. 'Thailand: The Facts and F (r) Ictions of
+Ruling'. *Southeast Asian Affairs*, 365--84.
 
-Choi, Jungug, 2005, "Economic Crisis, Poverty, and the Emergence of
-Populism in Thailand" *Journal of International and Area Studies* 12
-(1): 49--59.
+Ferrara, Federico. 2015. 'Democracy in Thailand: Theory and Practice'.
+In *Routledge Handbook of Southeast Asian Democratization*, edited by
+William Case, 351--69. Abingdon: Routledge.
+https://www.taylorfrancis.com/chapters/edit/10.4324/9781315674735-26/democracy-thailand-federico-ferrara.
 
-Connors, M.K. (2005) "Thailand: The Facts and F(r)ictions of Ruling"
-*Southeast Asian Affairs*, 2005, pp.365-84.
+Funston, John. 2002. 'Thailand: Thaksin Fever'. *Southeast Asian
+Affairs*, 305--25.
 
-Ferrara, Federico "Democracy in Thailand: Theory and practice", in
-William Case (ed.) *Routledge Handbook of Southeast Asian
-Democratization*(Abingdon, U.K.: Routledge, 2015) pp.351-369.
+Glassman, Jim. 2004. 'Economic "Nationalism" in a Post-Nationalist Era:
+The Political Economy of Economic Policy in Post-Crisis Thailand'.
+*Critical Asian Studies* 36 (1): 37--64.
+https://doi.org/10.1080/1467271042000184571.
 
-Funston, John "Thailand: Thaksin Fever", *Southeast Asian Affairs*,
-(2002), pp. 305-325
+Hawkins, Kirk, and Joel Selway. 2017. 'Thaksin the Populist?' *Chinese
+Political Science Review* 2 (3): 372--94.
+https://doi.org/10.1007/s41111-017-0073-z.
 
-Glassman, Jim, 'Economic "nationalism" in a post-nationalist era: the
-political economy of economic policy in post-crisis Thailand',
-*Critical* *Asian Studies*, 36, 1, 2004, pp. 37--64.
+Hewison, Kevin. 2010. 'Thaksin Shinawatra and the Reshaping of Thai
+Politics'. *Contemporary Politics* 16 (2): 119--33.
+https://doi.org/10.1080/13569771003783810.
 
-Hawkins, Kirk and Joel Selway, "Thaksin the Populist?" *China Political
-Science Review*, Vol.2 (2017) pp.372-394.
+---------. 2017. 'Reluctant Populists: Learning Populism in Thailand'.
+*International Political Science Review* 38 (4): 426--40.
+https://doi.org/10.1177/0192512117692801.
 
-Hewison, Kevin (2010) Thaksin Shinawatra and the reshaping of Thai
-politics, Contemporary Politics, 16:2, 119-133
+Jayasuriya, Kanishka, and Kevin Hewison. 2004. 'The Antipolitics of Good
+Governance: From Global Social Policy to a Global Populism?' *Critical
+Asian Studies* 36 (4): 571--90.
+https://doi.org/10.1080/1467271042000273257.
 
-Hewison, Kevin "Reluctant populists: Learning populism in Thailand"
-International Political Science Review, Vol. 38(4) 2017 pp.426--440
+Kongkirati, Prajak. 2019. 'Overview: Political Earthquakes'.
+*Contemporary Southeast Asia* 41 (2): 163--69.
 
-Jayasuriya, Kanishka & Kevin Hewison (2004) The antipolitics of good
-governance: From Global Social Policy to a Global Populism? Critical
-Asian Studies, 36:4, 571-590
+Lee, Allan. 2014. '"For King and Country"? Thailand's Political
+Conflicts as Dynamics of Social Closure'. In *Contemporary
+Socio-Cultural and Political Perspectives in Thailand*, edited by Pranee
+Liamputtong, 169--84. Dordrecht: Springer Netherlands.
+https://doi.org/10.1007/978-94-007-7244-1_11.
 
-Kuhonta, Erik Martinez and Aim Sinpeng, "Democratic Regression in
-Thailand: The Ambivalent Role of Civil Society and Political
-Institutions" *Contemporary Southeast Asia*, Vol. 36, No. 3, (2014), pp.
-333-355
+Markou, Grigoris, and Phanuwat Lasote. 2015. 'Populism in Asia: The Case
+of Thaksin in Thailand'. In .
+https://www.academia.edu/download/55825536/Populism_in_Asia_The_case_of_Thaksin_in_Thailand.pdf.
 
-Lee, Allan. "'For King and Country'? Thailand's Political Conflicts as
-Dynamics of Social Closure" in Pranee Liamputtong (ed.) *Contemporary
-Socio-Cultural and Political Perspectives in Thailand* (Heidelberg, New
-York and London, Springer: 2014) pp.169-184
+McCargo, Duncan. 2002. 'Democracy under Stress in Thaksin's Thailand'.
+*J. Democracy* 13: 112.
 
-Grigoris Markou and Phanuwat Lasote, "Populism in Asia: The case of
-Thaksin in Thailand" paper presented at the International Conference on
-'Populism and Democracy' 26-28 June 2015, Research Dissemination Centre
-of AUTH, Thessaloniki.
+---------. 2008. 'Thailand: State of Anxiety'. *Southeast Asian
+Affairs*, 333--56.
 
-Duncan McCargo, "Democracy Under Stress in Thaksin\'s Thailand" *Journal
-of Democracy*, Volume 13, Number 4, October 2002, pp. 112-126
+---------. 2019a. 'Anatomy: Future Backward'. *Contemporary Southeast
+Asia* 41 (2): 153--62.
 
-McCargo, D., & Pathmanand, U. (2005). *The Thaksinization of Thailand* .
-Copenhagen: Nordic
+---------. 2019b. 'Democratic Demolition in Thailand'. *Journal of
+Democracy* 30: 119.
 
-Institute of Asian Studies.
+McCargo, Duncan, and Saowanee T. Alexander. 2019. 'Thailand's 2019
+Elections'. *Asia Policy* 14 (4): 89--106.
 
-Duncan McCargo, "Thailand: State of Anxiety" *Southeast Asian Affairs*,
-(2008), pp. 333-356
+McCargo, Duncan, and Ukrist Pathmanand. 2005. *The Thaksinization of
+Thailand*. 4. Nias Press.
+https://books.google.com.au/books?hl=en&lr=&id=TLToo6osHS4C&oi=fnd&pg=PP8&dq=McCargo,+D.,+%26+Pathmanand,+U.+(2005).+The+Thaksinization+of+Thailand+&ots=fOPbz1Oihs&sig=vUuc0jD3-Qw2eCvOwTyASGO_CY0.
 
-Duncan McCargo and Saowanee T. Alexander, "Thailand's 2019 Elections: A
-State of Democratic Dictatorship?" *Asia Policy*, Vol.14, No.4 (2019)
-pp.89-106
+Mutebi, Alex M. 2004. 'Thailand in 2003: Riding High Again'. *Asian
+Survey* 44 (1): 78--86.
 
-McCargo, Duncan, "Anatomy: Future Backward" *Contemporary Southeast
-Asia* Vol.41, No.2 (2019a) pp.153-162.
+Neher, Clark D. 1988. 'Thailand in 1987: Semi-Successful
+Semi-Democracy'. *Asian Survey* 28 (2): 192--201.
 
-McCargo, Duncan, (2019b) "Democratic Demolition in Thailand", *Journal
-of Democracy*, Vol.30, No.4, pp.119-133.
+Nelson, Michael H. 2007. '"People's Sector Politics" (Kanmueang Phak
+Prachachon) in Thailand: Problems of Democracy in Ousting Prime Minister
+Thaksin Shinawatra'. Working Paper Series No. 87. City University of
+Hong Kong.
 
-Mutebi, Alex M. \"Thailand in 2003: Riding high again.\" *Asian Survey*
-44.1 (2004): 78-86.
+---------. 2012. 'Thailand's Election of July 3, 2011: An Overview'.
+King Prajadhipok's Institute.
 
-Neher, Clark D., "Thailand in 1987: Semi-Successful Semi-Democracy"
-*Asian Survey*, Vol.28, No.2, (1988) pp.192-201.
+Norton, Elliot. 2012. 'Illiberal Democrats versus Undemocratic Liberals:
+The Struggle Over the Future of Thailand's Fragile Democracy'. *Asian
+Journal of Political Science* 20 (1): 46--69.
+https://doi.org/10.1080/02185377.2012.673860.
 
-Norton, Elliot (2012) Illiberal Democrats versus Undemocratic Liberals:
-The Struggle Over the Future of Thailand\'s Fragile Democracy, Asian
-Journal of Political Science, 20:1, 46-69
+Ockey, James. 2005. 'Variations on a Theme: Societal Cleavages and Party
+Orientations Through Multiple Transitions in Thailand'. *Party Politics*
+11 (6): 728--47. https://doi.org/10.1177/1354068805057607.
 
-Ockey, James, "Variations on a Theme: Societal Cleavages and Party
-Orientations Through Multiple Transitions in Thailand" *Party Politics*,
-Vol.11, No.6 (2005) pp.728-747.
+Pasuk, Phongpaichit. 2004. 'Thailand under Thaksin: Another Malaysia?'
+Working Paper, No. 109. Asia Research Centre, Perth: Murdoch University.
 
-Sinpeng, Aim, and Erik Martinez Kuhonta, "From the Street to the Ballot
-Box: The July 2011 Elections and the Rise of Social Movements in
-Thailand" *Contemporary Southeast Asia*, Vol. 34, No. 3 (2012), pp.
-389-415.
+Pasuk, Phongpaichit, and Chris Baker. 2002. *The Only Good Populist Is a
+Rich Populist: Thaksin Shinawatra and Thailand's Democracy*. Hong Kong:
+Southeast Asia Research Centre.
 
-Sinpeng, Aim, Party-Social Movement Coalition in Thailand's Political
-Conflict (2005--2011)
+---------. 2004. 'Pluto-Populism in Thailand: Business Remaking
+Politics'. In *Populism and Reformism in Southeast Asia*, edited by
+Eva-Lotta E. Hedman and John T. Sidel. New Haven: Yale University Press.
 
-in Pranee Liamputtong (ed.), *Contemporary Socio-Cultural and Political
-Perspectives in Thailand* (2014) pp.157-168
+---------. 2008. 'Thaksin's Populism'. *Journal of Contemporary Asia* 38
+(1): 62--83. https://doi.org/10.1080/00472330701651960.
 
-Siripan Nogsuan Sawasdee, (2019) "The conundrum of a dominant party in
-Thailand" *Asian Journal of Comparative Politics*, Vol. 4(1) 102--119
+---------. 2013. 'Reviving Democracy at Thailand's 2011 Election'.
+*Asian Survey* 53 (4): 607--28.
+https://doi.org/10.1525/as.2013.53.4.607.
 
-Siripan Nogsuan Sawasdee, "Electoral integrity and the repercussions of
-institutional manipulations: The 2019 general election in Thailand",
-*Asian Journal of Comparative Politics* 2020, Vol. 5(1) pp.52--68.
+Phatharathananunth, Somchai. 2008. 'The Thai Rak Thai Party and
+Elections in North-Eastern Thailand'. *Journal of Contemporary Asia* 38
+(1): 106--23. https://doi.org/10.1080/00472330701651986.
 
-Somchai Phatharathananunth (2008) "The Thai Rak Thai party and elections
-in North-eastern Thailand", *Journal of Contemporary Asia*, 38:1,
-106-123
+Pintobtan, Prapart. 2011. 'Roots of the Thai Villagers' "Grass Tip"
+Uprising Following the September 19, 2006 Coup'. Organization V.R.F
+working paper series No.469. Institute of Developing Economies, Japan
+External Trade Organization.
 
-Thompson, Mark R., "Class, charisma, and clientelism in Thai and
-Philippine populist parties" in Dirk Tomsa and Andreas Ufen (eds.)
-*Party Politics in Southeast Asia: Clientelism and Electoral Competition
-in Indonesia, Thailand and the Philippines* (Taylor and Francis, 2012)
-pp.62-79.
+Pongsudhirak, Thitinan. 2008. 'Thailand since the Coup'. *Journal of
+Democracy* 19 (4): 140--53.
 
-Thongchai Winichakul, "The Monarchy and Anti-Monarchy Two Elephants in
-the Room of Thai Politics and the State of Denial" in Pavin
-Chachavalpongpun (ed) \"Good Coup\" Gone Bad: Thailand\'s Political
-Development since Thaksin\'s Downfall (Singapore, ISEAS: 2014)
-pp.79-108.
+Pye, Oliver, and Wolfram Schaffar. 2008. 'The 2006 Anti-Thaksin Movement
+in Thailand: An Analysis'. *Journal of Contemporary Asia* 38 (1):
+38--61. https://doi.org/10.1080/00472330701651945.
 
-Pasuk Phongpaichit, and Chris Baker. 2002. The only good populist is a
-rich populist: Thaksin
+Sawasdee, Siripan Nogsuan. 2019. 'The Conundrum of a Dominant Party in
+Thailand'. *Asian Journal of Comparative Politics* 4 (1): 102--19.
+https://doi.org/10.1177/2057891118774643.
 
-Shinawatra and Thailand's democracy. Hong Kong: Southeast Asia Research
-Centre.
+---------. 2020. 'Electoral Integrity and the Repercussions of
+Institutional Manipulations: The 2019 General Election in Thailand'.
+*Asian Journal of Comparative Politics* 5 (1): 52--68.
+https://doi.org/10.1177/2057891119892321.
 
-Pasuk Phongpaichit. (2004). *Thailand under Thaksin* : *Another
-Malaysia* ? (Asia Research Centre
+Seo, Bo Kyeong. 2019. 'Populist Becoming: The Red Shirt Movement and
+Political Affliction in Thailand'. *Cultural Anthropology* 34 (4):
+555--79.
 
-Working Paper, No. 109). Perth: Murdoch University.
+Sinpeng, Aim. 2014. 'Party-Social Movement Coalition in Thailand's
+Political Conflict (2005--2011)'. In *Contemporary Socio-Cultural and
+Political Perspectives in Thailand*, edited by Pranee Liamputtong,
+157--68. Dordrecht: Springer Netherlands.
+https://doi.org/10.1007/978-94-007-7244-1_10.
 
-Pasuk Phongpaichit and Chris Baker "Thaksin\'s populism", Journal of
-Contemporary Asia, 38:1, (2008) 62-83
+Sinpeng, Aim, and Erik Martinez Kuhonta. 2012. 'From the Street to the
+Ballot Box: The July 2011 Elections and the Rise of Social Movements in
+Thailand'. *Contemporary Southeast Asia* 34 (3): 389--415.
 
-Pasuk Phongpaichit and Chris Baker (2004) "Pluto-Populism in Thailand:
-Business Remaking Politics" To appear in: Eva-Lotta E. Hedman and John
-T. Sidel, eds., Populism and Reformism in
-
-Southeast Asia: The Threat and Promise of New Politics (New Haven,
-Conncecticut: Yale
-
-University Council on Southeast Asia Studies Monograph Series).
-\[Pre-print edition\]
-
-Pasuk Phongpaichit and Chris Baker, "Reviving Democracy at Thailand's
-2011 Election" *Asian Survey*, Vol.53, No.4 (2013) pp.607-628.
-
-Pongsudhirak, Thitinan. (2008). "Thailand since the coup" *Journal of
-Democracy*, 19 (4), 140--153
-
-Pongsudhirak Thitinan, 2012, Thailand's uneasy passage. *Journal of
-Democracy* 23 (2): 47--61.
-
-Prajak Kongkirati, "Overview: Political Earthquakes" *Contemporary
-Southeast Asia* Vol.41, No.2, (2019) pp.163-169
-
-Prapart Pintobtan, "Roots of the Thai Villagers' "Grass Tip" Uprising
-Following the September 19, 2006 Coup" Institute of Developing
-Economies, Japan External Trade Organization V.R.F working paper series
-No.469, 2011.
-
-Oliver Pye & Wolfram Schaffar (2008) The 2006 anti-Thaksin movement in
-Thailand: An analysis, Journal of Contemporary Asia, 38:1, 38-61
-
-Quinn, Rapin. \"Violence and democracy: is Thailand entering a political
-cul-de-sac?.\" *Essays of Thailand\'s Economy and Society for Professor
-Chatthip Nartsupha at 72*. Sangsan Press, 2013
+Thompson, Mark R. 2012. 'Class, Charisma, and Clientelism in Thai and
+Philippine Populist Parties'. In *Party Politics in Southeast Asia:
+Clientelism and Electoral Competition in Indonesia, Thailand and the
+Philippines*, edited by Dirk Tomsa and Andreas Ufen, 62--79. Taylor and
+Francis.
 
 Ungpakorn, Giles Ji. 2007. *A Coup for the Rich: Thailand's Political
-Crisis*. Bangkok:
+Crisis*. Bangkok: Workers Democracy Publishing.
 
-Workers Democracy Publishing.
-
+Winichakul, Thongchai. 2014. 'The Monarchy and Anti-Monarchy: Two
+Elephants in the Room of Thai Politics and the State of Denial'. In
+*'Good Coup' Gone Bad: Thailand's Political Development since Thaksin's
+Downfall*, edited by Pavin Chachavalpongpun, 79--108. Singapore: ISEAS.

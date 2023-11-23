@@ -1,24 +1,19 @@
 ---
 title: Finland
+subtitle: 'Date range: 1980-2020'
+title-block-banner: yes
+
 ---
 
-
--   Date range: 1980-2020
-
--   Elections included:
-
-    -   Legislative: 1983, 1987, 1991, 1995, 1999, 2003, 2007, 2011,
-        2015, 2019
-
-    -   Presidential:1982, 1988, 1994, 2000, 2006, 2012, 2018
+# Case notes
 
 ## Finnish Rural Party
 
-Finnish Rural Party (*Suomen maaseudun puolue,* SMP) was a populist
+The Finnish Rural Party (*Suomen maaseudun puolue,* SMP) was a populist
 agrarian protest party founded around Veikko Vannamo that mobilised
 mainly on corruption, and the general context of urban
 industrialisation/rural decline (Sänkiaho 1971; Arter 2012, 816). SMP
-formed as a splinter faction of the Agrarian League in 1959.
+formed as a splinter of the Agrarian League in 1959.
 
 The party espoused an anti-establishment populist line aimed at rallying
 "forgotten" rural voters, frustrated with the "urban elite" (Lahti and
@@ -32,8 +27,8 @@ and economic elite in the cities, 'the money power', which Vennamo
 famously referred to as 'crime lords'" (Ylä-Anttila 2017, 25). This
 opposition to corrupt business interests -- particularly its opposition
 to "monopoly capitalism" (Sänkiaho 1971, 40) -- seems strong enough to
-warrant 2 on OTH_FINANCIAL. We cannot see any evidence that the party
-was nativist in the sense of OTH_ETHNIC or OTH_IMMIGRANT (1).
+warrant 3 on OTH_ECONOMIC. We cannot see any evidence that the party was
+nativist in the sense of OTH_ETHNIC or OTH_IMMIGRANT (1).
 
 It was reliant on the leadership of Vennamo (Ylä-Anttila 2017, 25) even
 after his son formally took over in (it was a "family business" in this
@@ -41,18 +36,18 @@ sense, (Arter 2012, 813)) (CHARISMA = 3). The party joined government
 after the 1983 election (INSIDER = 2 1987-) against the objections of
 the elder Vennamo.
 
-## The Finns/ True Finns 
+## The Finns Party/ True Finns 
 
-The Finns (*Perussuomalaiset*, PS), sometimes called the "True Finns",
-is a nativist anti-immigration and anti-EU party, built largely on the
-legacy of the SMP (Raunio 2013, 133; Arter 2012) and led by Timo Soini
-for most of its life. Its breakout election came in 2011, when it was
-the only anti-EU party in parliament and therefore positioned to
+The Finns Party (*Perussuomalaiset*, PS), sometimes called the "True
+Finns", is a nativist anti-immigration and anti-EU party, built largely
+on the legacy of the SMP (Raunio 2013, 133; Arter 2012) and led by Timo
+Soini for most of its life. Its breakout election came in 2011, when it
+was the only anti-EU party in parliament and therefore positioned to
 capitalise on the widespread anger at Finland's participation in the
 bailout of southern European countries. After Jussi Halla-aho took the
 leadership in a "hardliner coup" in 2017, the party's more moderate wing
-split off to form the Blue Reform group in th e2019 election. The
-Halla-aho led Finns however maintained their vote share, receiving
+split off to form the Blue Reform group in the 2019 election. The
+Halla-aho-led Finns however maintained their vote share, receiving
 17.5%.
 
 PS self identifies as "populist" and criticises the "old
@@ -78,7 +73,7 @@ asylum seekers, against whom the party deployed nativist and welfare
 chauvinist attitudes (Arter 2010, 499; 2012, 815; Pyrhönen 2013).
 According to several authors however (Arter 2010, 485; Raunio 2013,
 146), the party's approach to immigration and ethnocentrism is not as
-extreme as other far-right parties in Europe, and political
+extreme as other far-right parties in Europe, and the political
 establishment and EU elites have formed a more important "other" (Niemi
 2013). According to Wahlbeck, ethnocentrism in the party's rhetoric
 takes the form of defense of the majority more than opposition to a
@@ -92,8 +87,8 @@ that the party's stance on these issues has hardened over time (Arter
 2010, 498). Under Halla-aho, the party was seen to take a more hard-line
 anti-immigration views (Borg 2019, 187; Raunio 2019, 176; Arter 2010).
 While its precise profile is therefore debatable and ambiguous, we've
-coded it 2 on OTH_IMMIGRANTS and 2 on OTH_ETHNIC. Under Soini, and
-increased OTH_IMMIGRANTS to 3 under Halla-aho's leadership in 2019.
+coded it 2 on OTH_IMMIGRANTS and 2 on OTH_ETHNIC Under Soini, and
+increased OTH_IMMIGRANTS to 3 under Halla-aho.
 
 PS has been consistently opposed to the EU and builds this opposition
 into its populist approach (Lähdesmäki 2015). As the party programme
@@ -107,7 +102,7 @@ since the post-bailout 2011 election), this warrants 3 on OTH_FOREIGN.
 PS has a somewhat confusing economic ideology (Kuisma 2013, 94), in that
 it opposes the bureaucratic red tape of government regulation, yet calls
 for a strong, interventionist welfare state to safeguard the common
-citizen against big business and multinationals (OTH_FINANCIAL = 3)
+citizen against big business and multinationals (OTH_ECONOMIC = 3)
 (Raunio 2013, 139; see also Arter 2010, 496; 2012, 815). While this
 could be debated, we have concluded that the party's ethno-nationalism
 qualifies it as essentially right-wing (LRPOSITION = R)
@@ -205,4 +200,3 @@ https://doi.org/10.1080/07256868.2016.1235020.
 Ylä-Anttila, Tuukka. 2017. 'The Populist Toolkit : Finnish Populism in
 Action 2007--2016', October.
 https://helda.helsinki.fi/handle/10138/224199.
-

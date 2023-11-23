@@ -1,35 +1,32 @@
 ---
 title: Japan
+subtitle: 'Date range: 1980-2020.'
+title-block-banner: yes
+
 ---
 
-
--   Date range: 1980-2020.
-
--   Elections included:
-
-    -   Legislative:1980, 1983, 1986, 1990, 1993, 1996, 2000, 2003,
-        2005, 2009, 2012, 2014, 2017.
+# Case notes
 
 ## Japan Restoration Party/ Japan Innovation Party
 
-The only national party that could be considered populist by the
-dataset's standards is the Japan Restoration Party (*Nippon* *Ishin no
-Kai*, JRP). JRP was is the national successor to the Osaka Restoration
-Party (*Osaka Ishin no Kai,* also translated "One Osaka Party") (Jou
-2015), both built around then Mayor of Osaka and former Governor of
-Osaka Prefecture, Tōru Hashimoto. Hashimoto is a former television
-personality and lawyer who split from the dominant Liberal Democratic
-Party to run successfully for Governor in 2007. ORP was a regionalist
-party with a neoliberal reformist agenda. As his national brand grew, he
-created the JRO as a merger of the ORP with the nationalist Sunrise
-Movement of Tokyo Governor Shintarou Ishihara before the 2012 election.
-While Ishihara was technically the leader of the national party, most
-analyses seem to consider Hashimoto to have been the "face of the party
-during the election" (R. J. Pekkanen and Reed 2016, 66), and the
-continuity of the *Ishin* name suggests as much. The party did
-surprisingly well, leading some to consider it a brief "third force" in
-Japanese politics (Komatsu 2017, 165). Note that the English name
-"restoration" was chosen by the party, but *Ishin* actually means
+The only national Japanese party that could be considered populist by
+the dataset's standards is the Japan Restoration Party (*Nippon* *Ishin
+no Kai*, JRP). JRP was is the national successor to the Osaka
+Restoration Party (*Osaka Ishin no Kai,* also translated "One Osaka
+Party") (Jou 2015), both built around then Mayor of Osaka and former
+Governor of Osaka Prefecture, Tōru Hashimoto. Hashimoto is a former
+television personality and lawyer who split from the dominant Liberal
+Democratic Party to run successfully for Governor in 2007. ORP was a
+regionalist party with a neoliberal reformist agenda. As his national
+brand grew, he created the JRO as a merger of the ORP with the
+nationalist Sunrise Movement of Tokyo Governor Shintarou Ishihara before
+the 2012 election. While Ishihara was technically the leader of the
+national party, most analyses seem to consider Hashimoto to have been
+the "face of the party during the election" (R. J. Pekkanen and Reed
+2016, 66), and the continuity of the *Ishin* name suggests as much. The
+party did surprisingly well, leading some to consider it a brief "third
+force" in Japanese politics (Komatsu 2017, 165). Note that the English
+name "restoration" was chosen by the party, but *Ishin* actually means
 "innovation" in Japanese (Kobori 2013, 108), and some literature refers
 to the party as the Japanese Innovation Party. To complicate matters,
 when Hashimoto pulled his faction out of the JRF following strategic
@@ -72,7 +69,7 @@ self-serving bureaucrats and public servants," (Fahey et al. 2021, 327).
 
 The party's key ideological hallmarks were nationalism (Horiuchi 2014,
 29; Jou 2015, 156) and neoliberalism (Weathers 2014; Lindgren 2015), due
-to which it is usually considered to be right wing (Kobori 2013, 117;
+to which it is usually considered to be right-wing (Kobori 2013, 117;
 Chiavacci 2022, 127) (LRPOSITION = R). Other than the political class
 and state bureaucrats, other "others" in Hashimoto's and the JRP's
 discourse are somewhat more difficult to clarify. His nationalism was
@@ -105,18 +102,17 @@ see also Fahey et al. 2021, 327), and that he was notably "charismatic"
 (Horiuchi 2014, 29). However, the JRP being a merger with the Sunrise
 party again complicated the coding here for the 2012 election. Jou
 claims that this co-leadership model means that JRP cannot truly be
-considered a truly leader-defined party, even though Hashimoto's
-charisma was a key reason why voters supported it (Jou 2015).
-Conversely, Reed (Reed 2013, 72) claims that the party didn't really
-have a coherent policy profile, and that "personality" was a dominant
-reason why most of its voters supported it. While there may be a case to
-code it 2 on CHARISMA, we've coded it 3. However once the JIP formed for
-the 2014 election, Pekkanen and Reed suggest that it was new partner
-Kenji Eda, not Hashimoto, who was the "face of the party durin the
-election" R. J. Pekkanen and Reed 2016, 69), and hence we've reduced
-CHARISMA to 1 for that vote. Hashimoto was not a figure in previous
-national governments at the time of the 2012 or 2014 elections (INSIDER
-= 1).
+considered a leader-defined party, even though Hashimoto's charisma was
+a key reason why voters supported it (Jou 2015). Conversely, Reed (Reed
+2013, 72) claims that the party didn't really have a coherent policy
+profile, and that "personality" was a dominant reason why most of its
+voters supported it. While there may be a case to code it 2 on CHARISMA,
+we've coded it 3. However once the JIP formed for the 2014 election,
+Pekkanen and Reed suggest that it was new partner Kenji Eda, not
+Hashimoto, who was the "face of the party durin the election" R. J.
+Pekkanen and Reed 2016, 69), and hence we've reduced CHARISMA to 1 for
+that vote. Hashimoto was not a figure in previous national governments
+at the time of the 2012 or 2014 elections (INSIDER = 1).
 
 Hashimoto pushed Japanese liberal democratic norms in several ways.
 Ideologically, he advocated what he called a "decisionist" ideal of
@@ -137,7 +133,7 @@ his name and *fashizumu* (fascism) (Weathers 2014, 83). While this is
 clearly evidence of threats to liberal democratic norms, we don't feel
 that it quite rises to 3 on the LIBDEMNORMS scale (= 2).
 
-**Not included**
+## Not included
 
 The nature of the **Japanese Socialist Party** (JPA) is not really
 populist, and the same can be said of the **Japanese Communist Party**
@@ -254,4 +250,3 @@ Yamakoshi, Shuzo. 2019. "Legitimation Crisis\" of Journalism in Japan."
 
 Yoshida, Toru. 2020. "Populism 'Made in Japan': A New Species?" *Asian
 Journal of Comparative Politics* 5 (3): 288--99.
-

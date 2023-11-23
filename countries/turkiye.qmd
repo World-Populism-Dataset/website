@@ -1,32 +1,28 @@
 ---
 title: Türkiye
+subtitle: |-
+  Date range: 1983-2020
+  <br>
+  Since the foundation of the Turkish Republic in 1924 there has been a
+  sharp political cleavage in Türkiye between Kemalist liberal secularists
+  (including most of the civil service, military and judiciary) and the
+  more religious bulk of the population in rural inland areas. That state
+  institutions have so consistently sought to suppress Islamist politics
+  has provided a context in which Islamist parties can easily paint
+  populist "anti-system" narratives about themselves and the political
+  class (Cizre and Çınar 2003, 310), and it often seems that Islamism is
+  more relevant as a token of this social division than as a force of
+  genuine religiosity or theocracy (M. H. Yavuz 1997, 74). This pattern
+  can be traced in Türkiye through the Democrat Party, the National Order
+  Party, the National Salvation Party and since 1980 through the Welfare
+  Party, the Virtue Party, the Felicity Party and the Justice and
+  Development Party -- each of which was linked in some way to its
+  predecessor (often including leaders and structures).
+title-block-banner: yes
+
 ---
 
-
--   Date range: 1990-2020
-
--   Elections included:
-
-    -   Legislative: 1990, 1992, 1996, 2000, 2004, 2008, 2012, 2016,
-        2020.
-
-    -   Presidential: 1990, 1992, 1996, 2000, 2004, 2009, 2014, 2019.
-
-Since the foundation of the Turkish Republic in 1924 there has been a
-sharp political cleavage in Turkey between Kemalist liberal secularists
-(including most of the civil service, military and judiciary) and the
-more religious bulk of the population in rural inland areas. That state
-institutions have so consistently sought to suppress Islamist politics
-has provided a context in which Islamist parties can easily paint
-populist "anti system" narratives about themselves and the political
-class (Cizre and Çınar 2003, 310), and it often seems that Islamism is
-more relevant as a token of this social division than as a force of
-genuine religiosity or theocracy (M. H. Yavuz 1997, 74). This pattern
-can be traced in Turkey through the Democrat Party, the National Order
-Party, the National Salvation Party and since 1980 through the Welfare
-Party, the Virtue Party, the Felicity Party and the Justice and
-Development Party -- each of which was linked in some way to its
-predecessor (often including leaders and structures).
+# Case notes
 
 ## The Welfare Party
 
@@ -39,14 +35,14 @@ role of western imperial powers in the humiliation and backwardness of
 rural Turkish Muslims, and advocated Islamism as the only redemptive
 path (Ayata 1996, 54). The party's "Just Order" platform actually
 focused heavily on social justice and the plight of the poor -- even
-more than leftist parties -- than on theocratic advocacy, and built on
-the supposed contempt that the coastal and urban liberal elite had for
-the masses (Ayata 1996, 54; White 1997, 26). That said, we've seen no
-evidence that the wealthy themselves were a 'class' of other that the
-party countered, and it seems to have left some discursive space for
-capitalist accumulation in its literature (Onis 1997, 753) and had
-significant connections to Islamic business elites (Onis 1997, 758;
-Gülalp 2001, 439) (OTH_FINANCIAL = 1). According to Onis (Onis 1997,
+more than leftist parties -- rather than on theocratic advocacy, and
+built on the supposed contempt that the coastal and urban liberal elite
+had for the masses (Ayata 1996, 54; White 1997, 26). That said, we have
+seen no evidence that the wealthy themselves were a class of "other"
+that the party countered, and it seems to have left some discursive
+space for capitalist accumulation in its literature (Onis 1997, 753). It
+also had significant connections to Islamic business elites (Onis 1997,
+758; Gülalp 2001, 439) (OTH_ECONOMIC = 1). According to Onis (Onis 1997,
 753) the party's rhetoric against the West was "relentless", and it
 consistently accused the established parties of being "imitators of the
 West" (OTH_FOREIGN = 3)
@@ -56,21 +52,17 @@ stage with the major party leaders on the grounds that they were all
 imitators of the West (Onis 1997, 755), continuing its hard
 anti-political class rhetoric that built a "WP vs the Rest" narrative
 (OTH_POLCLASS = 3). While the party connected Islam with the homogenous
-"people" (M. H. Yavuz 1997, 67), we've coded it 3 on OTH_ETHNIC --
-although given it actually had a pan-ethnic identity and sought votes
-from Kurdish areas, there is a case that this should be 2, and that the
-party is essentially anti-political class, business elites and foreign
-intervention. This difficulty speaks to the complicated role of Islamist
-rhetoric in defining "people" in Turkey. Despite the fact that the
-military has been so closely involved in the secular liberal political
-establishment that WP opposed, we cannot see any evidence that it
-constituted an "other" for the party (OTH_MILITARY = 1). It should also
-be stressed that the combination of religious identity and leftish
-economic platforms make the party very difficult to characterise on a
-L-R scale (Onis 1997, 753) -- for now we've coded it as R. The party had
-no prior position in power (INSIDER = 1) and there is no evidence that
-the charisma of its leaders was particularly relevant to its populist
-discourse (CHARISMA = 1).
+"people" (M. H. Yavuz 1997, 67), we've coded it 1 on OTH_ETHNIC as it
+actually had a pan-ethnic identity and sought votes from Kurdish areas.
+Despite the fact that the military has been so closely involved in the
+secular liberal political establishment that WP opposed, we cannot see
+any evidence that it constituted an "other" for the party (OTH_MILITARY
+= 1). It should also be stressed that the combination of religious
+identity and leftish economic platforms make the party very difficult to
+characterise on a L-R scale (Onis 1997, 753) -- for now we've coded it
+as R. The party had no prior position in power (INSIDER = 1) and there
+is no evidence that the charisma of its leaders was particularly
+relevant to its populist discourse (CHARISMA = 1).
 
 ## The Virtue Party
 
@@ -83,10 +75,11 @@ most notably by enthusiastically embracing EU membership and removing
 the anti-Western discourse from its ideology (OTH_FOREIGN = 1). This was
 arguably because it saw EU legal protections as the only thing that
 could curb the Turkish state's continual intervention against Islamist
-political parties (Taniyici 2003, 476). The party also sought to soften
-its Islamist image, indicating a relaxing of various platforms and even
-hiring several women into its leadership to show its more secular
-credentials (Mecham 2004, 348) (OTH_ETHNIC = 1). It is not clear however
+political parties (Taniyici 2003, 476). As with WP, we've seen no
+evidence of ethnocentric rhetoric (OTH_ETHNIC = 1). The party also
+sought to soften its Islamist image, indicating a relaxing of various
+platforms and promoting several women into its leadership to show its
+more secular credentials (Mecham 2004, 348). It is not clear however
 that there was any softening of its anti-political class rhetoric
 (OTH_POLCLASS = 3). As Mecham puts it:
 
@@ -98,7 +91,7 @@ that there was any softening of its anti-political class rhetoric
 > terms (Mecham 2004, 346).
 
 That said, the variation in all of these variables is tricky to code
-because many in Turkey saw the party as a continuation of Welfare, and
+because many in Türkiye saw the party as a continuation of Welfare, and
 considered its softening of rhetoric to be more strategic than genuine.
 The party was split between Erbakan loyalists and reformers (including
 Abdullah Gul and Recep Tayyip Erdogan), who became increasingly
@@ -116,10 +109,10 @@ symbolising the party's commitment to renew the impure and corrupt
 Turkish state (Mecham 2004, 349). It initially maintained Virtue's more
 moderate expressions of Islamist identity (Dagi 2008, 29), but shed the
 Welfare/Virtue Islamic logos in favour of a simple light bulb, and made
-a point of recruiting more (non-headscarf-wearing) women into leadership
-positions (Mecham 2004, 353). Erdogan and the AKO have remained the
-dominant forces in Turkish politics since it took power in the 2002
-elections with 34.3% of the vote.
+a point of recruiting more women into leadership positions (Mecham 2004,
+353). Erdogan and the AKO have remained the dominant forces in Turkish
+politics since it took power in the 2002 elections with 34.3% of the
+vote.
 
 Attempting to capture the more mainstream centre-right vote, AKP
 campaigned against corruption in the Turkish state and advocated
@@ -155,11 +148,11 @@ Opposition to immigrants, however, have not been an important component
 of AKP's discourse (Gürsoy 2021, 161) (OTH_IMMIGRANTS =1). According to
 Gürsoy "in the early years of AKP rule, 'the elite' meant most
 fundamentally the secular military and judicial establishment."
-(OTH_MILITARY = 3 from 2002), but it was only after 2007 that foreign
-enemies were elevated to the primary enemies of the people. By the 2018
-elections, Erdogan and the AKP were characterising their domestic rivals
-as the "domestic collaborators" of Turkey's foreign enemies (Sözen 2019,
-12; see also Gürsoy 2021, 166) (OTH_FOREIGN = 1 in 2002, 3 from 2007).
+(OTH_MILITARY = 3 from 2002), but after 2007 foreign enemies were
+elevated to the primary enemies of the people. By the 2018 elections,
+Erdogan and the AKP were characterising their domestic rivals as the
+"domestic collaborators" of Türkiye's foreign enemies (Sözen 2019, 12;
+see also Gürsoy 2021, 166) (OTH_FOREIGN = 1 in 2002, 3 from 2007).
 
 It is difficult to pinpoint the time when AK started veering off into a
 sharper populist tone with more defined denemies. We have settled on the
@@ -193,17 +186,18 @@ religious populist rhetoric has increased back to the scale of Welfare
 in the 1990s. The literature suggest that Erdogan has always been the
 charismatic central figure in the representation of the party (Elçi
 2019, 5; Kaya, Robert, and Tecmen 2020, 370; Selçuk, Hekimci, and Erpul
-2019; Sawae 2020, 261)(CHARISMA = 3). While the party has a complicated
+2019; Sawae 2020, 261) (CHARISMA = 3). While the party has a complicated
 policy profile, we agree with the general view of the literature that it
 is a right-wing party to its cultural majoritarianism and nationalism
-(LRPOSITION = R).
+(LRPOSITION = R). We have coded AK 1 for INSIDER in 2002, and 3 for
+every subsequent election after Erdogan became president.
 
 ## The Young Party
 
-The Young Party (*Genç Parti*, GP), was a one-man-show led by
+The Young Party (*Genç Parti*, GP), was a nationalist party built around
 businessman and media mogul Cem Uzan, who railed against the
 establishment and promised impossible benefits to voters (Çarkoğlu 2002,
-39), and is generally considered populist (Robins 2003, 550) and
+39). He is generally considered populist (Robins 2003, 550) and
 "Berlusconi-like" (Kaya 2003, 208) in the literature. GP only mustered
 7.3% of the vote in 2002, below the 10% needed to enter parliament in a
 race dominated by the ascendency of the AKP. He returned in 2007 but
@@ -214,8 +208,8 @@ establishment (Çarkoğlu 2002, 39), and is occasionally considered
 "anti-system" (Kaya 2003, 208) (OTH_POLCLASS = 3). The party was also
 considered "ultra-nationalist" (Başlevent, Ki̇rmanoğlu, and Şenatalar
 2005, 548; Baykan 2018) and hostile to the IMF (in the context of
-Turkey's economic crisis) (Rubin 2005), which Uzan claimed was
-colonizing Turkey (Gökçen, Homer, and Oates 2006, 266). He was also
+Türkiye's economic crisis) (Rubin 2005), which Uzan claimed was
+colonizing Türkiye (Gökçen, Homer, and Oates 2006, 266). He was also
 highly critical of the IMF, World Bank, the USA, and the EU (Kaya 2003,
 208; Küçük 2018, 578), whom he considered opposed to the nation. For
 this we have labelled the party 2 on OTH_FOREIGN, but further research
@@ -244,25 +238,25 @@ The **Nationalist Action Party** (*Milliyetçi Hareket Partisi*, MHP) is
 a very difficult party to code by our definitions. It is a radically
 nationalist party, socially conservative, statist, anti-globalisation
 and critical to both European and Russian threats to the Turkish
-national interest. Its traditional enemies foreigners and their domestic
-collaborators, who include leftists, Kurds, Alevi Muslims, and liberal
-intellectuals (M. Yavuz 2002, 206). The party paramilitary links, and
-has celebrated various former militia members (Cınar and Arıkan 2002,
-73). The party's radical nationalism has a Manichean proportion as it
-has discussed threats to the nation and the party's role in saving it,
-and in doing so it has generally spoken for the true Turkish people in a
-holistic sense (Erdoğan and Uyan-Semerci 2020). It has also used acerbic
-rhetoric against opponents, whom it has accused of "treason" among other
-things (Selçuk, Hekimci, and Erpul 2019, 556). However we have not found
-enough evidence that the party was ever opposed to an "elite" governing
-the country against the people's interests. Instead, the party has
-considered itself an ally of the state. Erdoğan and Uyan-Semerci, who
-have looked specifically into the potential populism of the MHP under
-long-time leader Devlet Bahçeli, conclude simply that "For Bahçeli, the
-elites of Turkey are not among the usual enemies of the nation" (Erdoğan
-and Uyan-Semerci 2020). On this basis we've elected not to include the
-BHP in the dataset, as it appears to be far right but not populist by
-our definition. Further research should clarify this.
+national interest. Its traditional enemies are foreigners and their
+domestic collaborators, who include leftists, Kurds, Alevi Muslims, and
+liberal intellectuals (M. Yavuz 2002, 206). The party has paramilitary
+links, and has celebrated various former militia members (Cınar and
+Arıkan 2002, 73). Its radical nationalism has a Manichean proportion as
+it has discussed threats to the nation and the party's role in saving
+it, and in doing so it has generally spoken for the true Turkish people
+in a holistic sense (Erdoğan and Uyan-Semerci 2020). It has also used
+acerbic rhetoric against opponents, whom it has accused of "treason"
+among other things (Selçuk, Hekimci, and Erpul 2019, 556). However we
+have not found enough evidence that the party was ever opposed to an
+"elite" governing the country against the people's interests. Instead,
+the party has considered itself an ally of the state. Erdoğan and
+Uyan-Semerci, who have looked specifically into the potential populism
+of the MHP under long-time leader Devlet Bahçeli, conclude simply that
+"For Bahçeli, the elites of Türkiye are not among the usual enemies of
+the nation" (Erdoğan and Uyan-Semerci 2020). On this basis we've elected
+not to include the BHP in the dataset, as it appears to be far right but
+not populist by our definition. Further research should clarify this.
 
 **References**
 
@@ -407,4 +401,3 @@ Action Party (MHP) in Turkey'. *The Middle East Journal* 56 (March):
 Yavuz, M. Hakan. 1997. 'Political Islam and the Welfare (Refah) Party in
 Turkey'. *Comparative Politics* 30 (1): 63--82.
 https://doi.org/10.2307/422193.
-

@@ -1,33 +1,29 @@
 ---
 title: Philippines
+subtitle: |-
+  Date range: 1986-2020.
+  <br>
+  The Philippines resumed open democratic elections after the fall of the
+  Marcos regime in 1986. Populism since that time has been most visible in
+  the styles of several presidential candidates. Parties, however, are
+  more challenging. Most studies suggest that parties in the Philippines
+  are weak and decentralised, relying on patronage, local brokers, and
+  machine politics to gain votes rather than centrally defined ideologies
+  or messages (see Webb 2023; Kusaka 2017a, 53). It is a frequent practice
+  for legislators to switch to the party of a victorious presidential
+  candidate after they win, or for local leaders to back presidential
+  candidates from other parties, both of which happened with Rodrigo
+  Duterte's election in 2016 (Cook and Salazar 2016, 11; Thompson 2016a,
+  52). Hence, while we've coded many presidential candidates here, but
+  we've only coded parties in legislative (House of Representatives)
+  elections when populist presidential candidates or incumbents are
+  leading them. There may be a case for using only presidential results in
+  the Philippines.
+title-block-banner: yes
+
 ---
 
-
--   Date range: 1986-2020.
-
--   Elections included:
-
-    -   Legislative: 1987, 1992, 1995, 1998, 2001, 2004, 2007, 2010,
-        2013, 2016, 2019.
-
-    -   Presidential: 1986, 1992, 1998, 2004, 2010, 2016.
-
-The Philippines resumed open democratic elections after the fall of the
-Marcos regime in 1986. Populism since that time has been most visible in
-the styles of several presidential candidates. Parties, however, are
-more challenging. Most studies suggest that parties in the Philippines
-are weak and decentralised, relying on patronage, local brokers, and
-machine politics to gain votes rather than centrally defined ideologies
-or messages (see Webb 2023; Kusaka 2017a, 53). It is a frequent practice
-for legislators to switch to the parties of victorious presidential
-candidates after they win, or for local leaders to back presidential
-candidates from other parties, both of which happened with Rodrigo
-Duterte's election in 2016 (Cook and Salazar 2016, 11; Thompson 2016a,
-52). Hence, while we've coded many presidential candidates here, but
-we've only coded parties in legislative (House of Representatives)
-elections when populist presidential candidates or incumbents are
-leading them. There may be a case for using only presidential results in
-the Philippines.
+# Case notes
 
 ## Miriam Defensor Santiago
 
@@ -57,19 +53,25 @@ officials" (Fontaine 1992, 178). Numerous other sources have also noted
 the "acerbic" or "ruthless" tone of her discourse (Thompson 2010a, 124;
 Pinches 1993, 94), and that she used insults against other politicians
 to build support among people tired of the political system (see Landé
-1996, 16). While we could not find many specific quotes form Santiago
+1996, 16). While we could not find many specific quotes from Santiago
 that flesh out the specifics of this anti-politician narrative, this
 secondary evidence is sufficient to consider her campaign populist by
 our definition, and to code her 3 for OTH_POLCLASS.
 
 We've not seen any evidence that ethnic groups, immigrants, foreign
 actors, or economic powerbrokers were relevant to Santiago's campaign
-(OTH_ETHNIC, OTH_IMMIGRANTS, OTH_FOREIGN and OTH_FINANCIAL = 1). On the
+(OTH_ETHNIC, OTH_IMMIGRANTS, OTH_FOREIGN and OTH_ECONOMIC = 1). On the
 latter, Törnquist argues that she was friendly towards the business
 elite (Törnquist 1993, 487). She also had some close ties to the
 military (Putzel 1995, 31) (OTH_MILITARY = 1), although she would go
 onto be highly critical of its corruption in later years (Rivera 2005,
 130).
+
+Santiago is somewhat hard to position on the ideological spectrum. Landé
+claims that her programme focused on liberalising trade and building
+low-cost housing (Landé 1996, 17), and Törnquist describes her as
+"neo-liberal" due to her stances against regulation (Törnquist 1993,
+487). Evidence is thin here, but we've coded her CR on LRPOSITION.
 
 As she was a cabinet secretary in the Aquino government, we've coded her
 2 on INSIDER in 1992. Numerous sources stress that she had no
@@ -91,7 +93,7 @@ literature considers to be very thin (Putzel 1995, 38; Timberman 1992,
 
 Joseph "Erap" Estrada was a former movie star who entered politics as
 the mayor of San Juan City in the 1960s. Soon after the fall of the
-Marcos regime he entered the senate - one of the few pro-Marcos
+Marcos regime he entered the senate -- one of the few pro-Marcos
 candidates to win after the People Power movement. He formed the Force
 of the Filipino Masses (*Pwersa ng Masang Pilipino*, PMP) and ran
 successfully for the Vice Presidency (which is elected independently of
@@ -150,7 +152,7 @@ opposed him because he opposed their plan to increase water prices in
 Manilla. There is a case for Estrada to be left off the dataset in 1998,
 but we've decided to include him with OTH_POLCLASS the only variable
 above 1 (= 2) for that election. By the time he came back in 2010, we've
-elevated his OTH_FINANCIAL to 2 and OTH_POLCLASS to 3 given his more
+elevated his OTH_ECONOMIC to 2 and OTH_POLCLASS to 3 given his more
 specific accusations of elite conspiracy against him (and by extension,
 the people), however more specific evidence of his anti-elite claims
 from both periods would be useful to confirm this. Some literature
@@ -160,7 +162,7 @@ election campaigns to affect the OTH_FOREIGN variable (= 1). Estrada's
 initial campaign targeted the gap between the wealthy and the poor
 (Montinola 1999, 127), but we haven't seen evidence that it targeted the
 rich as elite "others" to the ordinary people. The above evidence
-suggest that this changed by 2010, hence we've increased OTH_FINANCIAL
+suggest that this changed by 2010, hence we've increased OTH_ECONOMIC
 from 1 to 2 in 2010. We've seen no evidence that Estrada considered the
 military, ethnic others, or immigrants in his campaigning discourse
 (OTH_MILITARY, OTH_ETHNIC, OTH_IMMIGRANT all = 1).
@@ -187,7 +189,7 @@ as president.
 
 ## Fernando Poe Jr.
 
-Fernando Poe Jr. (sometimes called "FPJ") is an actor and close friend
+Fernando Poe Jr. (sometimes called "FPJ") was an actor and close friend
 of Joseph Estrada, who also had a history playing outlaw hero characters
 in films (Webb and Curato 2019, 57). When Estrada was banned from
 running in the 2004 election, he "anointed" Poe to stand in his place
@@ -244,24 +246,24 @@ somebody from the masses took the lead." Given the thinness of this
 evidence and the fact that Villar was a strong Arroyo ally, we've coded
 him 2 on OTH_POLCLASS, but this could be revisited.
 
-The sources that we've seen do not provide any reason to code above 1 on
-OTH_FINANCIAL, OTH_FOREIGN, OTH_ETHNIC, OTH_IMMIGRANTS, or OTH_MILITARY.
-Given his position as an ally of Arroyo while he was President of the
-Senate, we've coded him 2 on INSIDER. Although he campaigned through the
-well-established Nacionalista party (one of the country's oldest
-parties), source suggest he rebuilt that party around himself in the
-years before his 2010 campaign (Teehankee 2020, 114) (Thompson 2010a,
-150), and coupled with his persona-focused narrative we've coded him 2
-on CHARISMA. We have not seen much evidence of his ideology, but given
-that the Nacioalista party is generally considered a right of centre,
-we've coded him and it as CR on LRPOSITION. We've also seen no reason to
-think that his campaign violated established liberal democratic norms,
-and Thompson point out that he accepted defeat after the election
-(Thompson 2010c, 155) (LIBDEMNORMS = 1).
+The sources that we have seen do not provide any reason to code above 1
+on OTH_ECONOMIC, OTH_FOREIGN, OTH_ETHNIC, OTH_IMMIGRANTS, or
+OTH_MILITARY. Given his position as an ally of Arroyo while he was
+President of the Senate, we've coded him 2 on INSIDER. Although he
+campaigned through the well-established Nacionalista party (one of the
+country's oldest parties), source suggest he rebuilt that party around
+himself in the years before his 2010 campaign (Teehankee 2020, 114)
+(Thompson 2010a, 150), and coupled with his persona-focused narrative
+we've coded him 2 on CHARISMA. We have not seen much evidence of his
+ideology, but given that the Nacioalista party is generally considered
+right of centre, we've coded him and it as CR on LRPOSITION. We've also
+seen no reason to think that his campaign violated established liberal
+democratic norms, and Thompson point out that he accepted defeat after
+the election (Thompson 2010c, 155) (LIBDEMNORMS = 1).
 
 ## Rodrigo Duterte
 
-Rodrigo Duterte was the long serving mayor of southern city of Davao
+Rodrigo Duterte was the long-serving mayor of southern city of Davao
 when he ran for president in the 2016 election on the PDP-Laban ticket.
 The core theme of Duterte's campaign was his willingness to use
 extraordinary violence to counter the nation's supposed drugs crisis --
@@ -321,14 +323,14 @@ power and money" (Dulay, Hicken, and Holmes 2022, 534--35). There may be
 a case to code Duterte 2 on OTH_POLCLASS, however owing to the above
 evidence we've coded him 3.
 
-Duterte's OTH_FINANCIAL stance is difficult because although he made
+Duterte's OTH_ECONOMIC stance is difficult because although he made
 statements against the "oligarchy" (Mendoza and Jaminola 2020; Webb and
 Curato 2019, 63; De Chavez and Pacheco 2020, 271), it seems that this
 term referred more to moneyed political elites and dynasties than
 economic others as a category *per se*. Other sources have noted that
 his rhetoric and supporter base transcended class division in a way that
 previous presidents had not done (Kusaka 2017a, 64; Arugay 2017, 286).
-We've coded him 1 on OTH_FINANCIAL, however this could be revisited.
+We've coded him 1 on OTH_ECONOMIC, however this could be revisited.
 
 There was a strong "anti-colonial nationalism" in Duterte's 2016
 discourse (Thompson 2016a, 53), especially targeting the United States
@@ -361,17 +363,18 @@ statements against ethnic others may justify increasing this. We've also
 seen no evidence to code above 1 for OTH_IMMIGRANTS, or for
 OTH_MILITARY.
 
-Duterte's campaign is difficult to place on a left right spectrum. He
+Duterte's campaign is difficult to place on a left-right spectrum. He
 identified as a socialist (Curato 2017, 151) and maintained close ties
 with the communist movement (Heydarian 2017, 8), although this may have
 more to do with the Philippine left's history of opposition to American
 influence than economic ideology (Thompson 2016a, 53). His actual
 economic policy has generally been characterised as liberal (Capuno
 2020, 262) or neoliberal (Teehankee 2016, 85), and along with his clear
-nationalism this has left most to place him on the right (see Thompson
-2016a, 51). We agree and have coded him R on LRPOSITION. Despite being a
-member of a political dynasty in Mindanao (Heydarian 2017, 33), he never
-served in any position in national government (INSIDER = 1).
+nationalism this has left most scholars to place him on the right (see
+Thompson 2016a, 51). We agree and have coded him R on LRPOSITION.
+Despite being a member of a political dynasty in Mindanao (Heydarian
+2017, 33), he never served in any position in national government
+(INSIDER = 1).
 
 The literature very clearly emphasises the importance of Duterte's
 personality and charisma in his campaign and appeal (Kenny and Holmes
@@ -415,7 +418,7 @@ populist in dismissing all attacks against him as proof of the elitist
 government's anti-poor agenda. 'They don't want us poor to come
 together,' he said in his advertisement" (Curato 2017, 144). He also
 "blamed 'the rich' for attacking a born-and-bred representative of the
-Filipino poor**"** in his response (Sidel 2015, 225)" (OTH_FINANCIAL =
+Filipino poor**"** in his response (Sidel 2015, 225)" (OTH_ECONOMIC =
 3). More data would be useful here, but we find that this is just enough
 to meet the minimum definition of populism, and to code Binay 3 on
 OTH_POLCLASS.
@@ -428,7 +431,7 @@ party seems to have been created around his 2016 candidacy (Teehankee
 2022, 17) (CHARISMA = 3). We have coded him L on LRPOSITION (Thompson
 2020) but this could be corroborated with more evidence.
 
-**Not included**
+## Not included
 
 **Grace Poe**, adopted daughter of former presidential candidate and
 movie star Fernando Poe Jr., ran for president in 2016, where her
@@ -639,7 +642,11 @@ Webb, Adele. 2017. 'Why Are the Middle Class Misbehaving?: Exploring
 Democratic Ambivalence and Authoritarian Nostalgia'. *Philippine
 Sociological Review*, 77--102.
 
+---------. 2023. 'Going beyond the Eurocentrism of Populism Research:
+Lessons from the Philippines'. *The Loop: ECPR's Political Science Blog*
+(blog). 22 June 2023.
+https://theloop.ecpr.eu/problematising-the-eurocentrism-of-populism-research-challenges-from-the-philippines/.
+
 Webb, Adele, and Nicole Curato. 2019. 'Populism in the Philippines'. In
 *Populism around the World: A Comparative Perspective*, 49--65.
 Springer.
-

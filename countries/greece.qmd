@@ -1,22 +1,18 @@
 ---
 title: Greece
+subtitle: |-
+  Date range: 1980-2020**\
+  **
+title-block-banner: yes
+
 ---
 
-
--   Date range: 1980-2020
-
--   Elections included:
-
-    -   Legislative: 1981, 1985, 1989a, 1989b, 1990, 1993, 1996, 2000,
-        2004, 2007, 2009, 2012a, 2012b, 2015a, 2015b, 2019.
-
-**\
-**
+# Case notes
 
 ## Panhellenic Socialist Movement (PASOK)
 
 The Panhellenic Socialist Movement (*Panhellinion Socialistiko Kinema*,
-PASOK) is a left-wing party founded by Andreas Papandreou after the end
+PASOK) was a left-wing party founded by Andreas Papandreou after the end
 of the Greek military Junta in 1974. After rapid growth in the late
 1970s the party formed government after winning 48.2% in the 1981
 elections and was then re-elected with 45.8% in 1985. PASOK has been one
@@ -50,7 +46,7 @@ represented as an "oligopoly" consisting of local and foreign forces
 (Lyrintzis 1984, 668; Mavrogordatos 1984, 160; Katsambekis and
 Stavrakakis 2017, 396), including the former Junta and the political
 "right" -- byword for the party's political enemies (Pappas and
-Aslanidis 2015) (OTH_POLCLASS = 3) (OTH_FINANCIAL = 3).
+Aslanidis 2015) (OTH_POLCLASS = 3) (OTH_ECONOMIC = 3).
 
 PASOK made the "foreign factor" -- imperialism and foreign capital --
 the enemy (Lyrintzis 1984, 111; Moschonas 2001, 12; Markou 2017, 65--66)
@@ -60,7 +56,7 @@ This rhetoric was positioned in a well-developed narrative relating to
 the underdevelopment of peripheral and post-colonial states in the world
 economy (Pappas and Aslanidis 2015, 183). It was initially opposed to
 membership in the EEC, although this softened in its first term in
-office and by 1985 it was pro accession (Moschonas 2001, 12). These
+office and by 1985 it was pro-accession (Moschonas 2001, 12). These
 sentiments gave the party's discourse a strong degree of nationalism
 (OTH_FOREIGN =3). There is no evidence of anything that would register
 on the OTH_ETHNIC, OTH_IMMIGRANTS and OTH_MILITARY variables (all = 1).
@@ -77,28 +73,31 @@ We have coded it 3 on INSIDER after the 1981 election, before which it
 was a 2, as Papandreou had served in senior positions in the government
 in the 1960s).
 
-According to Pappas and Aslanidis, (Pappas and Aslanidis 2015, 185)
-"Successive PASOK governments developed an ever-growing disrespect for
-political liberalism and its institutions, which, as the current logic
-went, could be compromised, impaired, or otherwise twisted as long as it
-was in favour of realising popular supremacy. Following that logic,
-institution building ceased to be a priority, and an understanding of
-institutions as means of achieving the gratification of the people was
-put firmly in place." Although we've seen no evidence that this reached
-the level of a critical threat to democracy itself, we've coded the
-party 2 on LIBDEMNORMS.
+According to Pappas and Aslanidis,
+
+> Successive PASOK governments developed an ever-growing disrespect for
+> political liberalism and its institutions, which, as the current logic
+> went, could be compromised, impaired, or otherwise twisted as long as
+> it was in favour of realising popular supremacy. Following that logic,
+> institution building ceased to be a priority, and an understanding of
+> institutions as means of achieving the gratification of the people was
+> put firmly in place. (Pappas and Aslanidis 2015, 185)
+
+Although we've seen no evidence that this reached the level of a
+critical threat to democracy itself, we've coded the party 2 on
+LIBDEMNORMS.
 
 ## The Popular Orthodox Rally (LAOS)
 
 The Popular Orthodox Rally (*Laikos Orthodoxos Synagermos*, LAOS) was an
 ultra-nationalist party founded in 2000 by George Karatzaferis, a
-renegade journalist former member of the centre-right New Democracy (ND)
-party. It launched amid a controversy relating to the PASOK government's
-removal of religious affiliation from Greek national identity cards, a
-move strongly opposed by the Orthodox Church. The party only breached
-the 5% mark in the 2009 election, before collapsing totally after its
-support for the unpopular bailout in 2011, after which most of its key
-politicians were absorbed into ND.
+renegade journalist and former member of the centre-right New Democracy
+(ND) party. It launched amid a controversy relating to the PASOK
+government's removal of religious affiliation from Greek national
+identity cards, a move strongly opposed by the Orthodox Church. The
+party only breached the 5% mark in the 2009 election, before collapsing
+totally after its support for the unpopular bailout in 2011, after which
+most of its key politicians were absorbed into ND.
 
 LAOS engaged in anti-establishment politics, accusing the "rotten
 establishment" of both PASOK and ND (the two dominant parties at the
@@ -117,7 +116,7 @@ people's sovereignty, opposition to foreign influence in a number of
 forms was particularly relevant to LAOS. The party suggested that PASOK
 and ND were overly-deferential to the US (Ellinas, 2012:130), and was
 uncompromisingly critical of other traditional foreign enemies of Greece
-such as Turkey and F.Y.R Macedonia (Ellinas 2012, 130; Bistis 2013, 38)
+such as Turkey and North Macedonia (Ellinas 2012, 130; Bistis 2013, 38)
 (OTH_FOREIGN = 3).
 
 LAOS also constructed "the people" and their "others" in explicitly
@@ -151,10 +150,10 @@ populist attacks on globalization, foreign chains and commercial banks"
 party left-wing on social issues, and used his first speech in
 Parliament to declare that "Bankers are thieves, Mr Prime Minister, and
 you must send the attorney in to check on them" (cited in Ellinas 2012,
-131) (OTH_FINANCIAL = 3).
+131) (OTH_ECONOMIC = 3).
 
 There can be little doubt that the personal charisma of Karatzaferis was
-essential to the party's identity, and that it was build on a generally
+essential to the party's identity, and that it was built on a generally
 "personalistic structure" (Dinas 2008, 605) (CHARISMA = 3), and although
 he was an ND MP before founding the party, this level of power should
 not escalate the party to a 2 on INSIDER (= 1). The party is difficult
@@ -189,19 +188,19 @@ Stavrakakis 2017, 401; see also Aslanidis and Rovira Kaltwasser 2016,
 
 In typically nationalist terms, ANEL's most important "others" were
 foreign entities. It alleged that there was a "New World Order"
-controlling Greece, and that national politicians are complicit wilfully
-surrendering national sovereignty to it (Pappas and Aslanidis 2015,
-192). Accordingly, the party suggested that the financial crisis was
-artificially induced by foreign actors (with PM Papandreou acting as a
-willing agent) and that the bailout was a way for those actors to steal
-Greece's wealth (Pappas and Aslanidis 2015, 192). Anti-German sentiment
-was particularly strong, as ANEL accused Chancellor Merkel of imposing a
-"4^th^ Reich" on Greece via its austerity demands (Papathanassopoulos,
-Giannouli, and Andreadis 2016, 200). Kammenos also engaged in
-anti-American rhetoric, while stressing the "Orthodox bonds" Greece had
-with Russia (Petsinis 2016, 286, 288). In the context of this foreign
-assault, ANEL claims to fight for national sovereignty (Fielitz 2018, 2)
-(OTH_FOREIGN = 3).
+controlling Greece, and that national politicians are complicit
+inwilfully surrendering national sovereignty to it (Pappas and Aslanidis
+2015, 192). Accordingly, the party suggested that the financial crisis
+was artificially induced by foreign actors (with PM Papandreou acting as
+a willing agent) and that the bailout was a way for those actors to
+steal Greece's wealth (Pappas and Aslanidis 2015, 192). Anti-German
+sentiment was particularly strong, as ANEL accused Chancellor Merkel of
+imposing a "4^th^ Reich" on Greece via its austerity demands
+(Papathanassopoulos, Giannouli, and Andreadis 2016, 200). Kammenos also
+engaged in anti-American rhetoric, while stressing the "Orthodox bonds"
+Greece had with Russia (Petsinis 2016, 286, 288). In the context of this
+foreign assault, ANEL claims to fight for national sovereignty (Fielitz
+2018, 2) (OTH_FOREIGN = 3).
 
 ANEL's narrative of "the people" is constructed in mainly ethnic terms
 (Papathanassopoulos, Giannouli, and Andreadis 2016), and the party has
@@ -221,7 +220,7 @@ far/extreme/radical right (Lazaridis and Tsagkroni 2016, 210; Aslanidis
 and Rovira Kaltwasser 2016; Fielitz 2018). It is likely the case that
 the former designation is a product of implicit comparisons with the
 neo-Nazi Golden Dawn, and that by global or regional standards it is a
-typically far right party (LRPOSITION = FR). The party's OTH_FINANCIAL
+typically far right party (LRPOSITION = FR). The party's OTH_ECONOMIC
 rhetoric in the context of the financial crisis was clearly strong, and
 even though this was tied up with its OTH_FOREIGN discourse, its
 references to "loan sharks who have enslaved the nation" (cited in
@@ -249,35 +248,35 @@ two decades flying under the radar it achieved a breakthrough in the
 2010 local elections, when Michaloliokos won a seat on the Athens city
 council. Following this GD's national vote spiked at 6.92% in the 2013
 elections -- conducted in the heat of the economic crisis -- and
-remained constant through the 2015 votes (6.3%, 7.0%) before collapsing
-to below 3% in 2019. Due to its extremism some scholars do not consider
-the party populist, particularly those who see populism and fascism as
-exclusive categories (Katsambekis and Stavrakakis 2017, 404;
+remained constant through the two 2015 elections (6.3%, 7.0%) before
+collapsing to below 3% in 2019. Due to its extremism some scholars do
+not consider the party populist, particularly those who see populism and
+fascism as exclusive categories (Katsambekis and Stavrakakis 2017, 404;
 Stavrakakis, Andreadis, and Katsambekis 2017, 450).
 
 GD's political discourse is highly critical of the political
-"establishment" (Pappas and Aslanidis 2015, 202), and it frequently
-called "anti-system" (Roushas 2014, 5; Ellinas 2015, 4). It considers
-non GD politicians "thieves" functioning in only a "pseudo democracy" --
-prosecutions of GD members are attributed to the "conspiracy" of these
-established forces (cited in Ellinas 2015, 4; see also Koronaiou and
-Sakellariou 2013, 337) (OTH_POLCLASS = 3). It is explicitly racist,
-calling for a state which is homogenous on the lines of "race, blood and
-ancestry" (Georgiadou 2013, 88; Pappas and Aslanidis 2015, 200; Ellinas
-2013, 549). Party leadership has repeatedly disputed the "Greekness" of
-citizens who are not ethnically Greek (Ellinas 2015, 5), and the party
-refers to ethnically Greek citizens as "the people" (Kyriazi 2016;
-Stavrakakis, Andreadis, and Katsambekis 2017, 450). It is also deeply
-anti-Semitic, attributing the ills of both capitalism and communism to
-the forces of international "Zionism" (Koronaiou and Sakellariou 2013,
-336) (OTH_ETHNIC = 3). Relatedly, GD is sharply hostile to immigrants,
-associating them with crime and unemployment and advocating for their
-forced expulsion from the country (Pappas and Aslanidis 2015, 200;
-Bistis 2013, 47; Roushas 2014; Ellinas 2015, 4). It also accused the
-"parties of the establishment of the so-called left" of pursuing high
-rates of immigration in order to achieve a "demographic alteration" of
-the Greek nation (Ellinas 2013, 549), and cultural "genocide" (Kyriazi
-2016, 2532) (OTH_IMMIGRANTS = 3).
+"establishment" (Pappas and Aslanidis 2015, 202), and it has frequently
+been called "anti-system" (Roushas 2014, 5; Ellinas 2015, 4). It
+considers non politicians "thieves" functioning in only a "pseudo
+democracy", with prosecutions of GD members attributed to the
+"conspiracy" of these established forces (cited in Ellinas 2015, 4; see
+also Koronaiou and Sakellariou 2013, 337) (OTH_POLCLASS = 3). It is
+explicitly racist, calling for a state which is homogenous on the lines
+of "race, blood and ancestry" (Georgiadou 2013, 88; Pappas and Aslanidis
+2015, 200; Ellinas 2013, 549). Party leadership has repeatedly disputed
+the "Greekness" of citizens who are not ethnically Greek (Ellinas 2015,
+5), and the party refers to ethnically Greek citizens as "the people"
+(Kyriazi 2016; Stavrakakis, Andreadis, and Katsambekis 2017, 450). It is
+also deeply anti-Semitic, attributing the ills of both capitalism and
+communism to the forces of international "Zionism" (Koronaiou and
+Sakellariou 2013, 336) (OTH_ETHNIC = 3). Relatedly, GD is sharply
+hostile to immigrants, associating them with crime and unemployment and
+advocating for their forced expulsion from the country (Pappas and
+Aslanidis 2015, 200; Bistis 2013, 47; Roushas 2014; Ellinas 2015, 4). It
+also accused the "parties of the establishment of the so-called left" of
+pursuing high rates of immigration in order to achieve a "demographic
+alteration" of the Greek nation (Ellinas 2013, 549), and cultural
+"genocide" (Kyriazi 2016, 2532) (OTH_IMMIGRANTS = 3).
 
 GD has also adopted a strong degree of "anti-plutocratic" discourse
 against multinational business and neo-liberal capitalism (Ellinas 2013,
@@ -285,16 +284,16 @@ against multinational business and neo-liberal capitalism (Ellinas 2013,
 335). Some scholars have suggested that the party's food drives to
 unemployed (and ethnically Greek) citizens developed a kind of "Robin
 Hood" image (Bistis 2013, 49; see also Koronaiou and Sakellariou 2013)
-(OTH_FINANCIAL = 3). GD accuses the establishment of being controlled by
+(OTH_ECONOMIC = 3). GD accuses the establishment of being controlled by
 foreign forces at the expense of national sovereignty (Ellinas 2013,
 551), and refers to the 2010 memorandum signed between the government
-and foreign debt holds the "ethnocide Memorandum" (Lazaridis and
+and foreign debt holds the "ethnocide memorandum" (Lazaridis and
 Tsagkroni 2016, 213). It also makes irredentist claims against Albania,
 and is sharply opposed to accepting the name "Macdedonia" in any form in
 North Macedonia (Ellinas 2013, 551). It is also hostile to the EU and
 opposed to "American Zionism" (Ellinas 2015, 4) (OTH_FOREIGN = 3).
 
-Despite its somewhat left wing economic policies (such as higher taxes
+Despite its somewhat left-wing economic policies (such as higher taxes
 on businesses and opposition to privatisations (see Roushas 2014,
 19--20), GD is universally considered radical/extreme right in the
 literature (LRPOSITION = FR). According to Ellinas (Ellinas 2013, 552),
@@ -335,7 +334,7 @@ to 31.5%, and it lost government. Given that SYRIZA did a significant
 about-turn by accepting the bailout conditions in 2015, there would seem
 to be a strong case that the party might have dropped or changed its
 populist rhetoric toward the 2019 elections. The available evidence
-suggests however that Tsipras' discourse and the people's "enemies"
+suggests however that Tsipras' discourse on the people's "enemies"
 remained unchanged (Markou 2017, 6).
 
 In the context of the Greek financial crisis, SYRYZA's populist
@@ -345,12 +344,12 @@ actors into one "other" (Papathanassopoulos, Giannouli, and Andreadis
 parties including PASOK, ND, LAOS and DIMAR (Stavrakakis and Katsambekis
 2014, 129--30; Markou 2017, 62) and the *diaploki --* the network of
 political and business elites (Pappas and Aslanidis 2015, 194). In 2012
-the party campaigned in typically populist Manichean terms against "an
-almighty authority of the triangle of sin, which has the corrupt
-bipartisan political system on its top corner, the bankers on the other,
-and the interweaving media on the third", declaring that "It's either
-Them or Us" (cited in Pappas and Aslanidis 2015, 194; see also Tsakatika
-2016, 528; Markou 2017, 62) (OTH_POLCLASS = 3).
+the party campaigned in Manichean terms against "an almighty authority
+of the triangle of sin, which has the corrupt bipartisan political
+system on its top corner, the bankers on the other, and the interweaving
+media on the third", declaring that "It's either Them or Us" (cited in
+Pappas and Aslanidis 2015, 194; see also Tsakatika 2016, 528; Markou
+2017, 62) (OTH_POLCLASS = 3).
 
 SYRIZA's version of "the people" is put in material rather than ethnic
 terms, and one of their enemies are the "oligarchs" (Pappas and
@@ -362,10 +361,10 @@ context the Memorandum was seen as a way for "oligarchs" to "increase
 their wealth and privileges" (Pappas and Aslanidis 2015, 194), and the
 party portrayed the political sphere as divided between pro-memorandum
 and anti-memorandum forces that aligned with the elite and the people
-respectively (Katsambekis 2015, 156) (OTH_FINANCIAL = 3). Tsipras
+respectively (Katsambekis 2015, 156) (OTH_ECONOMIC = 3). Tsipras
 declared himself the successor of Papandreou's original PASOK, whose
-principles the current PASOK leadership had abandoned (Pappas and
-Aslanidis 2015, 194).
+principles the current PASOK leadership had, in his view, abandoned
+(Pappas and Aslanidis 2015, 194).
 
 The Troika of European debt holders (The European Commission, the
 European Central Bank and the International Monetary Fund) were a
@@ -398,9 +397,9 @@ according to Tsakatika, Syriza's campaigns increasingly focused "on his
 person" (Tsakatika 2016, 532), and other scholars have mentioned that
 the leader's personality became increasingly important to its identity
 over time (Pappas 2016; Mudde 2016, 9, 28, 31) (CHARISMA = 1 in 2007-12,
-2 2015-19). As the party was clearly not in power before its 2015
-election victory, it is coded 1 on INSIDER before that election and 3
-after.
+2 2015-19). As neither Tsipras nor the party were in power before their
+2015 election victory, it is coded 1 on INSIDER before that election and
+3 after.
 
 Regarding LIBDEMNORMS, there is little to place the party above 1 in its
 early elections. However several actions that it undertook in government
@@ -422,7 +421,8 @@ that mimicked PASOK in the early 1990s under Miltiades Evert's
 leadership (Pappas and Aslanidis 2015, 181). From the available evidence
 however this appears to have a been a much softer version than that
 practices by Papandreou (Papathanassopoulos, Giannouli, and Andreadis
-2016, 197), and I've made the decision to leave it out of the dataset.
+2016, 197), and we have made the decision to leave it out of the
+dataset.
 
 **References**
 
@@ -576,4 +576,3 @@ Politics* 18 (4): 523--42. https://doi.org/10.1080/13608746.2013.779784.
 Verney, Susannah. 2004. *The End of Socialist Hegemony: Europe and the
 Greek Parliamentary Election of 7th March 2004*. Sussex European
 Institute Brighton.
-

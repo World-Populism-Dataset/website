@@ -1,18 +1,13 @@
 ---
 title: Portugal
+subtitle: 'Date range: 1980-2020'
+title-block-banner: yes
+
 ---
 
+# Case notes
 
--   Date range:
-
--   Elections included:
-
-    -   Legislative: 1980, 1983, 1985, 1987, 1991, 1995, 1999, 2002,
-        2005, 2009, 2011, 2015, 2019.
-
-    -   Presidential: 1980, 1986, 1991, 1996, 2001, 2011, 2016.
-
-**Democratic and Social Centre -- People's Party**
+## Democratic and Social Centre -- People's Party
 
 The Democratic and Social Centre (*Centro Democrático e Social*, CDS)
 was originally founded as a centrist party in the 1970s, fluctuating
@@ -24,7 +19,7 @@ Monteiro moved the party toward the ideological right and embraced a
 populist discourse. This precipitated a turnaround of party fortunes,
 with its vote share rising from 4.4 to 9.1 between the 1991 and 1995
 elections. There seems to be little evidence that the party was populist
-before or after Monteiro's leadership - Lisi & Borghetto call it
+before or after Monteiro's leadership -- Lisi & Borghetto call it
 "mainstream" in 2018 (Lisi and Borghetto 2018, 407). Monteiro went on to
 found another party -- the New Democracy Party -- in 2003, but this did
 not achieve much success.
@@ -48,7 +43,7 @@ strong Euroscepticism (Corkill 1996, 406; Costa Lobo 2003, 109; Costa
 Lobo and Magalhães 2011, 90) on nationalist, pro-sovereignty grounds
 (OTH_FOREIGN = 2), and anti-immigrant policies (Salgado and Zúquete
 2016, 239) (OTH_IMMIGRANT = 2). We have not found evidence to suggest
-OTH_ETHNIC or OTH_FINANCIAL variables (= 1), but further research should
+OTH_ETHNIC or OTH_ECONOMIC variables (= 1), but further research should
 confirm this.
 
 The party was in coalition government in the 1970s, but given that
@@ -62,7 +57,7 @@ and that drug addicts be "interned" in treatment clinics (The Economist
 Intelligence Unit 1997, 15), for which we have coded him 2 on
 LIBDEMNORMS.
 
-**Left Bloc**
+## Left Bloc
 
 The Left Bloc (*Bloco de Esquerda*, BE) is the product of a 1999 merger
 of two small far left parties -- the Revolutionary Socialist Party and
@@ -96,15 +91,17 @@ in 2003 (Lisi 2009, 136) -- this should be further investigated.
 
 In keeping with its leftist ideology, the party is hostile to business
 and financial elites (Soeiro 2009, 180; Lisi and Borghetto 2018, 420)
-(OTH_FINANCIAL = 3). The party also maintains a generally Eurosceptic
+(OTH_ECONOMIC = 3). The party also maintains a generally Eurosceptic
 stance (Gómez-Reino Cachafeiro and Plaza-Colodro 2018, 351). In its 2005
 manifesto, it claimed that "In today's Europe, where Berlin's power is
 the only rule, the defence of democracy is the people's weapon against
 blackmail" (Lisi and Borghetto 2018, 417) (OTH_FOREIGN = 2). Further
 research should discuss whether this rating should remain constant
 throughout the party's period of inclusion in the dataset. We have seen
-no evidence for any coding above 1 on either LIBDEMNORMS or CHARISMA,
-and the party has never been in government (INSIDER = 1).
+no evidence to code above 1 on OTH_ETHNIC, OTH_IMMIGRANTS, or
+OTH_MILITARY. We have also seen no evidence for any coding above 1 on
+either LIBDEMNORMS or CHARISMA, and the party has never been in
+government (INSIDER = 1).
 
 **References**
 
@@ -164,4 +161,3 @@ The Economist Intelligence Unit. 1997. 'Country Report: Portugal'. 2nd
 Quarter. London.
 
 ---------. 1998. 'Country Report: Portugal'. 1st Quarter. London.
-

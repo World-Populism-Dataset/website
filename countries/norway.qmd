@@ -1,35 +1,32 @@
 ---
 title: Norway
+subtitle: 'Date range: 1980-2020.'
+title-block-banner: yes
+
 ---
 
-
--   Date range: 1980-2020.
-
--   Elections included:
-
-    -   Legislative: 1981, 1985, 1989, 1993, 1997, 2001, 2005, 2009,
-        2013, 2017.
+# Case notes
 
 ## Progress Party
 
 The Progress Party (*Fremskrittspartiet*, FrP) is the successor to
-Anders Lange's Anders Lange's Party for a Strong Reduction in Taxes,
-Duties and Public Intervention founded by Anders Lange. in the 1970s.
-Following Lange's death the party was renamed the Progress Party and led
-by Carl Hagen for 28 years until 2006. The party was initially a
-neo-liberal anti-tax party, but came to focus more on immigration in the
-1980s. Progress's populism has always been seen as somewhat questionable
-by regional scholars (Jupskas 2013, 205). In particular, the Progress
-Party invites problematic comparison with its Danish namesake, in part
-because the two parties have had a very similar chronology and
-ideological history in their early years. Unlike Danish Progress, under
-Hagen's leadership the Progress Party gradually increased its vote share
-throughout the 1980s and 1990s, and has become a major party in Norway
-and a member of government since the 2013 elections. After Hagen stepped
-down from its leadership in favour of Siv Jensen in 2006 Progress became
-a much more staid part of the party system -- a blander and less
-confrontational liberal party (Bjerkem 2016, 237) -- and we don't
-consider it populist by our definition from this point.
+Anders Lange's Party for a Strong Reduction in Taxes, Duties and Public
+Intervention founded by Anders Lange in the 1970s. Following Lange's
+death the party was renamed the Progress Party and led by Carl Hagen for
+28 years until 2006. The party was initially a neo-liberal anti-tax
+party, but came to focus more on immigration in the 1980s. Progress's
+populism has always been seen as somewhat questionable by regional
+scholars (Jupskas 2013, 205). In particular, the Progress Party invites
+problematic comparison with its Danish namesake, in part because the two
+parties have had a very similar chronology and ideological history in
+their early years. Unlike Danish Progress, under Hagen's leadership the
+Progress Party gradually increased its vote share throughout the 1980s
+and 1990s, and has become a major party in Norway and a member of
+government since the 2013 elections. After Hagen stepped down from its
+leadership in favour of Siv Jensen in 2006 Progress became a much more
+staid part of the party system -- a blander and less confrontational
+liberal party (Bjerkem 2016, 237) -- and we don't consider it populist
+by our definition from this point.
 
 In its early years Progress was concerned mainly with shrinking the
 state, especially reducing tax rates. Higher rates of immigration in the
@@ -61,13 +58,13 @@ Progress' appeal (Andersen and Bjørklund 1990, 201; Jungar and Jupskås
 2013, 206). The party has been considered equally anti-establishment as
 other right-wing populist parties in the region (Bjerkem 2016, 236).
 However it seems that under Hagen's leadership this was somewhat more
-tempered than other right-wing populist parties, and I have not found
+tempered than other right-wing populist parties, and we have not found
 many anti-establishment statements on par with genuine 3s in this
 category (OTH_POLCLASS = 2). Further research should confirm this.
 Progress is market-friendly (Jupskas 2013, 216), and does not criticise
-economic elites (OTH_FINANCIAL = 1), nor does it have a consistent
+economic elites (OTH_ECONOMIC = 1), nor does it have a consistent
 Eurosceptic stance (the party is actually highly divided on the EU
-question) (OTH_FOREIGN =0).
+question) (OTH_FOREIGN = 1).
 
 Hagen's leadership was evidently important to the party's political
 meaning (Widfeldt 2000, 490), however the fact that there have always
@@ -109,4 +106,3 @@ Studies and the Konrad Adenauer Stiftung.
 Widfeldt, A. 2000. 'Scandinavia: Mixed Success for the Populist Right'.
 *Parliamentary Affairs* 53 (3): 486--500.
 https://doi.org/10.1093/pa/53.3.486.
-
