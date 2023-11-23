@@ -1,0 +1,11 @@
+---
+title: "Case notes"
+subtitle: "Case notes about populism in each country."
+title-block-banner: true
+listing:
+  contents: countries
+  type: table
+  fields: [title]
+  filter-ui: [title]
+  page-size: 100
+---

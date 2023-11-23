@@ -13,7 +13,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - country.qmd
+      - data.qmd
+      - notes.qmd
     right:
       - icon: download
         text: Downloads

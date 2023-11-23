@@ -1,0 +1,1022 @@
+---
+title: "Data"
+subtitle: "Downloads and codebook for the WPD dataset"
+title-block-banner: true
+---
+
+# Overview
+
+TBC
+
+# Downloads
+
+TBC
+
+# Coding definitions and rules
+
+WPD codes parties and candidates (henceforth "parties/candidates") that
+win at least 5% of the vote in national legislative and executive
+elections in 50 countries (henceforth "cases"). By "candidate", we only
+mean candidates in executive elections, not all candidates from parties
+in legislative elections.
+
+WPD only includes parties/candidates that meet a minimum definition of
+populism defined below. Included entries are then coded on variables
+that differentiate qualities and attributes of their populism.
+Parties/candidates are listed for each election type, including multiple
+rounds of presidential elections, and multiple systems of legislative
+elections (e.g. simultaneous proportionate and constituency systems),
+with results from each.
+
+## Populism (minimum definition)
+
+Parties/candidates are only included in the dataset if their discourse
+during the election campaign under analysis meets the our minimum
+definition of populism as a *discourse asserting that political power
+has been monopolised by an elite estranged from ordinary people, and
+that salient grievances of ordinary people can be attributed to the
+self-serving decisions of that elite.*
+
+This definition has two components. First, candidates/parties must claim
+or imply that ordinary people are systematically excluded from political
+power, and that a small group of people - commonly the "elite" or
+similar terms - has monopolised this power.
+
+"Ordinary people" in this definition can take many different forms,
+including ethnic, racial, native, regional, class, generational, or
+other characteristics. It can also be an undefined and residual
+category, in the sense of being all people *other* than the elite.
+Candidates/parties do not need to use terms like "the people" in order
+to infer the existence of this people/elite dichotomy. Nor do they need
+to express any affinity with the cultural traits or values of ordinary
+people.
+
+The "elite" can also take many different forms, including incumbent
+politicians and parties, racial or ethnic groups, businesses, oligarchs,
+media figures or others. Unlike the "people", the "elite" cannot be an
+undefined or residual category to meet our definition: it must be
+explicitly referred to by candidates/parties. This group may be
+collectivised by terms like "the elite", "the establishment" (or bespoke
+alternatives), or evoked by referencing sets of actors or groups who
+have monopolised political power. As implied by the definite article in
+these terms, "the" elite must be considered to be an essentially
+singular actor, if not a totally homogenous one.
+
+Second, populism manifests in an election campaign by the accusation
+that the salient grievances faced by ordinary people are a direct
+consequence of the actions of the elite, which benefits from those
+actions on a zero-sum basis with the people's detriment. Ordinary
+people's suffering must therefore be attributed to some form of
+corruption by the power-weiding elite which has deliberately constructed
+the *status quo* for its own benefit.
+
+Attributing grievances in this way is different to attributing them to
+factors like flawed ideas/ideologies, ignorance, or incompetence on the
+part of the elite (although populists may make these claims as well).
+This is because each of these grievance attributions could plausibly
+exist in an elite which, while powerful, means well for the people, and
+is not essentially corrupt. On the contrary, populist grievance
+attribution makes a moral claim about the actions of the elite,
+asserting that they deliberately serve themselves at the expense of
+ordinary people.
+
+This second component is essential for differentiating between populism
+and non-populist forms of anti-elitism. It is common for non-populist
+candidates/parties to campaign with some form of anti-elitism that fits
+the first component of the minimum definition but not the second. Such
+is the case when politicians accuse opponents of being estranged from
+ordinary people's conditions, hostile to the cultures and behaviours of
+ordinary people, or partial to the company of powerful figures rather
+than ordinary people. While these elements of anti-elitism are common in
+populist discourses too, their presence in campaign discourse is
+insufficient to fulfil our minimum definition of populism unless the
+elite is also accused of deliberately causing the problems affecting
+ordinary people for their own benefit.
+
+This second component, while often mentioned in the populism literature,
+has not yet been included in the minimum definitions of other populism
+datasets.
+
+### Locating populism
+
+As our minimum definition states, WPD considers populism to be a
+discourse. Due to this, we have not considered candidate/parties'
+programmatic policy in either the application of our minimum definition
+of populism, not any of our variables with the exception of LRPOSITION
+(see below). If, for example, a candidate wins office in an election in
+which they employed populist discourse, but then does not actually do
+anything to curb the power of their supposed elite adversaries when they
+are in office, this has no bearing on whether that candidate is in fact
+a populist in prior or subsequent elections in WPD.
+
+This also means that we are not interested in the true underlying
+beliefs of populist candidates/parties that may contradict their
+discourse. If, for example, a presidential candidate campaigns against
+"the elite" in line with our minimum definition, but there is evidence
+to suggest that they actually have deep respect and reverence for
+political elites (from sources like interviews or autobiographies), then
+we code according to the former data, not the latter.
+
+Similarly, we make no moral or judgements about the potential merit of
+any instance of populist discourse in any coding decision. That is,
+whether we happen to believe that the populist interpretation (as
+defined above) is an accurate and therefore "justified" representation
+of the polity under observation is irrelevant to our decision to include
+or exclude it from the dataset. "Populism" is therefore a morally
+neutral term in the dataset.
+
+Generally, we have assumed that populist characteristics of
+candidates/parties' discourse are carried over from one election period
+to another, such that we do not require fresh evidence for each election
+period. In cases where we do find evidence that candidate/parties have
+changed over time we factor this into our coding, and as a result there
+are many candidates/parties that enter in and out of the dataset over
+time.
+
+### Difficult cases 
+
+There are many types of discourse or political scenario that are
+questionable inclusions within this minimum definition. We have
+developed the following rules to clarify our application of it.
+
+*Non-populist "outsiders"*. Many candidates/parties campaign as
+"outsiders" to existing systems, often as "third parties" outside of
+two-party systems, and in doing so take on a kind of holistic
+anti-status quo discourse. Ross Perot in the United States and Emmanuel
+Macron in France are good examples of this. While these are occasionally
+classified as populist because of their catch-all criticisms of the
+political system, we do not code them as populists unless their
+opposition to the system meets the second element of the minimum
+definition (that the salient grievances of ordinary people can be
+attributed to the self-serving decisions of that elite) - which neither
+Perot nor Macron do.
+
+*Incumbents*. When populist candidates/parties win elections and form
+government, they can still engage in populist discourse to discuss
+"elites" as a powerbloc even though they are in power. Often this refers
+to powerbrokers in the state bureaucracy, judicial system, media or
+business class rather than incumbent politicians. It can also evoke a
+kind of phantom establishment or elite that is present in the polity yet
+temporarily out of office. Nicolás Maduro in Venezuela is a good example
+of this. Because of this, we don't exclude incumbent candidates/parties
+due to the fact that they are in power.
+
+*Post-authoritarian parties/candidates.* Many cases coded in WPD have
+emerged from periods of authoritarian rule. When parties/candidates in
+elections immediately following these transitions campaign with
+discourse that meets the above definition, but the targets of their
+anti-elite rhetoric are the former regime rather than their contemporary
+opponents, then we have generally not considered them as populist. Lech
+Walesa in Poland or Corazon Aquino in the Philippines are good examples
+of this.
+
+*Satirical candidates*. In a small number of cases, candidates/parties
+campaign as "satirical" candidates who deliberately mock and ridicule
+the elite whilst not really claiming to be genuine alternatives. As
+these are often considered "protest" parties, we have coded them as
+populist when their act has an underlying message of corruption similar
+to our minimum definition. Estonia's Independent Royalists are a good
+example of this.
+
+*Communist parties*. As communist parties always critique the
+differential between powerful and powerless classes in political
+systems, there is an argument that this meets our minimum definition of
+populism. However, we find that communist (more specifically Marxist)
+discourse considers the role of elites to be more epiphenomenal to the
+overall system (capitalism) rather than as true agents in control of it,
+which is different to the first element of our minimum definition. For
+this reason we have generally not coded communist parties as populist,
+other than when their leaders have explicitly engaged in discourse that
+meets our minimum definition.
+
+*Anti-corruption politicians.* While the second component of our minimum
+definition requires candidates/parties to allege some form of corruption
+among their opponents, this does not mean that any anti-corruption
+discourse qualifies as populist. Anti-corruption discourse is only
+populist by our definition when the elite *writ large* are accused of
+being essentially and systematically corrupt - not just that there are
+significant cases of corruption in the *status quo*. In such cases,
+parties/candidates would be meeting the second element of the minimum
+definition (corrupt motives as a cause of ordinary people's problems)
+but not the first (power monopolised by a unitary elite).
+
+**Variables**
+
+When parties fit the above minimum definition, WPD codes them on a
+number of variables relating to core features of their populism and
+other attributes.
+
+### "Others" and enemies of the ordinary people
+
+The first set of variables relate to who the main "others" or "elites"
+are relative to the party/candidate's discourse. Some form of this
+rhetoric is present in all forms of populism (as our minimal definition
+requires), but it can take varying and occasionally overlapping forms.
+Parties/candidates can also change their "others"/"elites" over time,
+representing subtly different forms of populism in different elections.
+
+For each variable we use a 3-level ordinal categorisation where 1 = no,
+2 = present, and 3 = yes.
+
+#### OTH_POLCLASS
+
+*Does the party/candidate claim that the political class - incumbent
+politicians, parties, bureaucrats, judges, and other holders of state
+office - are the "elite" or "others" to ordinary people and their
+interests?*
+
+> 1\. (No) Party/candidate does not utilise anti-political class
+> discourse.
+>
+> 2\. (Partial) Party/candidate is critical of political class in a way
+> that lacks the consistency, clarity, or ferocity of 3 (strong).
+>
+> 3\. (Yes) Party/candidate considers the political class to be the or a
+> core element of the "elite/other", or direct representatives of that
+> "elite" or "other", and therefore responsible for the grievances of
+> ordinary people
+
+OTH_POLCLASS gauges the candidate/party's characterisation of
+established political figures as an essentially unified group of people
+hostile to the interests of ordinary people -- which we refer to as
+anti-political class discourse. This is perhaps the most commonly cited
+attribute of populist discourse, and unsurprisingly the great majority
+of entries in the dataset are coded 3 or 3. It is commonly evoked by the
+references populists often make to "the establishment" of political
+decision makers whom they accuse of siding with the "elite", or
+constituting the essence of "the elite" themselves.
+
+Incumbent politicians are the most common figures of the "political
+class" but we also include other figures more tangentially connected to
+the political system and/or the state, like former politicians, party
+officials, bureaucrats and civil servants, and judicial figures.
+
+As the word "class" suggests, OTH_POLCLASS rhetoric must collectivise
+these actors in a way that presents them as a somewhat unified grouping,
+often emphasising that differences between them (like parties and
+official ideologies) are superficial and meaningless. Consider for
+example the assertion by the Palikot Movement of Poland that it was "not
+the next configuration of the same old elite\...AWS, PiS, PO, ZChN, PC,
+KPN, ROP, and now PJN -- different names, but the same people."
+
+OTH_POLCLASS discourse does not imply that parties/candidates must
+criticise all actors in political class equally, but just that there
+must be some implication that the bulk of "the" political class acts as
+a somewhat homogenous entity. Populists frequently create terms like
+"the network", "the caste", "the political mafia" to collectivise the
+political class in their rhetoric.
+
+Parties/candidates are coded 3 on this scale when these references are
+core and consistent elements of their characterisation of elites. This
+includes cases where parties/candidates claim that other groups are also
+essential components of the elite, but that the political class acts as
+a corrupt accomplice to their actions. For example, Jean-Luc Melenchon
+(France) and Ollanta Humala (Peru) both employed OTH_POLCLASS discourse
+at a level befitting 3 on this scale, although both claimed that other
+elements (economic elites and foreign powers in both cases) were equally
+core components of the "elite" opposed to the interests of ordinary
+citizens. Conversely, some parties - such as Italy's Five Star Movement
+in its first election in 2013 - considered the political class as the
+singular essense of the elite.
+
+There are very few cases of parties/candidates coded as 1 on this
+variable. In these cases populist discourse is always employed against
+other "elites". Examples of this are the Estonian National Independence
+Party, and the Taiwan Solidarity Movement, both of which focused mainly
+on foreign powers rather than the domestic political class.
+
+Parties/candidates coded as 2 employ some degree of this discourse, but
+without the clarity, consistency, or degree to reach the level of 3 as
+defined above. Bulgaria's National Movement Simeon II and New Zealand's
+Social Credit Party are good examples of this relatively moderate
+OTH_POLCLASS discourse.
+
+OTH_POLCLASS discourse can be used by candidates against their own
+parties. The presidential campaigns of Donald Trump (United States) and
+Jacob Zuma (South Africa), for example, employed this rhetoric against
+established political figures within the Republican Party and the
+African National Congress, respectively.
+
+OTH_POLCLASS discourse can also be employed by candidates/parties who
+are incumbent in office. Turkey's Recep Tayyip Erdogan, for example,
+only reached a 3 on our OTH_POLCLASS classification during the 2014
+election, at which point he and his AK Party had been in power for over
+a decade.
+
+#### OTH_ECONOMIC
+
+*Does party/candidate claim that economic elites - big business, the
+wealthy, financiers, oligarchs or other economic powerbrokers - are the
+"elite" or "others" to ordinary people and their interests?*
+
+> 1\. (No) Party/candidate does not define the "elite/other" in economic
+> terms.
+>
+> 2\. (Partial) Party/candidate is critical of economic elites in a way
+> that lacks the consistency, clarity, or ferocity of 3.
+>
+> 3\. (Yes) Party/candidate claims economic elites are core elements of
+> the "elite" or "other" responsible for the grievances of ordinary
+> people.
+
+OTH_ECONOMIC discourse is present when candidates allege that economic
+elites -- which refers to big business, billionaires, oligarchs,
+financiers, wealthier social classes, etc. -- are an element of the
+elite. This can take the form of ideologically rich discourses about
+inequality or capitalism, such as Die Linke in Germany, Syriza in
+Greece, and Hugo Chavez's Fifth Republic Movement in Venezuela -- each
+of which are socialist parties that consider the "people" and "elite" to
+be principally class divisions in the material sense. It can also exist
+in less ideologically defined opposition to the power of businesses or
+wealthy individuals, such as with the ideologically ambiguous New
+Zealand First party, or the centrist anti-oligarch Zatlers Reform Party
+in Latvia.
+
+It is also often the case that candidates/parties usually characterised
+as right wing in the sense of ethno-nationalism, immigration, or social
+conservatism evoke their supporters' hostility to economic elites in a
+similar way to leftists. The more recent campaigns of the far right
+Front National in France are a good example of this. In other cases,
+right wing populists like Iceland's Progressive Party or Greece's
+Independent Greeks have turned to OTH_ECONOMIC discourse in the wake of
+financial crises. The economic ideology of candidates/parties and its
+perceived effect on economic powerbrokers is not relevant to our
+OTH_ECONOMIC coding decisions. For example, a party/candidate may
+endorse a neoliberal economic ideology that would serve the interests of
+economic powerbrokers while still engaging in OTH_ECONOMIC discourse.
+
+It is often difficult to disentangle OTH_ECONOMIC discourse from other
+OTH\_ variables. It is frequently the case that opposition to economic
+powerbrokers is constructed in nationalist terms, with populists
+specifically opposing "foreign" businesses or billionaires. Likewise,
+opposition to domestic economic elites can overlap with ethnic or racial
+rhetoric, as in the case of South Africa's Economic Freedom Fighters
+(EFF). In such cases we have still considered such rhetoric OTH_ECONOMIC
+as long as discourse is still constructed in economic terms (which it
+does in the case of EFF's).
+
+However, when discourse against one or few economic elites appears to
+have more to do with an incidental personal feud than an opposition to
+the wealth of those figures *per se* we have erred on the side of not
+considering this OTH_ECONOMIC discourse. Viktor Orban's hostility to the
+influence of expatriate billionaire George Soros in Hungary (which also
+takes on anti-semstic overtones) is a good example of populist
+opposition to wealthy individuals that is not truly OTH_ECONOMIC
+discourse.
+
+Consistent with our approach of coding discourse rather than policy, we
+ignore policy proposals that conflict with this discourse. That is, when
+a candidate/party claims that billionaires are an enemy of the people,
+but advocates cutting taxes on the wealthy or liberalising financial
+regulations, we code according to the former rather than the latter.
+
+#### OTH_MILITARY
+
+*Does party/candidate claim that the national military are the "elite"
+or "others" to ordinary people and their interests?*
+
+> 1\. (No) The military does not feature in the party/candidate's
+> construction of the "elite/other".
+>
+> 2\. (Partial) The party/candidate is critical of the military's
+> involvement in politics in a way that lacks the consistency, clarity,
+> or ferocity of 3.
+>
+> 3\. (Yes) The party/candidate considers the military to be core
+> elements of the "elite" or "other" responsible for the grievances of
+> ordinary people.
+
+OTH_MILITARY discourse is present when populist candidates/parties
+allege that military establishments are elements of the elite and
+hostile to the people's interest. This is particularly prevalent in
+cases where prior military regimes are seen to remain as political foils
+after transitions (such as Argentina or the Pakistan), or where the
+military habitually intervenes in the political process (such as Turkey
+or Thailand). However this needn't be evident for OTH_MILITARY discourse
+to be present.
+
+Codings of 3 are used when OTH_MILITARY discourse is a clear and
+prominent element of populist rhetoric, for example Thailand's Pheu Thai
+party, or Argentina's Front for Victory, each of which characterise the
+military establishment as core opponents of the people in the popuilst
+terms of our minimum definition.
+
+Codings of 2 are reserved for relatively milder forms which are neither
+absent nor strong, such as Brazil's Workers Party (in the 1980s and
+1990s).
+
+#### OTH_ETHNIC
+
+*Does party/candidate claim that specific ethnic, racial or religious
+groups are the "elite" or "others" to ordinary people and their
+interests?*
+
+> 1\. (No) Party/candidate does not characterise the "elite" or
+> \"others\" in ethnic/racial/religious terms
+>
+> 2\. (Partial) Party/candidate is critical of ethnic/racial/religious
+> groups in a way that lacks the consistency, clarity, or ferocity of 3.
+>
+> 3\. (Yes) The party/candidate considers ethnic/racial/religious groups
+> to be core elements of the "elite" or "other" responsible for the
+> grievances of ordinary people.
+
+OTH_ETHNIC discourse occurs when parties/candidates characterise the
+categories of "elite", or "other" in ethnic, racial, or religious terms.
+Parties/candidates are coded 3 when this is a clear and prominent
+element of populist discourse. Relevant out-groups can be either
+domestic minorities/majorities, or local representatives of
+transnational groups such as religions, races, or Roma.
+
+There is a significant range within the level 3 category, as we consider
+extreme cases such as Golden Dawn in Greece or Vladimir Zhirinovski's
+Liberal Democratic Party in Russia and the somewhat milder cases like
+France's Front National or Australia's One Nation party equally fitting
+of the language of level 3 here - even though they differ on the degree
+of their and content OTH_ETHNIC rhetoric.
+
+The coding of 2 is used for relatively milder form of OTH_ETHNIC
+discourse among populists. This includes candidates/parties who make
+occasional references to ethnic/racial/religious groups in ways that are
+discursively salient enough to surpass a 1 (null) coding, but not enough
+to reach 3. Iceland's Progressive Party, and the New Zealand First party
+are examples of this.
+
+Category 2 is also used for candidates/parties who rely on deeper
+legacies of ethnic/racial/religious discourse and action rather than
+contemporary rhetoric, such that neither category 1 nor 3 is
+appropriate. An examples of this Narendra Modi in India (who's
+controversial handling of inter-communal riots in Gujarat in 2002 made
+him an icon of broader Hindu majoritarian politics).
+
+We consider regional (including separatist) parties to engage in
+OTH_ETHNIC discourse when differentials between regions are defined in
+ethnic, racial or religious terms. Canada's Bloc Quebecois and Belgium's
+Flemish Bloc are examples of this.
+
+While many parties/candidates define the "people" in ethnic, racial, or
+religious terms, we do not require this to code 2 or 3 on the OTH_ETHNIC
+variable. This is because there are many examples of parties/candidates
+who present somewhat liberal or multicultural representations of people,
+but still focus specifically on an opposition to one or more ethnic,
+racial or religious groups in a way befitting level 3 on this scale.
+Geert Wilders' Party for Freedom is a good example.
+
+#### OTH_IMMIGRANTS
+
+*Does the party/candidate claim that immigrants are the "elite" or
+"others" to ordinary people and their interests?*
+
+> 1\. (No) Immigrants are irrelevant to party/candidates
+> characterisations of "elites" or "others\".
+>
+> 2\. (Partial) Party/candidate is critical of immigrants in a way that
+> lacks the consistency, clarity, or ferocity of 3 (strong).
+>
+> 3\. (Yes) The party/candidate considers immigrants to be core elements
+> of the "elite" or "other" responsible for the grievances of ordinary
+> people.
+
+OTH_IMMIGRANTS discourse occurs when parties/candidates characterise
+immigrants as a threat to the interests of the ordinary people.
+Immigrants are rarely considered to be a component of the "elite", but
+often constitute an "other" that is favoured by the elite over ordinary
+people. Parties/candidates are coded 3 when this is a clear and
+prominent element of populist discourse. The UK Independence Party and
+Brazil's Jair Bolsonaro are examples of this.
+
+Level 2 is used on this variable when parties/candidates utilise some
+degree of anti-immigrant discourse that lacks the consistency, clarity,
+or ferocity of true anti-immigrant discourse. An example here is the
+ideologically ambiguous Five Star Movement in Italy, whose populism was
+(initially) centred on its ridicule of the political class, but in later
+elections included some anti anti-immigrant narratives.
+
+There are many cases where OTH_IMMIGRANTS discourse overlaps with
+OTH_ETHNIC discourse. The Slovenian Democratic Party of Janez Janša for
+example has long been opposed to immigrants from other former
+Yugoslavian states in ways that correlated with ethnocentric narratives
+of Slovenian nationalism. This is not always the case however, such as
+with the example of Carl Hagen's Progress Party in Norway, which became
+strongly anti-immigrant in the mid-1990s but in a way that related more
+to welfare chauvinism than explicit ethno-nationalism.
+
+In cases where parties are opposed to immigrants from certain countries
+or ethnic backgrounds but supportive of immigrants from others, we still
+consider this OTH_IMMIGRANT discourse. Pakistan's Muhajir Qaumi Movement
+is a good example of this. As with other variables, we ignore actual
+policy proposals relating to immigration and focus on campaign discourse
+against immigrants (although these are naturally correlated).
+
+#### OTH_FOREIGN
+
+*Does party/candidate claim foreign entities - states, institutions or
+other entities - are the "elite" or "others" to ordinary people and
+their interests?*
+
+> 1\. (No) Foreign entities do not feature in party/candidate's
+> characterisations of "elites" or "others".
+>
+> 2\. (Partial) Party/candidate is critical of foreign entities but does
+> not consider their domestic opponents to be totally subservient to
+> them
+>
+> 3\. (Yes) Party/candidate claims that their domestic opponents are
+> totally controlled by and loyal to foreign interests hostile to
+> ordinary people.
+
+OTH_FOREIGN discourse occurs when parties/candidates claim that the
+elite responsible for the grievances of ordinary people is a foreign
+actor (or actors) of some kind. These foreign actors are usually foreign
+governments, but can also be supernational/regional entities like the
+European Union, or global institutions like the IMF or World bank. It
+can also include less well-defined references to "globalist" actors or
+agendas. We do not consider immigrants from other countries to be
+"foreign entities".
+
+In order to fit our minimum definition of populism, OTH_FOREIGN populism
+must assert that foreign power is in some ways exerted through domestic
+figures, be they in the political class, business, domestic ethnic
+groups or other.
+
+OTH_FOREIGN discourse does not require parties/candidates to be
+consistently against all foreign entities in the sense of ideological
+isolationism and/or nationalism, only that foreign entities be among the
+elites and others responsible for the grievances experienced by ordinary
+people. Parties/candidates may therefore practice OTH_FOREIGN discourse
+when they are in favour of some foreign entities. As with other
+variables, this can be the only OTH\_ variable, or can exist alongside
+others.
+
+Level 3 is reserved for cases where parties/candidates accuse their
+domestic opponents of being wholly controlled by or representative of
+these foreign interests. Examples of this are Bolivia's Movement for
+Socialism and Greece's PASOK (in the 1980s).
+
+Level 2 is used when parties/candidates consistently refer to the
+influence of foreign entities without reaching this threshold. Examples
+of this are the Japanese Restoration Party or Mexico's Party of the
+Revolution.
+
+### Attributes of populist parties/candidates
+
+Next, we use six other variables relating to other aspects of
+candidates' actions and backgrounds:
+
+#### LIBDEMNORMS 
+
+*Does the party/candidate's behaviour threaten established liberal
+democratic norms - engaging in political violence, resisting
+constitutional rules and institutional processes, showing hostility to
+judicial oversight, or attacking on media scrutiny - compared with
+predecessors and contemporaries?*
+
+> 1\. (No) Party/candidate does not threaten established liberal
+> democratic norms.
+>
+> 2\. (Partial) Party/candidate represents a moderate threat to
+> established liberal democratic norms.
+>
+> 3\. (Yes) Party/candidate represents a stark break from established
+> liberal democratic norms.
+
+LIBDEMNORMS measures whether or not the behaviour and/or speech of
+parties/candidates threatens established liberal democratic norms. We
+consider these threats to include: a) inciting, tolerating or organising
+violence against opponents, b) attacking the freedom of the press, c)
+threatening democratic institutions (for example undermining the
+credibility of electoral institutions or demanding that political
+opponents be prosecuted), d) expressing a dislike of democratic
+institutions (including offering praise for domestic or foreign
+dictatorial regimes) and e) (for incumbents) "state capture," in the
+form of personalising the resources and violence of the state. This is
+similar to "authoritarian" behaviour in other datasets.
+
+While ethnonationalism or exclusion of migrants are arguably threats to
+liberal democratic norms, we have not included them in this variable
+given that they are captured by the OTH_ETHNIC and OTH_IMMIGRANTS
+variables. "Liberal" democratic norms here do not relate to liberal
+economic policies or attitudes, meaning that a party/candidate could be
+hostile to liberal economic norms without being opposed to liberal
+democratic ones in our definition of LIBDEMNORMS.
+
+Given that liberal democratic norms vary greatly *prior* to the entry of
+any given populist parties/candidates, WPD codes relative to the
+"established" standards of the polity. That is, parties/candidate's
+behaviour only registers on this scale when it is seen to shift norms
+away from liberal democracy, not merely when it is in line with the
+non-liberal democratic norms practiced by predecessors and contemporary
+rivals. The three levels of LIBDEMNORMS do not therefore relate to
+absolute standards of behaviour across all cases, but the degree to
+which populist parties/candidates shift or threaten their countries'
+established democratic norms. When this is ambiguous, we've erred on the
+side of coding higher rather than lower.
+
+Parties/candidates who are incumbent in government have a different
+capacity to threaten liberal democratic norms than those who are
+non-incumbent. For example, it is possible for parties who showed no
+signs of threatening liberal-democratic norms from restricting press
+freedom or judicial oversight.
+
+#### CHARISMA
+
+*Is the personal charisma of the candidate or party leader essential to
+their campaign's political appeal?*
+
+> 1\. (No) The leader is not essential to the political appeal of the
+> campaign, and the party or movement would likely exist without this
+> leader.
+>
+> 2\. (Partial) The leader is an important element of the campaign's
+> political appeal, but the party or movement would likely exist without
+> this leader.
+>
+> 3\. (Yes) The leader is essential to the campaign's political appeal,
+> and the party or movement would not likely exist without this leader.
+
+The CHARISMA variable captures populist parties' or movements' potential
+dependence on their leaders - something routinely cited in the
+theoretical literature on populism. We have identified CHARISMA in
+candidates/parties when sources suggest that the appeal of a particular
+movement is tied up in the personality of its leader in the sense of
+being "leader-centric" or a "one-man/women" show. This is the case for
+many populist movements formed around a single individual, such as Clive
+Palmer's United Australia Party, Joseph Estrada's Forces of the Filipino
+Masses in the Philippines - each of which would stand no chance of
+existing without these leaders.
+
+The term "movement" here relates to the fact that independent
+presidential candidacies could still plausibly have non-partisan
+foundations, such as support from coalitions of political parties
+(though this is rare).
+
+As it is difficult to scale the significance of leadership, we
+differentiate between 3 and 2 not based on difference in charismatic
+appeal, but on whether evidence suggests that parties have an
+institutional base beyond its current leader -- particularly as
+evidenced by a history that predates that leader -- such that it
+probably exists "beyond" them in some way. Therefore, there is not
+always a difference in the presence of charismatic leadership between
+cases coded 2 or 3.
+
+In some cases CHARISMA can be based on politicians who are not actually
+leaders of their party, but none-the-less essential to their appeal. For
+example, Thailand's Pheu Thai (PT) is the successor party to Thaksin
+Shinawatra's Thai Rak Tai (TRT) party, formed after TRT was overthrown
+in a 2006 military coup in Thailand. Even in exile however, evidence
+suggests that Thaksin's image was still essential to the party's image
+and appeal. In such cases we have still coded 3 if that leader remains
+an essential component of the party's identity at the time of the
+election under analysis.
+
+#### INC_PARL
+
+*Is the legislative party incumbent in government at the time of the
+election?*
+
+> 1\. Not in government
+>
+> 2\. In coalition government but not head of government
+>
+> 3\. In coalition government with head of government
+>
+> 4\. In government outright
+
+INC_PARL captures whether or not legislative parties are in government
+at the time of the election campaign under analysis. Presidential
+election entries are coded "N/A" on this variable.
+
+Each coding decision relates to the time immediately before the election
+in question. When a party has been in government briefly in the previous
+term but has left before the election, or when a party has joined a
+governing coalition soon before the election, we still code whatever is
+the case at the time of the election.
+
+Parliamentary coalitions make incumbency difficult ot assess as there
+are many cases where incumbency is not clear cut in coalitions with
+junior/minor parties. We use the position of head of government as a
+proxy for this, hence the difference between 2 and 3 above. For systems
+where the President is the head of government, (e.g. France, Argentina)
+that still counts for parliamentary parties. Likewise, when a party has
+a parliamentary majority, but the presidential head of government is
+from another party, they are coded 1.
+
+In cases where parties appear to lend support on a more informal basis
+to incumbent presidents from different parties or who are independents,
+we do not include this as in government or coalition. This is common in
+Latin America.
+
+#### INC_PRES
+
+*Is the presidential candidate incumbent in government at the time of
+the election?*
+
+> 1\. Not incumbent
+>
+> 2\. Not personally incumbent, but same party as incumbent
+>
+> 3\. Incumbent
+
+As with INC_PARL, we code for whatever is the case immediately prior to
+the election. Legislative election entries are coded "N/A" on this
+variable. "In government" refers to the office that is being sought in
+that election, not any government office.
+
+#### INSIDER
+
+*Has party leader or candidate been in government in the past?*
+
+> 1\. (No) Leader has never featured in government before this election.
+>
+> 2\. (Partial) Leader has featured in previous governments, but did not
+> lead them.
+>
+> 3\. (Yes) leader has been a head of government before this election.
+
+INSIDER captures whether or not party leaders or candidates have been in
+positions of government before the election under analysis. In both
+legislative and executive entries, we are interested in the history of
+the current leader rather than the party historically.
+
+Level 3 is reserved for leaders who are previous heads of government.
+This could be incumbent heads of government, or non-incumbent former
+heads of government. Leaders are coded 2 when they featured prominently
+in previous governments without serving as head of government. For
+example, Corneliu Vadim Tudor was leader of the Greater Romanian Party
+(PRM) when it was briefly in coalition government in 1992, meaning that
+PRM is coded 2 on INSIDER for the duration of the time that he was its
+leader. Similarly Cuauhtemoc Cardenas was a key figure in several PRI
+governments in Mexico before he contested from 1988 - he and the parties
+he led are coded 2 for this reason.
+
+Only prior offices held at the national level are considered. Parties
+whose leaders held office at the subnational or local level are still
+coded 1 if they have never held national office.
+
+All incumbent leaders are coded 3 on this scale, even if they were coded
+1 or 2 during their initial election.
+
+**LRPOSITION**
+
+*Where does the candidate/party stand on the left-right ideological
+spectrum?*
+
+> FR Far right
+>
+> R Right
+>
+> CR Centre right
+>
+> C Centrist
+>
+> CL Centre left
+>
+> L Left
+>
+> FL Far left
+>
+> N/A Not applicable (i.e., satirical candidate)
+
+LRPOSITION codes parties/candidates according to where they fall on the
+left-right ideological spectrum. This is based on the general
+assessments in the literature as well as our own understanding of
+left-right ideology. When parties/candidates have differed in their
+conventional left-right position between, for example social/cultural
+politics (immigration, ethnocentrism, etc.) and economic policies
+(taxes, welfare, etc.) we have coded based on the relative salience of
+each category. For examples, we have coded parties like Ataka in
+Bulgaria and the True Finns party in Finland as right wing due to the
+relative salience of their ethnonatioalism, even though they also favour
+economic policies wh
+
+In cases where left-right ideological profiles have been difficult to
+determine due to either the balance of clearly left- and right- leaning
+positions, we have erred on the side of classifying parties as C.
+Examples of this are Beppe Grillo's Five Star Movement in Italy, or
+Andrzej Lepper's Self-Defence in Poland.
+
+In cases where populist protest parties make no claim to any policy
+position other than ridicule of the political establishment, such as
+Estonia's Independent Royalists, we have coded them as N/A (Not
+Applicable).
+
+### Elections and electoral systems
+
+Elections are recorded by **YEAR** \[yyyy\] and **MONTH** \[m\], and
+also by **DATE** \[dd/mm/yyyy\]**.** The dataset included
+candidates/parties in both presidential and (various kinds of)
+legislative elections. These are distinguished by the **TYPE** variable:
+
+  ----------- -------------------------------------------------- ---------
+  PR          Presidential                                       
+
+  LH          Lower House (including when upper house is not     
+              directly elected)                                  
+
+  LH+UH       Both upper and lower house elected in single       
+              ballot system                                      
+
+  UC          Unicameral                                         
+
+                                                                 
+  ----------- -------------------------------------------------- ---------
+
+A second column, **ROUND** is used to denote whether election result is
+in the first or second round of a two-round system, in either
+presidential or legislative elections:
+
+  ------------- ---------------------------------------------------------
+  1             First Round
+
+  2             Second round
+
+  N/A           Not applicable
+  ------------- ---------------------------------------------------------
+
+A second column, **SYSTEM** is used to denote the different
+representational systems that the result in question refers to:
+
+  ---------- ---------------------------------------------------------- --
+  CON        Constituency seats (as opposed to proportional             
+             representation)                                            
+
+  PRO        Proportional representation seats (as opposed to           
+             constituencies)                                            
+
+  DIA        Diaspora representatives                                   
+  ---------- ---------------------------------------------------------- --
+
+Note: the SYSTEM variable is only used when election to one legislative
+chamber (LH/UC) involves two balloting systems. It does not denote
+different methods of legislative election via a single ballot, such as
+mixed constituency and proportional representation systems, etc. If
+there was only one ballot, and therefore only one total percentage, then
+the system column is listed with "N/A".
+
+# Data Sources
+
+**Coding data**
+
+Data for these evaluations was sourced primarily from secondary academic
+sources, but also from reliable online analysis (reputable blogs,
+analysis sites, etc.), news sources, and occasionally primary sources
+from candidates/parties such as speeches or manifestos. By far the most
+common source is secondary academic literature, as this material tends
+to include the richest description of populist rhetoric and appeal. Data
+sources used for coding have been laid out in a separate Case Notes
+document.
+
+## Election data
+
+Election results data was sourced from a number of datasets and outlets,
+each of which is listed in the SOURCE column of the spreadsheet, with a
+link copied in the SOURCELINK column. In order of preference, these are:
+
+  ---------------------------------------------- ------------------------
+  **Source**                                     **Reference in dataset**
+
+  Parliaments and Governments Database           ParlGov
+
+  Database of Political Institutions 2017        DPI
+
+  European Electoral Database                    EED-NSD
+
+  Inter-Parliamentary Union Parline              IPU Parline
+
+  Nohlen *et al* source books                    Nohlen
+
+  Chapel Hill Expert Survey                      CHES
+
+  Adam Carr's Election Archive                   Carr
+
+  Nordsieck, Wolfram. *Parties and Elections in  Nordsieck
+  Europe*, (2017).                               
+
+  International Foundation for Electoral Systems IFES
+  ---------------------------------------------- ------------------------
+
+Wherever possible, as few datasets as possible were used on individual
+countries. When these databases did not provide relevant data, we have
+used (in order):
+
+  ---------------------------------------------- ------------------------
+  **Source**                                     **Reference in dataset**
+
+  Official state source (eg. national electoral  Official
+  commission website)                            
+
+  Statistics mentioned in secondary scholarly    Secondary
+  sources                                        
+  ---------------------------------------------- ------------------------
+
+# Cases (countries)
+
+The beta dataset includes 50 democracies, all selected based on the
+general reliability of official election results, and the availability
+of sufficient secondary sources for coding. This meant that several
+countries studied by coders were ruled ill-suited to the dataset despite
+the clear presence of populism (Belarus, Azerbaijan, Armenia, Iran for
+example).
+
+The countries included are:
+
+  -------------- --------------------------------------------------------
+  Europe (27)    Albania, Austria, Belgium, Bulgaria, Czechia, Denmark,
+                 Estonia, Finland, France, Germany, Greece, Hungary,
+                 Iceland, Ireland, Italy, Latvia, Netherlands, Norway,
+                 Poland, Portugal, Romania, Russia, Slovakia, Spain,
+                 Sweden, Switzerland, United Kingdom
+
+  South America  Argentina, Brazil, Bolivia, Chile, Colombia, Ecuador,
+  (8)            Peru, Venezuela
+
+  North America  Canada, El Salvador, Mexico, United States
+  (4)            
+
+  Asia (7)       India, Indonesia, Japan, Pakistan, Philippines,
+                 Thailand, Türkiye
+
+  Africa (2)     South Africa, Zambia
+
+  Oceana (2)     Australia, New Zealand,
+  -------------- --------------------------------------------------------
+
+Numerous countries are not included for the breadth of the 1980-2020
+period as they did not qualify as sufficiently democratic at every
+point. For example, Eastern European post-communist countries are only
+included after \~1990, South Africa is only included after 1994, the
+Philippines after 1986.
+
+The cases of Czechia and Slovakia are included as separate entities even
+before their formal split in 1993 due to the fact that their electoral
+processes were autonomous in these years, and hence there is historical
+continuity with later elections.
+
+## Elections coded
+
+The dataset has coded a total of 809 elections (543 legislative and 266
+presidential).
+
+# Parties/candidates
+
+Parties (including the independent status of some presidential
+candidates) are listed in the **PARTY** variable, and candidates (in
+presidential elections) are listed in the **CANDIDATE** variable.
+
+The dataset includes parties/candidates which received over 5% at the
+election being recoded.
+
+## Rules for coding parties, and alliances
+
+In parliamentary systems we assume that the actions and discourse of
+party leaders constitute the essential meaning of the party as it is
+understood by voters. In presidential systems this is more difficult, as
+it is occasionally the case that presidential candidates have estranged
+relationships with party leaders, and that candidates' discourse doesn't
+necessarily imply that every voter at a legislative election is voting
+for a populist party. For example, given the abnormally
+institutionalised nature of the US two-party system, we don't find it
+accurate to say that every vote for a Republican congressional candidate
+in the 2016 US elections had the same populist meaning as the vote for
+the party's presidential candidate Donald Trump. We have made this
+judgment on a case by case basis and explained this choice in the case
+notes.
+
+When parties form alliances with each other, we have tried to treat them
+as individual parties whenever electoral data allows us to do so (for
+example, the Centre Right coalition in Italy's 2018 election). When this
+is not possible due to the fact that alliances are single voting lists
+or electoral entities, we have only considered these alliances populist
+when populist parties appear to account for the majority of their
+candidates and or leaders (that is, when populist parties are the
+dominant partner). This was the case for the Japanese Restoration Party
+of Toru Hashimoto, a regional party which merged with another party (The
+Japan Sunrise Party) before the 2012 election.
+
+When parties have merged with other parties, we have usually considered
+them as continuations of predecessor parties in cases where those
+parties were significantly bigger than others. For example, Sylvio
+Berlusconi's Forza Italia (FI) merged with the National Alliance (NA)
+party in 2009 to create the People of Freedom (PDL). However, as FI was
+significantly bigger than the NA, and Berlusconi remained it's leader
+after the merge, we have considered PDL as a continuation of FI, and
+carried coding decisions of the latter into the former after 2009.
+
+In presidential systems it is common for parties who run separately in
+parliamentary elections form electoral coalitions for the presidential
+elections. This is usually the case in many Latin American countries. In
+these cases, we have coded the relevant electoral base of the populist
+leader. For example, for the Chilean party UDI under the leadership of
+populist leader Joaquín Lavin (1999-2005) we have coded "Independent
+Democratic Union" for the parliamentary elections and "Independent
+Democratic Union / Alliance for Chile" for the presidential elections.
+
+One particularly difficult case is Argentina, which has undergone a
+shift in its party system. At the time of Carlos Menem and Nestor
+Kirchner's leadership in the 1990s- early 2000s, we consider the
+Justicialist party to be representative of its leaders' discourse, and
+therefore a populist entity linked to that leader. However, Cristina
+Fernández de Kirchner, also of the Justicialist party, formed the Front
+for Victory alliance with members of her party and others. Given that
+votes for this alliance can be tabulated separately, we treat this
+entity as a party rather than the Justicialists.

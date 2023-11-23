@@ -1,9 +1,0 @@
----
-title: "Countries"
-listing:
-  contents: countries
-  type: table
-  fields: [title]
-  filter-ui: [title]
----
-

@@ -1,5 +1,7 @@
 ---
 title: "About"
+subtitle: "Information about the WPD project and team."
+title-block-banner: true
 ---
 
 About the project
