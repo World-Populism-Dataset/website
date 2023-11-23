@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>World Populism Dataset - Data</title>
+<title>World Populism Dataset – codebook</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -88,7 +88,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./data.html" aria-current="page">
+    <a class="nav-link" href="./data.html">
  <span class="menu-text">Data</span></a>
   </li>  
   <li class="nav-item">
@@ -127,24 +127,7 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">Data</h1>
-            <p class="subtitle lead">Downloads and codebook for the WPD dataset</p>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
@@ -152,54 +135,43 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
-  <li><a href="#downloads" id="toc-downloads" class="nav-link" data-scroll-target="#downloads">Downloads</a></li>
-  <li><a href="#coding-definitions-and-rules" id="toc-coding-definitions-and-rules" class="nav-link" data-scroll-target="#coding-definitions-and-rules">Coding definitions and rules</a>
+  <li><a href="#coding-definitions-and-rules" id="toc-coding-definitions-and-rules" class="nav-link active" data-scroll-target="#coding-definitions-and-rules"><strong>Coding definitions and rules</strong></a>
   <ul class="collapse">
-  <li><a href="#populism-minimum-definition" id="toc-populism-minimum-definition" class="nav-link" data-scroll-target="#populism-minimum-definition">Populism (minimum definition)</a>
+  <li><a href="#populism-minimum-definition" id="toc-populism-minimum-definition" class="nav-link" data-scroll-target="#populism-minimum-definition"><strong>Populism (minimum definition)</strong></a>
   <ul class="collapse">
-  <li><a href="#locating-populism" id="toc-locating-populism" class="nav-link" data-scroll-target="#locating-populism">Locating populism</a></li>
-  <li><a href="#difficult-cases" id="toc-difficult-cases" class="nav-link" data-scroll-target="#difficult-cases">Difficult cases</a></li>
-  <li><a href="#others-and-enemies-of-the-ordinary-people" id="toc-others-and-enemies-of-the-ordinary-people" class="nav-link" data-scroll-target="#others-and-enemies-of-the-ordinary-people">“Others” and enemies of the ordinary people</a></li>
-  <li><a href="#attributes-of-populist-partiescandidates" id="toc-attributes-of-populist-partiescandidates" class="nav-link" data-scroll-target="#attributes-of-populist-partiescandidates">Attributes of populist parties/candidates</a></li>
-  <li><a href="#elections-and-electoral-systems" id="toc-elections-and-electoral-systems" class="nav-link" data-scroll-target="#elections-and-electoral-systems">Elections and electoral systems</a></li>
+  <li><a href="#locating-populism" id="toc-locating-populism" class="nav-link" data-scroll-target="#locating-populism"><strong>Locating populism</strong></a></li>
+  <li><a href="#difficult-cases" id="toc-difficult-cases" class="nav-link" data-scroll-target="#difficult-cases"><strong>Difficult cases</strong></a></li>
+  <li><a href="#others-and-enemies-of-the-ordinary-people" id="toc-others-and-enemies-of-the-ordinary-people" class="nav-link" data-scroll-target="#others-and-enemies-of-the-ordinary-people"><strong>“Others” and enemies of the ordinary people</strong></a></li>
+  <li><a href="#attributes-of-populist-partiescandidates" id="toc-attributes-of-populist-partiescandidates" class="nav-link" data-scroll-target="#attributes-of-populist-partiescandidates"><strong>Attributes of populist parties/candidates</strong></a></li>
+  <li><a href="#elections-and-electoral-systems" id="toc-elections-and-electoral-systems" class="nav-link" data-scroll-target="#elections-and-electoral-systems"><strong>Elections and electoral systems</strong></a></li>
   </ul></li>
   </ul></li>
-  <li><a href="#data-sources" id="toc-data-sources" class="nav-link" data-scroll-target="#data-sources">Data Sources</a>
+  <li><a href="#data-sources" id="toc-data-sources" class="nav-link" data-scroll-target="#data-sources"><strong>Data Sources</strong></a>
   <ul class="collapse">
-  <li><a href="#election-data" id="toc-election-data" class="nav-link" data-scroll-target="#election-data">Election data</a></li>
+  <li><a href="#election-data" id="toc-election-data" class="nav-link" data-scroll-target="#election-data"><strong>Election data</strong></a></li>
   </ul></li>
-  <li><a href="#cases-countries" id="toc-cases-countries" class="nav-link" data-scroll-target="#cases-countries">Cases (countries)</a>
+  <li><a href="#cases-countries" id="toc-cases-countries" class="nav-link" data-scroll-target="#cases-countries"><strong>Cases (countries)</strong></a>
   <ul class="collapse">
-  <li><a href="#elections-coded" id="toc-elections-coded" class="nav-link" data-scroll-target="#elections-coded">Elections coded</a></li>
+  <li><a href="#elections-coded" id="toc-elections-coded" class="nav-link" data-scroll-target="#elections-coded"><strong>Elections coded</strong></a></li>
   </ul></li>
-  <li><a href="#partiescandidates" id="toc-partiescandidates" class="nav-link" data-scroll-target="#partiescandidates">Parties/candidates</a>
+  <li><a href="#partiescandidates" id="toc-partiescandidates" class="nav-link" data-scroll-target="#partiescandidates"><strong>Parties/candidates</strong></a>
   <ul class="collapse">
-  <li><a href="#rules-for-coding-parties-and-alliances" id="toc-rules-for-coding-parties-and-alliances" class="nav-link" data-scroll-target="#rules-for-coding-parties-and-alliances">Rules for coding parties, and alliances</a></li>
+  <li><a href="#rules-for-coding-parties-and-alliances" id="toc-rules-for-coding-parties-and-alliances" class="nav-link" data-scroll-target="#rules-for-coding-parties-and-alliances"><strong>Rules for coding parties, and alliances</strong></a></li>
   </ul></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 
 
-
-<section id="overview" class="level1">
-<h1>Overview</h1>
-<p>TBC</p>
-</section>
-<section id="downloads" class="level1">
-<h1>Downloads</h1>
-<p>TBC</p>
-</section>
 <section id="coding-definitions-and-rules" class="level1">
-<h1>Coding definitions and rules</h1>
+<h1><strong>Coding definitions and rules</strong></h1>
 <p>WPD codes parties and candidates (henceforth “parties/candidates”) that win at least 5% of the vote in national legislative and executive elections in 50 countries (henceforth “cases”). By “candidate”, we only mean candidates in executive elections, not all candidates from parties in legislative elections.</p>
 <p>WPD only includes parties/candidates that meet a minimum definition of populism defined below. Included entries are then coded on variables that differentiate qualities and attributes of their populism. Parties/candidates are listed for each election type, including multiple rounds of presidential elections, and multiple systems of legislative elections (e.g.&nbsp;simultaneous proportionate and constituency systems), with results from each.</p>
 <section id="populism-minimum-definition" class="level2">
-<h2 class="anchored" data-anchor-id="populism-minimum-definition">Populism (minimum definition)</h2>
+<h2 class="anchored" data-anchor-id="populism-minimum-definition"><strong>Populism (minimum definition)</strong></h2>
 <p>Parties/candidates are only included in the dataset if their discourse during the election campaign under analysis meets the our minimum definition of populism as a <em>discourse asserting that political power has been monopolised by an elite estranged from ordinary people, and that salient grievances of ordinary people can be attributed to the self-serving decisions of that elite.</em></p>
 <p>This definition has two components. First, candidates/parties must claim or imply that ordinary people are systematically excluded from political power, and that a small group of people - commonly the “elite” or similar terms - has monopolised this power.</p>
 <p>“Ordinary people” in this definition can take many different forms, including ethnic, racial, native, regional, class, generational, or other characteristics. It can also be an undefined and residual category, in the sense of being all people <em>other</em> than the elite. Candidates/parties do not need to use terms like “the people” in order to infer the existence of this people/elite dichotomy. Nor do they need to express any affinity with the cultural traits or values of ordinary people.</p>
@@ -209,14 +181,14 @@ ul.task-list li input[type="checkbox"] {
 <p>This second component is essential for differentiating between populism and non-populist forms of anti-elitism. It is common for non-populist candidates/parties to campaign with some form of anti-elitism that fits the first component of the minimum definition but not the second. Such is the case when politicians accuse opponents of being estranged from ordinary people’s conditions, hostile to the cultures and behaviours of ordinary people, or partial to the company of powerful figures rather than ordinary people. While these elements of anti-elitism are common in populist discourses too, their presence in campaign discourse is insufficient to fulfil our minimum definition of populism unless the elite is also accused of deliberately causing the problems affecting ordinary people for their own benefit.</p>
 <p>This second component, while often mentioned in the populism literature, has not yet been included in the minimum definitions of other populism datasets.</p>
 <section id="locating-populism" class="level3">
-<h3 class="anchored" data-anchor-id="locating-populism">Locating populism</h3>
+<h3 class="anchored" data-anchor-id="locating-populism"><strong>Locating populism</strong></h3>
 <p>As our minimum definition states, WPD considers populism to be a discourse. Due to this, we have not considered candidate/parties’ programmatic policy in either the application of our minimum definition of populism, not any of our variables with the exception of LRPOSITION (see below). If, for example, a candidate wins office in an election in which they employed populist discourse, but then does not actually do anything to curb the power of their supposed elite adversaries when they are in office, this has no bearing on whether that candidate is in fact a populist in prior or subsequent elections in WPD.</p>
 <p>This also means that we are not interested in the true underlying beliefs of populist candidates/parties that may contradict their discourse. If, for example, a presidential candidate campaigns against “the elite” in line with our minimum definition, but there is evidence to suggest that they actually have deep respect and reverence for political elites (from sources like interviews or autobiographies), then we code according to the former data, not the latter.</p>
 <p>Similarly, we make no moral or judgements about the potential merit of any instance of populist discourse in any coding decision. That is, whether we happen to believe that the populist interpretation (as defined above) is an accurate and therefore “justified” representation of the polity under observation is irrelevant to our decision to include or exclude it from the dataset. “Populism” is therefore a morally neutral term in the dataset.</p>
 <p>Generally, we have assumed that populist characteristics of candidates/parties’ discourse are carried over from one election period to another, such that we do not require fresh evidence for each election period. In cases where we do find evidence that candidate/parties have changed over time we factor this into our coding, and as a result there are many candidates/parties that enter in and out of the dataset over time.</p>
 </section>
 <section id="difficult-cases" class="level3">
-<h3 class="anchored" data-anchor-id="difficult-cases">Difficult cases</h3>
+<h3 class="anchored" data-anchor-id="difficult-cases"><strong>Difficult cases</strong></h3>
 <p>There are many types of discourse or political scenario that are questionable inclusions within this minimum definition. We have developed the following rules to clarify our application of it.</p>
 <p><em>Non-populist “outsiders”</em>. Many candidates/parties campaign as “outsiders” to existing systems, often as “third parties” outside of two-party systems, and in doing so take on a kind of holistic anti-status quo discourse. Ross Perot in the United States and Emmanuel Macron in France are good examples of this. While these are occasionally classified as populist because of their catch-all criticisms of the political system, we do not code them as populists unless their opposition to the system meets the second element of the minimum definition (that the salient grievances of ordinary people can be attributed to the self-serving decisions of that elite) - which neither Perot nor Macron do.</p>
 <p><em>Incumbents</em>. When populist candidates/parties win elections and form government, they can still engage in populist discourse to discuss “elites” as a powerbloc even though they are in power. Often this refers to powerbrokers in the state bureaucracy, judicial system, media or business class rather than incumbent politicians. It can also evoke a kind of phantom establishment or elite that is present in the polity yet temporarily out of office. Nicolás Maduro in Venezuela is a good example of this. Because of this, we don’t exclude incumbent candidates/parties due to the fact that they are in power.</p>
@@ -228,7 +200,7 @@ ul.task-list li input[type="checkbox"] {
 <p>When parties fit the above minimum definition, WPD codes them on a number of variables relating to core features of their populism and other attributes.</p>
 </section>
 <section id="others-and-enemies-of-the-ordinary-people" class="level3">
-<h3 class="anchored" data-anchor-id="others-and-enemies-of-the-ordinary-people">“Others” and enemies of the ordinary people</h3>
+<h3 class="anchored" data-anchor-id="others-and-enemies-of-the-ordinary-people"><strong>“Others” and enemies of the ordinary people</strong></h3>
 <p>The first set of variables relate to who the main “others” or “elites” are relative to the party/candidate’s discourse. Some form of this rhetoric is present in all forms of populism (as our minimal definition requires), but it can take varying and occasionally overlapping forms. Parties/candidates can also change their “others”/“elites” over time, representing subtly different forms of populism in different elections.</p>
 <p>For each variable we use a 3-level ordinal categorisation where 1 = no, 2 = present, and 3 = yes.</p>
 <section id="oth_polclass" class="level4">
@@ -319,7 +291,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 </section>
 <section id="attributes-of-populist-partiescandidates" class="level3">
-<h3 class="anchored" data-anchor-id="attributes-of-populist-partiescandidates">Attributes of populist parties/candidates</h3>
+<h3 class="anchored" data-anchor-id="attributes-of-populist-partiescandidates"><strong>Attributes of populist parties/candidates</strong></h3>
 <p>Next, we use six other variables relating to other aspects of candidates’ actions and backgrounds:</p>
 <section id="libdemnorms" class="level4">
 <h4 class="anchored" data-anchor-id="libdemnorms">LIBDEMNORMS</h4>
@@ -401,7 +373,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 </section>
 <section id="elections-and-electoral-systems" class="level3">
-<h3 class="anchored" data-anchor-id="elections-and-electoral-systems">Elections and electoral systems</h3>
+<h3 class="anchored" data-anchor-id="elections-and-electoral-systems"><strong>Elections and electoral systems</strong></h3>
 <p>Elections are recorded by <strong>YEAR</strong> [yyyy] and <strong>MONTH</strong> [m], and also by <strong>DATE</strong> [dd/mm/yyyy]<strong>.</strong> The dataset included candidates/parties in both presidential and (various kinds of) legislative elections. These are distinguished by the <strong>TYPE</strong> variable:</p>
 <table class="table">
 <colgroup>
@@ -483,11 +455,11 @@ ul.task-list li input[type="checkbox"] {
 </section>
 </section>
 <section id="data-sources" class="level1">
-<h1>Data Sources</h1>
+<h1><strong>Data Sources</strong></h1>
 <p><strong>Coding data</strong></p>
 <p>Data for these evaluations was sourced primarily from secondary academic sources, but also from reliable online analysis (reputable blogs, analysis sites, etc.), news sources, and occasionally primary sources from candidates/parties such as speeches or manifestos. By far the most common source is secondary academic literature, as this material tends to include the richest description of populist rhetoric and appeal. Data sources used for coding have been laid out in a separate Case Notes document.</p>
 <section id="election-data" class="level2">
-<h2 class="anchored" data-anchor-id="election-data">Election data</h2>
+<h2 class="anchored" data-anchor-id="election-data"><strong>Election data</strong></h2>
 <p>Election results data was sourced from a number of datasets and outlets, each of which is listed in the SOURCE column of the spreadsheet, with a link copied in the SOURCELINK column. In order of preference, these are:</p>
 <table class="table">
 <colgroup>
@@ -561,7 +533,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 </section>
 <section id="cases-countries" class="level1">
-<h1>Cases (countries)</h1>
+<h1><strong>Cases (countries)</strong></h1>
 <p>The beta dataset includes 50 democracies, all selected based on the general reliability of official election results, and the availability of sufficient secondary sources for coding. This meant that several countries studied by coders were ruled ill-suited to the dataset despite the clear presence of populism (Belarus, Azerbaijan, Armenia, Iran for example).</p>
 <p>The countries included are:</p>
 <table class="table">
@@ -599,16 +571,16 @@ ul.task-list li input[type="checkbox"] {
 <p>Numerous countries are not included for the breadth of the 1980-2020 period as they did not qualify as sufficiently democratic at every point. For example, Eastern European post-communist countries are only included after ~1990, South Africa is only included after 1994, the Philippines after 1986.</p>
 <p>The cases of Czechia and Slovakia are included as separate entities even before their formal split in 1993 due to the fact that their electoral processes were autonomous in these years, and hence there is historical continuity with later elections.</p>
 <section id="elections-coded" class="level2">
-<h2 class="anchored" data-anchor-id="elections-coded">Elections coded</h2>
+<h2 class="anchored" data-anchor-id="elections-coded"><strong>Elections coded</strong></h2>
 <p>The dataset has coded a total of 809 elections (543 legislative and 266 presidential).</p>
 </section>
 </section>
 <section id="partiescandidates" class="level1">
-<h1>Parties/candidates</h1>
+<h1><strong>Parties/candidates</strong></h1>
 <p>Parties (including the independent status of some presidential candidates) are listed in the <strong>PARTY</strong> variable, and candidates (in presidential elections) are listed in the <strong>CANDIDATE</strong> variable.</p>
 <p>The dataset includes parties/candidates which received over 5% at the election being recoded.</p>
 <section id="rules-for-coding-parties-and-alliances" class="level2">
-<h2 class="anchored" data-anchor-id="rules-for-coding-parties-and-alliances">Rules for coding parties, and alliances</h2>
+<h2 class="anchored" data-anchor-id="rules-for-coding-parties-and-alliances"><strong>Rules for coding parties, and alliances</strong></h2>
 <p>In parliamentary systems we assume that the actions and discourse of party leaders constitute the essential meaning of the party as it is understood by voters. In presidential systems this is more difficult, as it is occasionally the case that presidential candidates have estranged relationships with party leaders, and that candidates’ discourse doesn’t necessarily imply that every voter at a legislative election is voting for a populist party. For example, given the abnormally institutionalised nature of the US two-party system, we don’t find it accurate to say that every vote for a Republican congressional candidate in the 2016 US elections had the same populist meaning as the vote for the party’s presidential candidate Donald Trump. We have made this judgment on a case by case basis and explained this choice in the case notes.</p>
 <p>When parties form alliances with each other, we have tried to treat them as individual parties whenever electoral data allows us to do so (for example, the Centre Right coalition in Italy’s 2018 election). When this is not possible due to the fact that alliances are single voting lists or electoral entities, we have only considered these alliances populist when populist parties appear to account for the majority of their candidates and or leaders (that is, when populist parties are the dominant partner). This was the case for the Japanese Restoration Party of Toru Hashimoto, a regional party which merged with another party (The Japan Sunrise Party) before the 2012 election.</p>
 <p>When parties have merged with other parties, we have usually considered them as continuations of predecessor parties in cases where those parties were significantly bigger than others. For example, Sylvio Berlusconi’s Forza Italia (FI) merged with the National Alliance (NA) party in 2009 to create the People of Freedom (PDL). However, as FI was significantly bigger than the NA, and Berlusconi remained it’s leader after the merge, we have considered PDL as a continuation of FI, and carried coding decisions of the latter into the former after 2009.</p>
