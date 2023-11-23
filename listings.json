@@ -2,7 +2,6 @@
   {
     "listing": "/notes.html",
     "items": [
-      "/countries/albania.html",
       "/countries/argentina.html",
       "/countries/australia.html",
       "/countries/austria.html",
@@ -23,7 +22,6 @@
       "/countries/germany.html",
       "/countries/greece.html",
       "/countries/hungary.html",
-      "/countries/iceland.html",
       "/countries/india.html",
       "/countries/indonesia.html",
       "/countries/ireland.html",
@@ -43,7 +41,6 @@
       "/countries/russia.html",
       "/countries/slovakia.html",
       "/countries/south-africa.html",
-      "/countries/spain.html",
       "/countries/sweden.html",
       "/countries/switzerland.html",
       "/countries/thailand.html",
@@ -51,7 +48,10 @@
       "/countries/united-kingdom.html",
       "/countries/united-states.html",
       "/countries/venezuela.html",
-      "/countries/zambia.html"
+      "/countries/zambia.html",
+      "/countries/albania.html",
+      "/countries/spain.html",
+      "/countries/iceland.html"
     ]
   }
 ]
