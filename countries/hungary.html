@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.475">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -55,14 +55,16 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 <style>
-    .quarto-title-block .quarto-title-banner {
-      background: yes;
-    }
-    </style>
+
+      .quarto-title-block .quarto-title-banner {
+        background: yes;
+      }
+</style>
 
 
 <link rel="stylesheet" href="../styles.css">
@@ -79,54 +81,60 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">World Populism Dataset</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html">
+    <a class="nav-link" href="../index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../about.html">
+    <a class="nav-link" href="../about.html" rel="" target="">
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../data.html">
+    <a class="nav-link" href="https://shiny.nectric.com.au/wpd-app/" rel="" target="">
+ <span class="menu-text">App</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../data.html" rel="" target="">
  <span class="menu-text">Data</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../notes.html">
+    <a class="nav-link" href="../notes.html" rel="" target="">
  <span class="menu-text">Case notes</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-downloads" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-downloads" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
       <i class="bi bi-download" role="img">
 </i> 
  <span class="menu-text">Downloads</span>
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-downloads">    
         <li>
-    <a class="dropdown-item" href="../#">
+    <a class="dropdown-item" href="../#" rel="" target="">
  <span class="dropdown-text">All data</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="../license.html"><i class="bi bi-file-certificate" role="img">
+    <a class="nav-link" href="../license.html" rel="" target=""><i class="bi bi-file-certificate" role="img">
 </i> 
  <span class="menu-text">License</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/World-Populism-Dataset/"><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/World-Populism-Dataset/" rel="" target=""><i class="bi bi-github" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -134,7 +142,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
+    <div class="quarto-title column-page-left">
       <h1 class="title">Hungary</h1>
             <p class="subtitle lead">Date range: 1990-2020</p>
                       </div>
@@ -149,7 +157,7 @@ ul.task-list li input[type="checkbox"] {
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
@@ -157,21 +165,26 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#independent-smallholders-and-peasant-party" id="toc-independent-smallholders-and-peasant-party" class="nav-link active" data-scroll-target="#independent-smallholders-and-peasant-party">Independent Smallholders’ and Peasant Party</a></li>
+  <li><a href="#case-notes" id="toc-case-notes" class="nav-link active" data-scroll-target="#case-notes">Case notes</a>
+  <ul class="collapse">
+  <li><a href="#independent-smallholders-and-peasant-party" id="toc-independent-smallholders-and-peasant-party" class="nav-link" data-scroll-target="#independent-smallholders-and-peasant-party">Independent Smallholders’ and Peasant Party</a></li>
   <li><a href="#hungarian-justice-and-life-party-miep" id="toc-hungarian-justice-and-life-party-miep" class="nav-link" data-scroll-target="#hungarian-justice-and-life-party-miep">Hungarian Justice and Life Party (MIEP)</a></li>
   <li><a href="#fidesz" id="toc-fidesz" class="nav-link" data-scroll-target="#fidesz">Fidesz</a></li>
   <li><a href="#movement-for-a-better-hungaryjobbik" id="toc-movement-for-a-better-hungaryjobbik" class="nav-link" data-scroll-target="#movement-for-a-better-hungaryjobbik">Movement for a Better Hungary/Jobbik</a></li>
   <li><a href="#politics-can-be-different" id="toc-politics-can-be-different" class="nav-link" data-scroll-target="#politics-can-be-different">Politics can be different</a></li>
   <li><a href="#not-included" id="toc-not-included" class="nav-link" data-scroll-target="#not-included">Not included</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 
 
 
+<section id="case-notes" class="level1">
+<h1>Case notes</h1>
 <section id="independent-smallholders-and-peasant-party" class="level2">
 <h2 class="anchored" data-anchor-id="independent-smallholders-and-peasant-party">Independent Smallholders’ and Peasant Party</h2>
 <p>The Independent Smallholders’ and Peasant Party (<em>Fiiggetlen Kisgazda Pirt</em>, FKgP), sometimes called just the “smallholders” party, was the most popular party in the brief democratic period before the Communist takeover in 1945. In its post-communist reformation its main mission was to re-privatise rural land back to the peasants from whom it had been confiscated under the previous regime (Ilonszki and Kurtán 1992, 423), taking the character of a sectional agrarian party (Körösényi 1999, 66). Under the leadership of József Torgyán it won almost 12% in the 1990 election and formed a coalition with the Hungarian Democratic Forum (MDF) in the first post-communist government of Józef Antall. After this government disappointed the party’s aims of rural land redistribution Torgyán left the coalition and the party split (Lomax 1995, 132). Thereafter Torgyán consolidated his hold on the party in opposition and led it to win 9% and 13% in 1994 and 1998 respectively. It then featured as a junior partner in the Fidesz government of 1998-02, during which further internal splits and corruption scandals saw its decline into irrelevance by 2002 (Sitter 2011, 253).</p>
@@ -357,6 +370,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 </section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -386,9 +400,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -453,6 +481,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
