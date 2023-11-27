@@ -13,6 +13,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: https://shiny.nectric.com.au/wpd-app/
+        text: App
       - data.qmd
       - notes.qmd
     right:
@@ -28,9 +30,9 @@ website:
 
 format:
   html:
-    theme: cosmo
     css: styles.css
+    theme: cosmo-dark
     toc: true
-
+    page-layout: full
 
 
