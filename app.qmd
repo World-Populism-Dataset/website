@@ -1,0 +1,64 @@
+---
+title: "Interactive web application"
+subtitle: "Visually explore the WPD dataset"
+title-block-banner: true
+filters:
+  - html-shinyui
+---
+
+```{r}
+#| include: false
+library(shiny)
+library(htmltools)
+```
+
+```{css}
+#| echo: false
+.callout {
+  margin-top: 0;
+}
+```
+
+
+::: {.column-screen-inset}
+
+::: {.grid}
+
+::: {.g-col-md-3 .g-col-12}
+::: {.callout-note icon=false}
+
+## Plot controls
+
+```{r}
+#| echo: false
+selectizeInput(inputId = "overall_region", label = "Regions", choices = character(), multiple = TRUE, width = "100%")
+selectizeInput(inputId = "overall_country", label = "Countries", choices = character(), multiple = TRUE, width = "100%")
+selectizeInput(inputId = "overall_indicator", label = "Indicator", choices = character(), width = "100%")
+selectizeInput(inputId = "overall_type", label = "Type", choices = character(), multiple = TRUE, width = "100%")
+```
+
+:::
+:::
+
+::: {.g-col-md-9 .g-col-12}
+::: {.panel-tabset}
+
+## Overall populism
+
+```{r}
+#| echo: false
+plotOutput("plot_overall", height = "100%")
+```
+
+## Compare populism
+
+## World populism map
+
+:::
+:::
+
+
+:::
+
+
+:::
