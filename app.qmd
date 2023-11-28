@@ -4,6 +4,9 @@ subtitle: "Visually explore the WPD dataset"
 title-block-banner: true
 filters:
   - html-shinyui
+format:
+  html:
+    page-layout: full
 ---
 
 ```{r}
@@ -17,8 +20,13 @@ library(htmltools)
 .callout {
   margin-top: 0;
 }
+.control-label {
+  font-weight: bold;
+}
+.irs-with-grid {
+  margin: 0 20px;
+}
 ```
-
 
 ::: {.column-screen-inset}
 
@@ -27,15 +35,22 @@ library(htmltools)
 ::: {.g-col-md-3 .g-col-12}
 ::: {.callout-note icon=false}
 
-## Plot controls
+## Plot filters
 
 ```{r}
 #| echo: false
-selectizeInput(inputId = "overall_region", label = "Regions", choices = character(), multiple = TRUE, width = "100%")
-selectizeInput(inputId = "overall_country", label = "Countries", choices = character(), multiple = TRUE, width = "100%")
-selectizeInput(inputId = "overall_indicator", label = "Indicator", choices = character(), width = "100%")
-selectizeInput(inputId = "overall_type", label = "Type", choices = character(), multiple = TRUE, width = "100%")
+selectizeInput(inputId = "region", label = "Regions", choices = character(), multiple = TRUE, width = "100%")
+selectizeInput(inputId = "country", label = "Countries", choices = character(), multiple = TRUE, width = "100%")
+selectizeInput(inputId = "type", label = "Type", choices = character(), multiple = TRUE, width = "100%")
 ```
+
+:::
+
+::: {.callout-note}
+
+## More information
+
+More information about populist parties and candidates can be found in the [country case notes](./notes.html).
 
 :::
 :::
@@ -47,18 +62,30 @@ selectizeInput(inputId = "overall_type", label = "Type", choices = character(), 
 
 ```{r}
 #| echo: false
+selectizeInput(inputId = "indicator", label = "Populism indicator", choices = character(), width = "100%")
 plotOutput("plot_overall", height = "100%")
 ```
 
 ## Compare populism
 
+```{r}
+#| echo: false
+selectizeInput(inputId = "compare", label = "Compare", choices = character(), width = "100%")
+plotOutput("plot_compare", height = "100%")
+```
+
 ## World populism map
 
+```{r}
+#| echo: false
+sliderInput(inputId = "period", label = "Time period", value = as.Date(c("1980-01-01", "2020-12-31")), min = as.Date("1980-01-01"), max = as.Date("2020-12-31"), timeFormat = "%b %Y%", width = "100%")
+plotOutput("plot_map", height = "100%")
+```
+
 :::
 :::
 
 
 :::
-
 
 :::
